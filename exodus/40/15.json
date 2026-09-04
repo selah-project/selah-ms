@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau akan mengurapi ⟨את⟩ mereka, seperti engkau mengurapi ⟨את⟩ ayah mereka, dan mereka akan berkhidmat sebagai imam bagi-Ku; dan pengurapan mereka akan menjadi bagi mereka untuk keimaman selama-lamanya bagi keturunan mereka.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau akan mengurapi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (anak-anak Aharon)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "engkau mengurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayah mereka"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "dan mereka akan berkhidmat sebagai imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan akan terjadi"
+    },
+    {
+      "surface": "להית",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "pengurapan mereka"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "untuk keimaman"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bagi keturunan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:17.619043289Z",
+  "model": "glm-5.3"
+}

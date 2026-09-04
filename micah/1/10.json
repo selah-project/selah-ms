@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Di Gat jangan kamu beritahkan; menangis — jangan kamu menangis; di Beit-Leafrah dengan debu berguling-gulinglah.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Di Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kamu beritahkan"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "kamu menangis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dengan debu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "berguling-gulinglah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:01.175992744Z",
+  "model": "glm-5.3"
+}

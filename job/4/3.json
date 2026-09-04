@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 4:3",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sesungguhnya, engkau telah mengajar ramai, dan tangan-tangan yang lemah engkau telah menguatkan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "engkau telah mengajar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "dan tangan-tangan"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "engkau menguatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:08.135063059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Ia memberi kepada kepalamu kalung kecantikan; mahkota kemuliaan ia menyerahkan kepadamu.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ia memberi"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "kepada kepalamu"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "kalung"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kecantikan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "ia menyerahkan kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:15.121807145Z",
+  "model": "glm-5.3"
+}

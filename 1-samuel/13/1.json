@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Berumur setahun ⟨ialah⟩ Syaul ketika ia menjadi raja, dan dua tahun ia memerintah atas Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "berumur setahun (anak satu tahun)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pada pemerintahannya"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "dan dua"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ia memerintah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:38.960361161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan dia memasukkan ⟨את⟩ palang-palang itu ke dalam gelang-gelang pada rusuk Aron itu, untuk mengangkat ⟨את⟩ Aron itu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan dia memasukkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palang itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "palang-palang itu"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ke dalam gelang-gelang"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "rusuk"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron itu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuk mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:02.748165916Z",
+  "model": "glm-5.3"
+}

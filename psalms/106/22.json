@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "perkara-perkara ajaib di tanah Ham, perkara-perkara dahsyat di laut Sysuf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "perkara-perkara ajaib"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "perkara-perkara dahsyat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sysuf"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:57.387455387Z",
+  "model": "glm-5.3"
+}

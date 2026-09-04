@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu orang Mitsrayim mengejar mereka — semua kuda, kereta kuda Paroh, dan pasukan berkudanya, dan tenteranya — dan menyusul mereka, sedang mereka berkhemah di tepi laut, dekat Pi ha-Khirot, di hadapan Baal Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "Lalu mengejar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "dan menyusul"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "berkhemah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kereta kuda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "dan pasukan berkudanya"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "dan tenteranya"
+    },
+    {
+      "surface": "על",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "ha-Khirot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:56.369646265Z",
+  "model": "glm-5.3"
+}

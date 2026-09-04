@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan tiada akan ada bagi Mitsrayim perbuatan yang boleh dilakukan oleh kepala atau ekor, pelepah atau gelagah.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "bagi Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "boleh dilakukan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "atau ekor"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "pelepah"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "atau gelagah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:20.002359053Z",
+  "model": "glm-5.3"
+}

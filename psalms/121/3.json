@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 121,
+  "translation": "Biar Dia jangan memberi kakimu goyang, biar Penjagamu jangan mengantuk.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "biar jangan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Dia memberi"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "goyang"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "biar jangan"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "mengantuk"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Penjagamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:51.054208819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan berserulah ia kepada Yahweh, katanya: \"Yahweh, Elohim aku, adakah juga Engkau mendatangkan keburukan ke atas balu ini, yang aku menumpang bersamanya, dengan membunuh ⟨את⟩ anaknya?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dan berserulah ia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aku"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "adakah juga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "balu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "menumpang"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "mendatangkan keburukan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "dengan membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:01.711182130Z",
+  "model": "glm-5.3"
+}

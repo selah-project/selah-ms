@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Sebab Yahweh telah mencurahkan ke atas kamu roh tardema, dan Ia menutup ⟨את⟩ mata kamu, ⟨את⟩ para nabi, dan ⟨את⟩ kepala kamu, para pelihat, telah diliputi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "telah mencurahkan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ke atas kamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tardema"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "dan Ia menutup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata kamu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mata kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kepala kamu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kepala kamu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "para pelihat"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "telah diliputi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:16.610813400Z",
+  "model": "glm-5.3"
+}

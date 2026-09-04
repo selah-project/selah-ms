@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Sekarang pulanglah dan pergilah dengan selamat, dan jangan engkau berbuat jahat di mata para seren PLISHTIM.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Sekarang"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pulanglah"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dan pergilah"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dengan selamat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau berbuat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "para seren"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "PLISHTIM"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:32.675832754Z",
+  "model": "glm-5.3"
+}

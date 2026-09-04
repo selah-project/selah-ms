@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "sebab tiada masa depan bagi orang jahat; pelita orang fasik akan padam",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "masa depan"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "bagi orang jahat"
+    },
+    {
+      "surface": "נר",
+      "gloss": "pelita"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "akan padam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:46.019504307Z",
+  "model": "glm-5.3"
+}

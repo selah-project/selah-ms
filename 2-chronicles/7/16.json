@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan sekarang Aku telah memilih dan menguduskan ⟨את⟩ rumah ini supaya nama-Ku ada di sana sampai selama-lamanya, dan mata-Ku dan hati-Ku akan ada di sana segala hari,",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "Aku telah memilih"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "dan menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah ini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "supaya ada"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan akan ada"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata-Ku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "dan hati-Ku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:32.557864717Z",
+  "model": "glm-5.3"
+}

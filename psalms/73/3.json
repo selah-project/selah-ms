@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Sebab aku cemburu pada para pembual, sejahteranya orang-orang fasik aku melihat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "aku cemburu"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "pada para pembual"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sejahteranya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aku melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:23.794375062Z",
+  "model": "glm-5.3"
+}

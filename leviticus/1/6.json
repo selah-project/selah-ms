@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ia akan menyalit kulit ⟨את⟩ korban bakaran itu, dan memotongnya kepada potongan-potongannya.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "dan ia akan menyalit kulit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "dan memotong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kepada potongan-potongannya"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "kepada potongan-potongannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:25.198352752Z",
+  "model": "glm-5.3"
+}

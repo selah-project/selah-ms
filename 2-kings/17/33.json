@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "⟨את⟩ Yahweh mereka takuti, dan ⟨את⟩ tuhan-tuhan mereka mereka layani, menurut peraturan bangsa-bangsa yang mengasingkan ⟨את⟩ mereka dari sana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "takuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "layani"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "mengasingkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:21.689695555Z",
+  "model": "glm-5.3"
+}

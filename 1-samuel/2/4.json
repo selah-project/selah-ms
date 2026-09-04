@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Busur pahlawan-pahlawan patah, dan yang tersandung mengikat kekemasan kekuatan.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "pahlawan-pahlawan"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "patah"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "dan yang tersandung"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "mengikat kekemasan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekuatan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:07.057459689Z",
+  "model": "glm-5.3"
+}

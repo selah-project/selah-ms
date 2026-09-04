@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Suara para penjagamu! Mereka mengangkat suara, bersama-sama mereka bersorak; kerana mata dengan mata mereka melihat, pada kembalinya Yahweh ke Tsiyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "para penjagamu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mereka bersorak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mereka melihat"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "pada kembalinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:11.180744602Z",
+  "model": "glm-5.3"
+}

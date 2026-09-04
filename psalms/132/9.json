@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Imam-imammu sendiri berpakaian keadilan, dan hasidimmu bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "imam-imammu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "dan hasidimmu (orang-orang setiamu)"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:06.414766452Z",
+  "model": "glm-5.3"
+}

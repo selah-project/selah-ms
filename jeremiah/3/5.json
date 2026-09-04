@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Adakah ⟨ia⟩ murka selama-lamanya? Adakah ⟨ia⟩ menaruhnya sampai ke selama-lamanya? Lihat, engkau telah berkata dan engkau telah melakukan kejahatan-kejahatan, dan engkau telah dapat ⟨melakukannya⟩.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "Adakah ⟨ia⟩ murka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "adakah"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "menaruhnya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sampai ke selama-lamanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "engkau telah berkata"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "dan engkau telah melakukan"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "kejahatan-kejahatan"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "dan engkau telah dapat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:20.834509932Z",
+  "model": "glm-5.3"
+}

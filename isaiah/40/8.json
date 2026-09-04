@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Rumput layu, bunga gugur, tetapi firman Elohim kita akan berdiri untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "layu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "gugur"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tetapi firman"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:53.518424518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Engkau mengulurkan tangan kanan-Mu, bumi menelan mereka.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "Engkau mengulurkan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "menelan mereka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:07.734661164Z",
+  "model": "glm-5.3"
+}

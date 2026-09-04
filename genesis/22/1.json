@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berlakulah selepas perkara-perkara ini, bahawa Elohim mencuba ⟨את⟩ Avraham (Abraham), lalu berfirman kepadanya, \"Avraham!\" Dan ia berkata, \"Lihatlah, saya ini.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "mencuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berfirman"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lihatlah, saya ini"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:29.177709180Z",
+  "model": "glm-5.3"
+}

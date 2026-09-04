@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Jika aku bercakap, kesakitanku tidak akan ditahan, dan jika aku berhenti — apa dariku berjalan?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "aku bercakap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "akan ditahan"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "kesakitanku"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "dan aku berhenti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dariku"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:45.281393872Z",
+  "model": "glm-5.3"
+}

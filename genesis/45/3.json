@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Lalu kata Yosef kepada saudara-saudaranya, \"Akulah Yosef! Masihkah ayahku hidup?\" Tetapi saudara-saudaranya tidak mampu menjawab ⟨את⟩-nya, kerana mereka terkejut di hadapan kehadirannya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "Masihkah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Tetapi tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "Yosef — menjawab dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "mereka terkejut"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "di hadapan kehadirannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:50.992355922Z",
+  "model": "glm-5.3"
+}

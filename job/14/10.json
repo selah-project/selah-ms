@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Tetapi geber mati dan menjadi lemah, dan adam menghembuskan nyawa — dan di manakah ⟨dia⟩?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "Tetapi geber"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "dan menjadi lemah"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "dan menghembuskan nyawa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "dan di manakah ⟨dia⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:46.719462574Z",
+  "model": "glm-5.3"
+}

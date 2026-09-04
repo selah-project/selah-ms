@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Aku akan bersyukur kepada-Mu selama-lamanya, kerana Engkau telah melakukannya; dan aku menanti nama-Mu, kerana itu baik di hadapan orang setia-Mu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "aku akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Engkau telah melakukannya"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "dan aku menanti"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "orang setia-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:19.524266713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan pada zaman kerajaan Achashverosh, pada permulaan kerajaannya, mereka menulis suruh-menyerang terhadap penduduk Yehudah dan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Dan pada kerajaan"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "pada permulaan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kerajaannya"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "mereka menulis"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "suruh-menyerang"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:49:53.529151474Z",
+  "model": "glm-5.3"
+}

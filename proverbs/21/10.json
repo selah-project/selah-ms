@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Nefesy orang fasik mengingini kejahatan; sesamanya tidak mendapat kasih di matanya.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "mendapat kasih"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:47.346609396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "dan jika kamu menolak ketetapan-Ku, dan jika nyawa kamu mengeji ⟨את⟩ hukum-Ku, sehingga tidak melakukan ⟨את⟩ segala perintah-Ku, dengan merosakkan ⟨את⟩ perjanjian-Ku terhadap kamu —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "kamu menolak"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum-Ku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-Ku"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "mengeji"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nyawa kamu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sehingga tidak"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perintah-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "perintah-Ku"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "dengan merosakkan terhadap kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:53.588917287Z",
+  "model": "glm-5.3"
+}

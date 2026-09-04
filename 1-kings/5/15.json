@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu Hiram raja Tsor mengutus ⟨את⟩ hamba-hambanya kepada Syelomo, kerana ia telah mendengar bahawa mereka telah mengurap ⟨את⟩nya menjadi raja menggantikan ayahnya, kerana Hiram ialah pencinta Dawid selama segala hari.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu mengutus"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ia telah mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "mereka telah mengurap"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "pencinta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:32.731229652Z",
+  "model": "glm-5.3"
+}

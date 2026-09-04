@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Bagi David, mizmor. Hesed dan misypat aku akan nyanyikan; kepada-Mu, Yahweh, aku akan berzikir.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bagi David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan misypat"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan nyanyikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan berzikir"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:18.181705775Z",
+  "model": "glm-5.3"
+}

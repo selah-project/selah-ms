@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan dibuatnya ⟨את⟩ papan-papan itu untuk Mishkan itu: dua puluh papan untuk sisi selatan, ke arah tenggara;",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan itu"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan itu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "untuk Mishkan itu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "untuk sisi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "selatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ke arah selatan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:35.418413037Z",
+  "model": "glm-5.3"
+}

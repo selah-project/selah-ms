@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Sesungguhnya, kebenaran kamu inginkan dalam ⟨bahagian⟩ batin, dan dalam tempat tersembunyi hikmat kamu maklumkan kepadaku.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "kamu inginkan"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "dalam ⟨bahagian⟩ batin"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "dan dalam tempat tersembunyi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "kamu maklumkan kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:25.525080201Z",
+  "model": "glm-5.3"
+}

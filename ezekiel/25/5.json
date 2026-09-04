@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Aku akan menjadikan ⟨את⟩ Raba tempat kediaman unta, dan ⟨את⟩ bani Ammon tempat berbaring kawanan ternak; dan kamu akan tahu bahawa Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "unta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bani Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "tempat berbaring"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan ternak"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "dan kamu akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:35:21.543725674Z",
+  "model": "glm-5.3"
+}

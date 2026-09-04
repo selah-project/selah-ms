@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Maka orang-orang Israel menyingkirkan ⟨את⟩ para Baal dan ⟨את⟩ para Asytarot, dan beribadahlah kepada ⟨את⟩ Yahweh seorang diri.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "maka menyingkirkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "para Asytarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "para Asytarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan beribadahlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seorang diri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:55.426666058Z",
+  "model": "glm-5.3"
+}

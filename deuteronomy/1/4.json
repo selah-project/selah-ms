@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "setelah mengalahkan ⟨את⟩ Sihon, raja orang Amori, yang berdiam di Hesybon, dan ⟨את⟩ Og, raja Basyan, yang berdiam di Asytarot di Edrei —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "mengalahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "berdiam"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Hesybon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "berdiam"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "di Asytarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "di Edrei"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:48.646670624Z",
+  "model": "glm-5.3"
+}

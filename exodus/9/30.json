@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Tetapi engkau dan hamba-hambamu — aku telah tahu bahawa kamu belum lagi takut dari hadapan Yahweh Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tetapi engkau"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "dan hamba-hambamu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku telah tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "belum lagi"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "kamu takut"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:00.576730425Z",
+  "model": "glm-5.3"
+}

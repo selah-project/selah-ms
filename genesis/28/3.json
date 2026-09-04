@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan El Syadai (Yang Maha Berkuasa) memberkati ⟨את⟩ engkau, membuat engkau berbuah, dan membuat engkau bertambah, dan engkau menjadi himpunan bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Dan El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Syadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau (Yaakov)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "membuat engkau berbuah"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "membuat engkau bertambah"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "engkau menjadi"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "himpunan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:06.375305544Z",
+  "model": "glm-5.3"
+}

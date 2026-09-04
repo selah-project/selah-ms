@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Maka mereka membuatnya tersandung ⟨karena⟩ lidah mereka sendiri ⟨berada⟩ menentang mereka; semua yang melihat akan mereka akan mengeleng ⟨kepala⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "maka mereka membuatnya tersandung"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "menentang mereka"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "akan mengeleng ⟨kepala⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yang melihat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "akan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:33.204095947Z",
+  "model": "glm-5.3"
+}

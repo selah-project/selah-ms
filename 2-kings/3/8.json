@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan katanya: Jalan yang manakah akan kita naik? Dan katanya: Jalan padang gurun Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אי",
+      "gloss": "yang mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "akan kita naik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:07.975512393Z",
+  "model": "glm-5.3"
+}

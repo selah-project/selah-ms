@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "sebab mereka membelakangi perkataan El, dan nasihat Elyon mereka hinakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "mereka membelakangi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "dan nasihat"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "mereka hinakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.008596638Z",
+  "model": "glm-5.3"
+}

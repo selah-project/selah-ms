@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan mereka akan memikul ⟨את⟩ kain-kain kelambu kediaman itu, dan ⟨את⟩ khemah pertemuan, tudungnya, dan tudung kulit takhasy yang di atasnya di sebelah atas, dan ⟨את⟩ kelambu pintu khemah pertemuan.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "dan mereka akan memikul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kain-kain kelambu kediaman itu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kain-kain kelambu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kediaman itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "khemah pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "tudungnya"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "dan tudung"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "kulit takhasy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "di sebelah atas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kelambu pintu khemah pertemuan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:42.400798971Z",
+  "model": "glm-5.3"
+}

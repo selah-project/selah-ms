@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Keagungan dan keluhuran ⟨ialah⟩ pekerjaan-Nya, dan kebenaran-Nya berdiri untuk selamanya.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan keluhuran"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "pekerjaan-Nya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dan kebenaran-Nya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:12.744032822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Tetapi aku berkata: \"Sia-sia aku telah bersusah payah, untuk kehampaan dan kesia-siaan kekuatanku telah kuhabiskan; namun sesungguhnya keadilanku ⟨bersama⟩ Yahweh, dan upah kerjaku ⟨bersama⟩ Elohimku.\"",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "aku telah bersusah payah"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "untuk kehampaan"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "dan kesia-siaan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "telah kuhabiskan"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "namun sesungguhnya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "keadilanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "dan upah kerjaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:33.579899204Z",
+  "model": "glm-5.3"
+}

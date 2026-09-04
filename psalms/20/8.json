@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Ini dengan kereta, dan ini dengan kuda; tetapi kami mengingat nama Yahweh Elohim kami.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "dengan kereta"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dan ini"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "dengan kuda"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kami"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dengan nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "mengingat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:30.278485751Z",
+  "model": "glm-5.3"
+}

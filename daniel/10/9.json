@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka aku mendengar ⟨את⟩ suara perkataannya, dan semasa aku mendengar ⟨את⟩ suara perkataannya itu, aku telah tertidur lena di atas mukaku, dan mukaku ke bumi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "maka aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkataannya"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "dan semasa aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkataannya"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tertidur lena"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mukaku"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dan mukaku"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:17.990333155Z",
+  "model": "glm-5.3"
+}

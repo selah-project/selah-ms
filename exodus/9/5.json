@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu Yahweh menetapkan suatu masa yang telah ditetapkan, dengan berkata: \"Esok Yahweh akan melakukan perkara ini di bumi.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Lalu menetapkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "masa yang telah ditetapkan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Esok"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan melakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:39.446667204Z",
+  "model": "glm-5.3"
+}

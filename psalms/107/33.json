@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Ia menjadikan sungai-sungai menjadi padang belantara, dan mata air menjadi tanah kehausan.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ia menjadikan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "menjadi padang belantara"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "dan sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "menjadi tanah kehausan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:33.139231482Z",
+  "model": "glm-5.3"
+}

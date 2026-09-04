@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Takutlah ⟨את⟩ Yahweh, anakku, dan ⟨את⟩ raja; dengan orang-orang yang berubah-bubah jangan bergaul.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "takutlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "orang-orang yang berubah-bubah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "bergaul"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:50.637903493Z",
+  "model": "glm-5.3"
+}

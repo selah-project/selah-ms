@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Mengasihi kebenaran dan keadilan; hesed Yahweh memenuhi ⟨⟨seluruh⟩⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Mengasihi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan keadilan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:01.856636838Z",
+  "model": "glm-5.3"
+}

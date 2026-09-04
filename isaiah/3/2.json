@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "pahlawan dan orang peperangan, hakim dan nabi, penilik dan orang tua;",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "dan nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "dan penilik"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "dan orang tua"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:30.888607278Z",
+  "model": "glm-5.3"
+}

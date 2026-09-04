@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "dan berkata: Aku berseru dari kesesakanku kepada Yahweh, dan ⟨Dia⟩ menjawab aku; dari batang tubuh Syeol aku berteriak — Engkau mendengar suaraku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "dari kesusahanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "dan ⟨Dia⟩ menjawab aku"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari batang tubuh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku berteriak"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Engkau mendengar"
+    },
+    {
+      "surface": "квולי",
+      "gloss": "suaraku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:35.599108127Z",
+  "model": "glm-5.3"
+}

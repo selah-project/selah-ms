@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Ketika ⟨mereka⟩ berdiri, roda-roda itu berdiri, dan ketika ⟨mereka⟩ ditinggikan, roda-roda itu terangkat bersama ⟨mereka⟩; sebab roh haiwan yang hidup itu ada padanya.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "ketika ⟨mereka⟩ berdiri"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "dan ketika ⟨mereka⟩ ditinggikan"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (roda-roda itu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "haiwan yang hidup itu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ada padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:30:10.767529735Z",
+  "model": "glm-5.3"
+}

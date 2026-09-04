@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Maka berlakulah, setelah tengah hari berlalu, bahawa mereka bernubuat sehingga waktu naiknya persembahan (minha) itu, tetapi tiada suara, dan tiada yang menjawab, dan tiada yang memperhatikan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka berlakulah"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "setelah berlalu"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tengah hari"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "mereka bernubuat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "naiknya"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "yang menjawab"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "yang memperhatikan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:10.392996546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 130,
+  "translation": "Jika dosa-dosa ⟨Engkau⟩ perhatikan, Yah, Adonai, siapakah yang dapat berdiri?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨Engkau⟩ perhatikan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "yang dapat berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:21.265687102Z",
+  "model": "glm-5.3"
+}

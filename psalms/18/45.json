@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Pada pendengaran telinga mereka mendengar ⟨aku⟩; anak-anak orang asing berpura-pura tunduk kepada-Ku.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "pada pendengaran"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨aku⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "berpura-pura tunduk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:40.344451049Z",
+  "model": "glm-5.3"
+}

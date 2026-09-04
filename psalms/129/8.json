@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 129,
+  "translation": "Dan orang-orang yang lalu tidak berkata, \"Berkat Yahweh ke atas kamu; kami memberkati ⟨את⟩ kamu dalam nama Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang-orang yang lalu"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ke atas kamu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "kami memberkati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:30.176139975Z",
+  "model": "glm-5.3"
+}

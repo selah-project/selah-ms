@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Jalananku dan berbaringku Engkau menabur ⟨meneliti⟩, dan dengan segala jalanku Engkau biasa.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Jalananku"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "dan berbaringku"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Engkau menabur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan dengan segala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalanku"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "Engkau biasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:23.839418166Z",
+  "model": "glm-5.3"
+}

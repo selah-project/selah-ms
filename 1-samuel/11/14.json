@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Syemuel berkata kepada bangsa itu: Mari, dan biarlah kita pergi ke HaGilgal, dan biarlah kita membaharui di sana kerajaan itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mari"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "dan biarlah kita pergi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ke HaGilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "dan biarlah kita membaharui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kerajaan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:22.989990002Z",
+  "model": "glm-5.3"
+}

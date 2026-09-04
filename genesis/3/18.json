@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan duri dan dab-dab akan ditumbuhkannya bagimu, dan engkau akan memakan ⟨את⟩ tumbuhan padang.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "dan duri"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "dan dab-dab"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ia akan menumbuhkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "dan engkau akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumbuhan padang"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tumbuhan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:18.813311751Z",
+  "model": "glm-5.3"
+}

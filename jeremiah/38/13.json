@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Lalu mereka menarik ⟨את⟩ Yirmeyahu dengan tali-tali dan mengangkat ⟨את⟩ dia dari perigi itu, dan Yirmeyahu duduk di halaman penjara.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "menarik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "dengan tali-tali"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Yirmeyahu)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "perigi itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di halaman"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "penjara"
+    }
+  ],
+  "timestamp": "2026-09-04T13:22:56.561753607Z",
+  "model": "glm-5.3"
+}

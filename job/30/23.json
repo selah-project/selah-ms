@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Bahawa aku tahu: engkau akan mengembalikanku kepada maut, ⟨ke⟩ rumah perjumpaan bagi semua yang hidup.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "engkau mengembalikanku"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan ⟨ke⟩ rumah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan yang ditetapkan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:48.382032877Z",
+  "model": "glm-5.3"
+}

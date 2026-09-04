@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan langit-langit mulutmu seperti anggur yang baik, yang mengalir kepada kekasihku, ⟨dengan⟩ kelurusan, menggelincurkan bibir orang-orang yang tidur.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "dan langit-langit mulutmu"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "seperti anggur"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yang mengalir"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "kepada kekasihku"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "kelurusan"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "menggelincurkan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "orang-orang yang tidur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:20.065410838Z",
+  "model": "glm-5.3"
+}

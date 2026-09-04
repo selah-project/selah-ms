@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Perintahkanlah ⟨את⟩ bani Israel supaya mereka menyuruh keluar dari kem itu setiap orang kusta, setiap orang yang mengalir lelehan, dan setiap orang yang najis kerana ⟨את⟩ mayat.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Perintahkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "supaya mereka menyuruh keluar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kem itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "orang kusta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "זב",
+      "gloss": "orang yang mengalir lelehan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "orang yang najis"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kerana mayat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:34.131357557Z",
+  "model": "glm-5.3"
+}

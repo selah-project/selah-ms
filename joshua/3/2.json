@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan berlalulah, pada akhir tiga hari, para pegawai itu melalui tengah kemah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan berlalulah"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pada akhir"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "mereka melalui"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "para pegawai"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tengah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:18.904479255Z",
+  "model": "glm-5.3"
+}

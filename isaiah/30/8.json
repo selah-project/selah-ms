@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Sekarang pergilah, tuliskanlah ia di atas papan batu bersama ⟨את⟩ mereka, dan di atas kitab ukirlah ia; dan biarlah ia untuk hari kemudian, sebagai saksi selama-lamanya, sampai selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "tuliskanlah ia"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "papan batu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ukirlah ia"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan biarlah ia"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuk hari"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kemudian"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sebagai saksi selama-lamanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:33.472305278Z",
+  "model": "glm-5.3"
+}

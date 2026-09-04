@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim membina ⟨את⟩ tulang rusuk yang diambil-Nya dari manusia itu menjadi seorang perempuan, dan dibawa-Nya dia kepada manusia itu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "membina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang rusuk"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "tulang rusuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambil-Nya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi seorang perempuan"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "dan dibawa-Nya dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:50.772020668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Inilah perintah-perintah yang diperintahkan Yahweh kepada Moshe ⟨את⟩ untuk bani Israel di Gunung Sinai.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "untuk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di Gunung"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:42.489150096Z",
+  "model": "glm-5.3"
+}

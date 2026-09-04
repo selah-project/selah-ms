@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan mereka meletakkan ⟨את⟩ peti Yahweh ke atas kereta itu, serta ⟨את⟩ kotak itu dan ⟨את⟩ tikus-tikus emas dan ⟨את⟩ patung-patung bisul mereka.",
+  "tokens": [
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "dan mereka meletakkan"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "peti Yahweh"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "peti"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הָעֲגָלָה",
+      "gloss": "kereta itu"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "kotak itu"
+    },
+    {
+      "surface": "הָאַרְגָּז",
+      "gloss": "kotak itu"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tikus-tikus emas"
+    },
+    {
+      "surface": "עַכְבְּרֵי",
+      "gloss": "tikus-tikus"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "patung-patung bisul mereka"
+    },
+    {
+      "surface": "צַלְמֵי",
+      "gloss": "patung-patung"
+    },
+    {
+      "surface": "טְחֹרֵיהֶם",
+      "gloss": "bisul mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:41.680836032Z",
+  "model": "glm-5.3"
+}

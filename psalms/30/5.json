@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Muzarakanlah bagi Yahweh, hai orang-orang setia-Nya, dan bersyukurlah bagi peringatan kekudusan-Nya.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Muzarakanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hai orang-orang setia-Nya"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "dan bersyukurlah"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "bagi peringatan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kekudusan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:35.186499666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Maka keluarlah Noach, dan anak-anak lelakinya, dan isterinya, dan isteri-isteri anak-anak lelakinya bersamanya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anak lelakinya"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan isterinya"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "dan isteri-isteri"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anak lelakinya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:41.516516874Z",
+  "model": "glm-5.3"
+}

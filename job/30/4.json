@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Mereka memetak sayur laut di semak-semak, dan akar pokok retam menjadi makanan mereka.",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "mereka memetik"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "sayur laut"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "semak-semak"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "dan akar"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "pokok retam"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "makanan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:32:05.152474879Z",
+  "model": "glm-5.3"
+}

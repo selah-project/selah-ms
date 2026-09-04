@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Segala ini telah kuuji dalam hikmah; aku berkata, 'Aku hendak menjadi bijaksana,' tetapi ia jauh daripadaku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "telah kuuji"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dalam hikmah"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "Aku hendak menjadi bijaksana"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "tetapi ia"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:17.019643386Z",
+  "model": "glm-5.3"
+}

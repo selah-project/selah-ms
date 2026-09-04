@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu katanya: Jangan takut, sebab lebih ramai ⟨את⟩ yang bersama kita daripada ⟨את⟩ yang bersama mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lebih ramai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bersama kita"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bersama mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:13.328574028Z",
+  "model": "glm-5.3"
+}

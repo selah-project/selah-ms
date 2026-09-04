@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan dia membawa ⟨את⟩ mereka pada hari kelapan, untuk penyuciannya, kepada ⟨sang⟩ imam, ke pintu Kemah Pertemuan, di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "dan dia membawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kelapan"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "untuk penyuciannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:35.039324823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "supaya ketahui oleh generasi kemudian, anak-anak yang akan lahir, dan bangkit serta menceritakan kepada anak-anak mereka,",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ketahui"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kemudian"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "akan lahir"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "dan menceritakan"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kepada anak-anak mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:16.961167498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 138,
+  "translation": "Bagi Dawid. Aku bersyukur kepada-Mu dengan segala hatiku; di hadapan elohim aku bermenyanji bagi-Mu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bagi Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aku bersyukur kepada-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "aku bermenyanji bagi-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:56.412296897Z",
+  "model": "glm-5.3"
+}

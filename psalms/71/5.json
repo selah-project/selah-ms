@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Sebab engkaulah harapanku, Adonai Yahweh, ketenteramanku sejak masa muda aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "harapanku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ketenteramanku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sejak masa muda aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:33.860382294Z",
+  "model": "glm-5.3"
+}

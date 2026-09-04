@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Yahweh akan menyokongnya di atas ranjang kesakitan; seluruh pembaringannya kaubah dalam penyakitnya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "akan menyokongnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "kesakitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "pembaringannya"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "kaubah"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "dalam penyakitnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:23.773770269Z",
+  "model": "glm-5.3"
+}

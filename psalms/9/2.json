@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Aku bersyukur kepada Yahweh dengan segenap hatiku; aku menceritakan segala keajaiban-Mu.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Aku bersyukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "aku menceritakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:27.847149506Z",
+  "model": "glm-5.3"
+}

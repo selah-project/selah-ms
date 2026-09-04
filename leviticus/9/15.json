@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu dibawanya dekat ⟨את⟩ korban bangsa itu, dan diambilnya ⟨את⟩ kambing jantan korban penghapus dosa yang bagi bangsa itu, lalu disembelihnya dan dijadikannya penghapus dosa, seperti yang pertama.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dibawanya dekat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bangsa itu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan diambilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kambing jantan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban penghapus dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bagi bangsa itu"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "lalu disembelihnya"
+    },
+    {
+      "surface": "ויחטאהu",
+      "gloss": "dan dijadikannya penghapus dosa"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "seperti yang pertama"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:14.146828415Z",
+  "model": "glm-5.3"
+}

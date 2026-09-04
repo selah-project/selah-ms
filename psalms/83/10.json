@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Buatlah kepada mereka seperti ⟨terhadap⟩ Midyan, seperti Sisera, seperti Yabin, di sungai Kison;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Buatlah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "seperti Midyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "seperti Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "seperti Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kison"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:28.772642485Z",
+  "model": "glm-5.3"
+}

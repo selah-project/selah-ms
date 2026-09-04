@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Sebab pada hari ini ⟨ia⟩ akan membuat pendamaian atas kamu untuk menyucikan ⟨את⟩ kamu daripada segala dosa kamu; di hadapan Yahweh kamu akan disucikan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ia akan membuat pendamaian"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "untuk menyucikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada segala"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa kamu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "kamu akan disucikan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:35.257303047Z",
+  "model": "glm-5.3"
+}

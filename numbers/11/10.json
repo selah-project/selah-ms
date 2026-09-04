@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu Moshe mendengar ⟨את⟩ bangsa itu menangis, mengikut keluarga-keluarga mereka, setiap orang di pintu khemahnya; maka hidung Yahweh menyala dengan hebatnya, dan di mata Moshe hal itu jahat.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu ... mendengar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "mengikut keluarga-keluarga mereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahnya"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "maka ... menyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan hebatnya"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "dan di mata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:43.550719761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Inilah haiwan yang boleh kamu makan: lembu, kambing biri-biri, dan kambing biasa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "haiwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "boleh kamu makan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "biri-biri"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "dan kambing"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "biasa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:02.453215943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Bukankah telinga menguji ⟨את⟩ perkataan, dan langit-langit merasa ⟨את⟩ makanan baginya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "menguji"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "dan langit-langit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "merasa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:12.039298361Z",
+  "model": "glm-5.3"
+}

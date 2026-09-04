@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Tetapi jika kau umumkan ⟨את⟩ perkataan kami ini, maka kami menjadi bersih daripada sumpahmu yang kau ajur kami bersumpah.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "kau umumkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan kami ini"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "perkataan kami"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "maka kami menjadi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "daripada sumpahmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "kau ajur kami bersumpah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:57.687610058Z",
+  "model": "glm-5.3"
+}

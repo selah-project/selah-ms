@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan bumi mereka penuh dengan perak dan emas, dan tiada penghujung bagi perbendaharaan mereka; dan bumi mereka penuh dengan kuda, dan tiada penghujung bagi kereta mereka.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "dan penuh"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bumi mereka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "penghujung"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "bagi perbendaharaan mereka"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dan penuh"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bumi mereka"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "penghujung"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "bagi kereta mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:10.171294726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Noah, Syem, Ham, dan Yafet.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Syem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "dan Yafet"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:13.694150437Z",
+  "model": "glm-5.3"
+}

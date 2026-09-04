@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Mengapa engkau berkata, 'Dia saudaraku,' sehingga aku mengambil ⟨את⟩ dia bagi diriku sebagai isteri? Dan sekarang, lihat, isterimu — ambillah dan pergilah.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "engkau berkata"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "sehingga aku mengambil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi diriku"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sebagai isteri"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "isterimu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dan pergilah"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:21.808977429Z",
+  "model": "glm-5.3"
+}

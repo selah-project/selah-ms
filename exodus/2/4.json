@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan berdirilah adik perempuannya dari jauh, untuk mengetahui apa yang akan dilakukan kepadanya.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "berdirilah"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "adik perempuannya"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan dilakukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:19.506937197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Apabila engkau membina rumah baharu, buatlah pagar di atap rumahmu, supaya jangan engkau menaruh darah di rumahmu, apabila si jatuh itu jatuh dari sana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "engkau membina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baharu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "buatlah"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "pagar"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "di atap rumahmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "engkau menaruh"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "si jatuh itu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari sana"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:25.493333382Z",
+  "model": "glm-5.3"
+}

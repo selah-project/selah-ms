@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, kembalilah kiranya, pandanglah dari langit dan lihatlah, dan lawatilah pokok anggur ini",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "pandanglah"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "dan lawatilah"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "pokok anggur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:41.961390411Z",
+  "model": "glm-5.3"
+}

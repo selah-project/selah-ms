@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu kata mereka: Marilah kita panggil gadis itu dan tanyakanlah ⟨את⟩ mulutnya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lalu kata mereka"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "kita panggil"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "dan tanyakanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutnya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mulutnya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:50.632501196Z",
+  "model": "glm-5.3"
+}

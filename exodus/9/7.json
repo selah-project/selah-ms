@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu Paroh mengutus ⟨untuk melihat⟩, dan sesungguhnya tidak seekor pun daripada ternakan Israel yang mati; tetapi hati Paroh menjadi berat, dan ia tidak melepaskan ⟨את⟩ bangsa itu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengutus"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "daripada ternakan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seekor"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "tetapi menjadi berat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:39.447140278Z",
+  "model": "glm-5.3"
+}

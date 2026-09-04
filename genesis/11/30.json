@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Sarai ⟨ialah⟩ mandul; tiada baginya anak.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "dan ⟨ialah⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "anak"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:56.386097957Z",
+  "model": "glm-5.3"
+}

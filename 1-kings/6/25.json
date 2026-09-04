@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan sepuluh hasta ⟨ialah⟩ kerub yang kedua — satu ukuran dan satu bentuk bagi kedua-dua kerub itu.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "Dan sepuluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "satu ukuran"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "dan satu bentuk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "bagi kedua-dua"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:00.111247106Z",
+  "model": "glm-5.3"
+}

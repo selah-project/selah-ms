@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan sekarang, jangan engkau menganggapnya bersih, kerana engkau seorang lelaki bijaksana, dan engkau akan tahu ⟨את⟩ apa yang harus engkau lakukan kepadanya, dan engkau akan menurunkan ubun-ubunnya ⟨את⟩ ke Syeol dalam darah.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "engkau menganggapnya bersih"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijaksana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "dan engkau akan tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang harus engkau lakukan kepadanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "dan engkau akan menurunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubun-ubunnya"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ubun-ubunnya"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dalam darah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    }
+  ],
+  "timestamp": "2026-09-04T12:33:59.122187587Z",
+  "model": "glm-5.3"
+}

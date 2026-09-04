@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Babi hutan dari hutan menghancurkannya, dan binatang padang memakannya.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "menghancurkannya"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "babi hutan"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "dari hutan"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "dan binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "memakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:41.961223616Z",
+  "model": "glm-5.3"
+}

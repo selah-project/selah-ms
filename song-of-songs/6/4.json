@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Indah engkau, ⟨hai⟩ rayuanku, seperti Tirtsa; elok seperti Yerusalem; gerun seperti bala tentera berpanji-panji.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Indah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "rayuanku"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "seperti Tirtsa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "elok"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "seperti Yerusalem"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "gerun"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "seperti bala tentera berpanji-panji"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:25.277026005Z",
+  "model": "glm-5.3"
+}

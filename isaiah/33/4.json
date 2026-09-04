@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan rampasan kamu dikumpulkan, seperti pengumpulan belalang; seperti kepompong yang melompat-lompat di atasnya.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "Dan dikumpulkan"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "rampasan kamu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pengumpulan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "seperti yang melompat-lompat"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "kepompong"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "menyerbu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:00.926621866Z",
+  "model": "glm-5.3"
+}

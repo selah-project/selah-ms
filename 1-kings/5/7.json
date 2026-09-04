@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan para pegawai yang ditetapkan itu menyara ⟨את⟩ raja Shlomo dan ⟨את⟩ segala yang menghampiri meja raja Shlomo, setiap orang pada bulannya; tiada mereka melalaikan sesuatu perkara pun.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "Dan ... menyara"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "para pegawai yang ditetapkan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Shlomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang menghampiri meja raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yang menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "pada bulannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "mereka melalaikan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sesuatu perkara"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:32.774144433Z",
+  "model": "glm-5.3"
+}

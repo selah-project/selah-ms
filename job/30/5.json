@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dari tengah-tengah ⟨manusia⟩ mereka dihalau; orang-orang berteriak terhadap mereka seperti terhadap pencuri.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "גו",
+      "gloss": "tengah-tengah"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "mereka dihalau"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "berteriak"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "seperti pencuri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:32.483440047Z",
+  "model": "glm-5.3"
+}

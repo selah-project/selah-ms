@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Yang melepaskan aku daripada musuhku, bahkan daripada pembangkitku Engkau meninggikan aku, daripada lelaki keganasan Engkau menyelamatkan aku.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "Yang melepaskan aku"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "daripada musuhku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "pembangkitku"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "Engkau meninggikan aku"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "daripada lelaki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "Engkau menyelamatkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:51.109038999Z",
+  "model": "glm-5.3"
+}

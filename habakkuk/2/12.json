@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Celaka bagi yang membangun kota dengan darah, dan menegakkan kota dengan kezaliman!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celaka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yang membangun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dengan darah"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "dan menegakkan"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "dengan kezaliman"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:20.517543943Z",
+  "model": "glm-5.3"
+}

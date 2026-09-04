@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Biarlah kakimu jarang dari rumah sahabatmu, supaya jangan ia kenyang denganmu dan membencimu.",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "jarang (dipermudah)"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sahabatmu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "ia kenyang denganmu"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "dan membencimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:59.210012984Z",
+  "model": "glm-5.3"
+}

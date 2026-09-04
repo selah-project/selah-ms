@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "kerana kepada para pekerja kerja itu diberikannya, dan mereka mengukuhkan dengannya ⟨את⟩ rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "kepada para pekerja"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "kerja itu"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "dan mereka mengukuhkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:46.617162283Z",
+  "model": "glm-5.3"
+}

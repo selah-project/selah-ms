@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 10:10",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan Yahweh mengacau mereka di hadapan Yisrael, dan memukul mereka pukulan besar di Givon; dan menghalau mereka di sepanjang jalan naik Beit Horon, dan memukul mereka sampai Azeka dan sampai Makeda.",
+  "tokens": [
+    {
+      "surface": "ויהמם",
+      "gloss": "Dan mengacau mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "dan memukul mereka"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pukulan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "besar"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givon"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "dan menghalau mereka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di sepanjang jalan"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "dan memukul mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeda"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:33.733497096Z",
+  "model": "glm-5.3"
+}

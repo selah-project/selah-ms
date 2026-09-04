@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Satu perkara telah aku minta daripada ⟨את⟩ Yahweh — ⟨את⟩-nya aku cari: bahawa aku tinggal di rumah Yahweh sepanjang hari-hari hidup ku, untuk memandang keindahan Yahweh dan untuk merenung di istana-Nya.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Satu (perkara)"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "telah aku minta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daripada ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "itu (yang aku cari)"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "aku cari"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "aku tinggal"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hidup ku"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "untuk memandang"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "keindahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "dan untuk merenung"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "di istana-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:46.630254942Z",
+  "model": "glm-5.3"
+}

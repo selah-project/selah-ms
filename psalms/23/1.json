@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Mazmur bagi David: Yahweh gembalaku, tidak akan aku kekurangan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "gembalaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "akan aku kekurangan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:43.585662280Z",
+  "model": "glm-5.3"
+}

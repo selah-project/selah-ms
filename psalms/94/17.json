@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Jikalau bukan Yahweh pertolongan bagi aku, nyaris sudah berdiam kesunyian pada diriku.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Jikalau bukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pertolongan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi aku"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "nyaris"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "sudah berdiam"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "kesunyian"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:49.857515347Z",
+  "model": "glm-5.3"
+}

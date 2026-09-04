@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan mereka akan memberi salam kepadamu, dan memberikan kepadamu dua ketul roti, dan engkau akan menerimanya dari tangan mereka.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Dan mereka akan memberi salam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tentang kesejahteraan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dan memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ketul roti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan menerima"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:15.645794093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Tetapi hari yang ketujuh ⟨ialah⟩ Sabat bagi Yahweh Elohimmu; janganlah engkau melakukan apa-apa kerja — engkau, anakmu, anakmu perempuan, hambamu, hamba perempuanmu, binatangmu, dan orang asing yang berada di pintu gerbangmu.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Tetapi hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yang ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau melakukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kerja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "anakmu perempuan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "hamba perempuanmu"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "binatangmu"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "dan orang asing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "berada di pintu gerbangmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:33.924535859Z",
+  "model": "glm-5.3"
+}

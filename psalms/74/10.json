@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Sampai bila, ya Elohim, akan menghina si penindas? Akankah musuh menghina nama-Mu selama-lamanya?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "akan menghina"
+    },
+    {
+      "surface": "צר",
+      "gloss": "si penindas"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "akankah menghina"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:50.887620136Z",
+  "model": "glm-5.3"
+}

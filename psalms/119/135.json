@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Buatlah wajah-Mu bercahaya atas hamba-Mu, dan ajarlah aku ⟨את⟩ ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Buatlah bercahaya"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "atas hamba-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "dan ajarlah aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-Mu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:46.862225901Z",
+  "model": "glm-5.3"
+}

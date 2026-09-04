@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan jika mazbah batu engkau buat bagi-Ku, jangan engkau bangunkan ⟨את⟩-nya dengan batu pahat, kerana pedangmu engkau telah ayunkan ke atasnya dan engkau telah menajiskannya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "engkau bangunkan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "batu pahat"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu pahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedangmu"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "engkau ayunkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "dan engkau menajiskannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:11.915804768Z",
+  "model": "glm-5.3"
+}

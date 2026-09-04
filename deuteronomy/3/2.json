@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu berkatalah Yahweh kepadaku: \"Jangan takut akan dia, kerana ke dalam tanganmu Kuberikan dia dan ⟨את⟩ segala umatnya dan ⟨את⟩ negerinya; dan engkau akan berbuat kepadanya seperti yang engkau buat kepada Sihon, raja orang Emori, yang diam di Hesybon.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Og)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Kuberikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Og)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala umatnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negerinya"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "negerinya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan berbuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "kepada Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Hesybon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:12.659626778Z",
+  "model": "glm-5.3"
+}

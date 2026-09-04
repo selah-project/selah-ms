@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Dawid bertanya kepada Yahweh, katanya: Adakah aku pergi dan aku pukul orang Plisytim ini? Maka berfirmanlah Yahweh kepada Dawid: Pergilah, dan pukullah orang Plisytim itu, dan selamatkanlah ⟨את⟩ Qeilah.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Lalu bertanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Adakah aku pergi"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "dan aku pukul"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "orang Plisytim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "dan pukullah"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "orang Plisytim"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "dan selamatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeilah"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeilah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:22.163809874Z",
+  "model": "glm-5.3"
+}

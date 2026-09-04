@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Inilah mereka yang menyeberangi ⟨את⟩ Yarden pada bulan pertama, ketika ia melimpahi segala tebingnya, dan mereka menghalau ⟨את⟩ semua penduduk lembah ke timur dan ke barat.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pada bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ketika ia"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "melimpahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "tebingnya"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "dan mereka menghalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua penduduk lembah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "penduduk lembah"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ke timur"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "dan ke barat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:07.456661393Z",
+  "model": "glm-5.3"
+}

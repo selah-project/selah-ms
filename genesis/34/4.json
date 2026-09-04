@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Lalu kata Syekhem kepada Hamor ayahnya, katanya: \"Ambilkan bagi aku ⟨את⟩ anak gadis ini sebagai isteri.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu kata"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambilkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak gadis ini"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "anak gadis"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sebagai isteri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:12.651361213Z",
+  "model": "glm-5.3"
+}

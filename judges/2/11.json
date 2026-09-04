@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu anak-anak Israel melakukan ⟨את⟩ kejahatan di mata Yahweh, dan mereka berkhidmat kepada ⟨את⟩ para Baal.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Lalu melakukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka berkhidmat kepada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:48.448625813Z",
+  "model": "glm-5.3"
+}

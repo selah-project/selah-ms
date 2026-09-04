@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan Ia memberi ⟨את⟩ mereka kepada belas kasihan di hadapan segala penawan mereka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan Ia memberi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "kepada belas kasihan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "penawan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:25.814106044Z",
+  "model": "glm-5.3"
+}

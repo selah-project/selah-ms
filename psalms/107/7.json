@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Dan Dia menuntun mereka di jalan yang lurus, untuk berjalan menuju bandar kediaman.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Dan Dia menuntun mereka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk berjalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menuju"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "kediaman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:20.081074459Z",
+  "model": "glm-5.3"
+}

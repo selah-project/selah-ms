@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan juga tentang Izevel Yahweh berfirman, dengan berkata: anjing-anjing akan memakan ⟨את⟩ Izevel di tembok Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "tentang Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjing-anjing"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "di tembok"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:49.220552780Z",
+  "model": "glm-5.3"
+}

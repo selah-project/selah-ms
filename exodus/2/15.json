@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka ketika Paro mendengar ⟨את⟩ perkara itu, ia mencari jalan untuk membunuh ⟨את⟩ Moshe; tetapi Moshe melarikan diri dari hadapan Paro, lalu duduk di tanah Midyan, dan duduk di tepi perigi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "maka ketika mendengar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara itu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ia mencari jalan untuk"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "tetapi melarikan diri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu duduk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "perigi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:15.327077151Z",
+  "model": "glm-5.3"
+}

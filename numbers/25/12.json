@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Sebab itu katakanlah: Sesungguhnya Aku memberikan kepadanya ⟨את⟩ perjanjian-Ku, syalom.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sebab itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Sesungguhnya Aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:19.486301657Z",
+  "model": "glm-5.3"
+}

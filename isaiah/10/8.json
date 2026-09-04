@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Kerana katanya: Bukankah pemimpin-pemimpinku bersama-sama raja-raja?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pemimpin-pemimpinku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:18.202048228Z",
+  "model": "glm-5.3"
+}

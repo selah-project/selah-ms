@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Yahweh memiskinkan dan memperkayakan, merendahkan bahkan meninggikan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "memiskinkan"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "dan memperkayakan"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "meninggikan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:12:40.390875364Z",
+  "model": "glm-5.3"
+}

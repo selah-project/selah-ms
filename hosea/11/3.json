@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Aku — Aku mengajar Efrayim berjalan, Aku mengambil mereka atas kedua lengan mereka, tetapi mereka tidak mengetahui bahawa Akulah yang menyembuhkan mereka.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Dan Aku"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "Aku mengajar berjalan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "Aku mengambil mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "kedua lengan mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mereka mengetahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "Aku menyembuhkan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:35.796341468Z",
+  "model": "glm-5.3"
+}

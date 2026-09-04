@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Yang diam di tempat persembunyian Elyon (Yang Maha Tinggi), di naungan Syadai bermalam berlindung,",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Yang diam"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tempat persembunyian"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di naungan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Syadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "bermalam berlindung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:09.579375722Z",
+  "model": "glm-5.3"
+}

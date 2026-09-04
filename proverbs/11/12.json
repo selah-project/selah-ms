@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Menghina rekannya ialah orang yang kurang hati, tetapi orang yang berpengertian berdiam diri.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "rekannya"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "orang yang kurang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tetapi orang"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "yang berpengertian"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "berdiam diri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:58.328051027Z",
+  "model": "glm-5.3"
+}

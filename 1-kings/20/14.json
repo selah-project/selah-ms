@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 20:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Ahab berkata: \"Dengan siapa?\" Dan ia berkata: \"Beginilah firman Yahweh: Dengan orang-orang muda pembantu pembesar-pembesar daerah.\" Kemudian ia berkata: \"Siapa yang akan memulakan pertempuran?\" Dan ia menjawab: \"Engkau.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "במי",
+      "gloss": "Dengan siapa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנערי",
+      "gloss": "Dengan orang-orang muda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "daerah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Kemudian berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "akan memulakan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "pertempuran"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan menjawab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:17.972440357Z",
+  "model": "glm-5.3"
+}

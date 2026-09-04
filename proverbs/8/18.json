@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Kekayaan dan kemuliaan ⟨⟨את⟩⟩ bersamaku, harta benda yang tahan lama dan kebenaran.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Kekayaan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersamaku",
+      "marks": "Kekayaan dan kemuliaan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harta benda"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "yang tahan lama"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dan kebenaran"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:21.821789542Z",
+  "model": "glm-5.3"
+}

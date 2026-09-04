@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu genaplah tujuh hari selepas Yahweh memukul ⟨את⟩ sungai Nil itu.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Lalu genaplah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai Nil itu"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sungai Nil itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:53.700014491Z",
+  "model": "glm-5.3"
+}

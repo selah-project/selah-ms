@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Amram mengambil Yokhebed, emak saudaranya, menjadi isterinya, dan ia melahirkan baginya ⟨את⟩ Aharon dan ⟨את⟩ Moshe; dan tahun-tahun kehidupan Amram ⟨ialah⟩ tujuh dan tiga puluh dan seratus tahun.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokheved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "emak saudaranya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi isteri"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan tahun-tahun"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:35.104751728Z",
+  "model": "glm-5.3"
+}

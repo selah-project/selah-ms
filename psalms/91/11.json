@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Kerana para malaikat-Nya akan diperintahkan ⟨mengenai⟩ engkau, untuk menjaga engkau di segala jalanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "para utusan-Nya"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "Ia akan perintahkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mengenai engkau"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "untuk menjaga engkau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.870176952Z",
+  "model": "glm-5.3"
+}

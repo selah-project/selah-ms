@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia menajiskan ⟨את⟩ Tofet yang di lembah bani Hinnom, supaya jangan ada orang menghantar ⟨את⟩ anak lelakinya dan ⟨את⟩ anak perempuannya melalui api bagi Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Dan ia menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "menghantar melalui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lelakinya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak lelakinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak perempuannya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak perempuannya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "melalui api"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi Molekh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:47.550214928Z",
+  "model": "glm-5.3"
+}

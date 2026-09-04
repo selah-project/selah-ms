@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan aku, sesungguhnya aku menguatkan hati orang Mitsrayim, dan mereka akan masuk mengikut mereka, dan aku akan dipermuliakan pada Paraoh dan pada segala tenteranya, pada keretanya dan pada penunggang kudanya.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sesungguhnya aku"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "menguatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka akan masuk"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "mengikut mereka"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "dan aku akan dipermuliakan"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "pada Paraoh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan pada segala"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "tenteranya"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "pada keretanya"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "dan pada penunggang kudanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:20.928324751Z",
+  "model": "glm-5.3"
+}

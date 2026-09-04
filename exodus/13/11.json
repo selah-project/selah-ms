@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan apabila Yahweh membawa engkau masuk ke tanah Kenaani, seperti yang Dia bersumpah kepadamu dan kepada bapa-bapamu, dan memberikannya kepadamu,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "membawa engkau masuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Dia bersumpah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "dan kepada bapa-bapamu"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:25.914060293Z",
+  "model": "glm-5.3"
+}

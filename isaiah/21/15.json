@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Sebab dari hadapan pedang-pedang mereka melarikan diri, dari hadapan pedah terhunus, dan dari hadapan panah terbengkok, dan dari hadapan keberatan peperangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pedang-pedang"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "mereka melarikan diri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "terhunus"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "dan dari hadapan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "panah (senjata)"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "terbengkok"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "dan dari hadapan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "keberatan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:54.620362970Z",
+  "model": "glm-5.3"
+}

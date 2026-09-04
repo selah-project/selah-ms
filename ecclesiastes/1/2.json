@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Kesiahan kesiahanan, kata Kohelet; kesiahan kesiahanan, ⟨segala⟩-nya kesiahan.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Kesiahan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "kesiahanan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesiahan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "kesiahanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨segala⟩-nya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesiahan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:30.822916419Z",
+  "model": "glm-5.3"
+}

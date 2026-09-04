@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Tanah gandum dan barli, dan pokok anggur dan pokok ara dan delima; tanah zaitun menghasilkan minyak dan madu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "dan barli"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "dan pokok anggur"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "dan pokok ara"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "dan delima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "menghasilkan minyak"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:35.300610209Z",
+  "model": "glm-5.3"
+}

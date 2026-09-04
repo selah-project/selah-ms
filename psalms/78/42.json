@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Tidaklah mereka mengingat ⟨את⟩ tangan-Nya, hari ketika Ia menebus mereka dari musuh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidaklah"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "mereka mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Nya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "Ia menebus mereka"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:20.959161781Z",
+  "model": "glm-5.3"
+}

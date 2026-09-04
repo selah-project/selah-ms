@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Elohim, pulihkanlah kami, dan buatlah wajah-Mu bercahaya, maka kami akan diselamatkan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "pulihkanlah kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "dan buatlah bercahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "maka kami akan diselamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:06.993310663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Sueri batu yang menarik di mata pemiliknya; ke mana sahaja ia berpaling, ia berjaya.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yang menarik"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "Sueri"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "pemiliknya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mana sahaja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨bahawa⟩"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ia berpaling"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ia berjaya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.611584281Z",
+  "model": "glm-5.3"
+}

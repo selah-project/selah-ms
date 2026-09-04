@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 128,
+  "translation": "dan lihatlah anak-anak kepada anak-anakmu — syalom atas Yisrael!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kepada anak-anakmu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:04.435397891Z",
+  "model": "glm-5.3"
+}

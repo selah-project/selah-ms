@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Mahkota orang bijak ialah kekayaan mereka, tetapi kebodohan orang bodoh ⟨ialah⟩ kebodohan.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "kekayaan mereka"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:40.654364091Z",
+  "model": "glm-5.3"
+}

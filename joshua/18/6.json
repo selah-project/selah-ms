@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 18:6",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan kamu tuliskan ⟨את⟩ tanah itu tujuh bahagian, dan bawalah kepadaku ke sini, dan aku akan membuangkan undi bagi kamu di sini di hadapan Yahweh Elohim kami.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "תכתבו",
+      "gloss": "tulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "bahagian"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "dan bawa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke sini"
+    },
+    {
+      "surface": "ויריתי",
+      "gloss": "dan aku akan membuangkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-09-04T12:02:50.695151741Z",
+  "model": "glm-5.3"
+}

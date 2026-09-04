@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Dan aku dihentam sepanjang hari, dan teguran mendatangiku setiap pagi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku menjadi"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "dihentam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "dan teguranku"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "pada setiap pagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:33.165729744Z",
+  "model": "glm-5.3"
+}

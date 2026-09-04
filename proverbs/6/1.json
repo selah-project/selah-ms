@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Anakku, jika engkau telah menjadi penjamin bagi sahabatmu, jika engkau telah memukul tapak tanganmu bagi orang asing —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "engkau telah menjadi penjamin"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "bagi sahabatmu"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "engkau telah memukul (tapak tangan)"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "bagi orang asing"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tapak tanganmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:50.152098633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Segala yang padanya kecacatan jangan kamu hampirkan, sebab tidak akan menjadi kerelaan bagi kamu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "מום",
+      "gloss": "kecacatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kamu hampirkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kerelaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:19.584267555Z",
+  "model": "glm-5.3"
+}

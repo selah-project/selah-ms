@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 142,
+  "translation": "Dengan suara ku aku berteriak kepada Yahweh; dengan suara ku kepada Yahweh aku memohon kasih.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "dengan suara ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aku berteriak"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dengan suara ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "aku memohon kasih"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:42.065718449Z",
+  "model": "glm-5.3"
+}

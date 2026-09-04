@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan bumi mereka penuh dengan berhala-berhala; kepada buatan tangan mereka mereka sujud, kepada apa yang dibuat jari-jari mereka.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "dan penuh"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bumi mereka"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "kepada buatan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "mereka sujud"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kepada apa yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "jari-jari mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:10.171425200Z",
+  "model": "glm-5.3"
+}

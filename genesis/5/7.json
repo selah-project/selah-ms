@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan hiduplah Set setelah memperanakkan ⟨את⟩ Enosy tujuh tahun lapan ratus tahun, lalu memperanakkan anak-anak lelaki dan anak-anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hiduplah"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lalu memperanakkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "anak-anak perempuan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:23.745292181Z",
+  "model": "glm-5.3"
+}

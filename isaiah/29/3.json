@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Aku akan berkhemah melingkari engkau seperti bulatan, dan Aku akan mengepung engkau dengan pos kawalan, dan Aku akan mendirikan tembok pengepungan terhadap engkau.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Dan Aku akan berkhemah"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "seperti bulatan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadap engkau"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "dan Aku akan mengepung"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "pos kawalan"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "dan Aku akan mendirikan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadap engkau"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "tembok pengepungan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:04.123814456Z",
+  "model": "glm-5.3"
+}

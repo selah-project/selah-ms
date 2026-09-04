@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Bapa-bapa kami di Mitsrayim tidak memahami keajaiban-keajaiban-Mu, tidak mengingat kelimpahan hesed-Mu, dan mereka memberontak di laut, di Laut Teberau.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Bapa-bapa kami"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-keajaiban-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelimpahan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "dan mereka memberontak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di Laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Teberau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:03.724607078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Atas telapak tangan mereka akan mengangkat engkau, supaya engkau tidak tersandung kakimu pada batu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "mereka akan mengangkat engkau"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "engkau tersandung"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "pada batu"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.870308195Z",
+  "model": "glm-5.3"
+}

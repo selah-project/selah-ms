@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Sesungguhnya, saksi bagi umat-umat telah Kuberi dia — pemimpin dan pemerintah bagi umat-umat.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "bagi umat-umat"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "telah Kuberi dia"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "dan pemerintah"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bagi umat-umat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:33.797711798Z",
+  "model": "glm-5.3"
+}

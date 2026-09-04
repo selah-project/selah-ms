@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan David berkata: Apakah yang telah kulakukan sekarang? Bukankah ini sekadar perkataan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yang telah kulakukan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sekadar perkataan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:22.425374127Z",
+  "model": "glm-5.3"
+}

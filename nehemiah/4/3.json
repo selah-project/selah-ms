@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu kami berdoa kepada Elohim kami, dan kami menempatkan penjagaan terhadap mereka siang dan malam kerana mereka.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "Lalu kami berdoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "dan kami menempatkan"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "penjagaan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kerana mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:53:40.055748662Z",
+  "model": "glm-5.3"
+}

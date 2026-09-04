@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Biarlah ⟨ia⟩ sentiasa di hadapan Yahweh, dan biarlah Dia membinasakan ingatan mereka dari bumi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Biarlah ⟨ia⟩"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dan biarlah membinasakan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ingatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:59.102500725Z",
+  "model": "glm-5.3"
+}

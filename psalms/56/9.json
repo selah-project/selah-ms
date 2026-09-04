@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Pengembaraanku Engkau kira — Engkau sendiri; letakkan air mataku dalam bendung-Mu; bukankah ⟨mereka⟩ dalam kitab-Mu?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "pengembaraanku"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "Engkau kira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau sendiri"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "letakkan"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "air mataku"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "dalam bendung-Mu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "dalam kitab-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:37.167738917Z",
+  "model": "glm-5.3"
+}

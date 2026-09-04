@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Yahweh Elohim menghalaunya dari taman Eden, untuk mengusahakan ⟨את⟩ tanah itu yang dari sana dia diambil.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Lalu menghalaunya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "dari taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk mengusahakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:15.091773907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan terjadilah, ketika Avram masuk ke Mitsrayim, orang-orang Mitsrayim melihat ⟨את⟩ perempuan itu, bahawa cantik ia sangat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ketika masuk"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "orang-orang Mitsrayim melihat"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan itu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:18.972595274Z",
+  "model": "glm-5.3"
+}

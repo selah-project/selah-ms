@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Yonatan menambah mengikat sumpah ⟨את⟩ David, karena kasihnya kepadanya ⟨dia⟩; sebab dengan kasih dirinya ⟨dia⟩ mengasihi dia.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Lalu menambah"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "mengikat sumpah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "karena kasihnya kepadanya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨dia⟩",
+      "marks": "sebab (כי)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "dengan kasih"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dirinya"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "mengasihi dia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:22.955557317Z",
+  "model": "glm-5.3"
+}

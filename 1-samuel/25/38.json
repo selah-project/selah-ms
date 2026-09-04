@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Maka jadilah, kira-kira sepuluh hari kemudian, Yahweh memukul ⟨את⟩ Nabal, lalu ia mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "kira-kira sepuluh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu matilah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:42.855706476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Ia menjadikan padang belantara menjadi kolam air, dan tanah kering menjadi sumber-sumber air.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Ia menjadikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang belantara"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "menjadi kolam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan tanah"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kering"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "menjadi sumber-sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:33.139988485Z",
+  "model": "glm-5.3"
+}

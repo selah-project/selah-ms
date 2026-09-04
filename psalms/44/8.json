@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sebab Engkau telah menyelamatkan kami dari seteru kami, dan orang yang membenci kami telah Kaupermalukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Engkau telah menyelamatkan kami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "dari seteru kami"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "dan orang yang membenci kami"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "telah Kaupermalukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:57.950786146Z",
+  "model": "glm-5.3"
+}

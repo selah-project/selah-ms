@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Jika aku mengambil sayap fajar, biarlah aku diam di hujung lautan,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "jika aku mengambil"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "biarlah aku diam"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "di hujung"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lautan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.065046934Z",
+  "model": "glm-5.3"
+}

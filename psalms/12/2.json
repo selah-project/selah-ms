@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Selamatkanlah, wahai Yahweh, sebab telah habislah orang yang setia, sebab telah lenyap orang-orang beriman dari antara anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Selamatkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "telah habis"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "orang yang setia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "telah lenyap"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "orang-orang beriman"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari antara anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:58.044322649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab sementara seperti duri-duri berjalin-jalin, dan oleh minuman mereka mabuk, mereka akan dimakan seperti jerami kering sepenuhnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sementara"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "duri-duri"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "berjalin-jalin"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "dan oleh minuman mereka"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "mabuk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mereka akan dimakan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "seperti jerami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kering"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sepenuhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:56.879487642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Yahweh mencampakkan angin yang besar ke atas laut, maka jadilah badai yang besar di laut, sehingga kapal itu nyaris hancur.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "mencampakkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "סער",
+      "gloss": "badai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "dan kapal itu"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "nyaris"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "hancur"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:44.940381079Z",
+  "model": "glm-5.3"
+}

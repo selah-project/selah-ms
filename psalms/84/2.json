@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Betapa dikasihi tapak-tapak kediaman-Mu, Yahweh Tsebaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "dikasihi"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tapak-tapak kediaman-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:12.126216279Z",
+  "model": "glm-5.3"
+}

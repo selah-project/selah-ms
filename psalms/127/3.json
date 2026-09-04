@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 127,
+  "translation": "Lihat, anak-anak lelaki ialah pusaka Yahweh; upahan, buah kandungan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "pusaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upahan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "kandungan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:47.245891525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 15:37",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dalam hari-hari itu Yahweh mulai menghantar ke atas Yehuda Retson, raja Aram, dan ⟨את⟩ Pekah, anak Remalyahu.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Dalam hari-hari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mulai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשליח",
+      "gloss": "menghantar"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ke atas Yehuda"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retson"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Pekah"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:50.315523295Z",
+  "model": "glm-5.3"
+}

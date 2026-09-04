@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Telah melihat ⟨⟨perarakan⟩⟩-Mu, ya Elohim, perarakan El saya, raja saya, di tempat kudus.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "perarakan-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "perarakan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El saya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja saya"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di tempat kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:03.405454290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Seperti burung yang melayang, seperti burung layang-layang yang terbang, demikianlah sumpahan tanpa sebab tidak akan hinggap.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Seperti burung"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "yang melayang"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "seperti burung layang-layang"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "yang terbang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "sumpahan"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "akan hinggap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:15.787445394Z",
+  "model": "glm-5.3"
+}

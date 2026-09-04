@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Maka Syaul dan seluruh Yisrael mendengar ⟨את⟩ perkataan Pelisyt itu, dan mereka kecewa serta takut sangat.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Maka ... mendengar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelisyt"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "dan mereka kecewa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "serta takut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:23.161578298Z",
+  "model": "glm-5.3"
+}

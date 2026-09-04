@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Mengapa engkau tunduk tertekan, hai jiwaku, dan mengapa engkau bergejolak dalam diriku? Berharaplah kepada Elohim, kerana aku masih akan memuji ⟨Dia⟩, ⟨ialah⟩ keselamatan wajahku dan Elohimku.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "engkau tunduk tertekan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai jiwaku"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "engkau bergejolak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dalam diriku"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Berharaplah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "aku akan memuji ⟨Dia⟩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajahku"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohimku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:08.754645796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan sekarang, wahai penduduk Yerushalaim dan orang Yehuda, hakimilah kiranya antara aku dan kebun anggurku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hakimilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara aku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kebun anggurku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:53.674157452Z",
+  "model": "glm-5.3"
+}

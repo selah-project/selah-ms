@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Orang-orang kudus kamu akan menjadi bagi-Ku; dan daging ⟨yang⟩ terserang di padang, binatang rimba, jangan kamu makan — kepada anjing kamu melemparkan ⟨את⟩-nya.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Orang-orang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "kamu akan menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "binatang rimba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada anjing"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "kamu melemparkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "-nya (daging itu)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:08.551320604Z",
+  "model": "glm-5.3"
+}

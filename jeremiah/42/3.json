@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "dan supaya Yahweh, Elohimmu, memberitahukan kepada kita ⟨את⟩ jalan yang akan kita tempuh padanya dan ⟨את⟩ perkara yang akan kita lakukan.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kita tempuh"
+    },
+    {
+      "surface": "בה",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:23:27.822224913Z",
+  "model": "glm-5.3"
+}

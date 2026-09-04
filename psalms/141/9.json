@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 141,
+  "translation": "Peliharalah aku daripada perangkap yang dipasang bagiku, dan jerat-jerat pelaku kejahatan.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "peliharalah aku"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "פח",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "yang dipasang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "dan jerat-jerat"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:59.662860002Z",
+  "model": "glm-5.3"
+}

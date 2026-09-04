@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "dan berkata: Atas ⟨bahwa⟩ mereka meninggalkan ⟨את⟩ perjanjian Yahweh, Elohim bapa-bapa mereka, yang dipotong-Nya dengan mereka, pada membawa keluar-Nya ⟨את⟩ mereka dari bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨bahwa⟩"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "mereka meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong-Nya"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "pada membawa keluar-Nya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:01.339509641Z",
+  "model": "glm-5.3"
+}

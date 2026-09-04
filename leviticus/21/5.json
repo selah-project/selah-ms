@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Mereka tidak boleh membuat kebotakan pada kepala mereka, dan tepi janggut mereka tidak boleh dicukur, dan pada daging mereka tidak boleh dibuat belahan — keratan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "mereka membuat botak"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kebotakan"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "pada kepala mereka"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "dan tepi"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "janggut mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "mereka mencukur"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "dan pada daging mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "mereka mengukir"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "keratan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:06.307042370Z",
+  "model": "glm-5.3"
+}

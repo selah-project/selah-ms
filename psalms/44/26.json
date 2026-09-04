@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sebab nafasya kami telah tenggelam ke debu, perut kami melekat ke bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "tenggelam"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ke debu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafasya kami"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "melekat"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "perut kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:10.673251776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Maka anak perempuan itu, orang Yisrael itu, mengejek ⟨את⟩ Nama itu, dan menyumpah; lalu mereka membawa ⟨את⟩ dia kepada Moshe; dan nama ibunya Syelomit, anak perempuan Divri, bagi suku Dan.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "Maka mengejek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "orang Yisrael itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nama itu"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Nama itu"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "dan menyumpah"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "lalu mereka membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (anak itu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Syelomit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Divri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bagi suku"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:59.224596167Z",
+  "model": "glm-5.3"
+}

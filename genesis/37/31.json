@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu mereka mengambil ⟨את⟩ jubah Yosef, dan menyembelih seekor kambing jantan, dan mencelupkan ⟨את⟩ jubah itu dalam darah.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kambing jantan"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing-kambing"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "dan mencelupkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah itu"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "jubah itu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dalam darah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:52.561489614Z",
+  "model": "glm-5.3"
+}

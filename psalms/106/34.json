@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Tidaklah mereka memusnahkan ⟨את⟩ bangsa-bangsa yang telah firmankan Yahweh kepada mereka,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidaklah"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah firmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:06.163643429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan kohen yang diurap itu mengambil dari darah lembu itu, dan membawa ⟨את⟩nya ke kemah pertemuan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen itu"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "yang diurap"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia — darah itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:45.566603701Z",
+  "model": "glm-5.3"
+}

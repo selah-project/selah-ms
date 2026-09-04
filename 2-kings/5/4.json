@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan masuklah dia, dan diberitahukannya kepada tuannya, katanya: Begini dan begini berkata gadis yang dari negeri Yisrael itu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan masuklah dia"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan diberitahukannya"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kepada tuannya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "begini"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "dan begini"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari negeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:40.429296573Z",
+  "model": "glm-5.3"
+}

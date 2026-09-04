@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Pujilah, hai nafasku, ⟨את⟩ Yahweh, dan janganlah engkau lupakan segala balasan baik-Nya.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai nafasku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "engkau lupakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "balasan baik-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:11.021224261Z",
+  "model": "glm-5.3"
+}

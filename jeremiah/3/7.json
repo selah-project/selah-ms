@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan aku berkata: Selepas dia melakukan ⟨את⟩ semua perkara ini, kembalilah kepadaku — tetapi dia tidak kembali; dan saudaranya yang berkhianat, Yehuda, telah melihatnya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan aku berkata"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Selepas"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "dia melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua perkara ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "perkara ini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "dia kembali"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "dan ... telah melihat"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "yang berkhianat"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:20.834995928Z",
+  "model": "glm-5.3"
+}

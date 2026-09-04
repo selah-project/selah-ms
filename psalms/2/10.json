@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan sekarang, hai raja-raja, bertindaklah bijak; terimalah pengajaran, hai hakim-hakim bumi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "hai raja-raja"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bertindaklah bijak"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "terimalah pengajaran"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hai hakim-hakim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:41.730440581Z",
+  "model": "glm-5.3"
+}

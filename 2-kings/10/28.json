@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka Yehu memusnahkan ⟨את⟩ Baal dari Israel.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Maka memusnahkan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:08.645381269Z",
+  "model": "glm-5.3"
+}

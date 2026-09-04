@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Biarlah mereka memuji ⟨את⟩ nama Yahweh, sebab ⟨dialah⟩ yang memerintah, dan mereka dicipta.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "biarlah mereka memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dialah⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "dan mereka dicipta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.140547344Z",
+  "model": "glm-5.3"
+}

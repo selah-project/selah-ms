@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu dia mengutus pesuruh-pesuruh kepada Ahab raja Israel, ke bandar itu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu dia mengutus"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pesuruh-pesuruh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ke bandar itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:27.290352748Z",
+  "model": "glm-5.3"
+}

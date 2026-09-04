@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu berfirmanlah Yahweh kepada Moshe: \"Naiklah kepada-Ku, ke gunung itu, dan hendaklah engkau di sana; dan Aku akan memberikan kepadamu ⟨את⟩ loh-loh batu itu, dan ⟨את⟩ Tora dan perintah itu, yang telah Aku tulis untuk mengajar mereka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ke gunung itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan hendaklah engkau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loh-loh batu itu"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "loh-loh"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu itu"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "dan Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "dan perintah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "telah Aku tulis"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "untuk mengajar mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:00.984943195Z",
+  "model": "glm-5.3"
+}

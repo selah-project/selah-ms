@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu hamba-hambanya memuat ⟨את⟩ dia atas kereta ke Yerushalaim, dan mereka mengkebumikan ⟨את⟩ dia di kuburnya bersama nenek moyangnya, di kota David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "lalu memuat atas kereta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Ahazia)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ke Yerushalaim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan mereka mengkebumikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Ahazia)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "di kuburnya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:11.679158366Z",
+  "model": "glm-5.3"
+}

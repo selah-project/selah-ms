@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Jangan engkau mengambil daripadanya ⟨את⟩ bunga riba dan ⟨את⟩ lebihan, dan biarlah engkau takut akan Elohimmu, dan saudaramu hidup bersamamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau mengambil"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ daripadanya",
+      "marks": "bunga riba dan lebihan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga riba"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "dan lebihan"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "dan biarlah engkau takut"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "akan Elohimmu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dan hidup"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:42.540357354Z",
+  "model": "glm-5.3"
+}

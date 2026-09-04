@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan tangan Yahweh menjadi berat terhadap orang-orang Asydod, dan ⟨Ia⟩ memusnahkan mereka, dan memukul mereka dengan tumor: ⟨את⟩ Asydod dan wilayahnya.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "Dan menjadi berat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "orang-orang Asydod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "dan memusnahkan mereka"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "them with tumors"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "dengan tumor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asydod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "its borders"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "wilayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:55:48.711800590Z",
+  "model": "fable-5-hand"
+}

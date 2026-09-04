@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Moshe mengambil ⟨את⟩ minyak urapan itu, lalu mengurapi ⟨את⟩ kemah suci itu dan ⟨את⟩ segala yang ada di dalamnya, serta menguduskan semuanya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "lalu mengurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah suci"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada di dalamnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ada di dalamnya"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "serta menguduskan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ semuanya",
+      "marks": "kemah suci dan isinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:20.030610533Z",
+  "model": "glm-5.3"
+}

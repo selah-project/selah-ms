@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Daripada segala pengajar-pengajarku aku lebih berakal, sebab pernyataan-pernyataan-Mu renungan bagi aku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "daripada segala"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "pengajar-pengajarku"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "aku lebih berakal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "pernyataan-pernyataan-Mu"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "renungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:10.534529913Z",
+  "model": "glm-5.3"
+}

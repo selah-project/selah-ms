@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Yahweh di dalam istana-Nya yang kudus; Yahweh — di langit takhta-Nya; mata-Nya memandang, kelopak mata-Nya menguji anak-anak Adam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di dalam istana-Nya"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mata-Nya"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "kelopak mata-Nya"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "menguji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:34.734644610Z",
+  "model": "glm-5.3"
+}

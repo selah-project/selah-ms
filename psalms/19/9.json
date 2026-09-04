@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Ketetapan-ketetapan Yahweh itu lurus, menggembirakan hati; perintah Yahweh itu tulen, menerangi mata.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "menggembirakan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "menerangi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:52.647694344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 3:12",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan sayap kerub yang satu lima hasta, menyentuh ke dinding rumah, dan sayap yang satu lagi lima hasta, melekat ke sayap kerub yang lain.",
+  "tokens": [
+    {
+      "surface": "וכנף",
+      "gloss": "dan sayap"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "ke dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "dan sayap"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "yang satu lagi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "melekat"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "ke sayap"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "yang lain"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:47.053962777Z",
+  "model": "glm-5.3"
+}

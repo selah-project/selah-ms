@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Jadilah kesudahannya untuk dibinasakan; pada keturunan berikutnya biarlah nama mereka dipadamkan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "kesudahannya"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "untuk dibinasakan"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "pada keturunan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "berikutnya"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "biarlah dipadamkan"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nama mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:59.101971215Z",
+  "model": "glm-5.3"
+}

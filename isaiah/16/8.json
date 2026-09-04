@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 16:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Sebab ladang Chesybon telah layu, pokok anggur Sibmah; tuan-tuan bangsa-bangsa telah memukul sulur-sulurnya yang terpilih; sampai ke Ya'ezer mereka telah sampai, mereka tersesat di padang belantara; pucuk-pucuk yang dihulurkannya terhambur, mereka telah melintasi laut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שדמות",
+      "gloss": "ladang-ladang"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesybon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "telah layu"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "pokok anggur"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "Sibmah"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "telah memukul"
+    },
+    {
+      "surface": "שרוקיה",
+      "gloss": "sulur-sulurnya yang terpilih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'ezer"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "mereka telah sampai"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "mereka tersesat"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang belantara"
+    },
+    {
+      "surface": "שלחותיה",
+      "gloss": "pucuk-pucuknya yang dihulurkan"
+    },
+    {
+      "surface": "נטשו",
+      "gloss": "terhambur"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mereka telah melintasi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:26.609426677Z",
+  "model": "glm-5.3"
+}

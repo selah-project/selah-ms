@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Perempuan yang berhikmat membina rumahnya, tetapi yang bodoh meruntuhkannya dengan tangannya sendiri.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "berhikmat"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "tetapi kebodohan"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "dengan tangannya"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "meruntuhkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:32.023750252Z",
+  "model": "glm-5.3"
+}

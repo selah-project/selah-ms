@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Orang tidak memandang hinakan pencuri apabila ia mencuri untuk memenuhi dirinya, apabila ia lapar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "memandang hinakan"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "pencuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "mencuri"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "untuk memenuhi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dirinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "lapar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:11.575843607Z",
+  "model": "glm-5.3"
+}

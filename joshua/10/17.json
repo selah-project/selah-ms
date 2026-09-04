@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka diberitahukan kepada Yehosyua, katanya: Telah ditemui lima orang raja itu tersembunyi di gua di Makeda.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "maka diberitahukan"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "kepada Yehosyua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "telah ditemui"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja itu"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "tersembunyi"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di gua"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "di Makeda"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:05.225470213Z",
+  "model": "glm-5.3"
+}

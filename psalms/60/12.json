@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Bukankah Engkaulah, Elohim, yang telah menolak kami? dan tidak Engkau keluar, Elohim, bersama tentera-tentera kami!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "yang telah menolak kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "Engkau keluar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "bersama tentera-tentera kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:39.978848696Z",
+  "model": "glm-5.3"
+}

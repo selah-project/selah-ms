@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu kohen itu menulis perkataan sumpahan ini dalam kitab, dan membasuhnya ke dalam air pahit itu.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "dan menulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan sumpahan ini"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "sumpahan-ist"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen itu"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam kitab"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "dan memadamkan\/membasuhkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "pahit itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:10.864944807Z",
+  "model": "glm-5.3"
+}

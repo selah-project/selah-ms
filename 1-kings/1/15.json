@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Bat-Syeba masuk kepada raja, ke biliknya; dan raja itu sudah sangat tua, dan Avisyag dari Syunem melayani ⟨את⟩ raja itu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Lalu masuklah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ke biliknya"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "dan raja itu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sudah tua"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "dan Avisyag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "dari Syunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "melayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:33:28.266850760Z",
+  "model": "glm-5.3"
+}

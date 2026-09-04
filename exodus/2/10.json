@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu anak itu menjadi besar dan dibawanya kepada anak perempuan Paraoh, dan ia ⟨menjadi⟩ anak baginya; lalu dinamainya Moshe, sebab katanya, Dari air aku menarik dia keluar.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Lalu ... menjadi besar"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "dan dibawanya"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kepada anak perempuan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia ⟨menjadi⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "lalu dinamainya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sebab katanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "aku menarik dia keluar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:09.563573632Z",
+  "model": "glm-5.3"
+}

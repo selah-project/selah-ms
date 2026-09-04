@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Dengan kebencian sempurna kubenci mereka; merekalah musuh bagiku.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "sempurna"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kebencian"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "kubenci mereka"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "היו",
+      "gloss": "merekalah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.722399065Z",
+  "model": "glm-5.3"
+}

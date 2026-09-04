@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Yang menajamkan seperti pedang lidah mereka, memasang anak panah mereka — perkataan pahit.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Yang"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "menajamkan"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "seperti pedang"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "memasang"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "anak panah mereka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pahit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:16.755740610Z",
+  "model": "glm-5.3"
+}

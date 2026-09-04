@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Atasku telah melalui kemurkaan-Mu; gempar-Mu telah mengerat aku.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Atasku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "telah melalui"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "kemurkaan-Mu"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "gempa-Mu"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "telah mengerat aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:31.940545495Z",
+  "model": "glm-5.3"
+}

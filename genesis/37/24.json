@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu mereka mengambil dia dan membaling ⟨את⟩ dia ke dalam bor itu; dan bor itu kosong, tiada air di dalamnya.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "lalu mereka mengambil dia"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "dan membaling"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ke dalam bor itu"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "dan bor itu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:53.395815371Z",
+  "model": "glm-5.3"
+}

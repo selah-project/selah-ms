@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan terjadilah, apabila kamu menyeberangi ⟨את⟩ Yarden, dirikanlah ⟨את⟩ batu-batu ini yang aku perintahkan ⟨את⟩ kepadamu pada hari ini, di gunung Eyval, dan lapisi ⟨את⟩nya dengan kapur.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "apabila kamu menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "dirikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "dan lapisi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu itu"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "dengan kapur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:45.092910057Z",
+  "model": "glm-5.3"
+}

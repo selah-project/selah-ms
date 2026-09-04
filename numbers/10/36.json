@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan ketika ia berhenti, berkatalah ⟨ia⟩: Kembalilah, Yahweh, kepada beribu-ribu ribu Israel.",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "dan ketika ia berhenti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "berpuluh-puluh ribu"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "beribu-ribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:27.914542426Z",
+  "model": "glm-5.3"
+}

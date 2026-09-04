@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Sebab itu pinggangku penuh kegeraman; sakit-sakit menggenggam aku, seperti sakit-sakit perempuan bersalin; aku bengkok kerana mendengar, aku kecut kerana melihat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "pinggangku"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "kegeraman"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "sakit-sakit"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "menggenggam aku"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "seperti sakit-sakit"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "perempuan bersalin"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "aku bengkok"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kerana mendengar"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "aku kecut"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "kerana melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:20.685497710Z",
+  "model": "glm-5.3"
+}

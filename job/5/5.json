@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Yang tuainya dimakan oleh orang lapar, dan dari tengah semak duri ia diambil, dan orang kehausan mengesat habis harta mereka",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "tuainya"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "orang lapar"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "semak duri"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ia diambil"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "dan mengesat habis"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "orang kehausan"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "harta mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:23.599968880Z",
+  "model": "glm-5.3"
+}

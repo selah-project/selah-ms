@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan kamu akan membuat pada hari kamu menghayunkan ⟨את⟩ berkas omer itu seekor anak domba jantan yang tiada bercela, berumur setahun, sebagai korban terbakar bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Dan kamu akan membuat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "kamu menghayunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkas omer itu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "berkas omer itu"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "seekor anak domba jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yang tiada bercela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "setahun"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "sebagai korban terbakar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:17.455652155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Baik dukacita daripada ketawa, kerana oleh wajah muram hati menjadi baik.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "dukacita"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "daripada ketawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "oleh muram"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "menjadi baik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:43.250869541Z",
+  "model": "glm-5.3"
+}

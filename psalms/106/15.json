@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Maka Ia memberikan kepada mereka permintaan mereka, tetapi mengutus kekurusán ke dalam diri mereka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maka Ia memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "permintaan mereka"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "tetapi mengutus"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kekurusán"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "ke dalam diri mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:04.156311052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Lalu dibawanya ⟨את⟩ aku kembali melalui jalan pintu gerbang tempat kudus yang lahir, yang menghadap ke timur, dan ⟨pintu itu⟩ tertutup.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lalu dibawanya kembali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "jalan (pintu gerbang tempat kudus yang lahir)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "melalui jalan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "yang lahir"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "yang menghadap"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ke timur"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ia"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tertutup"
+    }
+  ],
+  "timestamp": "2026-09-04T13:41:48.403120347Z",
+  "model": "glm-5.3"
+}

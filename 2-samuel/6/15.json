@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan David dan seluruh isi rumah Yisrael membawa naik ⟨את⟩ petisi Yahweh diiringi sorak-sorai dan bunyi syofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dan David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "isi rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "membawa naik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petisi Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "diiringi sorak-sorai"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "dan dengan bunyi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:36.090906450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Moab ⟨ialah⟩ periuk basuhan-Ku; ke atas Edom Aku campak kasut-Ku; ke atas saya, Pelesyet, bersorak-sorailah —",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "periuk"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "basuhan-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "Aku campak"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "kasut-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atas saya"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "bersorak-sorailah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:39.978594383Z",
+  "model": "glm-5.3"
+}

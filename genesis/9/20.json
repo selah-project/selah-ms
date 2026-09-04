@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu mulalah Noah, seorang petani tanah, dan ia menanam kebun anggur.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "lalu mulalah"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "petani tanah"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "dan ia menanam"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:57.779272282Z",
+  "model": "glm-5.3"
+}

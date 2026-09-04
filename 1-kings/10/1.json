@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan permaisuri Syeba mendengar ⟨את⟩ khabar tentang Syelomo, demi nama Yahweh, maka datanglah dia untuk mengujinya dengan teka-teki.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Dan permaisuri"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khabar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "khabar tentang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "demi nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "maka datanglah dia"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "untuk mengujinya"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "dengan teka-teki"
+    }
+  ],
+  "timestamp": "2026-09-04T12:37:26.516673683Z",
+  "model": "glm-5.3"
+}

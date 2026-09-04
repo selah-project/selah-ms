@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Ia menghulurkan dahan-dahan buahnya sampai ke laut, dan sampai ke sungai tunas-tunasnya.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ia menghulurkan"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "dahan-dahan buahnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan sampai ke"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "tunas-tunasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.960710670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "⟨את⟩ khemah perjumpaan, dan ⟨את⟩ tabut untuk perjanjian, dan ⟨את⟩ tutup pendamaian yang di atasnya, dan ⟨את⟩ segala perkakas khemah itu —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah perjumpaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "untuk perjanjian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tutup pendamaian"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:38.297760303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Kepada pemimpin muizik; bagi bani Korah; mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muizik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:52.151742506Z",
+  "model": "glm-5.3"
+}

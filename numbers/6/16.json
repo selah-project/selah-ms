@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan imam menghampirkan semuanya ke hadapan Yahweh, dan membuat ⟨את⟩ korban penebus salahnya dan ⟨את⟩ korban bakarannya.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Dan imam menghampirkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban penebus salahnya"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "korban penebus salahnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban bakarannya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "korban bakarannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:21.664923996Z",
+  "model": "glm-5.3"
+}

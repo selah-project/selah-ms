@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Sukacitakan kami sebanyak hari-hari ⟨yang⟩ Engkau telah menindas kami, sebanyak tahun-tahun ⟨yang⟩ kami telah melihat kecelakaan.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Sukacitakan kami"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "sebanyak hari-hari"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "Engkau telah menindas kami"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sebanyak tahun-tahun"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "kami telah melihat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kecelakaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:42.575405424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Ajarlah aku melakukan kehendak-Mu, kerana Engkaulah Eloahku; Roh-Mu yang baik akan menuntun aku di bumi yang rata.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ajarlah aku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kehendak-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloahku"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Roh-Mu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "akan menuntun aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "yang rata"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:14.087703975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Lalu mereka cemburu terhadap Mosye di kem, terhadap Aharon, orang kudus Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "lalu mereka cemburu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "terhadap Mosye"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di kem"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "terhadap Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "orang kudus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:04.156505506Z",
+  "model": "glm-5.3"
+}

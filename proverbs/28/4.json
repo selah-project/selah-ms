@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yang meninggalkan Tora memuji si jahat, dan penjaga-penjaga Tora berbangkit menentang mereka.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "Yang meninggalkan"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "si jahat"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "penjaga-penjaga"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "berbangkit menentang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "terhadap mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:06.994103567Z",
+  "model": "glm-5.3"
+}

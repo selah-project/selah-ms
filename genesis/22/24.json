@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan gundiknya — namanya Reuma — dia juga melahirkan ⟨את⟩ Tebah, dan ⟨את⟩ Gaham, dan ⟨את⟩ Tahasy, dan ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Dan gundiknya"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebah"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tahasy"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahasy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:50.039082053Z",
+  "model": "glm-5.3"
+}

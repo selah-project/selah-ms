@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Setiap yang memukul ⟨membunuh⟩ nyawa — menurut mulut saksi-saksi dibunuhlah ⟨את⟩ pembunuh itu; dan saksi tunggal tidak boleh bersaksi terhadap suatu nyawa sampai mati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mulut"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "dibunuhlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pembunuh itu"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "pembunuh itu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan saksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tunggal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "boleh bersaksi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "terhadap nyawa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sampai mati"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:32.982979173Z",
+  "model": "glm-5.3"
+}

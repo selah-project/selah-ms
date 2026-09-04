@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan Akhab anak Omri melakukan kejahatan di mata Yahweh, melebihi segala ⟨yang berkuasa⟩ sebelum dia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan melakukan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sebelum dia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:59.871652751Z",
+  "model": "glm-5.3"
+}

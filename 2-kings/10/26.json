@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan mereka mengeluarkan ⟨את⟩ tiang-tiang berhala rumah Baal, lalu membakarnya.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Dan mereka mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang berhala"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tiang-tiang berhala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "lalu mereka membakarnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:08.645159854Z",
+  "model": "glm-5.3"
+}

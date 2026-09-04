@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Seperti lemak dan semarak ⟨ialah⟩ yang mengenyapkan nafsiku, dan dengan bibir bersorak-sorai mulutku memuji.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Seperti"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "dan semarak"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "yang mengenyapkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsiku"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "dan dengan bibir"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:21.786763145Z",
+  "model": "glm-5.3"
+}

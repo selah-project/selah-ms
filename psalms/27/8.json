@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Kepadamu hatiku berkata: Carilah wajah-Ku; ⟨את⟩ wajah-Mu, Yahweh, akan kucari.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kepadamu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Carilah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah-Ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "akan kucari"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:22.466097965Z",
+  "model": "glm-5.3"
+}

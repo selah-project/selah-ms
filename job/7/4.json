@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Apabila aku berbaring, aku berkata, 'Bilakah aku bangun?' tetapi malam terasa panjang ⟨dihabiskan mengukur⟩, dan aku kenyang dengan kelarian ⟨katil⟩ hingga menjelang subuh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "aku berbaring"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Bilakah"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "aku bangun"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "terasa panjang ⟨dihabiskan mengukur⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "dan aku kenyang"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "dengan kelarian ⟨katil⟩"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "menjelang subuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:38.217431457Z",
+  "model": "glm-5.3"
+}

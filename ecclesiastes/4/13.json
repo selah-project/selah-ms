@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lebih baik anak miskin yang bijak daripada raja tua yang bodoh, yang tidak tahu lagi menerima teguran.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "daripada raja"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tua"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "yang bodoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "menerima teguran"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:30.377012179Z",
+  "model": "glm-5.3"
+}

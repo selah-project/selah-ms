@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Berfirmanlah kepada bani Yisrael, katanya: Segala lemak lembu, kambing biri-biri, dan kambing, jangan kamu makan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Berkfirmanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "dan kambing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:48.957316113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Hati yang menyembuhkan ⟨ialah⟩ kehidupan bagi daging, tetapi pereputan tulang ⟨ialah⟩ pendengkian.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "yang menyembuhkan"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "tetapi pereputan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "pendengkian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:46.169640045Z",
+  "model": "glm-5.3"
+}

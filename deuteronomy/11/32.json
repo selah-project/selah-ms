@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka kalian harus menjaga untuk melakukan ⟨את⟩ segala ketetapan dan ⟨את⟩ hukum-hukum yang aku letakkan di hadapan kalian pada hari ini.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Maka kalian harus menjaga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala ketetapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "letakkan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di hadapan kalian"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:28.007933695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu berkata Dawid: \"Yahweh, Elohim Israel, hamba-Mu sungguh-sungguh telah mendengar bahawa Syaul berusaha untuk datang ke Keila, untuk memusnahkan kota itu kerana aku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "berusaha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "untuk datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "untuk memusnahkan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "kerana aku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:50.486731928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ia akan menyembelih ⟨את⟩ anak lembu itu di hadapan Yahweh; dan anak-anak Aharon, para imam, akan menghampirkan ⟨את⟩ darah itu, dan mereka akan merenyukkan ⟨את⟩ darah itu pada mazbah, sekeliling, yang di pintu khemah perjumpaan.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dan ia akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "dan mereka akan menghampirkan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "dan mereka akan merenyukkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:25.198082165Z",
+  "model": "glm-5.3"
+}

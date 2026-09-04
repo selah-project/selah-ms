@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu mereka melintasi ⟨את⟩ Yarden, dan berkhemah di Aroer, di sebelah kanan bandar yang di tengah-tengah wadi Gad, dan sampai ke Yaezer,",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Lalu mereka melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dan berkhemah"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "di Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "di sebelah kanan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wadi"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan sampai ke"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    }
+  ],
+  "timestamp": "2026-09-04T12:32:57.155316379Z",
+  "model": "glm-5.3"
+}

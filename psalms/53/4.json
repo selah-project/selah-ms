@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Semuanya telah berpaling undur, bersama-sama mereka telah menjadi busuk; tiada yang berbuat baik, tiada, bahkan satu pun.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "סג",
+      "gloss": "telah berpaling undur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "mereka telah menjadi busuk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu pun"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:53.526558623Z",
+  "model": "glm-5.3"
+}

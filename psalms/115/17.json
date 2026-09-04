@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Bukan orang-orang mati memuji Yah, dan bukan semua yang turun ke tempat sunyi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "orang-orang mati"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "tempat sunyi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:20.032345870Z",
+  "model": "glm-5.3"
+}

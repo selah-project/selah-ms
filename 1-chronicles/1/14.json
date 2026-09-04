@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan ⟨את⟩ orang Yebusi, dan ⟨את⟩ orang Emori, dan ⟨את⟩ orang Girgasyi,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Yebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "orang Yebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Girgasyi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "orang Girgasyi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:21.339537270Z",
+  "model": "glm-5.3"
+}

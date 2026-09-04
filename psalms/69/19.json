@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Mendekatlah elah nefesyiku, tebuslah dia; demi musuh-musuhku, lepaskanlah aku.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Mendekatlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesyiku"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "tebuslah dia"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "lepaskanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:59.050343459Z",
+  "model": "glm-5.3"
+}

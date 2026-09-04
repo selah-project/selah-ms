@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan berlakulah, ketika surat itu sampai kepada mereka, mereka mengambil ⟨את⟩ anak-anak raja itu, dan menyembelih tujuh puluh orang, dan meletakkan ⟨את⟩ kepala-kepala mereka dalam bakul-bakul, dan mengutus kepadanya ke Yitsreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ketika sampai"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat itu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak raja itu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dan meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala-kepala mereka"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kepala-kepala mereka"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "dalam bakul-bakul"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dan mengutus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ke Yitsreel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:19.480382702Z",
+  "model": "glm-5.3"
+}

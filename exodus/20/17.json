@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jangan engkau mengingini rumah sesamamu; jangan engkau mengingini isteri sesamamu, atau hamba lelakinya, atau hamba perempuannya, atau lembunya, atau kelinya, atau segala apa yang ada pada sesamamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "engkau mengingini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "engkau mengingini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "atau hamba lelakinya"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "atau hamba perempuannya"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "atau lembunya"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "atau kelinya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "atau segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ada pada sesamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:29.824882189Z",
+  "model": "glm-5.3"
+}

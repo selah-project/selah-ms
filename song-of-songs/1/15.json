@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lihatlah, cantik engkau, kasihku; lihatlah, cantik engkau; mata-matamu ⟨seperti⟩ merpati.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kasihku"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-matamu"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "merpati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:48.978539329Z",
+  "model": "glm-5.3"
+}

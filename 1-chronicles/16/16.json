@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "yang dipotong-Nya dengan ⟨את⟩ Avraham, dan sumpah-Nya kepada Yitshak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "dan sumpah-Nya"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kepada Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:02.497081126Z",
+  "model": "glm-5.3"
+}

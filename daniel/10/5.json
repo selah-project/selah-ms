@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu aku mengangkat ⟨את⟩ mataku dan aku melihat, dan lihatlah, seorang lelaki berpakaian kain linen, dan pinggangnya berikat dengan emas Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Lalu aku mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "dan aku melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "kain linen"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "dan pinggangnya"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "berikat"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "dengan emas"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphaz"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:02.658317105Z",
+  "model": "glm-5.3"
+}

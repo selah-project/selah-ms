@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Lalu tentera Kasdim mengejar raja itu, dan mereka mencapai ⟨את⟩ dia di dataran Yeriho; maka seluruh tenteranya berserak dari padanya.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "mengejar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "dan mereka mencapai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (raja itu)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di dataran"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maka seluruh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "tenteranya"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "berserak"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:18.893578572Z",
+  "model": "glm-5.3"
+}

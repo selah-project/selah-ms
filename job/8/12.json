@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Selagi ia dalam pucuknya, belum dipotong, ia kering sebelum segala rumput.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "selagi"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "dalam pucuknya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "kering"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:01.093825438Z",
+  "model": "glm-5.3"
+}

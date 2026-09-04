@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "⟨את⟩ lemak kamu makan, dan ⟨את⟩ bulu kamu pakai, yang bugar kamu sembelih, kambing domba itu tidak kamu gembalakan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bulu"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "kamu pakai"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "yang bugar"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kamu sembelih"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambing domba itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "kamu gembalakan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:59.006439641Z",
+  "model": "glm-5.3"
+}

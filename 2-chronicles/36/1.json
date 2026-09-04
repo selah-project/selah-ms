@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Lalu kaum bumi mengambil Yehoachaz bin Yosyiahu dan mengangkatnya menjadi raja menggantikan ayahnya di Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosyiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "mengangkatnya menjadi raja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T15:14:54.983490012Z",
+  "model": "glm-5.3"
+}

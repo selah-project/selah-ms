@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Bagi bapanya dan bagi ibunya, bagi saudaranya dan bagi saudarinya tidak boleh ia menjadi najis kerana mereka pada kematian mereka, sebab nezer Elohimnya ada di atas kepalanya.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "Bagi bapanya"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "dan bagi ibunya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bagi saudaranya"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "dan bagi saudarinya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "boleh ia menjadi najis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kerana mereka"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "pada kematian mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:01.309943667Z",
+  "model": "glm-5.3"
+}

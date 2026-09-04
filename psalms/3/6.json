@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Aku telah berbaring dan tidur, aku telah terjaga, sebab Yahweh menopangku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "telah berbaring"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "dan tidur"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "telah terjaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "menopangku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:55.498975977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Waspadalah terhadap dirimu, supaya jangan engkau melupakan ⟨את⟩ Yahweh Elohimmu dengan tidak memelihara perintah-perintah-Nya dan hukum-hukum-Nya serta ketetapan-ketetapan-Nya yang aku perintahkan kepadamu pada hari ini.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "waspadalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "terhadap dirimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "engkau melupakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "dengan tidak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "memelihara"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "perintah-perintah-Nya"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "dan hukum-hukum-Nya"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "serta ketetapan-ketetapan-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:22.299282936Z",
+  "model": "glm-5.3"
+}

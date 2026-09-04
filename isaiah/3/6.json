@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Kerana seorang akan memegang saudaranya di rumah bapanya, katanya: \"Engkau ada pakaian, marilah engkau menjadi pemimpin bagi kami, dan biarlah kehancuran ini di bawah tanganmu.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "akan memegang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "marilah engkau"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "dan kehancuran"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:38.276293175Z",
+  "model": "glm-5.3"
+}

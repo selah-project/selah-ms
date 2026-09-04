@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Besar ⟨ialah⟩ Yahweh, dan sangat terpuji, di kota Elohim kami, gunung kesuciannya.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Besar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesuciannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:01.091373413Z",
+  "model": "glm-5.3"
+}

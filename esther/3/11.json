@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan raja berkata kepada Haman, \"Perak itu diberikan kepadamu, juga bangsa itu, untuk berbuat kepadanya seperti yang baik pada matamu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kepada Haman"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak itu"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "juga bangsa itu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk berbuat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "seperti yang baik"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "pada matamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:55.720004713Z",
+  "model": "glm-5.3"
+}

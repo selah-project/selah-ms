@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu ia membasuh ⟨את⟩ isi perut dan ⟨את⟩ kaki-kakinya, dan membakarnya di atas korban bakaran itu di atas mazbah.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "lalu ia membasuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi perut"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi perut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kaki-kakinya"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "kaki-kakinya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan membakarnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:59.947861022Z",
+  "model": "glm-5.3"
+}

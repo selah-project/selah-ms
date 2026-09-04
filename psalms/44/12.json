@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Engkau menyerahkan kami seperti kambing domba menjadi makanan, dan antara bangsa-bangsa Engkau menghamburkan kami.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Engkau menyerahkan kami"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "seperti kambing domba"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "menjadi makanan"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "dan antara bangsa-bangsa"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Engkau menghamburkan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:19.713654326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Yahweh, Elohim aku ⟨⟨engkau⟩⟩; aku akan meninggikan engkau, aku akan memuji nama engkau, sebab engkau telah melakukan keajaiban — rancangan dari zaman lampau, kesetiaan, kebenaran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "aku akan meninggikan engkau"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama engkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau telah melakukan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "dari zaman lampau"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kesetiaan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "kebenaran"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:03.038902442Z",
+  "model": "glm-5.3"
+}

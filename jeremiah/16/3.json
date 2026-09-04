@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 16:3",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Sebab beginilah firman Yahweh tentang anak-anak lelaki dan tentang anak-anak perempuan yang dilahirkan di tempat ini, dan tentang ibu-ibu mereka yang melahirkan mereka, dan tentang bapa-bapa mereka yang memperanakkan mereka di tanah ini:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan tentang"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "yang dilahirkan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan tentang"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "ibu-ibu mereka"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "yang melahirkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "אותם ialah akhiran objek (-tan) pada partisip 'yang melahirkan'; merujuk 'anak-anak lelaki dan anak-anak perempuan'"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan tentang"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "המולדים",
+      "gloss": "yang memperanakkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "akhiran objek pada 'yang memperanakkan'; objek sama seperti di atas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:52.407807844Z",
+  "model": "glm-5.3"
+}

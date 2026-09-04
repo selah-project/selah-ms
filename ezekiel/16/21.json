@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan engkau menyembelih ⟨את⟩ anak-anak lelakiku, dan engkau memberikan mereka dalam menghalaukan mereka ⟨את⟩ kepada mereka.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "dan engkau menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelakiku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak lelakiku"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "dan engkau memberikan mereka"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "dalam menghalaukan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kepada mereka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:31:41.162450942Z",
+  "model": "glm-5.3"
+}

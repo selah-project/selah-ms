@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 130,
+  "translation": "Aku menanti-nantikan Yahweh, menanti-nantikanlah napasku, dan kepada firman-Nya aku mengharap.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "aku menanti-nantikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "menanti-nantikanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "dan kepada firman-Nya"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aku mengharap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:16.828355657Z",
+  "model": "glm-5.3"
+}

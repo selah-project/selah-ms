@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Yahweh telah mengeluarkan ⟨את⟩ kebenaran kami; marilah, dan kita ceritakan di Tsyion ⟨את⟩ perbuatan Yahweh Elohim kami.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "telah mengeluarkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebenaran kami"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "kebenaran kami"
+    },
+    {
+      "surface": "באו",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "dan kita ceritakan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsyion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perbuatan Yahweh Elohim kami"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-09-04T13:27:46.566592690Z",
+  "model": "glm-5.3"
+}

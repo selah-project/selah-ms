@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Jadilah jalan mereka gelap dan licin, dan malaikat Yahweh mengejar mereka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mereka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "dan licin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "dan malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "mengejar mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:40.546592860Z",
+  "model": "glm-5.3"
+}

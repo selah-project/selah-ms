@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan empat roda itu di bawah laluan-laluan itu, dan terekor roda-roda itu pada tapak itu; dan tinggi roda yang satu itu satu hasta dan setengah hasta.",
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "roda-roda itu"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "bagi laluan-laluan itu"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "dan terekor"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "roda-roda itu"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "pada tapak itu"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "dan tinggi"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "roda itu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu itu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hasta itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:17.270552588Z",
+  "model": "glm-5.3"
+}

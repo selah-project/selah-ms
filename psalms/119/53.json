@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kepanasan meradang telah merampas aku kerana orang jahat yang meninggalkan Tora-Mu.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "kepanasan meradang"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "telah merampas aku"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kerana orang jahat"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "yang meninggalkan"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:54.513812178Z",
+  "model": "glm-5.3"
+}

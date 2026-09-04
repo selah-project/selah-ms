@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 1:14",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan seorang utusan datang kepada Iyov dan berkata: lembu-lembu itu sedang membajak dan keldai-keldai betina itu sedang meragut di sisi ⟨tangan⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "dan seorang utusan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu-lembu itu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "חרשות",
+      "gloss": "sedang membajak"
+    },
+    {
+      "surface": "והאתנות",
+      "gloss": "dan keldai-keldai betina itu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "sedang meragut"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:36.751723244Z",
+  "model": "glm-5.3"
+}

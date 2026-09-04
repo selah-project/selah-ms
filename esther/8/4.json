@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu raja menghulurkan kepada Ester ⟨את⟩ tongkat kerajaan emas itu, dan Ester pun bangun, dan berdiri di hadapan raja.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Lalu menghulurkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kepada Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat kerajaan emas"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "tongkat kerajaan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "dan bangun"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:27.943332974Z",
+  "model": "glm-5.3"
+}

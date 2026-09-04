@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan dalam kelimpahan keagungan-Mu Engkau meruntuhkan para pembangkang-Mu; Engkau menghantar membara murka-Mu, ia memakan mereka seperti sekam.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "dan dalam kelimpahan"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "keagungan-Mu"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "Engkau meruntuhkan"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "para pembangkang-Mu"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Engkau menghantar"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "membara murka-Mu"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "ia memakan mereka"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "seperti sekam"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:19.308628470Z",
+  "model": "glm-5.3"
+}

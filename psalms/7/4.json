@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Yahweh, Elohimku, jika aku telah melakukan hal ini, jika ada kezaliman pada telapak tanganku,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku telah melakukan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kezaliman"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "pada telapak tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:11.816172777Z",
+  "model": "glm-5.3"
+}

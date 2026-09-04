@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan jika saudaramu tidak dekat kepadamu dan engkau tidak mengenalnya, maka kumpulkanlah ia ke tengah rumahmu, dan ia ada bersamamu sehingga saudaramu menuntut ⟨את⟩-nya; maka engkau mengembalikannya kepadanya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "engkau mengenalnya"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "maka kumpulkanlah ia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tengah"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ia ada"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "menuntut"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "menuntutnya"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "maka engkau mengembalikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:28.495992140Z",
+  "model": "glm-5.3"
+}

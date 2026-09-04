@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Sebab setinggi langit dari bumi, demikianlah tinggi jalan-Ku dari jalan kamu, dan rancangan-Ku dari rancangan kamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "setinggi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-Ku"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "dari jalan kamu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "dan rancangan-Ku"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "dari rancangan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:43.745952562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "sebab mereka akan mendengar ⟨את⟩ namamu yang besar dan ⟨את⟩ tanganmu yang kuat dan lenganmu yang teracung, lalu datang dan berdoa ke arah rumah ini,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "mereka akan mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namamu yang besar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanganmu yang kuat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "yang kuat"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dan lenganmu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "yang teracung"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "dan berdoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:23.811754267Z",
+  "model": "glm-5.3"
+}

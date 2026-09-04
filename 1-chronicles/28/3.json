@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Tetapi Elohim berfirman kepadaku: \"Engkau tidak akan membina rumah bagi nama-Ku, kerana engkau seorang ════════════════════════════════════════════ lelaki peperangan, dan darah engkau telah tumpahkan.\"",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Tetapi Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "engkau akan membina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "bagi nama-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "dan darah"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "engkau telah tumpahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:14.402133483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Noh memperanakkan tiga anak lelaki: ⟨את⟩ Sem, ⟨את⟩ Ham, dan ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Dan memperanakkan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:05.265689332Z",
+  "model": "glm-5.3"
+}

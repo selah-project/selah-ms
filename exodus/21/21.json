@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Tetapi jika sehari atau dua hari ia bertahan, ia tidak akan dihukum, kerana wangnyalah ia.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tetapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sehari"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "dua hari"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ia bertahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "akan dihukum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "wangnyalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:24.921824237Z",
+  "model": "glm-5.3"
+}

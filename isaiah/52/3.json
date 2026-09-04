@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Sebab beginilah firman Yahweh: Tanpa bayaran kamu dijual, dan bukan dengan perak kamu akan ditebus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "Tanpa bayaran"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "kamu dijual"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "kamu akan ditebus"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:25.762177593Z",
+  "model": "glm-5.3"
+}

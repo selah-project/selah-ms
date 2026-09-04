@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka matilah Syaul dan tiga orang anaknya, dan seluruh rumah tangganya, bersama-sama mereka mati.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maka matilah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumah tangganya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mereka mati"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:04.877910812Z",
+  "model": "glm-5.3"
+}

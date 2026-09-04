@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka anak-anak Israel melakukan ⟨את⟩ kejahatan di mata Yahweh, dan mereka melupakan ⟨את⟩ Yahweh Elohim mereka, dan mereka beribadah kepada ⟨את⟩ Baalim dan ⟨את⟩ Asyerot.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Maka melakukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "dan mereka melupakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Asyerot"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Asyerot"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:18.863796896Z",
+  "model": "glm-5.3"
+}

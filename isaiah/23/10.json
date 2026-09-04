@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lintasilah tanahmu seperti sungai, hai anak perempuan Tarshish; tiada lagi tali pinggang.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "lintasilah"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "seperti sungai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "tali pinggang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:21.956292923Z",
+  "model": "glm-5.3"
+}

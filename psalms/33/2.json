@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Pujilah Yahweh dengan kinnor, dengan nevel asyor; petiklah bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinnor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "dengan nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asyor (sepuluh tali)"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "petiklah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:30.878849935Z",
+  "model": "glm-5.3"
+}

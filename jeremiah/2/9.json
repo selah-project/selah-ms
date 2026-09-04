@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Oleh itu, lagi Aku akan berhujah ⟨את⟩ kamu, perutusan Yahweh, dan ⟨את⟩ anak-anak kepada anak-anak kamu Aku akan berhujah.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Oleh itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "Aku akan berhujah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "perutusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak kepada anak-anak kamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak kepada"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak kamu"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "Aku akan berhujah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:13.034651693Z",
+  "model": "glm-5.3"
+}

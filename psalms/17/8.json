@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Peliharalah aku seperti anak mata, dalam naungan sayap-sayap-Mu sembunyikanlah aku.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Peliharalah aku"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "seperti pusat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dalam naungan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayap-sayap-Mu"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "sembunyikanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:20.631440366Z",
+  "model": "glm-5.3"
+}

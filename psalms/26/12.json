@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Kakiku berdiri di tempat rata; di tengah jemaah aku akan memberkati Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "di tempat rata"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "di tengah jemaah"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "aku akan memberkati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:48.129579356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Di sebelah kiri ketika ⟨ia⟩ bekerja, tetapi aku tidak dapat memandang; ia menyelubungi diri di sebelah kanan, dan aku tidak melihat.",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "di sebelah kiri"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "ketika ⟨ia⟩ bekerja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "aku memandang"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ia menyelubungi diri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "di sebelah kanan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aku melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:11.771134152Z",
+  "model": "glm-5.3"
+}

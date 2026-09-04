@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Hamba-hamba memerintah atas kami; tiada ⟨yang⟩ melepaskan dari tangan mereka.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:02.648023190Z",
+  "model": "glm-5.3"
+}

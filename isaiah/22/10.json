@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan ⟨את⟩ rumah-rumah Yerusalaim kamu hitung, dan rumah-rumah itu kamu runtuhkan untuk membenteng tembok.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah-rumah Yerusalaim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "kamu hitung"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "dan kamu runtuhkan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah-rumah itu"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "untuk membenteng"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tembok"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:43.080458795Z",
+  "model": "glm-5.3"
+}

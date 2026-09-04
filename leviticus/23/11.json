@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia akan menghayunkan ⟨את⟩ berkas omer itu di hadapan Yahweh untuk diterima bagi kamu; pada hari selepas hari sabat itu imam akan menghayunkannya.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Dan ia akan menghayunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkas omer itu"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "berkas omer itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "untuk diterima bagi kamu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada hari selepas"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "hari sabat itu"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "imam akan menghayunkannya — ia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:17.455361870Z",
+  "model": "glm-5.3"
+}

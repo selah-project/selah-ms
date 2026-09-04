@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu Syaul menghampiri ⟨את⟩ Syemuel di tengah pintu gerbang itu dan berkata: Beritahukanlah kiranya kepadaku, di manakah rumah orang pelihat itu?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Lalu menghampiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pintu gerbang itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "beritahukanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אי",
+      "gloss": "di manakah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "orang pelihat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:13.542641384Z",
+  "model": "glm-5.3"
+}

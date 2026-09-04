@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Aku akan menaburkan dia bagi-Ku di bumi, dan Aku akan mengasihani ⟨את⟩ Lo-Ruhamah (yang tidak dikasihani), dan Aku akan berkata kepada Lo-Ami (bukan umat-Ku): umat-Ku engkau, dan dia akan berkata: Elohim aku.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "dan Aku akan menaburkan dia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "dan Aku akan mengasihani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah (yang tidak dikasihani)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "dikasihani"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "dan Aku akan berkata"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kepada bukan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:35.108093771Z",
+  "model": "glm-5.3"
+}

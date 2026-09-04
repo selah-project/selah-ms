@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Ini kuingat, dan kucurahkan ke atas jiwaku, bahawa aku melintas dengan kumpulan ramai, aku berjalan perlahan dengan mereka hingga ke rumah Elohim, dengan suara sorak-sorai dan pujian, kumpulan ramai yang merayakan perayaan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "kuingat"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "dan kucurahkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "aku melintas"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "dengan kumpulan ramai"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "aku berjalan perlahan dengan mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "dan pujian"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kumpulan ramai"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "yang merayakan perayaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:04.240544304Z",
+  "model": "glm-5.3"
+}

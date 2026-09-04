@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Balak berbuat seperti yang dikatakan Bilam, dan dipersembahkannya seekor lembu dan seekor bebiri jantan di atas ⟨setiap⟩ mezbah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu berbuat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan dipersembahkannya"
+    },
+    {
+      "surface": "פר",
+      "gloss": "seekor lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor bebiri jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:00.624347809Z",
+  "model": "glm-5.3"
+}

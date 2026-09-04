@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan rupa muka mereka: muka manusia, dan muka singa di sebelah kanan bagi keempat-empat mereka, dan muka lembu di sebelah kiri bagi keempat-empat mereka, dan muka helang bagi keempat-empat mereka",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "Dan rupa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "muka mereka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dan muka"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di sebelah"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "bagi keempat-empat mereka"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dan muka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "di sebelah kiri"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "bagi keempat-empat mereka"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dan muka"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "helang"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "bagi keempat-empat mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:27:18.037467857Z",
+  "model": "glm-5.3"
+}

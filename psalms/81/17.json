@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Dan Dia memberi makan dia ⟨dengan⟩ lemak gandum, dan dengan madu dari batu Aku mengenyangkan engkau.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "Dan Dia memberi makan dia"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dari lemak"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "dan dari batu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "Aku mengenyangkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:22.253989970Z",
+  "model": "glm-5.3"
+}

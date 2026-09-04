@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 16:31",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu turunlah saudara-saudaranya dan seluruh keluarga bapanya, dan mereka mengangkat dia, lalu membawanya naik dan menguburkan dia antara Tsorah dan antara Esytaol, di kubur Manoah bapanya. Dan dia telah menghakimi ⟨את⟩ Israel dua puluh tahun.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "lalu turunlah"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan membawanya naik"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan menguburkan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Esytaol"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di kubur"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T12:11:33.240759985Z",
+  "model": "glm-5.3"
+}

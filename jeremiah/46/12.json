@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Bangsa-bangsa telah mendengar aibmu, dan jeritanmu telah memenuhi bumi; kerana pahlawan tergelincir bersama pahlawan — kedua-duanya telah jatuh.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "aibmu"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "dan jeritanmu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "telah memenuhi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "terhadap pahlawan"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-duanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:23:56.035100431Z",
+  "model": "glm-5.3"
+}

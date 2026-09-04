@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Orang-orang rendah hati akan makan dan akan kenyang; akan memuji Yahweh orang-orang yang mencari Dia; biarlah hidup hati kamu untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "akan makan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang rendah hati"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "dan akan kenyang"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "akan memuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "orang-orang yang mencari Dia"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "biarlah hidup"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hati kamu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:19.439797995Z",
+  "model": "glm-5.3"
+}

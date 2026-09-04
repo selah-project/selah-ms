@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dia menjadikan kegelapan tempat persembunyian-Nya, sekeliling-Nya pondok-Nya; kegelapan air, awan tebal dari langit.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Dia menjadikan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "tempat persembunyian-Nya"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "sekeliling-Nya"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "pondok-Nya"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "awan tebal"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "dari langit"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:59.770343117Z",
+  "model": "glm-5.3"
+}

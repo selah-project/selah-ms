@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan imam yang mempersembahkan ⟨את⟩ korban ola seseorang — kulit korban ola yang telah dipersembahkannya itu, bagi imam itulah ia menjadi milik.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "dan imam"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "yang mempersembahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban ola"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban ola"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban ola itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "telah dipersembahkannya"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bagi imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:58.212983191Z",
+  "model": "glm-5.3"
+}

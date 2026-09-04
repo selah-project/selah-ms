@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Untuk pemimpin ⟨muzik⟩, mengenai Gatit — mazmur bagi David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gatit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:21.957332975Z",
+  "model": "glm-5.3"
+}

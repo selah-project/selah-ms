@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Dan ⟨את⟩ gobletku — goblet perak itu — letakkan pada mulut karung si bongsu, bersama ⟨את⟩ perak belanjanya; dan ia berbuat menurut perkataan Yosef yang difirmankannya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gobletku"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "gobletku"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "goblet"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak itu"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "letakkan"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "pada mulut"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "karung"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "si bongsu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bersama ⟨את⟩",
+      "marks": "perak belanjanya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belanjanya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia berbuat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut perkataan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:25.517866700Z",
+  "model": "glm-5.3"
+}

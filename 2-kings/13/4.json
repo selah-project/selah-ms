@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan Yehoahaz memohon ⟨את⟩ wajah Yahweh, dan Yahweh mendengar dia, kerana Ia melihat ⟨את⟩ kesusahan Israel — kerana raja Aram menekan ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Dan memohon"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ia melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesusahan"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "menekan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:39.508921924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Elohim memberi tempat tinggal ⟨bagi⟩ yang kesunyian di rumah, membawa keluar para tawanan dalam kemakmuran; tetapi pemberontak mendiami tanah kering.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "memberi tempat tinggal"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "yang kesunyian"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "membawa keluar"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "para tawanan"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "dalam kemakmuran"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "pemberontak"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "mendiami"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "tanah kering"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:32.383022718Z",
+  "model": "glm-5.3"
+}

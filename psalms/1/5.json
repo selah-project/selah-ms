@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab itu orang-orang rasya tidak akan bangkit dalam ⟨hukuman⟩, dan orang-orang berdosa dalam jemaah orang-orang tsadik.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "akan bangkit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang rasya"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dalam hukuman"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "dan orang-orang berdosa"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "dalam jemaah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang tsadik"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:26.096301695Z",
+  "model": "glm-5.3"
+}

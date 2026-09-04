@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 114,
+  "translation": "Di hadapan Adon, bergoncanglah, hai bumi; di hadapan Eloah, milik Yaakov —",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adon"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "bergoncanglah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:01.933549166Z",
+  "model": "glm-5.3"
+}

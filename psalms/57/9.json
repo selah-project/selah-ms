@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Bangunlah, kemuliaanku; bangunlah, harpa dan kecapi; aku akan membangunkan fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "harpa"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kecapi"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "aku akan membangunkan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:43.650680332Z",
+  "model": "glm-5.3"
+}

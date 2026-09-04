@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan ⟨di sana⟩ bangsa itu haus akan air, dan bangsa itu bersungut terhadap Moshe, dan berkata, Mengapa ini engkau telah menaikkan kami dari Mitsrayim untuk mematikan ⟨את⟩ aku dan ⟨את⟩ anak-anakku dan ⟨את⟩ ternakku dengan kehausan?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "Dan … haus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨di sana⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "akan air"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "dan bersungut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "engkau telah menaikkan kami"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "untuk mematikan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anakku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternakku"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "ternakku"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "dengan kehausan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:45.103752233Z",
+  "model": "glm-5.3"
+}

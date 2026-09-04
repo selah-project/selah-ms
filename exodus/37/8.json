@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "satu keruv di hujung pada sebelah sini, dan satu keruv di hujung pada sebelah sana; daripada kaporet itu dihadapkannya ⟨את⟩ keruvim-keruvim itu, pada kedua-dua hujungnya.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "satu keruv"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "di hujung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pada sebelah sini"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "dan satu keruv"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "di hujung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "pada sebelah sana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet itu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dihadapkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruvim-keruvim itu"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruvim-keruvim itu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "pada kedua-dua"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "hujungnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:34.884646169Z",
+  "model": "glm-5.3"
+}

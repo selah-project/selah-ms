@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan berfirmanlah Elohim kepada Noach, katanya:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berfirmanlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:15.259256563Z",
+  "model": "glm-5.3"
+}

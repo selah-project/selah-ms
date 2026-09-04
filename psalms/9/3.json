@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Aku bersuka dan bersorak di dalam Engkau; aku bermazmur bagi nama-Mu, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Aku bersuka"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "dan bersorak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam Engkau"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku bermazmur"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "bagi nama-Mu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:27.847267338Z",
+  "model": "glm-5.3"
+}

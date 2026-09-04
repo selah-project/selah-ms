@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Perbendaharaan kejahatan tidak memberi manfaat, tetapi kebenaran melepaskan dari maut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "memberi manfaat"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Perbendaharaan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tetapi kebenaran"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:39.201161578Z",
+  "model": "glm-5.3"
+}

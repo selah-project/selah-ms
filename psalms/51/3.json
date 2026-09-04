@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Kasihanilah aku, wahai Elohim, menurut hesed-Mu, menurut kelimpahan rahmat-Mu hapuskanlah pemberontakan aku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kasihanilah aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "menurut hesed-Mu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "menurut kelimpahan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat-Mu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "hapuskanlah"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pemberontakan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:20.161071140Z",
+  "model": "glm-5.3"
+}

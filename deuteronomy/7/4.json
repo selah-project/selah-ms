@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "sebab ia akan memesongkan ⟨את⟩ anak lelakimu daripada mengikuti-Ku, dan mereka akan berbakti kepada tuhan-tuhan yang lain; maka menyalalah hidung Yahweh terhadap kamu, dan Ia memusnahkan kamu dengan segera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ia akan memesongkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lelakimu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak lelakimu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "daripada mengikuti"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dan mereka akan berbakti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "dan menyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "terhadap kamu"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "dan Ia memusnahkan kamu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dengan segera"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:15.354698919Z",
+  "model": "glm-5.3"
+}

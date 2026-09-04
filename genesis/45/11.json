@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "dan aku akan menanggung rezekimu di sana, kerana masih ada lagi lima tahun kelaparan — supaya engkau tidak menjadi miskin, engkau dan isi rumahmu dan segala yang ada padamu.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "dan aku akan menanggung rezeki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih lagi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "engkau menjadi miskin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "dan isi rumahmu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ada padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:24.018693702Z",
+  "model": "glm-5.3"
+}

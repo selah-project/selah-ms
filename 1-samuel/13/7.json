@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan orang Ibrani menyeberangi ⟨את⟩ Yarden menuju tanah Gad dan Gilead; dan Syaul masih di Gilgal, dan seluruh rakyat itu gemetar mengikutinya.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Dan orang Ibrani"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "dan Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "dan Syaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "masih"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "gemetar ketakutan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mengikutinya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:35.220003129Z",
+  "model": "glm-5.3"
+}

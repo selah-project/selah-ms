@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu katanya, \"Biarkan aku pergi, sebab fajar telah naik.\" Tetapi katanya, \"Tidak aku akan membiarkan engkau pergi melainkan engkau memberkati aku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "biarkan aku pergi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "telah naik"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tetapi katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "aku akan membiarkan engkau pergi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "engkau memberkati aku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:53.906783340Z",
+  "model": "glm-5.3"
+}

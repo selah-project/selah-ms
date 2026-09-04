@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan ⟨את⟩ kulit-kulit anak kambing itu dipakaikannya pada kedua tangannya dan pada bahagian yang licin tengkuknya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kulit-kulit anak kambing"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulit-kulit"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "anak kambing"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kambing itu"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "dipakaikannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kedua tangannya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan pada"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "bahagian yang licin"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "tengkuknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:03:05.873473668Z",
+  "model": "glm-5.3"
+}

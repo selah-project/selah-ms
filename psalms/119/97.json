@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Betapa aku mencintai Tora-Mu! Sepanjang hari ia renungan aku.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku mencintai"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "renungan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:10.534181934Z",
+  "model": "glm-5.3"
+}

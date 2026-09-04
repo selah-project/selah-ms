@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Maka berkatalah Gideon: \"Oleh itu, apabila Yahweh menyerahkan ⟨את⟩ Zebah dan ⟨את⟩ Tsalmuna ke dalam tanganku, aku akan menghancur daging kamu dengan duri-duri padang belantara dan dengan buah berduri.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "oleh itu"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "apabila…menyerahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zebah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tsalmuna"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Tsalmuna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ke dalam tanganku"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "aku akan menghancur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging kamu"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "daging kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duri-duri"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "duri-duri"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang belantara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "buah berduri"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "buah berduri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:14.714070574Z",
+  "model": "glm-5.3"
+}

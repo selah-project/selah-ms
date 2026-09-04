@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Tukulkan bajak-bajak kamu menjadi pedang-pedang dan pisau pemangkasan kamu menjadi tombak-tombak; biarlah orang lemah berkata: Aku pahlawan.",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "Tukulkan"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "bajak-bajak kamu"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "menjadi pedang-pedang"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "dan pisau pemangkasan kamu"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "menjadi tombak-tombak"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "orang lemah"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "biarlah berkata"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:50.317311287Z",
+  "model": "glm-5.3"
+}

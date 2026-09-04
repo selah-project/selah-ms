@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Maka Aku akan melepaskan ke atas kamu binatang lapangan, dan ia akan menggugurkan anak-anak kamu, dan ia akan memusnahkan binatang ternakan kamu, dan kamu akan diperkecilkan, dan jalan-jalan kamu akan menjadi sunyi.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Maka Aku akan melepaskan"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ke atas kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binatang lapangan"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lapangan"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "dan ia akan menggugurkan anak-anak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "dan ia akan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "binatang ternakan kamu"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "binatang ternakan kamu"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "dan ia akan memperkecilkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "dan akan menjadi sunyi"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan-jalan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:43.379501441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 67,
+  "translation": "Elohim memberkati kita, dan segala hujung bumi akan gentar akan ⟨את⟩⟨Dia⟩.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "memberkati kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dan akan gentar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "segala hujung bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "hujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.867623065Z",
+  "model": "glm-5.3"
+}

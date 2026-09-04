@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan David mengambil ⟨את⟩ segala kambing biri-biri dan lembu — mereka menghalanya di hadiba ternakan itu — dan mereka berkata: \"Inilah rampasan David.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kambing biri-biri dan lembu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "mereka menghalanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadiba"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ternakan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:11.580352330Z",
+  "model": "glm-5.3"
+}

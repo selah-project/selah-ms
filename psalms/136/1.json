@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "Pujilah Yahweh, sebab ⟨Dia⟩ baik, sebab sampai selamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.259674203Z",
+  "model": "glm-5.3"
+}

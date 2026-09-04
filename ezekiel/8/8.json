@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Ia berkata kepadaku: Anak manusia, gali kiranya dinding itu. Lalu saya menggali dinding itu, dan lihatlah, satu pintu masuk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Ia berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "gali"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dinding itu"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "lalu saya menggali"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dinding itu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:28:55.278351545Z",
+  "model": "glm-5.3"
+}

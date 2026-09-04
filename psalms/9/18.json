@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Orang-orang fasik akan kembali kepada Syeol, segala bangsa yang melupakan Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "kepada Syeol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "yang melupakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:00.947408123Z",
+  "model": "glm-5.3"
+}

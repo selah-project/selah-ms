@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Lalu Yosef membeli ⟨את⟩ segala tanah Mitsrayim bagi Paraoh, kerana orang Mitsrayim menjual setiap orang padanya sendiri, kerana kelaparan itu berat sangat atas mereka; maka negeri itu menjadi milik Paraoh.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "lalu membeli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala tanah Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bagi Paraoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "padanya sendiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "berat sangat"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan itu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "maka menjadi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "milik Paraoh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:18.362027225Z",
+  "model": "glm-5.3"
+}

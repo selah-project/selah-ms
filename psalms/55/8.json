@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Lihatlah, aku akan menjauh, melarikan diri; aku akan bermalam di padang belantara. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "aku akan menjauh"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "melarikan diri"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "aku akan bermalam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:23.658713685Z",
+  "model": "glm-5.3"
+}

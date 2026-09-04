@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dan Aharon serta segala bani Yisrael melihat ⟨את⟩ Moshe, dan sesungguhnya kulit mukanya berpancar ⟨sinar⟩, maka mereka takut untuk menghampiri dia.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "serta segala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "berpancar ⟨sinar⟩"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "maka mereka takut"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "untuk menghampiri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:42.164126368Z",
+  "model": "glm-5.3"
+}

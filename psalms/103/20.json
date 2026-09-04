@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Pujilah Yahweh, hai malaikat-malaikatnya, para pahlawan kuat, pelaku firmanya, dengan mendengar kepada suara firmanya.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "hai malaikat-malaikatnya"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "para pahlawan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firmanya"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "dengan mendengar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kepada suara"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firmanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.089435646Z",
+  "model": "glm-5.3"
+}

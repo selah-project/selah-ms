@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Sebab Ia mengingati ⟨את⟩ firman kudus-Nya, ⟨את⟩ Avraham hamba-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Ia mengingati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman kudus-Nya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kudus-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham hamba-Nya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:44.221809430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 137,
+  "translation": "Wahai puteri Babel, si yang akan dibinasakan — berbahagialah dia yang membalas kepadamu ⟨את⟩ balasanmu yang engkau lakukan kepada kami.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "puteri"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "yang akan dibinasakan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "yang membalas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balasanmu"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "balasanmu"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:54.958537380Z",
+  "model": "glm-5.3"
+}

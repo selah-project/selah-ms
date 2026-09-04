@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu Ia berkata, \"Buanglah ia ke bumi!\" Lalu dibuangnya ia ke bumi, danjadilah ia ular, dan Moshe lari dari hadapannya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Ia berkata"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Buanglah ia"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "lalu dibuangnya ia"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dan lari"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:01.357608479Z",
+  "model": "glm-5.3"
+}

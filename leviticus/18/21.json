@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan daripada zuriatmu jangan engkau beri untuk dipersembahkan ⟨melalui⟩ kepada Molekh, dan jangan engkau menajiskan ⟨את⟩ nama Elohimmu; aku ialah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "Dan daripada zuriatmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau beri"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "untuk dipersembahkan ⟨melalui⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada Molekh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "engkau menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:06.719918023Z",
+  "model": "glm-5.3"
+}

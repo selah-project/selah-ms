@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Anak-anaknya dijauhkan daripada keselamatan, dan mereka dipijak di pintu gerbang, dan tiada penyelamat.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "dijauhkan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "daripada keselamatan"
+    },
+    {
+      "surface": "ודכאו",
+      "gloss": "dan dipijak"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "penyelamat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:59.083506935Z",
+  "model": "glm-5.3"
+}

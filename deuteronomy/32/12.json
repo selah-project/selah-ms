@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Yahweh sendirian memimpinnya, dan tiada tuhan asing bersamanya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "memimpinnya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:59.871670920Z",
+  "model": "glm-5.3"
+}

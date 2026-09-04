@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Maka terjadilah, ketika seorang sedang merenehkan balak itu, ⟨את⟩ besinya jatuh ke dalam air, lalu ia berteriak dan berkata: Ah, tuanku! Dan ia itu pinjaman!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "merenehkan"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "balak itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "besinya"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "besinya"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "lalu ia berteriak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ia itu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "pinjaman"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:01.965673235Z",
+  "model": "glm-5.3"
+}

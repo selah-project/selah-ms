@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Yahweh, janganlah aku mendapat malu, kerana aku telah berseru kepada-Mu; biarlah orang-orang fasik mendapat malu, biarlah mereka menjadi senyap menuju Syeol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "aku mendapat malu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "aku telah berseru kepada-Mu"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "biarlah…mendapat malu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "biarlah mereka menjadi senyap"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "menuju Syeol"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:11.706274380Z",
+  "model": "glm-5.3"
+}

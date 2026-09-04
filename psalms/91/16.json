@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Panjang hari-hari akan Aku kenyangkan kepadanya, dan Aku akan memperlihatkan kepadanya keselamatan-Ku.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "akan Aku kenyangkan kepadanya"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "dan Aku akan memperlihatkan kepadanya"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "keselamatan-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:53.897792079Z",
+  "model": "glm-5.3"
+}

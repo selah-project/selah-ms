@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Atau apabila ia menyentuh ketidak-sucian manusia — segala ketidak-suciannya yang menjadikannya tidak suci — dan hal itu tersembunyi daripadanya, maka dia mengetahui, dan bersalah.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Atau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ia menyentuh"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "ketidak-sucian"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ketidak-suciannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadikannya tidak suci"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "dan tersembunyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maka dia"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dan bersalah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:00.131554668Z",
+  "model": "glm-5.3"
+}

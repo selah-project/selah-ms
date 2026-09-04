@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Siapakah yang tahu ⟨apakah⟩ roh anak-anak manusia naik ke atas, dan roh binatang turun ke bawah, ke bumi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yang tahu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan roh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "turun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ke bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:11.017747439Z",
+  "model": "glm-5.3"
+}

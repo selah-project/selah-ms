@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Orang kaya tidak akan menambah dan orang miskin tidak akan mengurangkan daripada setengah syekel, untuk memberi ⟨את⟩ persembahan Yahweh, untuk mengkafarat atas nyawa kamu.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "akan menambah"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "akan mengurangkan"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "daripada setengah"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "syekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "untuk mengkafarat"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nyawa kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:41.555656785Z",
+  "model": "glm-5.3"
+}

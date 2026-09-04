@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Yahweh, batu karangku dan kubuku, dan penyelamatku; Elku, batuku, ⟨pada⟩Nya aku berlindung; perisaiku, dan tanduk keselamatanku, tempat tinggi perteduanku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "batu karangku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dan kubuku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dan penyelamatku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elku"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batuku"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨pada⟩Nya"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "perisaiku"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "dan tanduk"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tempat tinggi perteduanku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:49.438942159Z",
+  "model": "glm-5.3"
+}

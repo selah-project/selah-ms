@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Sebab aku berkata, Jangan sampai mereka bersukacita ke atasku; apabila kakiku tergelincir, mereka membesarkan diri terhadapku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "פן",
+      "gloss": "Jangan sampai"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mereka bersukacita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "apabila tergelincir"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "mereka membesarkan diri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:28.160637730Z",
+  "model": "glm-5.3"
+}

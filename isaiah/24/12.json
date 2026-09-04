@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Tinggallah kekosongan di kota, dan pintu gerbang dilanda kehancuran.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "tinggallah"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "dan kehancuran"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "dilanda"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:27.258140386Z",
+  "model": "glm-5.3"
+}

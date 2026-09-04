@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Bertempat perlindunganlah pada Yahweh dan berbuat baik; diamlah di bumi dan gembalakanlah kesetiaan.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "bertempat perlindunganlah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pada Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "diamlah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "dan gembalakanlah"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kesetiaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:49.163125226Z",
+  "model": "glm-5.3"
+}

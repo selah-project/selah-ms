@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Untuk selama-lamakah Adonai menolak, dan tidak menambah lagi berkenan?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Untuk selama-lamakah"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "menambah"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:42.263072125Z",
+  "model": "glm-5.3"
+}

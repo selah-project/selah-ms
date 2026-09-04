@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Pengasihi kesucian hati, kasih karunia bibirnya, sahabatnya raja.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "pengasihi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "bibirnya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sahabatnya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:47.182366755Z",
+  "model": "glm-5.3"
+}

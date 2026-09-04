@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Jalan menuju kehidupan ⟨ialah⟩ orang yang menjaga didikan, tetapi orang yang meninggalkan teguran tersesat.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "menuju kehidupan"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "yang menjaga"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "tetapi yang meninggalkan"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "tersesat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:37.687610260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Maka rosaklah bumi di hadapan Elohim, dan penuhlah bumi dengan keganasan.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Maka rosaklah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dan penuhlah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "dengan keganasan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:05.265848304Z",
+  "model": "glm-5.3"
+}

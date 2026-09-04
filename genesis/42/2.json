@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dan katanya, \"Lihat, aku telah dengar bahawa ada bekalan gandum di Mitsrayim. Turunlah ke sana dan belilah untuk kita dari sana, supaya kita hidup dan tidak mati.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aku telah dengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bekalan gandum"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "Turunlah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "dan belilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "untuk kita"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "supaya kita hidup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kita mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:34.358444280Z",
+  "model": "glm-5.3"
+}

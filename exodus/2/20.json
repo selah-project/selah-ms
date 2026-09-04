@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan katanya kepada anak-anak perempuannya: Dan di mana dia? Mengapa ini kamu tinggalkan ⟨את⟩ lelaki itu? Panggillah dia, supaya dia makan roti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "anak-anak perempuannya"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "dan di mana dia"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "kamu tinggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelaki itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "panggillah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "supaya dia makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:55.167989426Z",
+  "model": "glm-5.3"
+}

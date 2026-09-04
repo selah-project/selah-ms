@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "dan Naaman, dan Ahiya, dan Gera — dialah yang membawa mereka ke dalam buangan — dan dialah memperanakkan ⟨את⟩ Uza dan ⟨את⟩ Akihud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "dan Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dan Ahiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "dan Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "membawa ke dalam buangan"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Akihud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Akihud"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:34.910654590Z",
+  "model": "glm-5.3"
+}

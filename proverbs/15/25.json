@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Rumah orang yang congkak akan dicabut oleh Yahweh, tetapi ⟨dia⟩ menetapkan sempadan janda.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Rumah"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "orang yang congkak"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "akan dicabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "tetapi menetapkan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sempadan"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:17.064180540Z",
+  "model": "glm-5.3"
+}

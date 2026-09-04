@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Sebab Ia menyembunyikan aku dalam sukanya pada hari kejahatan; Ia menyembunyikan aku di tempat tersembunyi khemah-Nya; di atas batu Ia meninggikan aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "Ia menyembunyikan aku"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "dalam sukanya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "Ia menyembunyikan aku"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tempat tersembunyi"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemah-Nya"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "di atas batu"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "Ia meninggikan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:36.918638096Z",
+  "model": "glm-5.3"
+}

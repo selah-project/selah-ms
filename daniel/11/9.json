@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan ⟨dia⟩ masuk ke dalam kerajaan raja negeri selatan, lalu pulang ke tanahnya.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ke dalam kerajaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "negeri selatan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lalu pulang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:48:26.772961724Z",
+  "model": "glm-5.3"
+}

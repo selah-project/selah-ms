@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu David bangun pagi-pagi, dia dan orang-orangnya, untuk berangkat pada waktu pagi, untuk kembali ke tanah Pelesyety; dan orang Pelesyety pun naik ke Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Lalu bangun pagi-pagi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dan orang-orangnya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk berangkat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "untuk kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyety"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "dan orang Pelesyety"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naik"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:13.223880623Z",
+  "model": "glm-5.3"
+}

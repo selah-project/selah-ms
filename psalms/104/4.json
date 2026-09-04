@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Yang menjadikan utusan-utusannya angin, pelayan-pelayannya api yang menjilat ⟨mengenyala⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yang menjadikan"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "utusan-utusannya"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "angin"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "pelayan-pelayannya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "להט",
+      "gloss": "yang menjilat ⟨mengenyala⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:23.516954533Z",
+  "model": "glm-5.3"
+}

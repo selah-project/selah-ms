@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ⟨את⟩ laut itu diletakkannya dari bahu kanan, ke arah timur, bersebelahan dengan selatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "laut itu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut itu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "dari bahu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ke arah timur"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "bersebelahan dengan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "selatan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:42.879882759Z",
+  "model": "glm-5.3"
+}

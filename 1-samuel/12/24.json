@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Hanyalah takutlah akan ⟨את⟩ Yahweh dan beribadahlah kepada-Nya dalam kebenaran dengan segenap hatimu, sebab lihatlah ⟨את⟩ apa yang telah dibuat-Nya besar bersama kamu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanyalah"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "takutlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "dan beribadahlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kepada-Nya ⟨את⟩"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "dalam kebenaran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "telah dibuat-Nya besar"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:59.066149825Z",
+  "model": "glm-5.3"
+}

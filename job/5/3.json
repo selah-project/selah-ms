@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Aku telah melihat ⟨seorang⟩ bodoh berakar, lalu serta-merta kukutuk kediamannya.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "berakar"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "lalu kukutuk"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "kediamannya"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "serta-merta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:59.083343004Z",
+  "model": "glm-5.3"
+}

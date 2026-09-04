@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Orang yang bijak hatinya menerima perintah-perintah, tetapi si bebal yang banyak bicara akan dijatuhkan.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "menerima"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "tetapi si bebal"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "yang banyak bicara"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "akan dijatuhkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:33.086682681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim menanam taman di Eden, di sebelah timur, dan di sana ⟨Ia⟩ menempatkan ⟨את⟩ manusia yang telah dibentuk-Nya.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Lalu menanam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "di Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di sebelah timur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "telah dibentuk-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:55.499232641Z",
+  "model": "glm-5.3"
+}

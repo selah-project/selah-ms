@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "sampai aku datang dan membawa ⟨את⟩ kamu ke tanah seperti tanah kamu, tanah gandum dan tirosh, tanah roti dan kebun anggur.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באי",
+      "gloss": "aku datang"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "seperti tanah kamu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "dan tirosh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "dan kebun anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T15:49:23.290351393Z",
+  "model": "glm-5.3"
+}

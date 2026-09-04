@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan ⟨ia⟩ menyingkap ⟨את⟩ tudung Yehudah, dan engkau memandang pada hari itu kepada senjata rumah hutan.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Dan menyingkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tudung"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tudung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "dan engkau memandang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "senjata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "היער",
+      "gloss": "hutan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:42.287093992Z",
+  "model": "glm-5.3"
+}

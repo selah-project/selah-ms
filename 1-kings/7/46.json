@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Di padang Yarden raja menuangkannya, dalam tanah liat ⟨yang⟩ tebal, antara Sukot dan antara Tsarethan.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "raja menuangkannya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "dalam tanah liat tebal"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "Tsarethan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:58.012670440Z",
+  "model": "glm-5.3"
+}

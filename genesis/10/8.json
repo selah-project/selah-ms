@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan Kush memperanakkan ⟨את⟩ Nimrod; dialah yang mula-mula menjadi orang gagah di bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "dan Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mula-mula memulakan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "orang gagah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:38.082781367Z",
+  "model": "glm-5.3"
+}

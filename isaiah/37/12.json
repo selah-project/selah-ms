@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Adakah tuhan-tuhan bangsa-bangsa yang telah memusnahkan bapa-bapaku itu menyelamatkan ⟨את⟩ mereka — ⟨את⟩ Gozan dan ⟨את⟩ Haran, dan Retsef, dan bani Eden yang di Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Adakah... menyelamatkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "אלהי"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "telah memusnahkan"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "bapa-bapaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "dan Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "di Telasar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:40.147554178Z",
+  "model": "glm-5.3"
+}

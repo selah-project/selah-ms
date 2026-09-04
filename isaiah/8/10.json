@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Buatlah rancangan, dan ia akan dihancurkan; ucapkanlah perkataan, dan ia tidak akan berdiri, kerana El ⟨bersama⟩ kita.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "buatlah rancangan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "dan ia akan dihancurkan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ucapkanlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:06.142589976Z",
+  "model": "glm-5.3"
+}

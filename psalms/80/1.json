@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Untuk pemimpin muzik, mengikut Shoshannim-Edut (bunga bakung, kesaksian), kesaksian bagi Asaf, mizmor (mazmur).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin muzik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "-Edut (kesaksian)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (mazmur)"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:06.992753214Z",
+  "model": "glm-5.3"
+}

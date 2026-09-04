@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu Pelisyt mengumpulkan ⟨את⟩ semua kem tentera mereka di Afeq, dan Yisrael berkhemah di mata air yang di Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Lalu mengumpulkan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua kem tentera mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kem tentera mereka"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "di Afeq"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "berkhemah"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "di mata air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "di Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:59.502298646Z",
+  "model": "glm-5.3"
+}

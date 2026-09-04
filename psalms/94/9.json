@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Yang menanam telinga, tidakkah ⟨Ia⟩ mendengar? Yang membentuk mata, tidakkah ⟨Ia⟩ memandang?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Yang menanam"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "⟨Ia⟩ mendengar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yang membentuk"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "membentuk"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "⟨Ia⟩ memandang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:40.739998366Z",
+  "model": "glm-5.3"
+}

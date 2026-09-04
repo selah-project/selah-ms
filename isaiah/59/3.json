@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Sebab tapak tangan kamu tercemar dengan darah, dan jari-jari kamu dengan kesalahan; bibir kamu berkata dusta, lidah kamu mengerang kejahatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "tapak tangan kamu"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "tercemar"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dengan darah"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "dan jari-jari kamu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "dengan kesalahan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "bibir kamu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "lidah kamu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mengerang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:10.862872272Z",
+  "model": "glm-5.3"
+}

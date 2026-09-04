@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu murkalah Yahweh terhadap Syelomo, kerana hatinya telah berpaling daripada Yahweh, Elohim Israel, yang telah menampakkan diri kepadanya dua kali.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "lalu murkalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "terhadap Syelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "telah berpaling"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "yang telah menampakkan diri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:42.465564977Z",
+  "model": "glm-5.3"
+}

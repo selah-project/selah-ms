@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Suara sorak-sorai dan keselamatan ⟨ada⟩ di kemah-kemah orang benar: tangan kanan Yahweh berbuat perkara gagah.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "dan keselamatan"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "di kemah-kemah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "perkara gagah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:39.494146626Z",
+  "model": "glm-5.3"
+}

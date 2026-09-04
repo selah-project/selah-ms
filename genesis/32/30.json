@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu Yaakov bertanya dan berkata: \"Katakanlah,kuhambakan, namamu.\" Maka ⟨dia⟩ berkata: \"Mengapa ini engkau bertanya namaku?\" Lalu dia memberkati ⟨את⟩ dia di sana.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Lalu bertanya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kuhambakan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkata"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "engkau bertanya"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "namaku"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Lalu memberkati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:33.470920215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Tetapi ketua pemandu-pemandu minuman itu tidak mengingati ⟨את⟩ Yosef, maka ia melupakan dia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mengingati"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "pemandu-pemandu minuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "maka ia melupakan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:46.282089589Z",
+  "model": "glm-5.3"
+}

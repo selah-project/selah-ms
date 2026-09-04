@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Bagi David. Bertikam-lah, Yahweh, dengan ⟨את⟩ para penentangku; berperang-lah dengan ⟨את⟩ para pewangiku.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bagi David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "bertikam-lah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para penentangku"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "para penentangku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "berperang-lah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pewangiku"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "para pewangiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:38.835456665Z",
+  "model": "glm-5.3"
+}

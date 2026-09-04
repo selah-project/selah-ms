@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Mengapakah aku takut pada hari-hari jahat, ketika kesalahan pada tumit-tumitku mengelilingi aku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "pada tumit-tumitku"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mengelilingi aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:29.009248415Z",
+  "model": "glm-5.3"
+}

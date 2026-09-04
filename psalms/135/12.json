@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Dan memberikan tanah mereka sebagai pusaka, pusaka kepada Yisrael, umat-Nya",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah mereka"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sebagai pusaka"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "pusaka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kepada Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:05.619362407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Angkatlah kepala kamu, hai pintu-pintu gerbang, dan terbukalah, hai pintu-pintu yang berumur panjang, supaya Raja Kemuliaan itu masuk.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kepala kamu"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "dan terbukalah"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yang berumur panjang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "supaya masuk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "Kemuliaan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:40.721406400Z",
+  "model": "glm-5.3"
+}

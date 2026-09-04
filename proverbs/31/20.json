@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Telapak tangannya dibukanya kepada si miskin, dan tangannya dihulurkan kepada si papa.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "telapak tangannya"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "dibukanya\/dibentang"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kepada si miskin"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "dan tangannya"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "dihulurkan"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "kepada si papa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:42.816346096Z",
+  "model": "glm-5.3"
+}

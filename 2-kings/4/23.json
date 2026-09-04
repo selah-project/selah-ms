@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan berkatalah dia: \"Mengapa engkau pergi kepadanya pada hari ini? Bukan bulan baru, dan bukan Sabat.\" Tetapi berkatalah dia: \"Selamat.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah dia"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan baru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkatalah dia"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "selamat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:48.213141844Z",
+  "model": "glm-5.3"
+}

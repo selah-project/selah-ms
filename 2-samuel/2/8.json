@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Avner (Abner) bin Ner, panglima tentera yang milik Syaul, mengambil ⟨את⟩ Ish-Boset bin Syaul, dan membawanya menyeberang ke Mahanayim (Mahanaim).",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Dan Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "milik Syaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boset bin Syaul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boset"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "dan membawanya menyeberang"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanayim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:40.215665826Z",
+  "model": "glm-5.3"
+}

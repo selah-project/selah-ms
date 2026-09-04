@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "⟨Kamu⟩ yang penuh dengan riuh-rendah, bandar yang bingar, kota yang bersukaria — orang-orangmu yang terbunuh itu bukan terbunuh oleh pedang, dan bukan mati dalam peperangan.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "riuh-rendah"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "yang bingar"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "yang bersukaria"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "orang-orangmu yang terbunuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "terbunuh"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "oleh pedang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mati"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "dalam peperangan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:54.905097652Z",
+  "model": "glm-5.3"
+}

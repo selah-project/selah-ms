@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan mereka memerintahkan ⟨את⟩ bangsa itu, katanya: Apabila kamu melihat ⟨את⟩ petutup perjanjian Yahweh, Elohim kamu, dan para imam, orang Lewi, mengangkutnya, maka kamu berangkat dari tempat kamu dan berjalan mengikutnya.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "dan mereka memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "apabila kamu melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petutup perjanjian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petutup"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "dan para imam"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang Lewi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mengangkut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ia"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "berangkat"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "dari tempat kamu"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "dan kamu berjalan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mengikutnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:18.904673989Z",
+  "model": "glm-5.3"
+}

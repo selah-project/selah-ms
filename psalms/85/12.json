@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Kebenaran akan tumbuh dari bumi, dan keadilan dari langit memandang ke bawah.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Kebenaran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "akan tumbuh"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "dan keadilan"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "memandang ke bawah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:46.081598077Z",
+  "model": "glm-5.3"
+}

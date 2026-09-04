@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Hitamlah aku dan cantik, anak-anak perempuan Yerusalem, seperti khemah-khemah Kedar, seperti tirai-tirai Syelomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "hitam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "dan cantik"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "seperti khemah-khemah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "seperti tirai-tirai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:48.105943276Z",
+  "model": "glm-5.3"
+}

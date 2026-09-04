@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan ⟨dia⟩ teringat bahawa daging ⟨mereka⟩, angin yang berjalan dan tidak kembali.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "dan teringat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kembali"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:00.460237589Z",
+  "model": "glm-5.3"
+}

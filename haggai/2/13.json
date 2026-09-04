@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 2:13",
+  "book": "haggai",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu kata Chaggai: Jika yang najis kerana mayat menyentuh sesuatu daripada semua ini, adakah ia menjadi najis? Maka para imam menjawab dan berkata: Ia menjadi najis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Chaggai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kerana mayat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sesuatu daripada semua"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "היטמא",
+      "gloss": "adakah ia menjadi najis"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "maka menjawab"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ia menjadi najis"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:07.052513819Z",
+  "model": "glm-5.3"
+}

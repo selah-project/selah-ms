@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Tidak aku mengutus ⟨את⟩ para nabi, tetapi mereka berlari; tidak aku berbicara kepada mereka, tetapi mereka bernubuat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "aku mengutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "berlari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku berbicara"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "mereka bernubuat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:17:00.552687493Z",
+  "model": "glm-5.3"
+}

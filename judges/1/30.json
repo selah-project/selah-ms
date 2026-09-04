@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Zebulun tidak menghalau penduduk Kitron dan ⟨את⟩ penduduk Nahalol, maka Kenaan itu diam di tengah-tengahnya, dan mereka menjadi khemah upeti.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "menghalau penduduk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penduduk Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka diam"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaan itu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "khemah upeti"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:52.468656920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Perisai kami, lihatlah, hai Elohim, dan pandanglah wajah Mashiah-Mu.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "perisai kami"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "dan pandanglah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:39.447518715Z",
+  "model": "glm-5.3"
+}

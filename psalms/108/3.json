@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Waktu bangunlah hai nebel dan kinnor; aku akan membangunkan fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Waktu bangunlah"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "hai nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "aku akan membangunkan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:56.391099698Z",
+  "model": "glm-5.3"
+}

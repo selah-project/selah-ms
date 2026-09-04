@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan orang yang disucikan itu membasuh ⟨את⟩ pakaiannya, dan mencukur ⟨את⟩ segala bulunya, dan mandi dalam air, maka sucilah dia; dan sesudah itu dia masuk ke dalam kem, tetapi duduknya di luar kemahnya sendiri tujuh hari.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "membasuh"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "orang yang disucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "mencukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bulunya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "bulunya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mandi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "sucilah dia"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sesudah itu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "kemahnya"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:36.743878181Z",
+  "model": "glm-5.3"
+}

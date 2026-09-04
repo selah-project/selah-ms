@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan manusia itu menamakan isterinya Hawa (Chava), kerana dialah ibu segala yang hidup.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia menamakan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:18.813740822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Lalu keluar Hamor, ayah Syekhem, kepada Yaakov untuk berbicara ⟨את⟩ dengannya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Lalu keluar"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuk berbicara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya",
+      "marks": "dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:27.470055466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan anak Salomo ialah Rehavam, Avia anaknya, Asa anaknya, Yehosafat anaknya.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:22.395368422Z",
+  "model": "glm-5.3"
+}

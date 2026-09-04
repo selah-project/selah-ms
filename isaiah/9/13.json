@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Maka Yahweh memotong daripada Yisrael kepala dan ekor, daun palma dan aga, dalam satu hari.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "maka memotong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "daripada Yisrael"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "dan ekor"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "daun palma"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "dan aga"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:38.559280489Z",
+  "model": "glm-5.3"
+}

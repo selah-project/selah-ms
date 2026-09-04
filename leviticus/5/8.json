@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan ia membawa ⟨את⟩ semuanya kepada imam itu, dan imam itu menghampirkan ⟨את⟩ burung yang untuk korban dosa itu lebih dahulu, dan memuntir ⟨את⟩ kepalanya di hadapan tengkuknya tetapi tidak memisahkannya.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "dan ia membawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "semuanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dan menghampirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung yang untuk korban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "untuk korban dosa"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "lebih dahulu"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "dan memuntir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "tengkuknya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "memisahkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:54.638926202Z",
+  "model": "glm-5.3"
+}

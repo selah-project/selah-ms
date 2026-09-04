@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka jadilah, ketika Yoav mengawasi kota itu, ia menempatkan ⟨את⟩ Uria di tempat yang ia tahu bahawa orang-orang yang gagah perkasa ada di sana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka jadilah"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "ketika ... mengawasi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ia menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ia tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "yang gagah perkasa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:12.232635079Z",
+  "model": "glm-5.3"
+}

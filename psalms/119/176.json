@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku telah sesat seperti biri-biri yang hilang; carilah hamba-Mu, kerana perintah-Mu tidak kulupakan.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "Aku telah sesat"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "seperti biri-biri"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yang hilang"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "carilah"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kulupakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:25.312957640Z",
+  "model": "glm-5.3"
+}

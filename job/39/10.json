@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Adakah engkau mengikat reem dengan tali pelananya di alur, atau haruskah dia menyisir lembah-lembah di belakangmu?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "Adakah engkau mengikat"
+    },
+    {
+      "surface": "רים",
+      "gloss": "reem"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "di alur"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "dengan tali pelananya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "menyisir (menghela penghela)"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "lembah-lembah"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "di belakangmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:58.497675456Z",
+  "model": "glm-5.3"
+}

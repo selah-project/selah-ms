@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Maka berserak-seraklah orang itu di seluruh bumi Mitsrayim, untuk mengutip jerami kering sebagai ganti jerami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Maka berserak-seraklah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "untuk mengutip"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jerami kering"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "sebagai ganti jerami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:43.111829082Z",
+  "model": "glm-5.3"
+}

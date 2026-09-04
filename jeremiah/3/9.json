@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan terjadilah, kerana ringannya perzinaannya, bahawa ia mencemari ⟨את⟩ tanah itu, dan berzina dengan ⟨את⟩ batu dan dengan ⟨את⟩ kayu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "kerana ringannya"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "perzinaannya"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "mencemari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "berzina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:08.031715156Z",
+  "model": "glm-5.3"
+}

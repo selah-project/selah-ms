@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab pemberontakan orang-orang naïf akan membunuh mereka, dan ketenangan orang-orang bodoh akan membinasakan mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "pemberontakan"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "orang-orang naïf"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "akan membunuh mereka"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "dan ketenangan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "akan membinasakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:00.323186769Z",
+  "model": "glm-5.3"
+}

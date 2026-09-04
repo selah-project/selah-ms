@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Berbahagialah manusia yang kekuatannya ⟨ada⟩ pada-Mu, yang di dalam hati mereka ⟨ada⟩ jalan-jalan raya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "jalan-jalan raya"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "di dalam hati mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:58.757359022Z",
+  "model": "glm-5.3"
+}

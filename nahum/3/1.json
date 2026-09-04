@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Aduhai negeri yang penuh darah! Segala-galanya tipu daya dan perampasan, penuh sesak; mangsa tidak beredar;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduhai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yang penuh darah"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "segala-galanya"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "tipu daya"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "dan perampasan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuh sesak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "beredar"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:34.057976493Z",
+  "model": "glm-5.3"
+}

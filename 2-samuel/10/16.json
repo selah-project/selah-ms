@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Hadadezer menghantar utusan lalu mengeluarkan ⟨את⟩ Aram yang di seberang sungai itu, dan mereka datang ke Helam; dan Syobakh, panglima tentera Hadadezer, berbaris di hadapan mereka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "menghantar utusan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka datang"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Helam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "dan Syobakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di hadapan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:23.838416227Z",
+  "model": "glm-5.3"
+}

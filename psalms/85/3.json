@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Engkau mengangkat kesalahan umat-Mu, Engkau menutupi seluruh dosa mereka. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Engkau mengangkat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "Engkau menutupi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosa mereka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:52.152127783Z",
+  "model": "glm-5.3"
+}

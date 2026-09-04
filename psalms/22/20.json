@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Tetapi Engkau, Yahweh, janganlah menjauh; kekuatanku, kepada pertolonganku bersegeralah!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "menjauh"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kepada pertolonganku"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "bersegeralah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:35.152758290Z",
+  "model": "glm-5.3"
+}

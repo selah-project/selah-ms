@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Ujilah kiranya ⟨את⟩ hamba-hambamu sepuluh hari, dan biarlah diberikan kepada kami dari biji-bijian untuk dimakan, dan air untuk diminum.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Ujilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambamu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan biarlah diberikan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "biji-bijian"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "untuk dimakan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "untuk diminum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:58.375715406Z",
+  "model": "glm-5.3"
+}

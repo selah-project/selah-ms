@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Aminadav memperanakkan ⟨את⟩ Nahsyon, dan Nahsyon memperanakkan ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "dan Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahsyon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahsyon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "dan Nahsyon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:37.526353333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yang bengkok tidak dapat dibilikangkan, dan yang kurang tidak dapat dikira.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "dibilikankan"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "dan yang kurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "dikira"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:21.746532030Z",
+  "model": "glm-5.3"
+}

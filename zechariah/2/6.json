@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu aku berkata: Ke mana engkau pergi? Dan ia berkata kepadaku: Untuk mengukur ⟨את⟩ Yerushalaim, untuk melihat berapa lebarnya dan berapa panjangnya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu aku berkata"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ke mana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "למד",
+      "gloss": "untuk mengukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "berapa"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "dan berapa"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:53:18.555232054Z",
+  "model": "glm-5.3"
+}

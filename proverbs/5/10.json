@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "supaya orang asing tidak kenyang dengan kekuatanmu, dan jerih payahmu berada di rumah orang asing,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mereka kenyang"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "dan jerih payahmu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "orang asing"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:04.400782589Z",
+  "model": "glm-5.3"
+}

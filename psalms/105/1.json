@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Bersyukurlah kepada Yahweh, berserulah dalam nama-Nya; maklumkanlah di antara bangsa-bangsa perbuatan-perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Bersyukurlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "berserulah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "dalam nama-Nya"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "maklumkanlah"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "perbuatan-perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:13.634523542Z",
+  "model": "glm-5.3"
+}

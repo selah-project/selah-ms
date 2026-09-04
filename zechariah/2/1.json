@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu aku mengangkat ⟨את⟩ mataku dan aku melihat, dan lihat, empat tanduk.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "lalu aku mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "dan aku melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk"
+    }
+  ],
+  "timestamp": "2026-09-04T13:53:22.992448316Z",
+  "model": "glm-5.3"
+}

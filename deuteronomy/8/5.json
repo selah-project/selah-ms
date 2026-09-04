@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Maka engkau akan tahu dengan hatimu, bahawa seperti seorang lelaki mendidik ⟨את⟩ anaknya, Yahweh Elohimmu mendidik engkau.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "maka engkau akan tahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "mendidik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "mendidik engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:35.300024192Z",
+  "model": "glm-5.3"
+}

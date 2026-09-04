@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Bawalah keluar umat yang buta tetapi ada mata, dan yang tuli tetapi ada telinga untuknya.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Bawalah keluar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "עור",
+      "gloss": "buta"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "tetapi ada mata"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "dan yang tuli"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "tetapi ada telinga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuknya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:53.797668238Z",
+  "model": "glm-5.3"
+}

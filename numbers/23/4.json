@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Elohim menemui Bilam, dan ia berkata kepada-Nya: \"⟨את⟩ tujuh mazbah telah kuatur, dan aku mengorbankan seekor lembu dan seekor biri-biri jantan pada mazbah.\"",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "lalu menemui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh mazbah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "telah kuatur"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "dan aku mengorbankan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "seekor lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor biri-biri jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "pada mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:49.225686672Z",
+  "model": "glm-5.3"
+}

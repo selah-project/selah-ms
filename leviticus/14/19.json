@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan imam itu akan membuat korban hatat, dan membuat pendamaian bagi orang yang sedang ditahirkan dari ketumaiannya, dan sesudah itu ia akan menyembelih ⟨את⟩ korban olah itu.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Dan akan membuat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban hatat itu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban hatat"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan membuat pendamaian"
+    },
+    {
+      "surface": "על",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "orang yang sedang ditahirkan"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "dari ketumaiannya"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah itu"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ia akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban olah itu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban olah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:43.822626892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Purifylah aku dengan ezov, maka aku akan bersih; basuhlah aku, maka aku akan lebih putih daripada salji.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "purifylah aku (bersihkanlah aku daripada dosa)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "dengan ezov"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "maka aku akan bersih"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "basuhlah aku"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "dan daripada salji"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "aku akan lebih putih"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:21.993190933Z",
+  "model": "glm-5.3"
+}

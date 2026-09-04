@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Sekiranya Engkau membunuh, wahai Eloah, orang fasik — maka berpalinglah dari padaku, hai orang-orang berdarah!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sekiranya"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "Engkau membunuh"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "hai orang-orang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "berdarah"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "berpalinglah"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari padaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:17.403609303Z",
+  "model": "glm-5.3"
+}

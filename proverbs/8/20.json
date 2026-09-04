@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Di jalan kebenaran aku berjalan, di tengah-tengah laluan penghakiman,",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "Di jalan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "laluan-laluan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghakiman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:21.822105460Z",
+  "model": "glm-5.3"
+}

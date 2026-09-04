@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Berpakaian kambing biri-biri di padang-padang, dan lembah-lembah diselubungi bijirin; berseru-seru mereka, bahkan bernyanyi.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "di padang-padang ternak"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "dan lembah-lembah"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "diselubungi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bijirin"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "berseru-seru"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bernyanyi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:28.365479271Z",
+  "model": "glm-5.3"
+}

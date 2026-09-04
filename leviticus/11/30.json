@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan sang tokek, dan sang biawak besar, dan sang bengkarung, dan sang kadal, dan sang bunglon.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "dan sang tokek"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "dan sang biawak besar"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "dan sang bengkarung"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "dan sang kadal"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "dan sang bunglon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:04.375249606Z",
+  "model": "glm-5.3"
+}

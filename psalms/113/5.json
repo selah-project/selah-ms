@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 113,
+  "translation": "Siapakah seperti Yahweh Elohim kita, ⟨yang⟩ meninggikan diri-Nya untuk duduk bersemayam?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "seperti Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "⟨yang⟩ meninggikan diri-Nya"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuk duduk bersemayam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:45.357778065Z",
+  "model": "glm-5.3"
+}

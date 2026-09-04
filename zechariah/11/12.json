@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu aku berkata kepada mereka, Jika baik di mata kamu, berikan upahku; dan jika tidak, berhentilah. Maka mereka menimbang ⟨את⟩ upahku — tiga puluh ⟨syikal⟩ perak.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lalu aku berkata"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di mata kamu"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "upahku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "berhentilah"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "Maka mereka menimbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upahku"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "upahku"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:08.138501838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ia memukul ⟨את⟩ Moav, dan mengukur mereka dengan tali, sambil membaringkan ⟨את⟩ mereka ke bumi; dan ia mengukur dua tali untuk membunuh, dan muat penuh satu tali untuk menghidupkan; maka Moav menjadi bagi David hamba-hamba, pembawa persembahan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "mengukur mereka"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "dengan tali"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "membaringkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "ke bumi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "mengukur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "untuk membunuh"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "dan muat penuh"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "satu tali"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "untuk menghidupkan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "maka menjadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:25.584525364Z",
+  "model": "glm-5.3"
+}

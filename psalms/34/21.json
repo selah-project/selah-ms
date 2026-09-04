@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "⟨Ia⟩ menjaga segala tulangnya; satu pun daripadanya tidak patah.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "tulang-tulangnya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "patah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:03.691664991Z",
+  "model": "glm-5.3"
+}

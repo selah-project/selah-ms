@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Permulaan hikmat ialah takut akan Yahweh; kefahaman yang baik bagi semua yang melakukannya; pujian-Nya berdiri untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Permulaan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kefahaman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "yang melakukannya"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:38.103742433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan engkau akan mengajarkannya bersungguh-sungguh kepada anak-anakmu, dan engkau akan bercakap tentangnya, ketika engkau duduk di rumahmu dan ketika engkau berjalan di jalan dan ketika engkau berbaring dan ketika engkau bangun.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Dan engkau akan mengajarkannya bersungguh-sungguh"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "kepada anak-anakmu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dan engkau akan bercakap"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tentangnya"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ketika engkau duduk"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumahmu"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "dan ketika engkau berjalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "dan ketika engkau berbaring"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "dan ketika engkau bangun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:09.870514385Z",
+  "model": "glm-5.3"
+}

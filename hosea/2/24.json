@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan bumi akan menjawab ⟨את⟩ gandum dan ⟨את⟩ air anggur baru dan ⟨את⟩ minyak, dan mereka akan menjawab ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Dan bumi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "akan menjawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gandum"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "air anggur baru"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "air anggur baru"
+    },
+    {
+      "surface": "and-ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "akan menjawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:21.242758269Z",
+  "model": "glm-5.3"
+}

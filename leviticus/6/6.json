@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Api berterusan akan menyala di atas mezbah itu, tidak akan dipadamkan.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Api"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "berterusan"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "akan menyala"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "akan dipadamkan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:37.730897711Z",
+  "model": "glm-5.3"
+}

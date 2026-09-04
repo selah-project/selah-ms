@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Mereka akan datang dan memberitakan kebenaran-Nya kepada umat yang akan dilahirkan, sebab Ia telah melakukannya.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Mereka akan datang"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "dan memberitakan"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kebenaran-Nya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada umat"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "yang akan dilahirkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ia telah melakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:37.382165153Z",
+  "model": "glm-5.3"
+}

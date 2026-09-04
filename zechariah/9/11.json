@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Juga engkau — ⟨את⟩ oleh darah perjanjianmu, Aku telah menghantar keluar banduan-banduanmu dari perigi yang tiada air di dalamnya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau",
+      "marks": "את disini ialah kata ganti nama 'engkau' (aleph-tav), bukan penanda objek"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "oleh darah"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "perjanjianmu"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Aku telah menghantar keluar"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "banduan-banduanmu"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dari perigi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:10.119137359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan keluar sempadan itu ke arah laut, ha-Mikmetat dari sebelah utara; dan sempadan itu berpaling ke timur ke Taanat-Syilo, dan melintasinya dari sebelah timur ke Yanoha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dan keluar"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "sempadan itu"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "ke arah laut"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "ha-Mikmetat"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari sebelah utara"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "sempadan itu"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ke timur"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanat"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Syilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "dan melintasi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ia (Taanat-Syilo)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dari sebelah timur"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Yanoha"
+    }
+  ],
+  "timestamp": "2026-09-04T12:02:24.706652158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Demikianlah Zimri memusnahkan ⟨את⟩ seluruh keluarga Baasa, menurut firman Yahweh yang difirmankan-Nya kepada Baasa dengan perantaraan Yehu ha-navi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Demikianlah memusnahkan"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh keluarga Baasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan-Nya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan perantaraan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ha-navi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:17.020747792Z",
+  "model": "glm-5.3"
+}

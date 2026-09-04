@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan aku melihat ⟨את⟩ segala usaha, dan ⟨את⟩ segala kecekapan dalam kerja — bahawa semuanya itu iri hati seseorang terhadap sesamanya; ini juga habel dan menghantui roh.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Dan aku melihat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala usaha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "usaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kecekapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kecekapan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "dalam kerja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "terhadap sesamanya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dan menghantui"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:55.306705264Z",
+  "model": "glm-5.3"
+}

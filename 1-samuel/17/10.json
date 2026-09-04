@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu berkatalah orang Pelisyt itu: Aku telah mencabar ⟨את⟩ barisan-barisan Yisrael hari ini; berikanlah kepadaku seorang lelaki, dan baiklah kita berperang bersama-sama.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Pelisyt itu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "telah mencabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barisan-barisan Yisrael"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "barisan-barisan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "dan baiklah kita berperang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:23.161454110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Atalya, ibu Ahaziahu, melihat bahawa mati anaknya, lalu bangkit dan membinasakan ⟨את⟩ segala benih kerajaan itu.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Dan Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "lalu bangkit"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala benih kerajaan itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:26.031994877Z",
+  "model": "glm-5.3"
+}

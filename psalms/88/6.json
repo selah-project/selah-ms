@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Di antara orang mati aku bebas ⟨⟨seperti⟩⟩ yang terbunuh berbaring di dalam kubur, yang tidak Kauingat lagi; dan mereka terputus daripada tangan-Mu.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "di antara orang mati"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "aku bebas"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "חלALים",
+      "gloss": "yang terbunuh"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "di dalam kubur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "Kauingat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "daripada tangan-Mu"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "terputus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.553318574Z",
+  "model": "glm-5.3"
+}

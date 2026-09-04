@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Tetapi ia berkata kepadanya: Tidak aku akan pergi, melainkan ke negeriku dan ke tanah kelahiranku aku akan pergi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku akan pergi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(sahaja)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "negeriku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tanah kelahiranku"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku akan pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:45.910481085Z",
+  "model": "glm-5.3"
+}

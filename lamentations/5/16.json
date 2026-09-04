@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Gugurlah mahkota kepala kami; aduh ⟨hai⟩ kami, sebab kami telah berdosa.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "gugurlah"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "kepala kami"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "aduh"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨hai⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "telah berdosa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:57.016568195Z",
+  "model": "glm-5.3"
+}

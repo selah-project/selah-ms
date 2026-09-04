@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Pembenci-pembenci Yahweh berpura-pura tunduk kepada-Nya, dan masa mereka pun kekal untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Pembenci-pembenci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "berpura-pura tunduk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan masa mereka pun"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "kekal"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:46.806684362Z",
+  "model": "glm-5.3"
+}

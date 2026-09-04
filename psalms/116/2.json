@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Kerana ⟨Ia⟩ memiringkan telingaNya kepadaku, dan pada hari-hariku aku akan berseru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "⟨Ia⟩ memiringkan"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "telingaNya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dan pada hari-hariku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku akan berseru"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:43.341355190Z",
+  "model": "glm-5.3"
+}

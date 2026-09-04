@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Pada waktu itu aku memerintahkan ⟨את⟩ hakim-hakim kamu, kataku: Dengarkan perkara di antara saudara-saudara kamu, dan adililah dengan keadilan di antara seorang orang dan saudaranya, dan ⟨juga⟩ pendatangnya.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "aku memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakim-hakim kamu"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "hakim-hakim kamu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kataku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara-saudara kamu"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "dan adililah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "dengan keadilan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang orang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "pendatangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:42.236978641Z",
+  "model": "glm-5.3"
+}

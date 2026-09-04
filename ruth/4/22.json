@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "dan Obed memperanakkan ⟨את⟩ Yisyai, dan Yisyai memperanakkan ⟨את⟩ Daud.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "dan Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisyai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisyai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "dan Yisyai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:59.334055919Z",
+  "model": "glm-5.3"
+}

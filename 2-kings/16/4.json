@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan ia mempersembahkan korban dan membakar kemenyan di tempat-tempat tinggi dan di atas bukit-bukit dan di bawah setiap pokok yang menghijau.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Dan ia mempersembahkan korban"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan membakar kemenyan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat tinggi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yang menghijau"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:21.201208504Z",
+  "model": "glm-5.3"
+}

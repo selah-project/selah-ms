@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Engkau telah memarahi bangsa-bangsa, Engkau telah membinasakan orang jahat; nama mereka telah Engkau padamkan untuk selama-lamanya, bahkan selamanya.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Engkau telah memarahi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "Engkau telah membinasakan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nama mereka"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "Engkau telah memadamkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bahkan selamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:04.754410347Z",
+  "model": "glm-5.3"
+}

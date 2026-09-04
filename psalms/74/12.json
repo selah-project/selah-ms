@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Dan Elohim ialah raja saya dari zaman purba, yang mengadakan kelepasan di tengah bumi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja saya"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari zaman purba"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yang mengadakan"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kelepasan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:50.887962247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu mereka meninggalkan di sana ⟨את⟩ tuhan-tuhan mereka, dan Dawid berfirman, dan tuhan-tuhan itu dibakar dalam api.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Lalu meninggalkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "dan dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:39.362657335Z",
+  "model": "glm-5.3"
+}

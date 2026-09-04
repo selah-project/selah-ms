@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan atas yang dimeterai: Nechemyah sang Tirshata (pembesar) bin Hakhalyah, dan Tsidkyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "yang dimeterai"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "sang Tirshata (pembesar)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Hakhalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "dan Tsidkyah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:54:55.145956837Z",
+  "model": "glm-5.3"
+}

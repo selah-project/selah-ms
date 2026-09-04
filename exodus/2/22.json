@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan ia melahirkan seorang anak lelaki, dan ia memanggil ⟨את⟩ namanya Gersyom, kerana katanya: Pendatang telah aku jadi di tanah asing.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dan ia melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersyom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "telah aku jadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:15.448286837Z",
+  "model": "glm-5.3"
+}

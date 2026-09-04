@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Perbendaharaan yang dikehendaki dan minyak ada di kediaman orang bijaksana, tetapi orang bodoh menelannya.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "perbendaharaan"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "yang dikehendaki"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dan minyak"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "di kediaman"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijaksana"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tetapi orang bodoh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "menelannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:14.927004226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 144,
+  "translation": "Lembu kami memikul beban; tiada pecahan, dan tiada yang keluar, dan tiada tangisan memilukan di dataran kami.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "lembu kami"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "memikul beban"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pecahan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "tangisan memilukan"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "di dataran kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:17.474698566Z",
+  "model": "glm-5.3"
+}

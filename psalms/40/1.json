@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Kepada pemimpin muzik, mazmur bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muzik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:46.498730346Z",
+  "model": "glm-5.3"
+}

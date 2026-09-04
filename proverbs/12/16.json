@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Orang bodoh — pada hari itu juga kemarahannya diketahui, tetapi orang yang cerdik menutupi aib.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari itu juga"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "diketahui"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "kemarahannya"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "tetapi menutupi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "aib"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "orang yang cerdik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:03.037038651Z",
+  "model": "glm-5.3"
+}

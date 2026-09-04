@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Kerajaan-kerajaan bumi, nyanyikanlah kepada Elohim, petikkanlah tali bagi Adonai — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Kerajaan-kerajaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "petikkanlah tali"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bagi Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:55.248548999Z",
+  "model": "glm-5.3"
+}

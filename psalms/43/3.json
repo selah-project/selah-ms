@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Utuslah cahaya-Mu dan setia-Mu yang sejati; itulah yang akan menuntun aku, membawa aku ke gunung kudus-Mu dan ke tempat kediaman-Mu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Utuslah"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "cahaya-Mu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "dan setia-Mu yang sejati"
+    },
+    {
+      "surface": "המה",
+      "gloss": "itulah yang"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "akan menuntun aku"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "membawa aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kudus-Mu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tempat kediaman-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:59.515265092Z",
+  "model": "glm-5.3"
+}

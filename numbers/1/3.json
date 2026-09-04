@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dari berumur dua puluh tahun ke atas, setiap orang yang keluar untuk tentera dalam Israel — kamu akan menghitung mereka ⟨את⟩ menurut pasukan mereka, engkau dan Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "dari berumur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "untuk tentera"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dalam Israel"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "kamu akan menghitung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (semua yang keluar untuk tentera)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "menurut pasukan mereka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:46.394294079Z",
+  "model": "glm-5.3"
+}

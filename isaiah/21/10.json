@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Huambiranku, hai anak lantai pengirikanku, apa yang kudengar dari ⟨את⟩ Yahweh Tsebaot, Elohim Israel, telah kuberitahu kepada kamu.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Huambiranku"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "hai anak"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "lantai pengirikanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kudengar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsebaot, Elohim Israel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "telah kuberitahu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:52.203939601Z",
+  "model": "glm-5.3"
+}

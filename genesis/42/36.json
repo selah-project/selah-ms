@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Lalu berkatalah Yaakov, ayah mereka, kepada mereka: \"Aku, ⟨את⟩ kamu jadikan kehilangan anak — Yosef tiada, dan Simeon tiada, dan ⟨את⟩ Binyamin kamu akan bawa — semuanya ini menimpa ke atasku!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "dijadikan kehilangan anak"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "kamu jadikan kehilangan anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "dan Simeon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kamu akan bawa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "menimpa"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "semuanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:37.464745226Z",
+  "model": "glm-5.3"
+}

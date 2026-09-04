@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Satu generasi berlalu dan satu generasi datang, tetapi bumi berdiri untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Satu generasi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berlalu"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dan satu generasi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "tetapi bumi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:30.823200276Z",
+  "model": "glm-5.3"
+}

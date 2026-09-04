@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan ia berkata: Apa dosa saya, bahawa engkau sedang memberikan ⟨את⟩ hambamu ke tangan Ahav untuk membunuh saya?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa saya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sedang memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambamu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "untuk membunuh saya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:29.042535522Z",
+  "model": "glm-5.3"
+}

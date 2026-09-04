@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan sesiapa yang tidak mencari Yahweh, Elohim Israel, akan dibunuh, dari yang kecil sampai yang besar, dari lelaki sampai perempuan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan sesiapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan dibunuh"
+    },
+    {
+      "surface": "למן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "yang kecil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "dari lelaki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:38.772853443Z",
+  "model": "glm-5.3"
+}

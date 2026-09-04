@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan kamu akan berkata demikian: \"Semoga panjang umur! Dan engkau — sejahtera, dan rumahmu — sejahtera, dan segala yang ada padamu — sejahtera.\"",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Dan kamu akan berkata"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Semoga panjang umur"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sejahtera"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "dan rumahmu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sejahtera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ada padamu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sejahtera"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:45.376949054Z",
+  "model": "glm-5.3"
+}

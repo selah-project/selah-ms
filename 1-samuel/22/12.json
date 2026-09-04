@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berkatalah Saul: Dengarlah kiranya, hai anak Ahituv. Dan berkatalah dia: Ini aku, tuanku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahituv"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ini aku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:06.516312252Z",
+  "model": "glm-5.3"
+}

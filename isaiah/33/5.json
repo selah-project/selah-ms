@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Tinggi dimuliakanlah Yahweh, sebab ⟨dia⟩ berdiam di tempat tinggi; ⟨dia⟩ memenuhi Tsyion ⟨dengan⟩ penghakiman dan kebenaran.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "tinggi dimuliakanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "berdiam"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di tempat tinggi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghakiman"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dan kebenaran"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:53.638785837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan engkau telah menceritakan hari ini ⟨את⟩ yang kau lakukan ⟨את⟩ padaku — kebaikan: ⟨את⟩ yang telah menyerahkan aku Yahweh ke dalam tanganmu, dan engkau tidak membunuh aku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "telah menceritakan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang kau lakukan padaku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "kau lakukan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ padaku"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang telah menyerahkan aku Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "telah menyerahkan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "membunuh aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:19.136903955Z",
+  "model": "glm-5.3"
+}

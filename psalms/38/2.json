@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Yahweh, dalam kegeraman-Mu janganlah menghukum aku, dan dalam amarah-Mu janganlah mendidik aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "dalam kegeraman-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "menghukum aku"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "dan dalam amarah-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "mendidik aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:37.104756344Z",
+  "model": "glm-5.3"
+}

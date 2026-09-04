@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Cemburu saya menghabiskan saya, sebab musuh-musuh saya telah melupakan perkataan-perkataan-Mu.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "menghabiskan saya"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "cemburu saya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "telah melupakan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkataan-perkataan-Mu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "musuh-musuh saya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:33.618966267Z",
+  "model": "glm-5.3"
+}

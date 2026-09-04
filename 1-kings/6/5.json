@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan dibinanya pada dinding rumah itu satu struktur sisi keliling, ⟨את⟩ dinding-dinding rumah itu keliling, bagi Heikal dan bagi Devir; dan dibuatnya bilik-bilik sisi keliling.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dan dibinanya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "struktur sisi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "keliling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinding-dinding"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dinding-dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "keliling"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "bagi Heikal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "dan bagi Devir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "bilik-bilik sisi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "keliling"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:57.852456729Z",
+  "model": "glm-5.3"
+}

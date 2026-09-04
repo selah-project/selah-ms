@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan terjadilah: seperti rakyat, begitu juga imam; seperti hamba, begitu juga tuannya; seperti hamba perempuan, begitu juga nyonyanya; seperti pembeli, begitu juga penjual; seperti pemberi pinjam, begitu juga peminjam; seperti penagih hutang, begitu juga yang berhutang kepadanya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "seperti rakyat"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "begitu juga imam"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "seperti hamba"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "begitu juga tuannya"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "seperti hamba perempuan"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "begitu juga nyonyanya"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "seperti pembeli"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "begitu juga penjual"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "seperti pemberi pinjam"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "begitu juga peminjam"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "seperti penagih hutang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yang berhutang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:17.808065690Z",
+  "model": "glm-5.3"
+}

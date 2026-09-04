@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 22:11",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Sekarang, anakku, biarlah Yahweh bersamamu, dan engkau akan berjaya, dan engkau akan membina rumah Yahweh Elohimmu, seperti yang difirmankan-Nya tentang engkau.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sekarang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "והצלחת",
+      "gloss": "dan engkau akan berjaya"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "dan engkau akan membina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan-Nya"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tentang engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:21.526627538Z",
+  "model": "glm-5.3"
+}

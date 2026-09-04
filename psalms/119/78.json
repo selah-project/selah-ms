@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarkan orang-orang congkak mendapat malu, sebab dengan kepalsuan mereka memutarbelitkan aku; aku merenungkan titah-titah-Mu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mendapat malu"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "orang-orang congkak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan kepalsuan"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "mereka memutarbelitkan aku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "merenungkan"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "titah-titah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:36.073337142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "⟨את⟩ meja itu, ⟨את⟩ segala kelengkapannya, dan ⟨את⟩ roti hadirat itu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kelengkapannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kelengkapannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "roti hadirat itu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "hadirat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:49.835842848Z",
+  "model": "glm-5.3"
+}

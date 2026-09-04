@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan akan menganggap kamu bahagia ⟨את⟩ segala bangsa-bangsa, kerana kamu, kamu ⟨akan menjadi⟩ negeri yang dikenan, firman Yahweh Tsebaot.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "dan akan menganggap bahagia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek: segala bangsa-bangsa menganggap)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kamu akan menjadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yang dikenan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:07.005590300Z",
+  "model": "glm-5.3"
+}

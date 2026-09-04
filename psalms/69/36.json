@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Sebab Elohim akan menyelamatkan Tsyion dan akan membina bandar-bandar Yehuda, dan mereka akan diam di sana dan mendudukinya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "akan menyelamatkan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "dan akan membina"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan mereka akan diam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "dan mendudukinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:35.672654729Z",
+  "model": "glm-5.3"
+}

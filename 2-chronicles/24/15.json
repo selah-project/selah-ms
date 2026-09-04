@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan Yehoyada menua, dan dipenuhi hari-hari, lalu mati — berumur seratus tiga puluh tahun ketika matinya.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "dan dia menua"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dan dipenuhi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ketika matinya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:34.766731365Z",
+  "model": "glm-5.3"
+}

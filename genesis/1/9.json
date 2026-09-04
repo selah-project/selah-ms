@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Elohim berfirman: \"Berkumpullah air di bawah langit ke satu tempat, dan biarlah daratan yang kering kelihatan\" — dan jadilah demikian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "berkumpullah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "dan biarlah...kelihatan"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "daratan yang kering"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:41.413389939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 142,
+  "translation": "Ketika roh ku diliputi kesusahan ⟨dalam diri ku⟩, maka Engkau mengetahui jejak ku; di jalan inilah aku berjalan — mereka menyembunyikan jerat bagi ku.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ketika diliputi kesusahan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨dalam diri ku⟩"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roh ku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maka Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "jejak ku"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "mereka menyembunyikan"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:42.066049873Z",
+  "model": "glm-5.3"
+}

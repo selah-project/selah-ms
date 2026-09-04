@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan Shaul bertanya kepada Yahweh, tetapi Yahweh tidak menjawabnya, baik dalam mimpi, baik dalam Urim, baik dalam nabi-nabi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dan bertanya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "menjawabnya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "dalam mimpi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "dalam Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "dalam nabi-nabi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:37.736506011Z",
+  "model": "glm-5.3"
+}

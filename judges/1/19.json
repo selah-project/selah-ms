@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Yahweh ⟨את⟩ bersama Yehuda, dan dia memiliki ⟨את⟩ kawasan pergunungan, tetapi tidak dapat menumpaskan penduduk lembah, kerana mereka ada kereta besi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka ada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bersama",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "memiliki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawasan pergunungan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kawasan pergunungan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "dapat menumpaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk lembah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka ada"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:14.485847286Z",
+  "model": "glm-5.3"
+}

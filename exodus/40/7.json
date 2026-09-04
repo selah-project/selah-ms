@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau hendaklah meletakkan ⟨את⟩ bekas basuhan itu di antara Ohel Moed dan mazbah itu, dan engkau hendaklah meletakkan di sana air.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau hendaklah meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekas basuhan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bekas basuhan itu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau hendaklah meletakkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:57.679361835Z",
+  "model": "glm-5.3"
+}

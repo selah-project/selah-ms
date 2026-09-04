@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu diikatnya ⟨את⟩ keretanya, dan ⟨את⟩ rakyatnya diambilnya bersama-sama dengannya.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "lalu diikatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keretanya"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "keretanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rakyatnya",
+      "marks": "rakyatnya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambilnya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-sama dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:37.164332598Z",
+  "model": "glm-5.3"
+}

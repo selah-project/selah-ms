@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Ahab memanggil Obadyahu, yang mengurus rumah ⟨istana⟩ itu; dan Obadyahu seorang yang takut akan ⟨את⟩ Yahweh dengan sungguh-sungguh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dan memanggil"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengurus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah ⟨istana⟩ itu"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "dan Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sungguh-sungguh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:07.932263201Z",
+  "model": "glm-5.3"
+}

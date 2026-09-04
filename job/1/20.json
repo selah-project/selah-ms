@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Iyob bangun, lalu menyobek ⟨את⟩ jubahnya, dan mencukur ⟨את⟩ kepalanya, lalu jatuh ke bumi, lalu sujud.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "menyobek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahnya"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "jubahnya"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "mencukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sujud"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:44.437425542Z",
+  "model": "glm-5.3"
+}

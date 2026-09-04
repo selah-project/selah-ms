@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Tetap masanya untuk bertindak bagi Yahweh; mereka telah membatalkan Tora-Mu.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masanya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk bertindak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "mereka telah membatalkan"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:32.676702106Z",
+  "model": "glm-5.3"
+}

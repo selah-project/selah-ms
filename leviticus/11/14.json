@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ daah, dan ⟨את⟩ helang-sawah menurut jenisnya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "helang-sawah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "helang-sawah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:18.796431757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Juga hamba-Mu diberi peringatan olehnya; dalam memelihara mereka ada balasan yang besar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "diberi peringatan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "olehnya"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "dalam memelihara mereka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:52.648221480Z",
+  "model": "glm-5.3"
+}

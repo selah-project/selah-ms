@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Jalan-jalan-Mu, Yahweh, maklumkanlah kepadaku; lorong-lorong-Mu ajarkanlah kepadaku.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Jalan-jalan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "maklumkanlah kepadaku"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "lorong-lorong-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkanlah kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:08.389631963Z",
+  "model": "glm-5.3"
+}

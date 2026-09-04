@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "⟨Maka⟩ aku akan mengajar ⟨את⟩ pemberontak jalan-Mu, dan orang berdosa akan kembali kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "aku akan mengajar"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "pemberontak",
+      "marks": "pemberontak"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "dan orang berdosa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "akan kembali"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:29.279369577Z",
+  "model": "glm-5.3"
+}

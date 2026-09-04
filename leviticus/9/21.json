@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ⟨את⟩ dada-dada itu dan ⟨את⟩ paha kanan itu digoncang-gerakkan Aharon sebagai persembahan goncangan di hadapan Yahweh, seperti yang diperintahkan Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dada-dada itu"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "dada-dada itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "paha kanan itu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "paha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan itu"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "digoncang-gerakkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "persembahan goncangan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:39.606411004Z",
+  "model": "glm-5.3"
+}

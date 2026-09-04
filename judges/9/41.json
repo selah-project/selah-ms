@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu Avimelekh duduk di Arumah, dan Zevul menghalau ⟨את⟩ Gaal dan ⟨את⟩ saudara-saudaranya daripada duduk di Sykhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Lalu duduk"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "di Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "dan menghalau"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "daripada duduk"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Sykhem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:17.561056922Z",
+  "model": "glm-5.3"
+}

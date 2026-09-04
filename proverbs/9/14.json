@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan dia duduk di pintu rumahnya, di atas takhta di tempat tinggi bandar,",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "dan dia duduk"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "tempat tinggi"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "bandar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:25.854960082Z",
+  "model": "glm-5.3"
+}

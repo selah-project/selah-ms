@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu mereka berpaling dan berjalan, dan mereka menyuruhkan ⟨את⟩ kanak-kanak dan ⟨את⟩ ternakan dan ⟨את⟩ harta berat di hadapan mereka.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Lalu mereka berpaling"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "dan mereka menyuruhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanak-kanak"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "kanak-kanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternakan"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ternakan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "harta berat"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "harta berat"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di hadapan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:11:31.142767214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Kepada pemimpin muzik; mazmur Dawid. Dalam Yahweh aku berlindung; bagaimana kamu berkata kepada diriku, \"Larilah ke gunungmu seperti burung!\"",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muzik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mazmur Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Dalam Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kamu berkata"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kepada diriku"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Larilah"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ke gunungmu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "seperti burung"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:34.734145902Z",
+  "model": "glm-5.3"
+}

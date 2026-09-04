@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Tetapi Daud menawan ⟨את⟩ kubu Tsyion; itulah bandar Daud.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Tetapi Daud menawan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubu"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:58.005651347Z",
+  "model": "glm-5.3"
+}

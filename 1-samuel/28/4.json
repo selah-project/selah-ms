@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Maka orang Pelisyt berkumpul, dan mereka datang, dan mereka berkhemah di Syunem; dan Syaul mengumpulkan ⟨את⟩ seluruh Israel, dan mereka berkhemah di Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "berkumpul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelisyt"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka datang"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dan mereka berkhemah"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "di Syunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "mengumpulkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dan mereka berkhemah"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "di Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:17.282167533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu berkata David: Adakah tuan-tuan Keila menyerahkan ⟨את⟩ aku dan ⟨את⟩ orang-orangku ke dalam tangan Syaul? Lalu berkatalah Yahweh: Mereka akan menyerahkan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Adakah ... menyerahkan"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orangku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orangku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Mereka akan menyerahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:21.789928487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ada kalanya apabila awan itu ⟨ada⟩ dari petang sampai pagi, dan apabila awan itu naik pada waktu pagi, mereka berangkat; atau sehari dan semalam, dan apabila awan itu naik, mereka berangkat.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "Dan ada kalanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi ⟨ada⟩"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "dari petang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "dan apabila naik"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "mereka berangkat"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sehari"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan semalam"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "dan apabila naik"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "mereka berangkat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:43.631867712Z",
+  "model": "glm-5.3"
+}

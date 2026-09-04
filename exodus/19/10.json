@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu berkatalah Yahweh kepada Moshe: \"Pergilah kepada bangsa itu dan kuduskanlah mereka hari ini dan esok, dan hendaklah mereka membasuh pakaian mereka,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "dan kuduskanlah mereka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "dan esok"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "dan hendaklah mereka membasuh"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "pakaian mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:52.336308888Z",
+  "model": "glm-5.3"
+}

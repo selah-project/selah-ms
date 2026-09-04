@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Segala tulangku akan berkata: Yahweh, siapakah seperti Engkau, yang menyelamatkan orang miskin daripada yang lebih kuat daripadanya, dan orang miskin serta orang papa daripada perampasnya?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulangku"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti Engkau"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "yang menyelamatkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "daripada yang lebih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "serta orang papa"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "daripada perampasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.079757235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Di mata mereka, lubangkan bagimu ⟨dinding itu⟩, dan engkau akan membawa keluar melaluinya.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "di mata mereka"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "lubangkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "⟨dinding itu⟩"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "dan engkau akan membawa keluar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "melaluinya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:30.754291477Z",
+  "model": "glm-5.3"
+}

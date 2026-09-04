@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "maka saya akan mengingati ⟨את⟩ perjanjian saya yang antara saya dan kamu, dan antara setiap makhluk bernyawa dalam segala daging; dan air itu tidak akan menjadi lagi banjir untuk membinasakan segala daging.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "maka saya akan mengingati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian saya"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian saya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara saya"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "dan antara kamu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "makhluk bernyawa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "banjir"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:54.510240172Z",
+  "model": "glm-5.3"
+}

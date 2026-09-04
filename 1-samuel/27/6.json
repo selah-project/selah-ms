@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Maka Akish memberikan kepadanya pada hari itu ⟨את⟩ Tsiklag; sebab itu Tsiklag menjadi milik raja-raja Yehuda sampai hari ini.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Maka memberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "milik raja-raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:57.948530710Z",
+  "model": "glm-5.3"
+}

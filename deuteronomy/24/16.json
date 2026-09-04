@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Janganlah bapa-bapa dibunuh kerana anak-anak, dan anak-anak jangan dibunuh kerana bapa-bapa; setiap orang, atas dosanya sendiri, dibunuh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "atas dosanya sendiri"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dibunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:16.098521630Z",
+  "model": "glm-5.3"
+}

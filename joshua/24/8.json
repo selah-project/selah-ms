@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Aku membawa kamu ke tanah orang Emori itu, yang diam di seberang Yarden, dan mereka berperang ⟨את⟩ kamu, dan Aku menyerahkan mereka ke dalam tangan kamu, dan kamu menduduki ⟨את⟩ tanah mereka, dan Aku memusnahkan mereka dari hadapan kamu.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "lalu Aku membawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori itu"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden itu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dan mereka berperang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu (dengan)"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "dan Aku menyerahkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ke dalam tangan kamu"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "dan kamu menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah mereka"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "dan Aku memusnahkan mereka"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari hadapan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:54.044574965Z",
+  "model": "glm-5.3"
+}

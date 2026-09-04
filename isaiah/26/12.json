@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Yahweh, Engkau menetapkan damai bagi kami, sebab juga segala pekerjaan kami Engkaulah yang mengadakannya bagi kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "Engkau menetapkan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "pekerjaan kami"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Engkau mengadakan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:16.981250249Z",
+  "model": "glm-5.3"
+}

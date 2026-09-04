@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan katanya kepada bapanya, \"Kepala saya, kepala saya.\" Lalu katanya kepada orang muda itu, \"Angkatlah dia kepada ibunya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala saya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala saya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "orang muda itu"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "angkatlah dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:45.472202769Z",
+  "model": "glm-5.3"
+}

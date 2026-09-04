@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Ia membina melawan aku dan mengelilingi aku dengan kepahitan dan penderitaan.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "melawan aku"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "dan mengelilingi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepahitan"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "dan penderitaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:27.434342676Z",
+  "model": "glm-5.3"
+}

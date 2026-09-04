@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan Yitshak berkata kepada mereka: Mengapa kamu datang kepadaku, padahal kamu membenci ⟨את⟩ aku dan menghantar aku pergi dari tengah-tengah kamu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kamu datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "padahal kamu"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "menghantar aku pergi"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "dari ⟨את⟩ tengah-tengah kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:30.811607392Z",
+  "model": "glm-5.3"
+}

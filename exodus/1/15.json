@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu raja Mitsrayim berkata kepada bidan-bidan orang Ibrani — yang nama yang satu Syifra dan nama yang kedua Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kepada bidan-bidan"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "orang Ibrani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Syifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:17.436082597Z",
+  "model": "glm-5.3"
+}

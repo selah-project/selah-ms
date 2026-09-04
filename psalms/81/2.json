@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Bersorak-sora bagi Elohim kekuatan kita; bertempik bagi Elohim milik Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Bersorak-sora"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bagi Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "kekuatan kita"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bertempik"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "bagi Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "milik Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:56.590159085Z",
+  "model": "glm-5.3"
+}

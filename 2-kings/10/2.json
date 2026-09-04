@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan sekarang, apabila surat ini sampai kepada kamu, dan bersama ⟨את⟩ kamu anak-anak tuan-tuan kamu, dan bersama ⟨את⟩ kamu kereta-kereta dan kuda-kuda, serta kota berkubu dan senjata —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "apabila sampai"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "dan bersama ⟨את⟩ kamu",
+      "marks": "anak-anak tuan-tuan kamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "tuan-tuan kamu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "dan bersama ⟨את⟩ kamu",
+      "marks": "kereta-kereta dan kuda-kuda, kota berkubu dan senjata"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kereta-kereta"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "dan kuda-kuda"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "dan kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "dan senjata"
+    }
+  ],
+  "timestamp": "2026-09-04T15:48:55.443543733Z",
+  "model": "glm-5.3"
+}

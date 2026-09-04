@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Untuk pemimpin mazmur, oleh David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oleh David"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:24.670849402Z",
+  "model": "glm-5.3"
+}

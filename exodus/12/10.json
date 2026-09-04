@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan jangan kamu biarkan apa-apa daripadanya berbaki sampai pagi; apa yang berbaki daripadanya sampai pagi kamu bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "kamu biarkan berbaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "dan apa yang berbaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "kamu bakar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:53.773490682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan ⟨את⟩ lelaki jangan kau tiduri seperti tiduran dengan perempuan; kekejian ⟨itulah⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lelaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kau tiduri"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "seperti tiduran"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "dengan perempuan"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨itulah⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:03.988720632Z",
+  "model": "glm-5.3"
+}

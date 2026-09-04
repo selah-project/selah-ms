@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Maka menghampirlah Yaakov kepada Yitshak, bapanya, dan ia menyentuhnya, lalu berkata: \"Suara ⟨ini⟩ suara Yaakov, tetapi tangan ⟨ini⟩ tangan Esav.\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Maka menghampirlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "dan ia menyentuhnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "tetapi tangan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:49.914751658Z",
+  "model": "glm-5.3"
+}

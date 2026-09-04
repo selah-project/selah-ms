@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu Lavan mengumpulkan ⟨את⟩ semua orang tempat itu, dan membuatlah dia sebuah jamuan.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "lalu mengumpulkan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua orang tempat itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuatlah"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "sebuah jamuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:04:48.879697293Z",
+  "model": "glm-5.3"
+}

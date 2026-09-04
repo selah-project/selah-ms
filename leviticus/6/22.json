@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Setiap lelaki di antara para imam boleh memakan ⟨את⟩-nya; kudus mahakudus ⟨ialah⟩ ia.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "di antara para imam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh memakan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "korban itu (minchah imam)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mahakudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:57.575827110Z",
+  "model": "glm-5.3"
+}

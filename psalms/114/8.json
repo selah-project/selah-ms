@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 114,
+  "translation": "Yang membalikkan batu besar menjadi kolam air, batu pipih menjadi mata air air.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Yang membalikkan"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "batu besar"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "kolam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "batu pipih"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:01.933702900Z",
+  "model": "glm-5.3"
+}

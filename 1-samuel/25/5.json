@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Lalu Daud menghantar sepuluh orang muda, dan Daud berkata kepada orang-orang muda itu: \"Naiklah ke Karmel, dan apabila kamu sampai kepada Nabal, tanyalah dia tentang kesejahteraan demi namaku.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menghantar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "orang muda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "kepada orang-orang muda itu"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "ke Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "dan apabila kamu sampai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "tanyalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "demi namaku"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tentang kesejahteraan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:45.376659399Z",
+  "model": "glm-5.3"
+}

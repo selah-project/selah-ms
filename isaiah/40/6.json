@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Suara ⟨sedang⟩ berkata: Serulah! Dan dia berkata: Apakah yang akan aku seru? Semua daging ⟨ialah⟩ rumput, dan segala hesednya seperti bunga padang.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Serulah"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan dia berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "yang akan aku seru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesednya"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "seperti bunga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:53.518142476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Berserahlah kepada Yahweh selama-lamanya, sebab dalam Yah Yahweh ⟨ialah⟩ gunung batu segala zaman.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Berserahlah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "selama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lamanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "dalam Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "gunung batu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "segala zaman"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:42.931198235Z",
+  "model": "glm-5.3"
+}

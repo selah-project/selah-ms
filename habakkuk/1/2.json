@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sampai bila, Yahweh, aku berseru dan Engkau tidak mendengar? Aku menjerit kepada-Mu ⟨kerana⟩ keganasan, dan Engkau tidak menyelamatkan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Engkau mendengar"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "Aku menjerit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "Engkau menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:26:34.754418394Z",
+  "model": "glm-5.3"
+}

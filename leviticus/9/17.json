@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan dibawanya ⟨את⟩ persembahan bijian itu, dan diisinya telapak tangannya daripadanya, dan dibakarnya sebagai wangian di atas mezbah, selain daripada korban bakar pagi itu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dibawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan bijian itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan bijian itu"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "diisinya"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "telapak tangannya"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dibakarnya sebagai wangian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "selain daripada"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban bakar"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:46.239522207Z",
+  "model": "glm-5.3"
+}

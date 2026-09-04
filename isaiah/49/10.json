@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Tidak akan lapar mereka dan tidak akan dahaga, dan tidak akan memukul mereka bara dan matahari, sebab Yang merahimi mereka akan menuntun mereka, dan kepada mata air-mata air air akan Ia beri minum mereka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "akan lapar mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "akan dahaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "akan memukul mereka"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "bara"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "dan matahari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "Yang merahimi mereka"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "akan menuntun mereka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "mata air-mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "akan Ia beri minum mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:47.461392119Z",
+  "model": "glm-5.3"
+}

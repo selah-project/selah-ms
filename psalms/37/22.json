@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Sebab yang diberkati oleh-Nya akan mewarisi tanah, dan yang dikutuk oleh-Nya akan dilenyapkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "yang diberkati oleh-Nya"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "dan yang dikutuk oleh-Nya"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "akan dilenyapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:12.278773553Z",
+  "model": "glm-5.3"
+}

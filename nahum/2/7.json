@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Pintu-pintu gerbang sungai-sungai dibuka, dan ⟨⟨istana⟩⟩ itu hancur meleleh.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "dan istana"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "hancur meleleh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:06.622676321Z",
+  "model": "glm-5.3"
+}

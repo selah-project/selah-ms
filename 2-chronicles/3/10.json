@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan dibuatnya di Rumah Kedosy HaKedosyim dua kerubim, kerja ukiran, dan disalut mereka ⟨את⟩ emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedosy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kedosyim"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kerja"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "dan disalut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (dua kerubim)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:47.053657894Z",
+  "model": "glm-5.3"
+}

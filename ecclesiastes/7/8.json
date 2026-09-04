@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Baik kesudahan sesuatu perkara daripada permulaannya; baik panjang sabar daripada tinggi semangat.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "kesudahan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sesuatu perkara"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "daripada permulaannya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang sabar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangat"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "daripada tinggi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:12.794383081Z",
+  "model": "glm-5.3"
+}

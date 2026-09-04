@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan sesudah itu dibacanya ⟨את⟩ segala perkataan Tora itu, berkat dan sumpah, menurut segala yang tertulis dalam kitab Tora itu.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Dan sesudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dibacanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "dan sumpah"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "menurut segala"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "yang tertulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam kitab"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:59:39.384298859Z",
+  "model": "glm-5.3"
+}

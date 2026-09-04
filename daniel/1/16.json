@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka pemegang jabatan itu terus mengambil ⟨את⟩ santapan mereka dan anggur minuman mereka, dan memberi mereka kekacang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka berlakulah"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "pemegang jabatan itu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santapan mereka"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "santapan mereka"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "minuman mereka"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "kekacang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:42.446170580Z",
+  "model": "glm-5.3"
+}

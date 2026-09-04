@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Yahweh, dalam kerelaan-Mu Engkau menegakkan gunungku sebagai kekuatan; Engkau menyembunyikan wajah-Mu — aku menjadi cemas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "dalam kerelaan-Mu"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "Engkau menegakkan"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "gunungku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sebagai kekuatan"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "Engkau menyembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku menjadi"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "cemas"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:35.187005778Z",
+  "model": "glm-5.3"
+}

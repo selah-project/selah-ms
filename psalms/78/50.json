@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Ia meratakan lorong bagi amarah-Nya; tidak Ditahan-Nya nyawa mereka dari maut, dan hidup mereka diserahkan kepada wabak.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Ia meratakan"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "lorong"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "bagi amarah-Nya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Dia menahan"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "dan hidup mereka"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kepada wabak"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "diserahkan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:33.910009921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Haran mati di hadapan Terah bapanya, di tanah kelahirannya, di Ur Kasdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Dan mati"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "kelahirannya"
+    },
+    {
+      "surface": "באור",
+      "gloss": "di Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:00.828311697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Aku telah bengkang, aku telah tunduk sampai sangat; sepanjang hari aku berjalan berduka.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Aku telah bengkang"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "aku telah tunduk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "berduka"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aku berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:23.344076375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Selamatkanlah aku dari Lumpur, supaya jangan aku tenggelam; biarlah aku diselamatkan dari pembenci-pembenciku dan dari Palung-palung air.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Selamatkanlah aku"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dari Lumpur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "aku tenggelam"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "biarlah aku diselamatkan"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "dari pembenci-pembenciku"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "dan dari Palung-palung"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:57.500425314Z",
+  "model": "glm-5.3"
+}

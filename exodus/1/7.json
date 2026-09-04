@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan bani Israel berbuah-buah, berkoloni-koloni, bertambah ramai, dan menjadi sangat-sangat kuat, sehingga bumi itu penuh ⟨dengan⟩ mereka ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berbuah-buah"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "berkoloni-koloni"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "bertambah ramai"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "menjadi sangat kuat"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sangat-sangat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dan penuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:34.753002374Z",
+  "model": "glm-5.3"
+}

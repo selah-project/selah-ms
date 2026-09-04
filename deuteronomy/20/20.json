@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Hanya pokok yang engkau tahu bahawa bukan pokok makanan ⟨ialah⟩ dia — ⟨את⟩ dia engkau musnahkan dan engkau tebang; dan engkau membina kepungan terhadap bandar yang ⟨ialah⟩ membuat perang dengan engkau, sehingga ia tunduk.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "engkau musnahkan"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "engkau musnahkan"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "dan engkau tebang"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "dan engkau membina"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kepungan"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dengan engkau"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "ia tunduk"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:35.843955395Z",
+  "model": "glm-5.3"
+}

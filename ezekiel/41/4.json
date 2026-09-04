@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Dan diukurnya ⟨את⟩ panjangnya dua puluh hasta, dan lebarnya dua puluh hasta, menghadap muka haheikal; lalu berkatalah ia kepadaku: \"Inilah kedesy ha-kedasyim.\"",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "dan diukurnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panjangnya"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan lebar"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "haheikal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah ia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedesy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ha-kedasyim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:55.161786231Z",
+  "model": "glm-5.3"
+}

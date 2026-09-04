@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sebab demi-Mu kami dibunuh sepanjang hari; kami diperhitungkan seperti kambing domba untuk penyembelihan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "demi-Mu"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "kami dibunuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "kami diperhitungkan"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "seperti kambing domba"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "untuk penyembelihan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:16.205329955Z",
+  "model": "glm-5.3"
+}

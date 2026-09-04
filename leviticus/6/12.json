@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan berfirmanlah Yahweh kepada Moshe, katanya:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:26.327135545Z",
+  "model": "glm-5.3"
+}

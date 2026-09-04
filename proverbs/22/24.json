@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jangan berteman dengan ⟨את⟩ si pemarah, dan dengan ⟨את⟩ lelaki panas baran jangan engkau berganding,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "berteman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si pemarah"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kemarahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "panas baran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "engkau berganding"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:26.523580725Z",
+  "model": "glm-5.3"
+}

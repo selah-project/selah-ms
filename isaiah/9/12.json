@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan bangsa itu tidak berpaling kepada yang memukulnya, dan ⟨את⟩ Yahweh Tsebaot mereka tidak cari.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "dan bangsa itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "yang memukulnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "mereka cari"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:14.240615422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Yehosyua berkata kepada umat itu: Kuduskanlah dirimu, sebab esok Yahweh akan membuat keajaiban di tengah-tengah kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "Kuduskanlah dirimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan membuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di tengah-tengah kamu"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "keajaiban"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:55.046792141Z",
+  "model": "glm-5.3"
+}

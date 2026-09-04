@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Di sana ⟨mereka⟩ telah jatuh, pembuat-pembuat kejahatan; mereka ditolak jatuh, dan tidak dapat bangun.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Di sana"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pembuat-pembuat"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "ditolak jatuh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangun"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:52.864842296Z",
+  "model": "glm-5.3"
+}

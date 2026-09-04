@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia menyembelih ⟨את⟩ segala imam tempat-tempat tinggi yang di sana, di atas mezbah-mezbah itu; dan ia membakar ⟨את⟩ tulang-tulang manusia di atasnya; dan ia pulang ke Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "dan ia menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala imam tempat-tempat tinggi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "tempat-tempat tinggi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mezbah-mezbah itu"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "dan ia membakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang manusia"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan ia pulang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:03.030388146Z",
+  "model": "glm-5.3"
+}

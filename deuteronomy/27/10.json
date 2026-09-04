@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "dan engkau mendengar suara Yahweh, Elohimmu, dan engkau melakukan ⟨את⟩ perintah-Nya dan ⟨את⟩ ketetapan-Nya, yang aku perintahkan kepadamu pada hari ini.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dan engkau mendengar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-Nya"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "perintah-Nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketetapan-Nya"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ketetapan-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:04.412604835Z",
+  "model": "glm-5.3"
+}

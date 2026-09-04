@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan David berkata kepada Avner: \"Bukankah engkau seorang lelaki? Dan siapakah seperti engkau di Yisrael? Mengapakah engkau tidak menjaga tuanmu, raja itu? Sebab datang seorang dari orang ramai itu untuk membinasakan ⟨את⟩ raja, tuanmu itu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Dan siapakah"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti engkau"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "engkau menjaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dari orang ramai itu"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:45.304191486Z",
+  "model": "glm-5.3"
+}

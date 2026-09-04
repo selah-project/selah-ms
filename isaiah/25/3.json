@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Sebab itu bangsa yang kuat akan memuliakan engkau, kota bangsa-bangsa yang kejam akan takut akan engkau.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "akan memuliakan engkau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "yang kuat"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kota"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "yang kejam"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "akan takut akan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:03.039427133Z",
+  "model": "glm-5.3"
+}

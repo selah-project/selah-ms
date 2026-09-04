@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Danjadilah pada waktu petang, lalu diambillahnya ⟨את⟩ Lea anak perempuannya, dan dibawanya ⟨את⟩ dia kepadanya; dan ia masuk kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "danjadilah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lalu diambillahnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea anak perempuannya"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak perempuannya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan dibawanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia masuk"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:04:48.879863598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan di atas batu-batu berharga, menurut ukuran gazit, dan kayu araz.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "Dan di atas"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "berharga"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "menurut ukuran"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gazit"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "dan kayu araz"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:20.943407370Z",
+  "model": "glm-5.3"
+}

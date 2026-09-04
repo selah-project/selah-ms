@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 117,
+  "translation": "Pujilah ⟨את⟩ Yahweh, semua bangsa; magnifikasikan Dia, semua umat.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "magnifikasikan Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "umat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:21.800870019Z",
+  "model": "glm-5.3"
+}

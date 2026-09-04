@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Bersorak-sorailah, langit, dan bergembiralah, bumi; gunung-gunung memecah keluar ⟨dalam⟩ sorak-sorai; sebab Yahweh telah menghibur umat-Nya, dan orang-orang papa-Nya Ia kasihani.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "dan bergembiralah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "memecah keluar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "telah menghibur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "dan orang-orang papa-Nya"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Ia kasihani"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:10.820956772Z",
+  "model": "glm-5.3"
+}

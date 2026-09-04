@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu bapa mereka berkata kepada mereka: Di jalan manakah ia itu pergi? Dan anak-anaknya melihat ⟨את⟩ jalan yang dilalui oleh orang Elohim yang datang dari Yehuda itu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Di"
+    },
+    {
+      "surface": "זה",
+      "gloss": "manakah"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ia pergi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "Dan anak-anaknya melihat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dilalui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oleh orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "dari Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:54.390588499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan ⟨dia⟩ berkata kepadanya: Lihat, telah kunangkan wajahmu juga untuk perkara ini, supaya aku jangan memusnahkan ⟨את⟩ bandar yang telah kaukatakan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "telah kunangkan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuk perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "aku memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "telah kaukatakan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:37.255090070Z",
+  "model": "glm-5.3"
+}

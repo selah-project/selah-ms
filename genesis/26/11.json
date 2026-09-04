@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Lalu Avimelekh memerintahkan ⟨את⟩ seluruh umat itu, katanya, \"Sesiapa yang menyentuh lelaki ini atau isterinya, pastilah ia dihukum mati.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintahkan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh umat itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "atau isterinya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:23.449526396Z",
+  "model": "glm-5.3"
+}

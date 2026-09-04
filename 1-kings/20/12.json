@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka berlakulah, ketika didengarnya ⟨את⟩ perkara ini — sedang dia minum, dia bersama para raja, dalam pondok-pondok — katanya kepada hamba-hambanya: \"Ambillah tempat.\" Maka merekapun mengambil tempat terhadap kota itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ketika didengarnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sedang dia"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "bersama para raja"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "dalam pondok-pondok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Ambillah tempat"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "Maka merekapun mengambil tempat"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:07.866458590Z",
+  "model": "glm-5.3"
+}

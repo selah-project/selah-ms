@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 126,
+  "translation": "Yang menaburkan benih sambil menangis, dengan sorak-sorai akan menuai.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "yang menaburkan benih"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "sambil menangis"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "dengan sorak-sorai"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "akan menuai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:08.900718253Z",
+  "model": "glm-5.3"
+}

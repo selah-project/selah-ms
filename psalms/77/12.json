@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Aku akan mengingat perbuatan Yah; sungguh, aku akan mengingat keajaiban-Mu dari zaman silam.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "aku akan mengingat"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "aku akan mengingat"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari zaman silam"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:49.398709985Z",
+  "model": "glm-5.3"
+}

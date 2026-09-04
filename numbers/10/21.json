@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan berangkatlah bani Kahat, pembawa barang kudus, dan mereka mendirikan kemah suci itu ⟨את⟩ sampai kedatangan mereka.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "berangkatlah"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "bani Kahat"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "barang kudus"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "dan mereka mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah suci"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באם",
+      "gloss": "kedatangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:20.512390165Z",
+  "model": "glm-5.3"
+}

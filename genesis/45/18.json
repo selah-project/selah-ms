@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "dan bawalah ⟨את⟩ bapa kamu serta ⟨את⟩ isi rumah kamu, dan datanglah kepada saya; maka saya akan memberi kepada kamu ⟨את⟩ segala yang terbaik tanah Mitsrayim, dan kamu akan memakan ⟨את⟩ yang paling gemuk ⟨dari⟩ tanah itu.\"",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "dan bawalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa kamu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bapa kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "isi rumah kamu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "isi rumah kamu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada saya"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "maka saya akan memberi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang terbaik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "segala yang terbaik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dan kamu akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang paling gemuk"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yang paling gemuk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:48.536710587Z",
+  "model": "glm-5.3"
+}

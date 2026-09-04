@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 126,
+  "translation": "Pulangkanlah ⟨את⟩ keadaan tawanan kami, wahai Yahweh, seperti saluran air di Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Pulangkanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawanan kami"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "keadaan tawanan kami"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "seperti saluran air"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Negev"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:31.512494254Z",
+  "model": "glm-5.3"
+}

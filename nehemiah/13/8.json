@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan ia sangat buruk di mataku, maka aku campakkan ⟨את⟩ semua kelengkapan rumah Tovia ke luar daripada bilik itu.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Dan ia sangat buruk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "di mataku"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "maka aku campakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua kelengkapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kelengkapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tovia"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ke luar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "bilik itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:55:58.385426134Z",
+  "model": "glm-5.3"
+}

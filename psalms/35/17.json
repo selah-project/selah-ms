@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Adonai, berapa lama ⟨kau⟩ akan melihat? Pulihkanlah jiwa-ku daripada pemusnahan mereka, daripada singa muda satu-satunya-ku.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "berapa lama"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "⟨kau⟩ akan melihat"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "pulihkanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "daripada pemusnahan mereka"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "daripada singa muda"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "satu-satunya-ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:35.584402967Z",
+  "model": "glm-5.3"
+}

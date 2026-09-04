@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "yang membina Tsiyon dengan darah, dan Yerusalaim dengan kelaliman.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dengan darah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerusalaim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "dengan kelaliman"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:40.474632103Z",
+  "model": "glm-5.3"
+}

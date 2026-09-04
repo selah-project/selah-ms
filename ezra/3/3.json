@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 3:3",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan mereka menegakkan mazbah itu di atas tapaknya, sebab ketakutan ada atas mereka kerana bangsa-bangsa negeri-negeri itu; lalu mereka menaikkan ke atasnya korban bakaran bagi Yahweh, korban bakaran bagi waktu pagi dan bagi waktu petang.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "dan mereka menegakkan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מכונתיו",
+      "gloss": "tapaknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "באימה",
+      "gloss": "dalam ketakutan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "dari bangsa-bangsa"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "negeri-negeri itu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lalu mereka menaikkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "bagi waktu pagi"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "dan bagi waktu petang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:49:56.265378927Z",
+  "model": "glm-5.3"
+}

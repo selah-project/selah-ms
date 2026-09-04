@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Kepada manusia ⟨adalah⟩ susunan hati, tetapi dari Yahweh ⟨adalah⟩ jawapan lidah.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "Kepada manusia"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "susunan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "tetapi dari Yahweh"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "jawapan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:05.228172204Z",
+  "model": "glm-5.3"
+}

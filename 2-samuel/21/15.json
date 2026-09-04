@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Lalu terjadi lagi peperangan bagi orang Pelisytim dengan ⟨את⟩ Yisrael, dan turunlah David serta hamba-hambanya bersamanya, dan mereka berperang melawan ⟨את⟩ orang Pelisytim, lalu penatlah David.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "lalu terjadi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "bagi orang Pelisytim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan turunlah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "serta hamba-hambanya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dan mereka berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Pelisytim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelisytim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "lalu penatlah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:28.493192494Z",
+  "model": "glm-5.3"
+}

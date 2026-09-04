@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Jangan berpulang dengan malu ⟨yang⟩ remuk; biarlah orang miskin dan orang kepapaan memuji nama-Mu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "berpulang"
+    },
+    {
+      "surface": "דך",
+      "gloss": "yang remuk"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "dengan malu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan orang kepapaan"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:47.155832423Z",
+  "model": "glm-5.3"
+}

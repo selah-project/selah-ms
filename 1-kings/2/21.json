@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Berkatalah dia, biarlah diberikan ⟨את⟩ Abisyag orang Syunam itu kepada Adoniyahu saudaramu menjadi isteri.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Berkatalah dia"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abisyag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abisyag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "orang Syunam"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kepada Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi isteri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:26.723849095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan Hazael raja Aram menindas ⟨את⟩ Israel sepanjang hari-hari Yehoahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Dan Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:44.073817225Z",
+  "model": "glm-5.3"
+}

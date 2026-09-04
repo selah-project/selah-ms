@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "lalu mereka mengambil ⟨את⟩ segala orang dan pergi berperang dengan Yishmael bin Netanya, lalu mendapati ⟨את⟩ dia di air yang besar yang di Givon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala orang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanya"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "lalu mendapati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Yishmael)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givon"
+    }
+  ],
+  "timestamp": "2026-09-04T13:22:27.948387384Z",
+  "model": "glm-5.3"
+}

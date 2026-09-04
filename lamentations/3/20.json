@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Mengingat, terus mengingat, dan tertunduklah dalam diriku nafasku.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "terus mengingat"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "dan tertunduklah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dalam diriku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:38.716548212Z",
+  "model": "glm-5.3"
+}

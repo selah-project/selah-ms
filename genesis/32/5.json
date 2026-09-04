@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan baginda memerintahkan ⟨את⟩ mereka, katanya: Beginilah kamu katakan kepada tuanku, kepada Esau: Begini kata hambamu Yaakov: Bersama Lavan aku merantau, dan aku tinggal ⟨sana⟩ sehingga sekarang.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dan baginda memerintahkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "kamu katakan"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kepada tuanku"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kepada Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Bersama"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "aku merantau"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan aku tinggal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:42.311452200Z",
+  "model": "glm-5.3"
+}

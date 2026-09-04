@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Ia berkata kepada Yehuda untuk mencari ⟨את⟩ Yahweh, Elohim bapa-bapa mereka, dan untuk melakukan Tora dan perintah itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ia berkata"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "dan untuk melakukan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "dan perintah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:45.139876581Z",
+  "model": "glm-5.3"
+}

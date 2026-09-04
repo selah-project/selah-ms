@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Yang memandang kepada bumi sehingga ia bergoncang; yang menyentuh gunung-gunung sehingga mereka berasap.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Yang memandang"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kepada bumi"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "sehingga ia bergoncang"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "sehingga mereka berasap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.632366737Z",
+  "model": "glm-5.3"
+}

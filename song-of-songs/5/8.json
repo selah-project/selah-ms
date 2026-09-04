@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Aku bersumpah ⟨את⟩ kamu, anak-anak perempuan Yerushalaim: jika kamu menemui ⟨את⟩ dodiku, apa yang kamu katakan kepadanya? Bahwa aku sakit kerana cinta.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "aku bersumpah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "anak-anak perempuan Yerushalaim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "kamu menemui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dodiku"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "dodiku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kamu katakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kerana cinta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:49.095171431Z",
+  "model": "glm-5.3"
+}

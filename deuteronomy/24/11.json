@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Di luar engkau berdiri, dan orang yang engkau beri pinjaman itu akan membawa keluar kepadamu ⟨את⟩ gadaian itu ke luar.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Di luar"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "engkau berdiri"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "beri pinjaman"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "akan membawa keluar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadaian"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "gadaian"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ke luar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:36.379520727Z",
+  "model": "glm-5.3"
+}

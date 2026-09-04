@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Bagi David, pada waktu ia menukar ⟨את⟩ kelakuannya di hadapan Avimelekh, lalu ia mengusir dia dan ia pergi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bagi David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "pada waktu ia menukar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelakuannya"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "kelakuannya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "lalu ia mengusir dia"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.498595903Z",
+  "model": "glm-5.3"
+}

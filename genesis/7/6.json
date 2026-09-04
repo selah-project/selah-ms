@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan Noach berumur enam ratus tahun, dan air bah itu menjadi air di atas bumi.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Dan Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨anak⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "dan air bah itu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:27.876838037Z",
+  "model": "glm-5.3"
+}

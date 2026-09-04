@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Ia tertindas, ia menunduk, dan orang-orang malang jatuh oleh kekuatannya yang hebat.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ia tertindas"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ia menunduk"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "oleh kekuatannya yang hebat"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "orang-orang malang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:50.193993870Z",
+  "model": "glm-5.3"
+}

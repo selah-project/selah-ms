@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Seperti kepanasan di tempat kering, riuh orang-orang asing kaurenangkan; seperti panas oleh naungan awan, nyanyian orang-orang kejam direndahkan.",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "seperti kepanasan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di tempat kering"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "riuh"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang-orang asing"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "kaurenangkan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "panas"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "naungan"
+    },
+    {
+      "surface": "עב",
+      "gloss": "awan"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "orang-orang kejam"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "direndahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:19.185050986Z",
+  "model": "glm-5.3"
+}

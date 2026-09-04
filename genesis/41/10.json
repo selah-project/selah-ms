@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Paroh murka terhadap hamba-hambanya, dan baginda menyerahkan ⟨את⟩ aku ke dalam tahanan rumah ketua pengawal — ⟨את⟩ aku dan ⟨את⟩ ketua pembuat roti.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan baginda menyerahkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "tahanan"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ke dalam tahanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pengawal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "ketua pembuat roti (aposisi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketua pembuat roti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pembuat roti"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:45.749004467Z",
+  "model": "glm-5.3"
+}

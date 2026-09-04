@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan apabila kamu menuai tuaian tanah kamu, janganlah kauhabiskan habis pesak padimu ketika menuai, dan sisa tuaian yang jatuh janganlah kautungau.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "dan apabila kamu menuai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuaian"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "tuaian"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanah kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kauhabiskan habis"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pesak"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "padimu"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ketika menuai"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "dan sisa tuaian yang jatuh"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "tuaianmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kautungau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:13.744992521Z",
+  "model": "glm-5.3"
+}

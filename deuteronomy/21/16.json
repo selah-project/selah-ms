@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Maka jadilah, pada hari dia menjadikan ⟨את⟩ anak-anak lelaki dia mewarisi ⟨את⟩ segala yang ada baginya, dia tidak boleh mengutamakan sebagai sulung ⟨את⟩ anak si dikasihi di hadapan anak si dibenci, si sulung itu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Maka jadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "dia menjadikan mewarisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelaki dia"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anak lelaki dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang ada baginya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "segala yang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "boleh"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "mengutamakan sebagai sulung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak si dikasihi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "si dikasihi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "si dibenci"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "si sulung itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:30.147509717Z",
+  "model": "glm-5.3"
+}

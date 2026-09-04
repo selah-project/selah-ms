@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu Dawid berunding dengan para pembesar ribu dan para pembesar seratus, dengan setiap pemimpin.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "berunding"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "dan para pembesar seratus"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pemimpin"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:11.391659310Z",
+  "model": "glm-5.3"
+}

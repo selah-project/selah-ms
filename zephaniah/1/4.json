@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan aku akan menghulurkan tanganku ke atas Yehudah dan ke atas semua penduduk Yerusalaim, dan aku akan memusnahkan dari tempat ini ⟨את⟩ baki penyembah Baal, ⟨את⟩ nama para pemuja Baal bersama para imam.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "dan aku akan menghulurkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan aku akan memusnahkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baki penyembah Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama para pemuja Baal"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "para pemuja Baal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    }
+  ],
+  "timestamp": "2026-09-04T15:26:31.022268218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "dan burung qa-at, dan ⟨את⟩ burung rahama, dan ⟨את⟩ burung syalakh;",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "dan burung qa-at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung rahama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "burung rahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung syalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "burung syalakh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:58.675049599Z",
+  "model": "glm-5.3"
+}

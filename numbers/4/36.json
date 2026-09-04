@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 4:36",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan bilangan yang dihitung dari mereka, menurut keluarga mereka, dua ribu tujuh ratus lima puluh.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dan ... adalah"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "bilangan yang dihitung dari mereka"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga mereka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua ribu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dan lima puluh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:09.884185619Z",
+  "model": "glm-5.3"
+}

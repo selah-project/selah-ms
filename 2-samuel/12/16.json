@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu David mencari ⟨את⟩ Elohim kerana anak itu, dan David berpuasa dengan puasa, lalu masuk, bermalam, dan berbaring ke atas tanah.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Lalu mencari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "dan berpuasa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "dengan puasa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lalu masuk"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "dan berbaring"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke atas tanah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:15.567459269Z",
+  "model": "glm-5.3"
+}

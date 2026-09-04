@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "apabila mereka ada suatu perkara, datanglah ia kepadaku, maka aku menghakimi antara seseorang dan sesamanya, dan aku memberitahukan ⟨את⟩ ketetapan-ketetapan Elohim dan ⟨את⟩ Tora-Nya.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "suatu perkara"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datanglah ia"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "maka aku menghakimi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "dan aku memberitahukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tora-Nya"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tora-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:13.360366659Z",
+  "model": "glm-5.3"
+}

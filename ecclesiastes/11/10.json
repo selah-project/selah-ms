@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan hilangkanlah kepedihan hati dari hatimu, dan jauhkanlah kejahatan dari tubuhmu, kerana masa kanak-kanak dan kehitaman ⟨rama-rama⟩ ⟨adalah⟩ habel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Dan hilangkanlah"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kepedihan hati"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "dari hatimu"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "dan jauhkanlah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "dari tubuhmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "masa kanak-kanak"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "dan kehitaman ⟨rama-rama⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:25.220022975Z",
+  "model": "glm-5.3"
+}

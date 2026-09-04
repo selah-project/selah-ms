@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Sebab hati mereka merancangkan keganasan, dan bibir mereka berbicara kesusahan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שד",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "merancangkan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "dan kesusahan"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "bibir mereka"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "berbicara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:57.874932470Z",
+  "model": "glm-5.3"
+}

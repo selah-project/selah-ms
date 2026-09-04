@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan bersama ⟨את⟩ kamu akan ada seorang untuk setiap suku, seorang ketua untuk rumah bapa leluhurnya, dia sendiri.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "dan ⟨את⟩ bersama kamu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "untuk suku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "untuk rumah"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa leluhurnya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:46.394419036Z",
+  "model": "glm-5.3"
+}

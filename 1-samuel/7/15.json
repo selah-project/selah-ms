@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan Shemuel menghakimi ⟨את⟩ Israel segala hari-hari hayatnya.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dan menghakimi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "hayatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:25.186156511Z",
+  "model": "glm-5.3"
+}

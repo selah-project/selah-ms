@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan disalutnya ⟨את⟩ rumah itu dengan batu permata untuk perhiasan; dan emasnya ialah emas Parwaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "dan disalutnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "permata"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "untuk perhiasan"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "dan emasnya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parwaim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:57.889901095Z",
+  "model": "glm-5.3"
+}

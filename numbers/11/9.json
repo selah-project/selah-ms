@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan apabila embun itu turun atas kemah itu pada waktu malam, maka man itu turun ke atasnya.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "Dan apabila turun"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "embun itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah itu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man itu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:43.550438067Z",
+  "model": "glm-5.3"
+}

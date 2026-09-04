@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Fahamilah kiranya hal ini, hai kamu yang melupakan Eloah, supaya jangan Aku mencabik dan tiada ⟨ada⟩ penyelamat.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "fahamilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "kamu yang melupakan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "Aku mencabik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "penyelamat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:36.076180583Z",
+  "model": "glm-5.3"
+}

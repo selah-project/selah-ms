@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu Samuel melakukan apa yang difirmankan Yahweh, dan ia sampai ke Bet-Lehem; maka gemetarlah para tua-tua bandar itu menghadapinya, dan katanya: Apakah engkau datang dengan damai?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu melakukan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang difirmankan Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia sampai ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "maka gemetarlah"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar itu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "menghadapinya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "dengan damai"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "engkau datang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:17.097046114Z",
+  "model": "glm-5.3"
+}

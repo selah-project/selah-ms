@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "dan para tua kota itu menurunkan ⟨את⟩ lembu betina itu ke suatu sungai yang tak kunjung kering, yang tidak dikerjakan dan tidak ditaburi, lalu memotong tengkuk ⟨את⟩ lembu betina itu di sana di sungai itu.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "dan menurunkan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu betina itu"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "lembu betina itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "yang tak kunjung kering"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "dikerjakan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ditaburi"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "lalu memotong tengkuk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu betina itu"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "lembu betina itu"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di sungai itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:15.897561078Z",
+  "model": "glm-5.3"
+}

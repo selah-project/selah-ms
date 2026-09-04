@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Lalu mereka berseru kepada Yahweh dalam kesesakan mereka, dan dari kesempitan mereka Dia melepaskan mereka.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Lalu mereka berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "dari kesempitan mereka"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Dia melepaskan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:20.080952366Z",
+  "model": "glm-5.3"
+}

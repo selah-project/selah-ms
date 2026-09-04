@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Kepadamu aku akan mempersembahkan sembelihan todah, dan dalam nama Yahweh aku akan berseru.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kepadamu"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "aku akan mempersembahkan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sembelihan"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "todah"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "dan dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku akan berseru"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:26.595199020Z",
+  "model": "glm-5.3"
+}

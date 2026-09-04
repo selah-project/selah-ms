@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Untuk melakukan kehendak-Mu aku berkenan, hai Elohimku, dan Tora-Mu ⟨berada⟩ di dalaman perutku.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "kehendak-Mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku berkenan"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dan Tora-Mu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di dalaman"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "perutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:41.836294123Z",
+  "model": "glm-5.3"
+}

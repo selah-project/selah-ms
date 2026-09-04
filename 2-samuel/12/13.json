@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu kata David kepada Natan, \"Aku telah berdosa kepada Yahweh.\" Dan kata Natan kepada David, \"Juga Yahweh telah memindahkan dosamu — engkau tidak akan mati.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku telah berdosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan kata"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "telah memindahkan"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "dosamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "engkau akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:15.566938769Z",
+  "model": "glm-5.3"
+}

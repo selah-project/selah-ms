@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan Yaakov memanggil ⟨את⟩ nama tempat itu, yang di sana Elohim berfirman dengannya, Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dan memanggil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama tempat itu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:36.220021525Z",
+  "model": "glm-5.3"
+}

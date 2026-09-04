@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu Syaul mengutus pesuruh-pesuruh kepada Yisyai dan berkata: Utuslah kepadaku ⟨את⟩ David, anakmu, yang ada bersama kambing domba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu mengutus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pesuruh-pesuruh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisyai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "utuslah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ada bersama kambing domba"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:17.511896352Z",
+  "model": "glm-5.3"
+}

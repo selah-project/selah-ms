@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ia terus melahirkan ⟨את⟩ adiknya, ⟨את⟩ Hebel; dan Hebel menjadi penggembala kambing biri-biri, dan Kayin menjadi pekerja tanah.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "dan ia terus"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adiknya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "adiknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "penggembala"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "dan Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:23.017324301Z",
+  "model": "glm-5.3"
+}

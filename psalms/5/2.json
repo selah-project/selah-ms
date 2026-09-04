@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Perkataanku — berilah telinga, Yahweh; fahamkanlah keluhanku.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Perkataanku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "berilah telinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahamkanlah"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "keluhanku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:44.639259688Z",
+  "model": "glm-5.3"
+}

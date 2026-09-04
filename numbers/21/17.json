@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Pada waktu itu Israel menyanyikan ⟨את⟩ lagu ini: Naiklah, hai telaga! Anyutlah baginya!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada waktu itu"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "menyanyikan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lagu"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "באר",
+      "gloss": "hai telaga"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "Anyutlah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:13.080870286Z",
+  "model": "glm-5.3"
+}

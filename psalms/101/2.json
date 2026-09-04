@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Aku akan bijaksana dalam jalan yang tahir; bilakah Engkau akan datang kepadaku? Aku akan berjalan dalam ketahiran hatiku, di tengah-tengah rumahku.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "aku akan bijaksana"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dalam jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yang tahir"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilakah"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "Engkau akan datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "aku akan berjalan"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "dalam ketahiran"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:18.182143436Z",
+  "model": "glm-5.3"
+}

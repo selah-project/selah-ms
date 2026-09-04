@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Wahai Elohim, hancurkan gigi mereka dalam mulut mereka; Yahweh, remukkan geraham anak singa",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Wahai Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "hancurkan"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "gigi mereka"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "dalam mulut mereka"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "geraham"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "remukkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:55.541976564Z",
+  "model": "glm-5.3"
+}

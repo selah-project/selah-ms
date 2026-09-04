@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Hanya kepada Elohim, dalam diam, jiwaku ⟨menanti⟩; kerana dari pada-Nya harapanku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "dalam diam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari pada-Nya"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "harapanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:59.751760832Z",
+  "model": "glm-5.3"
+}

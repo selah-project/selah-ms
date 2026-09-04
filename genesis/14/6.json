@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ⟨את⟩ orang Hori di gunung mereka Seir, sampai ke El-Paran yang di pinggir padang gurun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "orang Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "di gunung mereka"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:25.475289802Z",
+  "model": "glm-5.3"
+}

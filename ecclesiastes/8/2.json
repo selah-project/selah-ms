@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "AkU ⟨⟨kataku⟩⟩: mulut raja patut dipatuhi, dan ⟨berkenaan dengan⟩ sumpah Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "patut dipatuhi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan berkenaan"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "karena"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:00.344015445Z",
+  "model": "glm-5.3"
+}

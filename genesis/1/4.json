@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan melihat Elohim ⟨את⟩ cahaya itu bahawa ⟨ia⟩ baik, lalu dipisahkan Elohim antara cahaya dan antara kegelapan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cahaya itu"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahaya itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "lalu dipisahkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:33.719341085Z",
+  "model": "glm-5.3"
+}

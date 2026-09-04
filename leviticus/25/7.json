@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "dan bagi haiwan peliharaanmu, dan bagi haiwan liar yang di tanahmu — segala hasilnya akan menjadi sebagai makanan.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "dan bagi haiwan peliharaanmu"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "dan bagi haiwan liar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di tanahmu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnya"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sebagai makanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:59.504707403Z",
+  "model": "glm-5.3"
+}

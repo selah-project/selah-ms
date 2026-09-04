@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Aku menangis dalam berpuasa bagi diriku, dan itu menjadi celaan bagiku.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "aku menangis"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "dalam berpuasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan itu menjadi"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:29.640989682Z",
+  "model": "glm-5.3"
+}

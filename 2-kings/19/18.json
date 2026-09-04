@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "dan mereka telah mencampakkan ⟨את⟩ tuhan-tuhan mereka ke dalam api, kerana bukan tuhan mereka itu, melainkan buatan tangan manusia, kayu dan batu; maka orang Assur memusnahkannya.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dan mereka telah mencampakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke dalam api"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "maka orang Assur memusnahkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:21.404961453Z",
+  "model": "glm-5.3"
+}

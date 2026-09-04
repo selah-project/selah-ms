@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Pengetahuan itu ajaib bagiku, terlalu tinggi, aku tidak dapat ⟨mencapainya⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ajaib"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "terlalu tinggi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku dapat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨mencapainya⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:11.201269246Z",
+  "model": "glm-5.3"
+}

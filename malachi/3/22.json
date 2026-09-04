@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Ingatlah Tora (Taurat) Moshe, hamba-Ku, yang telah Aku perintahkan ⟨את⟩ dia di Horeb untuk seluruh Israel — ketetapan dan peraturan.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "telah Aku perintahkan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "di Horeb"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di Horeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "untuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dan peraturan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:41.099251573Z",
+  "model": "glm-5.3"
+}

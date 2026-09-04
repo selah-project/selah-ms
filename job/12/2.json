@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Sungguh, bahawa kamulah ⟨yang⟩ umat ⟨itu⟩, dan bersama kamu hikmat akan mati.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "dan bersama kamu"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:15.154848724Z",
+  "model": "glm-5.3"
+}

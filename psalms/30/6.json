@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Sungguh, sebentar saja ⟨⟨ada⟩⟩ murka-Nya, kehidupan dalam kerelaan-Nya; pada waktu petang bermalam tangisan, dan pada waktu pagi sorak-sorai gembira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sebentar saja"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam murka-Nya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "dalam kerelaan-Nya"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangisan"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "dan pada waktu pagi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sorak-sorai gembira"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:35.186746156Z",
+  "model": "glm-5.3"
+}

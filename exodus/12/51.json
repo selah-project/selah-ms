@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan terjadilah pada hari itu juga, Yahweh membawa keluar ⟨את⟩ bani Israel dari tanah Mitsrayim menurut tentera-tentera mereka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "pada ... itu juga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "membawa keluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "menurut"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "tentera-tentera mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:59.455032634Z",
+  "model": "glm-5.3"
+}

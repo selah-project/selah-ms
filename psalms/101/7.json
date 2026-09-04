@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Tidak akan tinggal di tengah rumahku pelaku tipu daya; yang berkata dusta tidak akan berdiri tegak di hadapan mataku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akan tinggal"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu daya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "akan berdiri tegak"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:32.208300149Z",
+  "model": "glm-5.3"
+}

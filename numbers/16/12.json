@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu Moshe menghantar untuk memanggil Datan dan Aviram, bani Eliav, dan mereka berkata: Kami tidak akan naik.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu menghantar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "untuk memanggil"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "dan Aviram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kami akan naik"
+    }
+  ],
+  "timestamp": "2026-09-04T11:40:18.638440732Z",
+  "model": "glm-5.3"
+}

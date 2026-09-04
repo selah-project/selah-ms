@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Sebab itu keangkuhan mengalungi mereka seperti kalung, keganasan berselubung sebagai pakaian bagi mereka.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "mengalungi mereka"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "keangkuhan"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "berselubung"
+    },
+    {
+      "surface": "שית",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:43.920188304Z",
+  "model": "glm-5.3"
+}

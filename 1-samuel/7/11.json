@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu keluarlah orang-orang Israel dari Mitspa dan mereka mengejar ⟨את⟩ orang-orang Pelisyt, dan memukul mereka hingga ke bawah Bet-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dan mereka mengejar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Pelisyt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelisyt"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "dan memukul mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ke bawah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:09.671159749Z",
+  "model": "glm-5.3"
+}

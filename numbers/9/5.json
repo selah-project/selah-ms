@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu mereka membuat ⟨את⟩ Pesakh pada bulan yang pertama, pada hari yang keempat belas bagi bulan itu, antara waktu petang, di padang gurun Sinai; menurut segala yang diperintahkan Yahweh kepada Moshe, demikianlah dilakukan oleh bani Israel.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Lalu mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "pada yang pertama"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bagi bulan itu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "waktu petang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "menurut segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:41.806631285Z",
+  "model": "glm-5.3"
+}

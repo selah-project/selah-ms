@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan para imam bersetuju untuk tidak mengambil wang dari ⟨את⟩ bangsa itu, dan untuk tidak menguatkan ⟨את⟩ rekahan rumah itu.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "dan bersetuju"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "untuk tidak"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "dan untuk tidak"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "menguatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rekahan"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "rekahan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:29.274371341Z",
+  "model": "glm-5.3"
+}

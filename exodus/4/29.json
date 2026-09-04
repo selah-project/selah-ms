@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu pergilah Moshe dan Aharon, dan mereka menghimpunkan ⟨את⟩ semua ketua tua bani Israel.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergilah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan mereka menghimpunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua ketua tua bani Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ketua tua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:57.051133198Z",
+  "model": "glm-5.3"
+}

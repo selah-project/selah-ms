@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan dibuatnya ⟨את⟩ besen basuh itu daripada gangsa, dan ⟨את⟩ tapaknya daripada gangsa, daripada cermin-cermin perempuan yang berkhidmat, yang berkhidmat di pintu Kemah Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besen basuh itu"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "besen basuh itu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "gangsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapaknya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tapaknya"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "gangsa"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "daripada cermin-cermin"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "yang berkhidmat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "berkhidmat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:32.008796382Z",
+  "model": "glm-5.3"
+}

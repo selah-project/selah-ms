@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Ramai yang berkata kepada nefesyiku: \"Tiada pertolongan baginya di dalam Elohim.\" Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kepada nefesyiku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "pertolongan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "di dalam Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.209446940Z",
+  "model": "glm-5.3"
+}

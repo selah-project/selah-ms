@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh akan menyerahkan ⟨את⟩ musuhmu yang bangkit menentangmu, dipukul di hadapanmu; pada satu jalan mereka keluar menyerangmu, dan pada tujuh jalan mereka akan lari di hadapanmu.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "akan menyerahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuhmu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "yang bangkit"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "menentangmu"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pada satu jalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "mereka keluar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "menyerangmu"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "dan pada tujuh"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "mereka akan lari"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:58.134801990Z",
+  "model": "glm-5.3"
+}

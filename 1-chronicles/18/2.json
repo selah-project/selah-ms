@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan memukulnya ⟨את⟩ Moab, dan orang Moab menjadi hamba kepada David, pembawa persembahan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dan memukulnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "orang Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:09.235392900Z",
+  "model": "glm-5.3"
+}

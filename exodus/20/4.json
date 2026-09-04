@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jangan kau buat bagimu patung ukiran, atau sesuatu rupa apa pun yang ada di langit di atas, dan yang ada di bumi di bawah, dan yang ada di air di bawah bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kau buat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung ukiran"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "atau sesuatu"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:28.337461061Z",
+  "model": "glm-5.3"
+}

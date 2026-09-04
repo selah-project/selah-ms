@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Bahkan dalam fikiranmu janganlah engkau mengutuk raja, dan dalam bilik tidurmu janganlah engkau mengutuk orang kaya, sebab burung langit akan membawa ⟨את⟩ suara itu, dan pemilik sayap akan memberitahukan perkara itu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "dalam fikiranmu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "engkau mengutuk"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "dan dalam bilik"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "tidurmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "engkau mengutuk"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "akan membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara itu"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "suara itu"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "dan pemilik"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "akan memberitahukan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:28.970755386Z",
+  "model": "glm-5.3"
+}

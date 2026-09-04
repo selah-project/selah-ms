@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan aku menempatkan di sana ⟨את⟩ tempat bagi tabut, yang di sana ⟨ialah⟩ perjanjian Yahweh, yang dipotong-Nya dengan bapa-bapa kami, pada waktu Ia membawa ⟨את⟩ mereka keluar dari bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "dan aku menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "bagi tabut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong-Nya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "pada waktu membawa keluar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:10.631784004Z",
+  "model": "glm-5.3"
+}

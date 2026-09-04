@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Bangunlah, bangunlah, berdirilah, hai Yerusalem, engkau yang telah minum dari tangan Yahweh ⟨את⟩ piala kemurkaannya; ⟨את⟩ guci, piala kepeningan, telah engkau minum, telah engkau sedot habis.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "berdirilah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "telah-minum"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari-tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piala"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "piala"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "kemurkaannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guci"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "guci"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "piala"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "kepeningan"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "telah-minum"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "telah-sedot-habis"
+    }
+  ],
+  "timestamp": "2026-09-04T15:24:15.932297912Z",
+  "model": "glm-5.3"
+}

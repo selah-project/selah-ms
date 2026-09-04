@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan katanya, Jika Esav datang ke kemah yang satu dan memukulnya, maka kemah yang tinggal itu akan menjadi ⟨pelarian⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "dan memukulnya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka akan menjadi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "yang tinggal itu"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "⟨pelarian⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:15.145428867Z",
+  "model": "glm-5.3"
+}

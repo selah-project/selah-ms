@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Sampai selama-lamanya Aku akan menegakkan benihmu, dan Aku akan membinakan bagi angkatan dan angkatan takhtamu. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "Aku akan menegakkan"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "dan Aku akan membinakan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "bagi angkatan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dan angkatan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhtamu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:50.983252046Z",
+  "model": "glm-5.3"
+}

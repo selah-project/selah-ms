@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu berkata Yesyahu kepada Hizkiyahu: Dengarlah perkataan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:13.411548250Z",
+  "model": "glm-5.3"
+}

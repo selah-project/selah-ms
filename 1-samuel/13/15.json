@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu bangunlah Shemuel dan naiklah dari Gilgal menuju Giv'at Binyamin; dan Syaul menghitung ⟨את⟩ orang-orang yang terdapat bersamanya, kira-kira enam ratus orang.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu bangunlah"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan naiklah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "menuju Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dan menghitung"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yang terdapat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "kira-kira enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:10.817388230Z",
+  "model": "glm-5.3"
+}

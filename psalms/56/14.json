@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Sebab engkau telah menyelamatkan diriku dari maut; bukankah kakiku dari tersandung, untuk berjalan di hadapan Elohim dalam terang kehidupan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "engkau telah menyelamatkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "dari tersandung"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "untuk berjalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "dalam terang"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:17.526285716Z",
+  "model": "glm-5.3"
+}

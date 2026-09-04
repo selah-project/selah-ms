@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Di manakah sekarang orang-orang bijakmu? Dan biarlah mereka memberitahukan kepadamu kiranya, dan biarlah mereka mengetahui apa yang telah dirancangkan Yahweh Tsebaot atas Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "di manakah"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "orang-orang bijakmu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "dan biarlah mereka memberitahukan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dan biarlah mereka mengetahui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "telah dirancangkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:16.276793996Z",
+  "model": "glm-5.3"
+}

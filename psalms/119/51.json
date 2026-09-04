@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Orang-orang sombong telah memperolok-olok aku ⌈sangat⌉, tetapi dari Tora-Mu aku tidak menyimpang.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Orang-orang sombong"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "telah memperolok-olok aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⌈sangat⌉"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⌈sangat⌉"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "dari Tora-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "menyimpang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:02.120110216Z",
+  "model": "glm-5.3"
+}

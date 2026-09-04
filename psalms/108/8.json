@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Elohim telah berfirman dalam kekudusan-Nya: aku akan bersorak, aku akan membahagikan Sekhem, dan lembah Sukot aku akan mengukur.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dalam kekudusan-Nya"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "aku akan bersorak"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "aku akan membahagikan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "dan lembah"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "aku akan mengukur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:03.155964448Z",
+  "model": "glm-5.3"
+}

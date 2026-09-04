@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Melekatlelah jiwaku mengikutimu; aku ⟨⟩ ditopang oleh tangan kananmu.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "melekat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "mengikutimu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "ditopang"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kananmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:45.732674860Z",
+  "model": "glm-5.3"
+}

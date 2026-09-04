@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Jika lembu itu menanduk hamba lelaki atau hamba perempuan, tiga puluh syikal perak akan diberikan kepada tuannya, dan lembu itu akan direjam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba lelaki"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "menanduk"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hamba perempuan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "syikal"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan diberikan"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kepada tuannya"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "dan lembu itu"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "akan direjam"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:11.877030839Z",
+  "model": "glm-5.3"
+}

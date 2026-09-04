@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Bergembiralah ⟨את⟩ Yerusalaim, dan bersukacitalah kerananya, semua yang mengasihi dia; bersorak-soraikanlah ⟨את⟩ dia kegembiraan, semua yang berkabung karenanya.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Bergembiralah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "dan bersukacitalah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kerananya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "yang mengasihi dia"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "bersorak-soraikanlah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dengannya"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "yang berkabung"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "karenanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:14.030719435Z",
+  "model": "glm-5.3"
+}

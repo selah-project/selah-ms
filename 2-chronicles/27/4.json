@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan bandar-bandar dibinanya di pegunungan Yehuda, dan di hutan-hutan dibinanya kubu-kubu dan menara-menara.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "dan bandar-bandar"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibinanya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "dan di hutan-hutan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibinanya"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "kubu-kubu"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "menara-menara"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:28.831388424Z",
+  "model": "glm-5.3"
+}

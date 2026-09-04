@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu jadilah pada suatu hari, datanglah ia ke sana, dan singgahlah ia ke bilik atas itu, dan berbaringlah di sana.",
+  "tokens": [
+    {
+      "surface": "והיה (היום) ",
+      "gloss": ""
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lalu jadilah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada suatu hari"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "datanglah ia"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dan singgahlah ia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "bilik atas itu"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dan berbaringlah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:28.913308107Z",
+  "model": "glm-5.3"
+}

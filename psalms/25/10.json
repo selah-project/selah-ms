@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Segala jalan Yahweh ialah ⟨hesed⟩ dan kebenaran bagi penjaga-penjaga perjanjian-Nya dan peraksi-peraksi-Nya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "bagi penjaga-penjaga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "dan peraksi-peraksi-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:57.268801507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan Musa menulis ⟨את⟩ segala perkataan Yahweh; maka bangunlah ia pagi-pagi lagi, dan mendirikan sebuah mazbah di bawah gunung itu, serta dua belas batu tanda bagi dua belas suku Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "dan menulis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "maka bangunlah ia pagi-pagi lagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan mendirikan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "serta dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "batu tanda"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "bagi dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:54.410812498Z",
+  "model": "glm-5.3"
+}

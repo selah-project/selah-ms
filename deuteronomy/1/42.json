@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Yahweh berfirman kepadaku, \"Katakan kepada mereka: Jangan kamu naik dan jangan kamu berperang, kerana Aku tidak ⟨ada⟩ di tengah-tengah kamu, supaya kamu jangan dipatahkan di hadapan musuh kamu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan Dia berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "kamu naik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kamu berperang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "Aku tidak (ada)"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di tengah-tengah kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "kamu dipatahkan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:02.196366803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Tetapi Engkau, Adonai, ⟨ialah⟩ El yang penuh belas kasihan dan kurnia, lambat marah, dan besar hesed dan setia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "tetapi Engkau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "yang penuh belas kasihan"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "dan kurnia"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lambat"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "marah"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan besar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan setia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:49.169338938Z",
+  "model": "glm-5.3"
+}

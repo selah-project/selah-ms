@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu Moshe membina mezbah, dan ia menamainya Yahweh-Nisi (Yahweh panji-panjiku).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu membina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia menamai"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:46.146370406Z",
+  "model": "glm-5.3"
+}

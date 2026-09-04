@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan isi perutnya serta kakinya dibasuh dengan air, dan imam membawa dekat ⟨את⟩ semuanya dan membakarnya di atas mezbah; korban bakaranlah ia, persembahan api, bau yang mendamaikan bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "Dan isi perutnya"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "serta kakinya"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dibasuh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dan membawa dekat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semuanya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dan membakarnya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah ia"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yang mendamaikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:33.391490864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Mengapa bangsa-bangsa bergemuruh, dan umat-umat merancangkan perkara sia-sia?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "bergemuruh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan umat-umat"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "merancangkan"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "perkara sia-sia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:12.565706517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jangan merampas orang miskin, kerana dia miskin, dan jangan menghancurkan orang papa di pintu gerbang,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "menghancurkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang papa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:26.523318731Z",
+  "model": "glm-5.3"
+}

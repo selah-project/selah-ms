@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lebih baik dua orang daripada satu, kerana ada bagi mereka upah yang baik dalam usaha mereka.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Lebih baik"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dua orang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "dalam usaha mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:12.027638873Z",
+  "model": "glm-5.3"
+}

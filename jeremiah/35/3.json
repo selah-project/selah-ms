@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Lalu aku mengambil ⟨את⟩ Yaazanya anak Yirmeyahu anak Havatsanya, dan ⟨את⟩ saudara-saudaranya, dan ⟨את⟩ semua anak-anaknya, dan ⟨את⟩ seluruh rumah orang Rekab.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "lalu aku mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanya"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Havatsanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua anak-anaknya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh rumah orang Rekab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "orang Rekab"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:47.671579363Z",
+  "model": "glm-5.3"
+}

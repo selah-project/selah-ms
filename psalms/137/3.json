@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 137,
+  "translation": "Sebab di sana para penawan kami meminta daripada kami perkataan lagu, dan para penyiksa kami ⟨meminta⟩ kegembiraan, katanya: \"Nyanyikanlah bagi kami satu lagu dari Tsion.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "meminta daripada kami"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "para penawan kami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "dan para penyiksa kami"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "satu lagu dari"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:40.988192925Z",
+  "model": "glm-5.3"
+}

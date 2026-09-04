@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lebih baik hikmat daripada senjata-senjata peperangan, tetapi seorang pelaku dosa yang satu membinasakan kebaikan yang banyak.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "daripada senjata-senjata"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "tetapi pelaku dosa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seorang yang satu"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "membinasakan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "yang banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:07.057357074Z",
+  "model": "glm-5.3"
+}

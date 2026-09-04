@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Apabila Efrajim berbicara, ⟨ada⟩ kegerunan; dia terangkat di Israel; tetapi dia bersalah dengan Baal dan mati.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "apabila berbicara"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "kegerunan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Israel"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "dan dia bersalah"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "dengan Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan dia mati"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:04.634551897Z",
+  "model": "glm-5.3"
+}

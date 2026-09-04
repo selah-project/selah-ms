@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Inilah anak-anak Seir si Hori, penduduk tanah itu: Lotan, dan Syoval, dan Tsiveon, dan Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "si Hori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "dan Syoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "dan Tsiveon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "dan Anah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:05.372960562Z",
+  "model": "glm-5.3"
+}

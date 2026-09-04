@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Di sana mereka berseru: Paroh, raja Mitsrayim ⟨ialah⟩ kebisingan; sudah dilalui waktu yang ditetapkan.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "mereka berseru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kebisingan"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "sudah dilalui"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "waktu yang ditetapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:23:54.718622363Z",
+  "model": "glm-5.3"
+}

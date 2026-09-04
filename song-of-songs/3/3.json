@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Menemui aku para pengawal yang mengelilingi bandar: ⟨את⟩ yang dikasihi oleh nefesy, adakah kamu melihat dia?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "Menemui aku"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "para pengawal"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "yang mengelilingi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang dikasihi oleh nefesy"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "yang dikasihi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "oleh nefesy"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "adakah kamu melihat dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:23.121108169Z",
+  "model": "glm-5.3"
+}

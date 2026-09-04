@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Jatuhkah burung ke atas jerat di tanah, dan umpan tiada baginya? Bangkitkah jerat dari tanah, dan menangkap tidak ia menangkap apa-apa?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Jatuhkah"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "burung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "dan umpan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "Bangkitkah"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "dan menangkap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "ia menangkap"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:25.509280750Z",
+  "model": "glm-5.3"
+}

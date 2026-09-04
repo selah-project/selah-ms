@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan Yahweh mendengar Hizkiyahu, dan menyembuhkan ⟨את⟩ bangsa itu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": ""
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dan menyembuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:13:19.179669780Z",
+  "model": "glm-5.3"
+}

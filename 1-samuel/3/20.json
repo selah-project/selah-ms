@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka seluruh Israel mengetahui, dari Dan sampai Beer-Syeba, bahawa Shemuel teguh sebagai nabi bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Maka mengetahui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "dari Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "teguh"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "sebagai nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:56.707200739Z",
+  "model": "glm-5.3"
+}

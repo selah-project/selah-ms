@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan mereka teringat bahawa Elohim ⟨ialah⟩ batu karang mereka, dan El Elyon penebus mereka.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "dan mereka teringat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "batu karang mereka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "penebus mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:09.511082259Z",
+  "model": "glm-5.3"
+}

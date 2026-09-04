@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "⟨את⟩ bulan dan bintang-bintang untuk memerintah pada waktu malam, kerana selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:01.394920870Z",
+  "model": "glm-5.3"
+}

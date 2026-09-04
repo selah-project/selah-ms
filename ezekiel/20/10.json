@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Aku membawa mereka keluar dari bumi Mitsrayim dan membawa mereka masuk ke padang gurun.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "Aku membawa mereka keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "dan Aku membawa mereka masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:06.274289326Z",
+  "model": "glm-5.3"
+}

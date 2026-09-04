@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu Shelomoh membina ⟨את⟩ rumah itu, dan menyempurnakannya.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Lalu ... membina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "dan menyempurnakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:07.136656974Z",
+  "model": "glm-5.3"
+}

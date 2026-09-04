@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 10:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu Moshe menghulurkan ⟨את⟩ tongkatnya ke atas tanah Mitsrayim, dan Yahweh menggerakkan angin timur di atas bumi sepanjang hari itu dan sepanjang malam itu; apabila pagi tiba, angin timur itu mengangkat ⟨את⟩ belalang.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "lalu menghulurkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatnya"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "menggerakkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan sepanjang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan angin"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "timur itu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belalang"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "belalang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:26.312765553Z",
+  "model": "glm-5.3"
+}

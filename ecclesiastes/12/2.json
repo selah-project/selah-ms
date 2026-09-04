@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "sebelum matahari, dan cahaya, dan bulan, dan bintang-bintang menjadi gelap, dan awan-awan kembali selepas hujan,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "menjadi gelap"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "dan cahaya"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dan kembali"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:35.738937662Z",
+  "model": "glm-5.3"
+}

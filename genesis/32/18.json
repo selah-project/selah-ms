@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan ia memerintahkan ⟨את⟩ yang pertama, katanya: Apabila Esav saudara saya bertemu dengan kamu, dan ia bertanya kepadamu, katanya: Milik siapakah kamu, dan ke mana kamu pergi, dan milik siapakah semua ini di hadapanmu?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dan ia memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang pertama"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "bertemu dengan kamu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara saya"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "dan ia bertanya kepadamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "למי",
+      "gloss": "milik siapakah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "dan ke mana"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kamu pergi"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "dan milik siapakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "semua ini"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:27.295327817Z",
+  "model": "glm-5.3"
+}

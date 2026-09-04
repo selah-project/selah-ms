@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Rumah kudus kami dan kemegahan kami, yang dipuji oleh bapa-bapa kami ⟨kepada Engkau⟩, telah menjadi bakaran api; dan segala keperlian kami telah menjadi runtuhan.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "kudus kami"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "dan kemegahan kami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "memuji Engkau"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "bakaran"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "keperlian kami"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "runtuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:56.873371725Z",
+  "model": "glm-5.3"
+}

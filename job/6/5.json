@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Adakah keldai liar meringkik di atas rumput segar? Adakah lembu melenguh atas makanannya?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "Adakah... meringkik"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "keldai liar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rumput segar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Adakah"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "melenguh"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "makanannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:05.778358213Z",
+  "model": "glm-5.3"
+}

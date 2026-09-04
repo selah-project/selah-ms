@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bintang-bintang senjanya biarlah menggelapkan diri; biarlah ia mengharapkan cahaya, tetapi tiada; dan janganlah ia melihat kelopak mata fajar.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "biarlah menggelapkan diri"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "senjanya"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "biarlah ia mengharapkan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ia melihat"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "kelopak mata"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:55.360795931Z",
+  "model": "glm-5.3"
+}

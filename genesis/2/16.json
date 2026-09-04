@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim memberi perintah kepada manusia itu, kata-Nya: \"Dari segala pokok taman itu boleh engkau makan, makan sepuasnya.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memberi perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-Nya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Dari segala"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman itu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan sepuasnya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "boleh engkau makan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:00.494419317Z",
+  "model": "glm-5.3"
+}

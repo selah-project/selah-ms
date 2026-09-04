@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Sebab seribu tahun di mata-Mu seperti hari semalam, sebab ia berlalu, dan seperti giliran jaga dalam malam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata-Mu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti hari"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "semalam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ia berlalu"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "dan seperti giliran jaga"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dalam malam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:06.186337105Z",
+  "model": "glm-5.3"
+}

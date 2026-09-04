@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Bukankah sedikit sahaja hari-hariku? Berhentilah ⟨menghukum⟩, tinggalkanlah aku, supaya aku bersukacita seketika.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit sahaja"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Berhentilah"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "tinggalkanlah ⟨menghukum⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "supaya aku bersukacita"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seketika"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:40.029037003Z",
+  "model": "glm-5.3"
+}

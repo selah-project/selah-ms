@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Banyak yang berkata, \"Siapakah akan memperlihatkan kebaikan kepada kami?\" Angkatlah atas kami cahaya wajah-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "akan memperlihatkan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:56.651962779Z",
+  "model": "glm-5.3"
+}

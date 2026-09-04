@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka jadilah hari-hari Terah dua ratus lima tahun, lalu Terah mati di Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "di Haran"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:56.386924036Z",
+  "model": "glm-5.3"
+}

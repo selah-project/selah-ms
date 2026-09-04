@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan setiap orang Yisrael, ketika melihat ⟨את⟩ orang itu, melarikan diri dari hadapannya dan sangat takut.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "ketika melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "melarikan diri"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dan takut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:21.324633743Z",
+  "model": "glm-5.3"
+}

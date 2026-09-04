@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Masa untuk dilahirkan, dan masa untuk mati; masa untuk menanam, dan masa untuk mencabut yang ditanam.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "untuk dilahirkan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk mati"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "untuk menanam"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "untuk mencabut"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "yang ditanam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:23.543262516Z",
+  "model": "glm-5.3"
+}

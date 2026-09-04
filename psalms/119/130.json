@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Pembukaan perkataan-Mu menerangi, memberi kefahaman kepada ⟨orang⟩ yang bersederhana.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "pembukaan"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkataan-Mu"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "menerangi"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "memberi kefahaman"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "yang bersederhana"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:15.402276269Z",
+  "model": "glm-5.3"
+}

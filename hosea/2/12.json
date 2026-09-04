@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan sekarang Aku akan menyingkap ⟨את⟩ keaibannya di depan mata kekasih-kekasihnya, dan tiada seorang lelaki yang akan menyelamatkannya dari tangan-Ku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "Aku akan menyingkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keaibannya"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "keaibannya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mata"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "kekasih-kekasihnya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan tiada seorang lelaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "akan menyelamatkannya"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tangan-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:18.991187588Z",
+  "model": "glm-5.3"
+}

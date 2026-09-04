@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan terjadilah, pada hari kamu menyeberangi ⟨את⟩ Yarden ke tanah yang Yahweh Elohim kamu berikan kepadamu, dirikanlah bagimu batu-batu besar, dan lapisi ⟨את⟩nya dengan kapur.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "kamu menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "dirikanlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "dan lapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu itu"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "dengan kapur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:45.092481615Z",
+  "model": "glm-5.3"
+}

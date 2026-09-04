@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Enam hari kerja boleh dibuat, dan pada hari ketujuh syabbat, syabbaton kudus bagi Yahweh; setiap yang melakukan kerja pada hari syabbat pastilah dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "boleh dibuat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kerja"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "syabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "syabbaton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kerja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "syabbat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pastilah dihukum mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:35.545543884Z",
+  "model": "glm-5.3"
+}

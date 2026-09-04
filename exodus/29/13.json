@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 29:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau akan mengambil segala lemak yang menutupi ⟨את⟩ perut, dan ⟨את⟩ ubs pada hati, dan ⟨את⟩ kedua-dua buah pinggang, dan ⟨את⟩ lemak yang ada padanya, dan engkau akan membakarnya di atas mezbah.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yang menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perut"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "perut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ubs pada hati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ubs"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua-dua buah pinggang"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "dan engkau akan membakarnya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:01.872430955Z",
+  "model": "glm-5.3"
+}

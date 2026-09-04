@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Redalah dari amarah dan tinggalkanlah murka; jangan membara — hanya untuk berbuat jahat.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Redalah"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "dari amarah"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "dan tinggalkanlah"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "murka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "membara"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "untuk berbuat jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:55.913285364Z",
+  "model": "glm-5.3"
+}

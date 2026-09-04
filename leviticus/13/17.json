@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan imam melihatnya, dan lihat, kudarat itu berubah menjadi putih, maka imam menyucikan ⟨את⟩ kudarat itu; ia suci.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "Dan imam melihatnya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "berubah"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kudarat itu"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "menjadi putih"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "maka menyucikan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudarat itu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kudarat itu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:17.547946555Z",
+  "model": "glm-5.3"
+}

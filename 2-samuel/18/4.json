@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 18:4",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu raja berkata kepada mereka: Apa yang baik di mata kamu, aku akan lakukan. Maka raja berdiri di sisi pintu gerbang, dan semua orang itu keluar secara beratus-ratusan dan beribu-ribuan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "di mata kamu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aku akan lakukan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maka berdiri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "beratus-ratusan"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "dan beribu-ribuan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:17.557491075Z",
+  "model": "glm-5.3"
+}

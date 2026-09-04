@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Berbahagialah orang yang Kauhukum, wahai Yah, dan yang Kauajari daripada Toramu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "Kauhukum"
+    },
+    {
+      "surface": "יה",
+      "gloss": "wahai Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "dan daripada Toramu"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "Kauajari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:40.740598073Z",
+  "model": "glm-5.3"
+}

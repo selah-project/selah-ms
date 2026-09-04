@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Dan penghulu pengawal mengambil ⟨את⟩ Sraya imam kepala, dan ⟨את⟩ Tsefanya imam kedua, dan ⟨את⟩ tiga penjaga ambang pintu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "רב",
+      "gloss": "penghulu"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "pengawal (para algojo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sraya imam kepala"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tsefanya imam kedua"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiga penjaga ambang pintu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "penjaga-penjaga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ambang pintu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:19.349730312Z",
+  "model": "glm-5.3"
+}

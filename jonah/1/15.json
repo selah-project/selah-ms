@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu mereka mengangkat ⟨את⟩ Yonah dan membalingnya ke dalam laut, maka berhentilah laut itu dari amarahnya.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "maka mereka mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "dan membalingnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maka berhentilah"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut itu"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "dari amarahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:29.459901542Z",
+  "model": "glm-5.3"
+}

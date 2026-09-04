@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Mereka membuka mulut mereka ke atasku, singa yang menyambar dan mengaum.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "membuka lebar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yang menyambar"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "dan mengaum"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:15.743263269Z",
+  "model": "glm-5.3"
+}

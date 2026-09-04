@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan katanya kepada orang-orang itu: Aku tahu bahawa Yahweh telah memberikan kepada kamu ⟨את⟩ negeri itu, dan bahawa gerunan kamu telah menimpa kami, dan bahawa segala penduduk negeri itu telah cair kerana kamu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahawa"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "telah menimpa"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "gerunan kamu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahawa"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "telah cair"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "kerana kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:54.985668689Z",
+  "model": "glm-5.3"
+}

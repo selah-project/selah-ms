@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Setiap kali mereka masuk ke dalam Ohel Moed dan setiap kali mereka menghampiri mezbah itu, mereka membasuh, seperti yang diperintahkan Yahweh kepada Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "setiap kali mereka masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "dan setiap kali mereka menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "mereka membasuh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:04.387904699Z",
+  "model": "glm-5.3"
+}

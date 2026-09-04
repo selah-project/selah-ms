@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Kecuali jika Engkau telah menolak kami sampai menolak; Engkau telah murka terhadap kami sampai sangat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kecuali jika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "Engkau telah menolak kami"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "Engkau telah murka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:32.747994987Z",
+  "model": "glm-5.3"
+}

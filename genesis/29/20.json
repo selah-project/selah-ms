@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Yaakov berkhidmat demi Rahel tujuh tahun, dan rupanya di matanya seperti beberapa hari sahaja, kerana kasihnya kepada ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Dan berkhidmat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "demi Rahel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "seperti hari-hari"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "beberapa sahaja"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "kerana kasihnya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Rahel)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:03:34.789447963Z",
+  "model": "glm-5.3"
+}

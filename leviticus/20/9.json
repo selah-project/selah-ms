@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Sebab setiap orang yang mengutuk ⟨את⟩ bapanya dan ⟨את⟩ ibunya, mati pastilah dia dibunuh: bapanya dan ibunya dikutuknya, darahnya ⟨ke atas⟩ dirinya sendiri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "mengutuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapanya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dan ibunya"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "dikutuknya"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ke atas dirinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:57.749598464Z",
+  "model": "glm-5.3"
+}

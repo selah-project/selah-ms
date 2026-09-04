@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Maka mereka akan berkata: Kerana mereka telah meninggalkan ⟨את⟩ perjanjian Yahweh Elohim mereka, dan sujud kepada tuhan-tuhan lain, dan menyembah mereka.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Maka mereka akan berkata"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "mereka telah meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "dan menyembah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:18.828439434Z",
+  "model": "glm-5.3"
+}

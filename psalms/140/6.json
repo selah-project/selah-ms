@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Orang-orang sombong menyembunyikan jerat untukku, dan tali-tali; mereka membentangkan jaring di sisi laluan; perangkap-perangkap mereka letakkan untukku. Sela.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "menyembunyikan"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "orang-orang sombong"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "dan tali-tali"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "mereka membentangkan"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "laluan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "perangkap-perangkap"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mereka letakkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:31.989831356Z",
+  "model": "glm-5.3"
+}

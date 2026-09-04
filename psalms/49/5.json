@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Aku condongkan telingaku kepada perumpamaan; dengan kecapi aku bukakan teka-tekiku.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "aku condongkan"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "kepada perumpamaan"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "telingaku"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "aku bukakan"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kecapi"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "teka-tekiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:29.009008840Z",
+  "model": "glm-5.3"
+}

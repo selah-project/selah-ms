@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Berbahagialah mereka yang memelihara keadilan, yang melakukan kebenaran pada segala waktu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "berbahagialah"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "mereka yang memelihara"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada segala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:17.187058509Z",
+  "model": "glm-5.3"
+}

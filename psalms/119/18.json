@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Singkaplah mataku, supaya aku memandang ⟨kepada⟩ perkara-perkara ajaib dari Tora-Mu.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Singkaplah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "supaya aku memandang"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "perkara-perkara ajaib"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "dari Tora-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:51.837254317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu masuklah ia kepada mertua perempuannya, dan bertanyalah ⟨ia⟩: siapakah engkau, anakku? Lalu diberitahukannya kepadanya ⟨את⟩ segala yang dilakukan lelaki itu kepadanya.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "lalu masuklah ia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mertua perempuannya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan bertanyalah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "lalu diberitahukannya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:57.204238200Z",
+  "model": "glm-5.3"
+}

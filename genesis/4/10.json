@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu firman-Nya: \"Apakah yang telah engkau buat? Suara darah saudaramu menjerit kepada-Ku dari tanah itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu firman-Nya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yang telah engkau buat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "menjerit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:29.089521644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Elohim berkata: 'Jadilah cakrawala di tengah-tengah air, dan biarlah ia memisahkan antara air dengan air.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "cakrawala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan biarlah ia"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "memisahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "למים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:55.289688567Z",
+  "model": "glm-5.3"
+}

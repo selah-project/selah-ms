@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Mereka telah mencurahkan darah mereka seperti air sekeliling Yerushalaim, dan tiada orang mengkebumikan.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "mereka telah mencurahkan"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "orang mengkebumikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:14.377070537Z",
+  "model": "glm-5.3"
+}

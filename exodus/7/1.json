@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu berkatalah Yahweh kepada Moshe: Lihat, Aku menjadikan engkau tuhan bagi Paroh, dan Aharon saudaramu akan menjadi nabimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Aku menjadikan engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "bagi Paroh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "nabimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:47.106837124Z",
+  "model": "glm-5.3"
+}

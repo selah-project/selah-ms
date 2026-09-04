@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Awan dan kegelapan ⟨mengelilingi⟩ Dia; keadilan dan mishpat ⟨ialah⟩ tapak takhta-Nya.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dan kegelapan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "sekeliling-Nya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan mishpat"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:17.350737921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Kamu mengambil ⟨את⟩ pakaian bersulam kamu dan menutupi mereka dengannya, dan minyakku dan ukupanku kamu letakkan di hadapan mereka.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "kamu mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian bersulam kamu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "bersulam kamu"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "menutupi mereka"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "minyakku"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "ukupanku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kamu letakkan"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di hadapan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:31:32.132244971Z",
+  "model": "glm-5.3"
+}

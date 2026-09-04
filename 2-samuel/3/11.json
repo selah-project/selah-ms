@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan tidak dapat lagi ⟨ia⟩ membalaskan ⟨את⟩ Avner sesuatu perkataan, kerana takutnya ⟨את⟩ kepadanya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "membalaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "kerana takutnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:30.748507853Z",
+  "model": "glm-5.3"
+}

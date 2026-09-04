@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan kamu menghampiri dan berdiri di bawah gunung itu, dan gunung itu menyala dengan api sampai ke jantung langit — kegelapan, awan dan kabut gelap.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "Dan kamu menghampiri"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "dan gunung itu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "jantung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dan kabut gelap"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:35.088355086Z",
+  "model": "glm-5.3"
+}

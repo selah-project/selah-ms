@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Aku akan memuji ⟨את⟩ Yahweh yang telah memberi nasihat kepadaku; juga pada waktu-waktu malam buah pinggangku mengajar aku.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Aku akan memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "telah memberi nasihat kepadaku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "pada waktu-waktu malam"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "mengajar aku"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "buah pinggangku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:25.536818421Z",
+  "model": "glm-5.3"
+}

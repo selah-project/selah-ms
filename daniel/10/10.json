@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan lihat, sebuah tangan menyentuh aku, dan ia menggoncang aku ke atas lututku dan telapak tangan tanganku.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sebuah tangan"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "dan ia menggoncang aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "lututku"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "dan telapak tangan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:17.990619248Z",
+  "model": "glm-5.3"
+}

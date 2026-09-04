@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Yahweh telah menyempurnakan ⟨את⟩ murka-Nya, telah mencurah kepanasan hidung-Nya, dan menghidupkan api di Tsiyon, dan api itu memakan segala tapaknya.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "telah menyempurnakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murka-Nya"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "murka-Nya"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "telah mencurah"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hidung-Nya"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "dan menghidupkan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "segala tapaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:56.809223844Z",
+  "model": "glm-5.3"
+}

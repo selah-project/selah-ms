@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "maka bapa gadis itu dan ibunya mengambil dan mengeluarkan ⟨את⟩ tanda keperawanan gadis itu kepada para tua bandar di pintu gerbang.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan ibunya"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "dan mengeluarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanda keperawanan gadis itu"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "keperawanan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "di pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:45.487748320Z",
+  "model": "glm-5.3"
+}

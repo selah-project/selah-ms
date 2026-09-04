@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "maka dihitungnya ⟨את⟩ tahun-tahun jualannya, dan dikembalikannya ⟨את⟩ kelebihan itu kepada orang yang menjual kepadanya, lalu kembalilah ia kepada milik pegangannya.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "maka dihitungnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahun-tahun jualannya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tahun-tahun"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "jualannya"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dan dikembalikannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelebihan itu"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "kelebihan itu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan kembali"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "kepada milik pegangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:35.666541114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Pasanglah telinga, Elohim, kepada doaku, dan jangan bersembunyi daripada permohonanku.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Pasanglah telinga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kepada doaku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "bersembunyi"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "daripada permohonanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:00.385679222Z",
+  "model": "glm-5.3"
+}

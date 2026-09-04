@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 114,
+  "translation": "Pada keluarnya Yisrael dari Mitsrayim, bayt Yaakov dari kaum yang berbahasa asing,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "pada keluarnya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayt (rumah)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari kaum"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "yang berbahasa asing"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:16.616976417Z",
+  "model": "glm-5.3"
+}

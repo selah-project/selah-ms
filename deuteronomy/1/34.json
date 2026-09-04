@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Yahweh mendengar ⟨את⟩ suara perkataan kamu, dan ⟨Ia⟩ murka, dan bersumpah, kata-Nya:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu … mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "perkataan kamu"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "dan ⟨Ia⟩ murka"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dan bersumpah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:10.480806715Z",
+  "model": "glm-5.3"
+}

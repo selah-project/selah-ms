@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 32:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan aku ada lembu, dan keldai, kambing biri-biri, dan hamba lelaki, dan hamba perempuan; dan aku menghantar ⟨untuk⟩ memberitahu tuanku, supaya aku mendapat kurnia di mata tuan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan ada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "padaku"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "dan keldai"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dan hamba lelaki"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "dan hamba perempuan"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "dan aku menghantar"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "memberitahu"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "supaya mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kurnia"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata tuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:35.759260245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Segala perintah mu ⟨ialah⟩ kesetiaan; dengan pembohongan mereka mengejar ku — tolonglah aku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah mu"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kesetiaan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan pembohongan"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "mereka mengejar ku"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "tolonglah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:40.647179270Z",
+  "model": "glm-5.3"
+}

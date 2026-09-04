@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berlakulah pada tahun ketiga, Yehosafat raja Yehuda turun kepada raja Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pada tahun"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:43.312191772Z",
+  "model": "glm-5.3"
+}

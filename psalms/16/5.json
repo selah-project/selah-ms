@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Yahweh ⟨ialah⟩ bahagian yang ditakar untukku dan cawanku; Engkaulah yang menopang nasibku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bahagian yang ditakar"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "dan cawanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "menopang"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "nasibku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:25.536390398Z",
+  "model": "glm-5.3"
+}

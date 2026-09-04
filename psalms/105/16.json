@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dan dipanggil-Nya kelaparan atas bumi, segala tongkat roti dipatahkan-Nya.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dan dipanggil"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dipatahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:02.716513213Z",
+  "model": "glm-5.3"
+}

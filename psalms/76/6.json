@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Telah dijarahkan para pemberani hati, terlelap tidur mereka, dan tiada ditemui oleh semua pahlawan tapak tangan mereka.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "telah dijarahkan"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "para pemberani"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "terlelap"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "tidur mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ditemui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tapak tangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:01.372243711Z",
+  "model": "glm-5.3"
+}

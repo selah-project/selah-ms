@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Banyak kali Ia melepaskan mereka, tetapi mereka menderhaka dalam rancangan mereka, dan mereka direndahkan dalam kesalahan mereka.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "Banyak"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Ia melepaskan mereka"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "tetapi mereka"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "menderhaka"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "dalam rancangan mereka"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "dan direndahkan"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "dalam kesalahan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:08.914758478Z",
+  "model": "glm-5.3"
+}

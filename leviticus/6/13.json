@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Inilah korban Aharon dan anak-anaknya yang akan dipersembahkan kepada Yahweh pada hari ⟨dia⟩ diurapi ⟨את⟩ dia: sepersepuluh efa tepung halus sebagai minha tetap, setengahnya pada waktu pagi dan setengahnya pada waktu petang.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "akan dipersembahkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "diurapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Aharon, objek pengurapan)"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "sepersepuluh"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung halus"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sebagai mincha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tetap"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "setengahnya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "dan setengahnya"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:02.179605430Z",
+  "model": "glm-5.3"
+}

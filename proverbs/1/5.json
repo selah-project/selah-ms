@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Orang bijak akan mendengar dan menambah kepandaian, dan orang yang berakal akan memperoleh panduan ⟨kebijaksanaan⟩.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dan menambah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kepandaian"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "dan orang yang berakal"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "panduan ⟨kebijaksanaan⟩"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "akan memperoleh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:49.401257077Z",
+  "model": "glm-5.3"
+}

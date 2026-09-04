@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Avraham menambah lagi dengan mengambil seorang isteri, dan namanya Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "menambah lagi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "dan namanya"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:21.720159815Z",
+  "model": "glm-5.3"
+}

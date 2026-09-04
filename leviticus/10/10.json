@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "dan untuk memisahkan antara yang kudus dan antara yang biasa, dan antara yang haram dan antara yang bersih.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "dan untuk memisahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "החל",
+      "gloss": "yang biasa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yang haram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "yang bersih"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.627962860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Elohimku, pada-Mu aku berlindung; janganlah aku mendapat malu, janganlah musuh-musuhku bersorak ⟨atasku⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "aku mendapat malu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "bersorak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨atasku⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:08.389387289Z",
+  "model": "glm-5.3"
+}

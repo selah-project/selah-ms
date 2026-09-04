@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Sebab mereka mencampakkan masing-masing tongkatnya, dan tongkat-tongkat itu menjadi tanin-tanin; tetapi tongkat Aharon menelan ⟨את⟩ tongkat-tongkat mereka.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "mereka mencampakkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "tanin-tanin"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "menelan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat-tongkat mereka"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "tongkat-tongkat mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:42.778033344Z",
+  "model": "glm-5.3"
+}

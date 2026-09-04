@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Dari El ayahmu — dan Ia menolongmu — dan ⟨את⟩ Syadai, dan Ia memberkati engkau dengan berkat-berkat langit dari atas, berkat-berkat tehom yang bertelentak di bawah, berkat-berkat buah dada dan rahim.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "dari El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "dan Ia menolongmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syadai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Syadai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "dan Ia memberkati engkau"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "yang bertelentak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkat-berkat"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "buah dada"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "dan rahim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:49.235827470Z",
+  "model": "glm-5.3"
+}

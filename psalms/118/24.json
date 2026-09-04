@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Inilah hari yang dijadikan oleh Yahweh; marilah kita bersukaria dan bersukacita padanya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dijadikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "marilah kita bersukaria"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:32.340857428Z",
+  "model": "glm-5.3"
+}

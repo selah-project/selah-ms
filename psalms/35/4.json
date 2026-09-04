@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Biar-lah ⟨mereka⟩ malu dan ⟨mereka⟩ terhina, para pencari jiwa-ku; biar-lah ⟨mereka⟩ berundur ke belakang dan ⟨mereka⟩ berkecil hati, para perancang kejahatan-kuponku.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "biar-lah malu"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "dan terhina"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "para pencari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "biar-lah berundur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "dan berkecil hati"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "para perancang"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kejahatan-kuponku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:38.835984011Z",
+  "model": "glm-5.3"
+}

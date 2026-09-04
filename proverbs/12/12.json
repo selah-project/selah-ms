@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Orang jahat mengingini jaring orang-orang jahat, tetapi akar orang benar memberi ⟨buah⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tetapi akar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.493434168Z",
+  "model": "glm-5.3"
+}

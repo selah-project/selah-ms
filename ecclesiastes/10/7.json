@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Aku telah melihat hamba-hamba menunggang kuda, dan pembesar-pembesar berjalan seperti hamba-hamba di atas bumi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku telah melihat"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "menunggang"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ו שרים",
+      "gloss": "dan pembesar-pembesar"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "כ עבדים",
+      "gloss": "seperti hamba-hamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:23.548229115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Seperti siput yang melarat, ia berjalan lenyap; seperti keguguran seorang perempuan, tidak melihat matahari.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Seperti"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "siput"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "melarat"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ia berjalan lenyap"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "keguguran"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "seorang perempuan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:37.510899825Z",
+  "model": "glm-5.3"
+}

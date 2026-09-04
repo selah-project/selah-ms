@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 133,
+  "translation": "Nyanyian pendakian, bagi David. Lihatlah, betapa baik dan betapa sedapnya duduk bersama saudara-saudara, malah sehati!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pendakian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan betapa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sedapnya"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "duduk bersama"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "saudara-saudara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sehati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:32.916229098Z",
+  "model": "glm-5.3"
+}

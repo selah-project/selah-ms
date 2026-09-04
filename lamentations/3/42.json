@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Kami — kami telah menderhaka dan kami telah memberontak; Engkau tidak mengampuni.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "kami telah menderhaka"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "dan kami telah memberontak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "engkau mengampuni"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:30.399695112Z",
+  "model": "glm-5.3"
+}

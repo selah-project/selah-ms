@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan terjadilah, setelah Moshe selesai menulis ⟨את⟩ segala perkataan Tora ini di atas kitab, sampai genap seluruhnya,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "setelah selesai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "menulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "segala perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "genap seluruhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:13.366996792Z",
+  "model": "glm-5.3"
+}

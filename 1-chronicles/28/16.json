@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "dan ⟨את⟩ emas — timbangan bagi meja-meja roti susunan, bagi meja dan meja; dan perak bagi meja-meja perak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "timbangan"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "bagi meja-meja"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "susunan (roti)"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "bagi meja"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "dan meja"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "bagi meja-meja"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-09-04T15:31:27.359814619Z",
+  "model": "glm-5.3"
+}

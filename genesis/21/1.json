@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan Yahweh mengunjungi ⟨את⟩ Sarah seperti yang telah dikatakan-Nya, dan Yahweh berbuat bagi Sarah seperti yang telah difirmankan-Nya.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mengunjungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah dikatakan-Nya"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan berbuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "bagi Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:55.823413407Z",
+  "model": "glm-5.3"
+}

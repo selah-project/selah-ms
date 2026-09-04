@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Jangan sembunyikan wajah-Mu daripadaku pada hari aku sesak; condongkan telinga-Mu kepadaku; pada hari aku berseru, segeralah jawab aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "aku sesak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telinga-Mu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawab aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:11.254263101Z",
+  "model": "glm-5.3"
+}

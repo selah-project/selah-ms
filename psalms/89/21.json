@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Aku telah menemui David hamba-Ku; dengan minyak kudus-Ku aku telah mengurapinya.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "telah menemui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kudus-Ku"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "aku telah mengurapinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.492377573Z",
+  "model": "glm-5.3"
+}

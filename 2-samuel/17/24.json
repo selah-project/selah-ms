@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Maka David sampai ke Mahanayim; dan Avsyalom menyeberangi ⟨את⟩ Yarden — dia dan segala orang Israel bersamanya.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Maka David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanayim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "dan Avsyalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:52.841830454Z",
+  "model": "glm-5.3"
+}

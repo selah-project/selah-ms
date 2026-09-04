@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "seperti yang diperintahkan Yahweh kepada ⟨את⟩ Moshe; lalu ia menghitung mereka di padang belantara Sinay.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "lalu ia menghitung mereka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:33.803771870Z",
+  "model": "glm-5.3"
+}

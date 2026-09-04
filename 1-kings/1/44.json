@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 1:44",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan raja telah mengutus bersamanya ⟨את⟩ Tsadok sang imam dan ⟨את⟩ Natan sang nabi, serta Benayahu bin Yehoyada, orang Kreti dan orang Peleti; dan mereka telah menyuruh ⟨את⟩-nya menunggang atas bagal betina raja.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan telah mengutus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya (bersamanya)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok sang imam"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Natan sang nabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "serta Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan orang Kreti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "dan orang Peleti"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "dan mereka telah menyuruh menunggang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "bagal betina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:01.076218753Z",
+  "model": "glm-5.3"
+}

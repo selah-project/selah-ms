@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Syaul mengambilnya pada hari itu, dan tidak membenarkannya kembali ke rumah bapanya.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Dan Syaul mengambilnya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ia membenarkan dia"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:13.514852734Z",
+  "model": "glm-5.3"
+}

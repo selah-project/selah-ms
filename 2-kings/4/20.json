@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu diangkatnya dia dan dibawanya kepada ibunya, dan duduklah dia di atas lututnya sehingga tengah hari, lalu mati.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "lalu diangkatnya dia"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "dan dibawanya dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduklah dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "lututnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tengah hari"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:45.472356292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Dan Yaakov memberkati ⟨את⟩ Firaun, lalu keluar dari hadapan Firaun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Firaun"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:33.527880518Z",
+  "model": "glm-5.3"
+}

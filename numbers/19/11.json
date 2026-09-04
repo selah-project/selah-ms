@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Orang yang menyentuh mayat, yakni nyawa manusia apa pun, menjadi najis tujuh hari.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "במת",
+      "gloss": "mayat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "apa pun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan menjadi najis"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:26.572550696Z",
+  "model": "glm-5.3"
+}

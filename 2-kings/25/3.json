@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Pada hari kesembilan bulan itu bertambah hebat kelaparan itu di bandar, dan tidak ada roti bagi rakyat negeri itu.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "pada hari kesembilan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "bertambah hebat"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan itu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bandar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bagi rakyat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:12.342736098Z",
+  "model": "glm-5.3"
+}

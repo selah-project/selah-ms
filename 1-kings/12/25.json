@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Yerobeam membina ⟨את⟩ Syekhem di gunung Efrayim dan diam di sana; dan keluarlah dia dari sana serta membina ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu membina"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluarlah dia"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "serta membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:04.800976156Z",
+  "model": "glm-5.3"
+}

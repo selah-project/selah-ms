@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan bumi itu tidak sanggup menanggung ⟨את⟩ mereka untuk diam bersama-sama, kerana harta benda mereka banyak, dan mereka tidak dapat diam bersama-sama.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sanggup menanggung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (Avram dan Lot)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuk diam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "harta benda mereka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mereka dapat"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "diam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:29.341007480Z",
+  "model": "glm-5.3"
+}

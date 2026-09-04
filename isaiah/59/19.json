@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Maka mereka akan gentar, dari barat, ⟨את⟩ nama Yahweh, dan dari terbit matahari, ⟨את⟩ kemuliaan-Nya; sebab ia akan datang seperti sungai yang sesak — roh Yahweh menghalau dia.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "maka mereka akan gentar"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "dari barat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "dan dari terbit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan-Nya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ia akan datang"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "seperti sungai"
+    },
+    {
+      "surface": "צר",
+      "gloss": "yang sesak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "menghalau"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:13.849495344Z",
+  "model": "glm-5.3"
+}

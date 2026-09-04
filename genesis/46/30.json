@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Dan berkatalah Yisrael kepada Yosef: Biarlah aku mati kali ini, setelah kulihat ⟨את⟩ wajahmu, kerana engkau masih hidup.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "biarlah aku mati"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kali ini"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "kulihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahmu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "engkau masih"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:50.430949130Z",
+  "model": "glm-5.3"
+}

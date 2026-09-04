@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Sebab Ia mengenyangkan nefesy yang merengek, dan nefesy yang lapar Ia memenuhi dengan kebaikan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "mengenyangkan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "yang merengek"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dan nefesy"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "yang lapar"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dengan kebaikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.008147102Z",
+  "model": "glm-5.3"
+}

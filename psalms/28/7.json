@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh ialah kekuatanku dan perisaiku; pada-Nya hatiku percaya, dan aku telah ditolong; hatiku bersorak-sorai, dan dengan nyanyianku aku bersyukur kepada-Nya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "dan perisaiku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pada-Nya"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "dan aku telah ditolong"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "hatiku bersorak-sorai"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "dan dengan nyanyianku"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "aku bersyukur kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:16.132916961Z",
+  "model": "glm-5.3"
+}

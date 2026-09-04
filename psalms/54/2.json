@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "Pada kedatangan orang-orang Zif, ketika mereka berkata kepada Syaul (Saul): \"Bukankah Dawid bersembunyi bersama kami?\"",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Pada kedatangan"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "orang-orang Zif"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ketika mereka berkata"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syaul (Saul)"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "bersembunyi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:43.347426768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Moshe menghitung, seperti yang diperintahkan Yahweh kepadanya, ⟨את⟩ segala sulung daripada bani Israel.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Lalu menghitung"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "kepadanya (Moshe)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala sulung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "sulung"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "daripada bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:59.982293758Z",
+  "model": "glm-5.3"
+}

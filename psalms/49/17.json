@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Jangan takut apabila seorang lelaki menjadi kaya, apabila kemuliaan rumahnya bertambah;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "menjadi kaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "bertambah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:42.125420232Z",
+  "model": "glm-5.3"
+}

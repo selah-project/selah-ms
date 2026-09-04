@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Dia mengutus firman-Nya dan menyembuhkan mereka, dan melepaskan mereka dari kubur-kubur mereka.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Dia mengutus"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "dan menyembuhkan mereka"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dan melepaskan"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "dari kubur-kubur mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:26.673334335Z",
+  "model": "glm-5.3"
+}

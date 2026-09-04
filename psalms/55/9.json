@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Aku segerakan pelarian bagi diriku, dari angin yang mengamuk, dari ribut.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "aku segerakan"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "pelarian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi diriku"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "dari angin"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "yang mengamuk"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "dari ribut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:30.097217026Z",
+  "model": "glm-5.3"
+}

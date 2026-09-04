@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan aku berkata: baik hikmah melebihi keperkasaan; tetapi hikmah orang miskin itu dihina, dan perkataan-perkataannya tidak didengar.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "Dan aku berkata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "baik"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "melebihi keperkasaan"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "tetapi hikmah"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "orang miskin itu"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "dihina"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "dan perkataan-perkataannya"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "didengar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:27.975077754Z",
+  "model": "glm-5.3"
+}

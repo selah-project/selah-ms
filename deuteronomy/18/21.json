@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan jika engkau berkata dalam hatimu: Bagaimanakah kita akan mengetahui ⟨את⟩ perkataan yang tidak difirmankan oleh Yahweh?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "engkau berkata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Bagaimanakah"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kita akan mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "oleh Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:19.298033950Z",
+  "model": "glm-5.3"
+}

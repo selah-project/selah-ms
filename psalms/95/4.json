@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "Yang di tangannya ialah kedalaman-kedalaman bumi, dan puncak-puncak gunung bagi dia.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Yang"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "kedalaman-kedalaman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "dan puncak-puncak"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:59.672364039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Untuk pemimpin ⟨paduan suara⟩, bagi Dawid, mizmor: Elohim ⟨milik⟩ pujianku, janganlah berdiam diri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin ⟨paduan suara⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pujianku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "berdiam diri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:11.245407905Z",
+  "model": "glm-5.3"
+}

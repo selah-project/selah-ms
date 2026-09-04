@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Lepaskanlah aku dari darah, ya Elohim, Elohim keselamatan-ku, maka lidah-ku akan bersorak ⟨atas⟩ kebenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Lepaskanlah aku"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "keselamatan-ku"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "akan bersorak"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidah-ku"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:29.279479656Z",
+  "model": "glm-5.3"
+}

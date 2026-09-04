@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dengan begini Aharon masuk ke tempat kudus: dengan seekor lembu jantan muda, anak lembu, bagi korban dosa, dan seekor domba jantan bagi korban bakaran.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Dengan begini"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "dengan seekor lembu jantan muda"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bagi korban dosa"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor domba jantan"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bagi korban bakaran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:55.962952366Z",
+  "model": "glm-5.3"
+}

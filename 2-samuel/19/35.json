@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu berkatalah Barzilai kepada raja: Berapa banyakkah hari-hari tahun umurku, sehingga aku naik membawa ⟨את⟩ raja ke Yerusalem?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzilai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "berapa banyakkah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "umurku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku naik membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:32.638848497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu katanya kepada raja: \"Benar ⟨ialah⟩ perkataan yang kudengar di negeriku tentang perkataan-perkataanmu dan tentang hikmatmu.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Benar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kudengar"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "di negeriku"
+    },
+    {
+      "surface": "על",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkataan-perkataanmu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan tentang"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmatmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:40.527107205Z",
+  "model": "glm-5.3"
+}

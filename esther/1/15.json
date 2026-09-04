@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "\"Menurut dat, apakah yang harus dibuat kepada ratu Wasti, oleh sebab ia tidak melakukan ⟨את⟩ perintah raja Ahasyweros melalui para sida-sida?\"",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Menurut dat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yang harus dibuat"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kepada ratu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ia melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyweros"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "melalui"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "para sida-sida"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:57.274109348Z",
+  "model": "glm-5.3"
+}

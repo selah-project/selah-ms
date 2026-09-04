@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ular itu berkata kepada perempuan itu: \"Tidak sekali-kali kamu akan mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kamu akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:14.525792975Z",
+  "model": "glm-5.3"
+}

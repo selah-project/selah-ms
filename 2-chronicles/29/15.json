@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Mereka menghimpunkan ⟨את⟩ saudara-saudara mereka, menguduskan diri, lalu masuk menurut perintah raja, oleh perkataan Yahweh, untuk menyucikan rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "mereka menghimpunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudara mereka"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "saudara-saudara mereka"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "mereka menguduskan diri"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mereka masuk"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "menurut perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "oleh perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "untuk menyucikan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:34.340318769Z",
+  "model": "glm-5.3"
+}

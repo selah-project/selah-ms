@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Kepada-Mu nenek moyang kami berteduh; mereka berteduh, dan Engkau ⟨meluputkan⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "berteduh"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nenek moyang kami"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "berteduh"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "dan Engkau meluputkan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.424270197Z",
+  "model": "glm-5.3"
+}

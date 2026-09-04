@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan mereka akan tahu bahawa aku Yahweh, apabila aku menyeraikan ⟨את⟩ mereka di antara bangsa-bangsa, dan menyiarakan ⟨את⟩ mereka di tanah-tanah.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "dan mereka akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "apabila aku menyeraikan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (umat itu)"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dan menyiarakan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (umat itu)"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di tanah-tanah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:30:35.814967871Z",
+  "model": "glm-5.3"
+}

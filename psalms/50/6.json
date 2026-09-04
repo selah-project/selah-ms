@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Dan langit memberitakan keadilan-Nya, sebab Elohim ⟨ialah⟩ Hakim, Dia sendiri. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Dan memberitakan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "keadilan-Nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Hakim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia sendiri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:49.363512366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Terbongkarnya auratmu, malah kelihatanlah celaanmu; Aku mengambil pembalasan, dan Aku tidak akan berunding dengan manusia.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "terbongkarnya"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "auratmu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kelihatanlah"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "celaanmu"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Aku mengambil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "Aku berunding"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:11.753051687Z",
+  "model": "glm-5.3"
+}

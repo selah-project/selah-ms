@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Lalu diberikannya kepadanya ⟨את⟩ Bilha hambanya menjadi isteri, dan Yaakov masuk kepadanya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "lalu diberikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "hambanya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi isteri"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:09.814776968Z",
+  "model": "glm-5.3"
+}

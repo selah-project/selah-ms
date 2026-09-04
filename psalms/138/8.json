@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 138,
+  "translation": "Yahweh akan menyempurnakan ⟨segala yang⟩ bagi aku; Yahweh, hesed-Mu sampai selama-lamanya; hasil kerja tangan-tangan-Mu, jangan Kautinggalkan!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "akan menyempurnakan"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨segala yang⟩ bagi aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hasil kerja"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-tangan-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "Kautinggalkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:30.565103772Z",
+  "model": "glm-5.3"
+}

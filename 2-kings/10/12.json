@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka bangkitlah ia, lalu masuk dan berjalan ke Syomeron — di Beit-Eked, tempat menggembala kambing domba, di tengah jalan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "maka bangkitlah ia"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu masuk"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ke Syomeron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "tempat menggembala kambing domba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di tengah jalan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:33.155216631Z",
+  "model": "glm-5.3"
+}

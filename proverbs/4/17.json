@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sebab mereka makan roti kejahatan, dan anggur keganasan mereka minum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mereka makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "mereka minum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:34.653686254Z",
+  "model": "glm-5.3"
+}

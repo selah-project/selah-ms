@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Yang meredakan gemuruh laut, gemuruh ombaknya, dan kebisingan bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Yang meredakan"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gemuruh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gemuruh"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ombaknya"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "dan kebisingan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:04.869392248Z",
+  "model": "glm-5.3"
+}

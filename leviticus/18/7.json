@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Aurat ayahmu dan aurat ibumu jangan kaubuka; ibumu ⟨ialah⟩ dia — jangan kaubuka auratnya.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "dan aurat"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kaubuka"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kaubuka"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "auratnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:46.751916484Z",
+  "model": "glm-5.3"
+}

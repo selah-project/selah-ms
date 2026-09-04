@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau hendaklah meletakkan ⟨את⟩ halaman itu sekeliling, dan engkau hendaklah meletakkan ⟨את⟩ kelambu pintu gerbang halaman itu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "dan engkau hendaklah meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halaman"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau hendaklah meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambu pintu gerbang halaman"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:57.679487280Z",
+  "model": "glm-5.3"
+}

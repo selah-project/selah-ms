@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 20:14",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan dia melintasi melalui semua suku Israel sampai ke Avelah, dan Beit Maakha, dan seluruh orang Beri; dan mereka berkumpul kepadanya, dan datang juga mengikutinya.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Dan dia melintasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "melalui semua"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "Avelah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan Beit"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "הברים",
+      "gloss": "orang Beri"
+    },
+    {
+      "surface": "ויקלהו",
+      "gloss": "dan mereka berkumpul kepadanya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka datang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mengikutinya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:22.485893799Z",
+  "model": "glm-5.3"
+}

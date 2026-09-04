@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Sesungguhnya, orang benar di bumi dibalas ⟨balasannya⟩, apatah lagi orang fasik dan orang berdosa!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dibalas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "apatah lagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "dan orang berdosa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:24.218879729Z",
+  "model": "glm-5.3"
+}

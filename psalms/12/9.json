@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Sekeliling orang-orang fasik berjalan-rayau, apabila kekejian dimuliakan di antara anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "berjalan-rayau"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "apabila dimuliakan"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "di antara anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:39.136970607Z",
+  "model": "glm-5.3"
+}

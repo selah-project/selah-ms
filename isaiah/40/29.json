@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dia memberi kuasa kepada yang letih, dan kepada yang tiada tenaga Dia menambah kekuaan.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "kepada yang letih"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuasa"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "dan kepada yang tiada"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "tenaga"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "kekuaan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "Dia menambah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:34.553006505Z",
+  "model": "glm-5.3"
+}

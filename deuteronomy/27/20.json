@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Terkutuklah orang yang bersetubuh dengan isteri ayahnya, kerana dia membuka sipi ayahnya, dan segala bangsa itu akan berkata: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "terkutuk"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yang bersetubuh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "dia membuka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sipi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:54.955179554Z",
+  "model": "glm-5.3"
+}

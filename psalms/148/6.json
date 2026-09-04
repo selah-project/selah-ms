@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Dan ⟨Ia⟩ menegakkan mereka untuk selama-lamanya, sampai ke kekal; ⟨Ia⟩ memberi ketetapan, dan tidak akan dilanggar.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "dan ⟨Ia⟩ menegakkan mereka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai ke kekal"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨Ia⟩ memberi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "akan dilanggar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.140792507Z",
+  "model": "glm-5.3"
+}

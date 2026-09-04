@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu Yosef berkata kepadanya, \"Inilah takwilnya: tiga sulur paut itu ⟨ialah⟩ tiga hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "takwilnya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "sulur paut itu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ialah⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:10.406235677Z",
+  "model": "glm-5.3"
+}

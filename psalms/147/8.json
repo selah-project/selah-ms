@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yang menudungi langit dengan awan, yang menyediakan hujan bagi bumi, yang menumbuhkan rumput bagi gunung-gunung.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Yang menudungi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "dengan awan"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "yang menyediakan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bagi bumi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "yang menumbuhkan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bagi gunung-gunung"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rumput"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:32.742106301Z",
+  "model": "glm-5.3"
+}

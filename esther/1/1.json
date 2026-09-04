@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka jadilah pada hari-hari Ahasyweros — dialah Ahasyweros yang memerintah dari Hodu sampai ke Kus, tujuh puluh dua dan seratus wilayah —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyweros"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyweros"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yang memerintah"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "dari Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "puluh dua"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "wilayah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:35.601295727Z",
+  "model": "glm-5.3"
+}

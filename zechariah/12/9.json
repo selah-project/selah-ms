@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan terjadilah pada hari itu: Aku akan mencari untuk membinasakan ⟨את⟩ segala bangsa yang datang menyerang Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "Aku akan mencari"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "yang datang"
+    },
+    {
+      "surface": "על",
+      "gloss": "menyerang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:21.958785895Z",
+  "model": "glm-5.3"
+}

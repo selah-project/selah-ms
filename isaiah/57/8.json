@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Di belakang pintu dan tiang pintu engkau meletakkan tanda peringatanmu, sebab dari ⟨את⟩-Ku engkau menelanjangi dirimu lalu naik; engkau meluaskan tempat tidurmu dan engkau mengikat perjanjian untukmu dengan mereka; engkau mencintai tempat tidur mereka, engkau telah melihat tangan.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "dan tiang pintu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "engkau meletakkan"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "tanda peringatanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "dari ⟨את⟩-Ku",
+      "marks": "Aku (Yahweh)"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "engkau menelanjangi dirimu"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "lalu naik"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "engkau meluaskan"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "tempat tidurmu"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "dan engkau mengikat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "engkau mencintai"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "tempat tidur mereka"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "engkau telah melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:21.154508180Z",
+  "model": "glm-5.3"
+}

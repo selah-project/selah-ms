@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Daging sembelihan syukur damai-sejahteranya pada hari persembahannya dimakan; ia tidak boleh meninggalkan apa-apa daripadanya sampai pagi.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sembelihan"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "damai-sejahteranya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "persembahannya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ia meninggalkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:18.770496384Z",
+  "model": "glm-5.3"
+}

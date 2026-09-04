@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu berfirmanlah Yahweh kepada Moshe: Katakanlah kepada Aharon: Ulurkanlah ⟨את⟩ tongkatmu dan pukullah ⟨את⟩ debu bumi itu, maka ia akan menjadi kunang-kunang nyamuk di seluruh tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ulurkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatmu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tongkatmu"
+    },
+    {
+      "surface": "והך",
+      "gloss": "dan pukullah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debu bumi itu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka ia akan menjadi"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "nyamuk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:00.908170524Z",
+  "model": "glm-5.3"
+}

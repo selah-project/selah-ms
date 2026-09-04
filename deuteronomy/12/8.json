@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Kamu tidak boleh berbuat seperti segala yang kita buat di sini pada hari ini, setiap orang ⟨ melakukan ⟩ segala yang betul di matanya sendiri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kamu boleh berbuat"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "seperti segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "buat"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "yang betul"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:32.607263611Z",
+  "model": "glm-5.3"
+}

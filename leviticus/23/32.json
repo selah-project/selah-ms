@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Syabat syabaton ialah bagimu, dan kamu akan menyeksa ⟨את⟩ nefesy-nefesy kamu; pada hari kesembilan bulan itu, pada waktu senja — dari senja sampai senja kamu berehat — syabat kamu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Syabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "syabaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "dan kamu akan menyeksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesy-nefesy kamu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefesy-nefesy kamu"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "pada hari kesembilan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "dari senja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "senja"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "kamu berehat"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "syabat kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:02.275736402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Pada waktu engkau berjalan, ia menunjuki ⟨את⟩ engkau; pada waktu engkau berbaring, ia menjagamu; dan pada waktu engkau terjaga, ia bercakap dengan engkau.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Pada waktu engkau berjalan"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ia menunjuki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "pada waktu engkau berbaring"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ia menjaga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "dan pada waktu engkau terjaga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "bercakap dengan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:53.461567578Z",
+  "model": "glm-5.3"
+}

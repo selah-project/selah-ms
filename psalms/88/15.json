@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Mengapa, Yahweh, Engkau menolak jiwaku, menyembunyikan wajah-Mu daripada aku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "Engkau menolak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Engkau menyembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:07.140837827Z",
+  "model": "glm-5.3"
+}

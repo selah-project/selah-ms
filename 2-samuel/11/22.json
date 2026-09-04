@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu utusan itu pergi, dan datang, dan memberitahukan kepada Daud ⟨את⟩ segala yang Yoav suruhkan kepadanya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan itu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "suruhkan kepadanya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:18.274653657Z",
+  "model": "glm-5.3"
+}

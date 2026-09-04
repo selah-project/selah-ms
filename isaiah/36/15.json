@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan jangan biarkan Hizkiyahu membuat ⟨את⟩ kamu percaya kepada Yahweh dengan berkata: 'Yahweh pasti akan melepaskan kita; kota ini tidak akan diserahkan ke dalam tangan raja Asyur.'",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "objek dari יבטח — kamu (atas sekat Hizkiyahu)"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "pasti melepaskan"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "akan melepaskan kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "akan diserahkan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-09-04T15:49:23.047497581Z",
+  "model": "glm-5.3"
+}

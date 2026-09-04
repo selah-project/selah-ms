@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Orang yang memukul seorang lelaki sehingga mati, pastilah dibunuh.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sehingga mati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pastilah dibunuh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "⟨dibunuh⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:12.068661816Z",
+  "model": "glm-5.3"
+}

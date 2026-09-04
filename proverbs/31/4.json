@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Bukan untuk raja-raja, hai Lemuel, bukan untuk raja-raja minum anggur, dan bukan untuk pembesar-pembesar mengingini minuman keras —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "untuk raja-raja"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "hai Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "untuk raja-raja"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "minum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "dan untuk pembesar-pembesar"
+    },
+    {
+      "surface": "או",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman keras"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:57.109476585Z",
+  "model": "glm-5.3"
+}

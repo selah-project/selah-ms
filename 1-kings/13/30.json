@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan dibaringkannya ⟨את⟩ mayatnya dalam kuburnya, lalu mereka meratap atasnya: \"Hai, saudaraku!\"",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "dan dibaringkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayatnya"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "mayatnya"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "dalam kuburnya"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "lalu mereka meratap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:38.571640900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Ia membawa aku keluar ke tempat lapang ⟨את⟩, Ia menyelamatkan aku, kerana Ia berkenan kepadaku.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ia membawa keluar"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ke tempat lapang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Ia menyelamatkan aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ia berkenan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:32:32.430033640Z",
+  "model": "glm-5.3"
+}

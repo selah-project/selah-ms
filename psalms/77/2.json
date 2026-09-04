@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Suaraku kepada Elohim, dan aku meraung; suaraku kepada Elohim, dan ⟨Ia⟩ memasang telinga kepadaku.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "dan aku meraung"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "dan memasang telinga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:13.648293559Z",
+  "model": "glm-5.3"
+}

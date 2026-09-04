@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Ia menumpangkan ⟨את⟩ kedua tangannya ke atasnya dan memberinya perintah, seperti yang difirmankan Yahweh dengan tangan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "lalu menumpangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedua tangannya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kedua tangannya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "dan memberinya perintah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:45.405858860Z",
+  "model": "glm-5.3"
+}

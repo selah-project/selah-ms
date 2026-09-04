@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan mengenai kelahiranmu: pada hari engkau dilahirkan ⟨את⟩ engkau, tali pusarmu tidak dipotong, dan dengan air engkau tidak dibasuh untuk pelembutan, dan ⟨dengan⟩ garam engkau tidak digarami, dan dengan lampin engkau tidak dilampinkan.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Dan kelahiranmu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "tali pusarmu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan dengan air"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "engkau dibasuh"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "untuk pelembutan"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "dan garam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "engkau digarami"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "dan dengan lampin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "engkau dilampinkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:31:08.351855847Z",
+  "model": "glm-5.3"
+}

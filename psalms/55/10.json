@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Telan, ya Adonai, belah lidah mereka, sebab aku telah melihat keganasan dan perbalahan di bandar.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "telan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "belah"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "dan perbalahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bandar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:30.097450175Z",
+  "model": "glm-5.3"
+}

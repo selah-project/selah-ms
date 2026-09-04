@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Pada waktu datang kepadanya Natan sang nabi, ketika ia masuk kepada Bat-Syeba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Pada waktu datang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ia masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:20.160880667Z",
+  "model": "glm-5.3"
+}

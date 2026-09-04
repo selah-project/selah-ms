@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Binyamin memperanakkan ⟨את⟩ Bela anak sulungnya, Asybel ⟨yang⟩ kedua, dan Aharah ⟨yang⟩ ketiga.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Dan Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnya"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Asybel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "dan Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:35.867797333Z",
+  "model": "glm-5.3"
+}

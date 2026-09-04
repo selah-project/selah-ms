@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ia bertambah besar sehingga tentara langit, dan ia menjatuhkan ke bumi sebahagian daripada tentara itu dan daripada bintang-bintang, lalu mengijinkannya.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "dan ia bertambah besar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "dan ia menjatuhkan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sebahagian daripada"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tentara itu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan daripada"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "lalu mengijinkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:46:39.406323979Z",
+  "model": "glm-5.3"
+}

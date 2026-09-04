@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Apabila diberitahu kepada Dawid, maka baginda mengumpulkan ⟨את⟩ seluruh Israel dan menyeberangi ⟨את⟩ Yarden, lalu datang ke Helam; dan Aram menyusun barisan menghadapi Dawid, lalu berperang melawannya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan diberitahu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "lalu mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "ke Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "lalu menyusun barisan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "menghadapi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lalu berperang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "melawannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:13.223035002Z",
+  "model": "glm-5.3"
+}

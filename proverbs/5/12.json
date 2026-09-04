@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "dan engkau berkata: \"Bagaimana aku benci didikan, dan hati hatiku menghina teguran!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "dan engkau berkata"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "dan teguran"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "hati hatiku menghina"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:04.401037880Z",
+  "model": "glm-5.3"
+}

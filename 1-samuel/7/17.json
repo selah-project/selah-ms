@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan kepulangannya ⟨ialah⟩ ke Ramatah, kerana di sana rumahnya, dan di sana ia menghakimi ⟨את⟩ Israel; dan ia membina di sana mezbah bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "dan kepulangannya"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ke Ramatah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ia menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan ia membina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:30.855712621Z",
+  "model": "glm-5.3"
+}

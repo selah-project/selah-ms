@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu disentuhkannya kepada mulutku, dan berkata: \"Sesungguhnya, ini telah menyentuh bibirmu, dan kesalahanmu telah disingkapkan, dan dosamu ditebus.\"",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Lalu disentuhkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "telah menyentuh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "bibirmu"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "telah disingkapkan"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "kesalahanmu"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "dan dosamu"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "ditebus"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:41.112498041Z",
+  "model": "glm-5.3"
+}

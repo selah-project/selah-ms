@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Lalu Yahweh menghantar ke tengah umat itu ⟨את⟩ ular-ular yang membakar, dan mereka menggigit ⟨את⟩ umat itu, dan mati banyak umat dari Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menghantar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ke tengah umat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ular-ular yang membakar"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "ular-ular"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "yang membakar"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "dan mereka menggigit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:51.344725541Z",
+  "model": "glm-5.3"
+}

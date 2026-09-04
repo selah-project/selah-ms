@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan engkau akan memerintah ⟨את⟩ bani Israel, dan mereka akan membawa kepadamu minyak zaitun tulen, tumbuk, untuk pelita, untuk menyalakan lampu sentiasa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dan mereka akan membawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tumbuk"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuk pelita"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "untuk menyalakan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:55.785434261Z",
+  "model": "glm-5.3"
+}

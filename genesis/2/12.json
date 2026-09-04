@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan emas bumi itu ⟨adalah⟩ baik; di sana ⟨ada⟩ bedolah dan batu syoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolah"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:39.211700490Z",
+  "model": "glm-5.3"
+}

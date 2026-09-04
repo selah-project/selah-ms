@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 130,
+  "translation": "Napasku ⟨tersedia⟩ bagi Adonai, lebih daripada penjaga-penjaga menunggu pagi, penjaga-penjaga menunggu pagi.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "bagi Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "lebih daripada penjaga-penjaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "menunggu pagi"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "penjaga-penjaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "menunggu pagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:16.828587130Z",
+  "model": "glm-5.3"
+}

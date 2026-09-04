@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Segala jemaah Yisrael akan membuatnya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "akan membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "Pesakh (itu)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:24.964558109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Sesungguhnya Dia akan membuktikan salah ⟨את⟩ kamu, jika kamu mengangkat muka secara tersembunyi.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Sesungguhnya membuktikan salah"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "Dia akan membuktikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "secara tersembunyi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "kamu mengangkat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:32.932556257Z",
+  "model": "glm-5.3"
+}

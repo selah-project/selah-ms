@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu Yehoshua mengambil ⟨את⟩ seluruh negeri ini: tanah gunung, dan ⟨את⟩ seluruh Negev, dan ⟨את⟩ seluruh negeri Gosen, dan ⟨את⟩ Syefela, dan ⟨את⟩ Araba, serta ⟨את⟩ gunung Israel dan syefelanya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh negeri ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tanah gunung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh Negev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh negeri Gosen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Gosen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syefela"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Syefela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Araba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "gunung Israel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "dan syefelanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:45.890579280Z",
+  "model": "glm-5.3"
+}

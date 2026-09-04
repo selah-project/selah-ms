@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Dan manusia berkata: \"Sungguh, ada buah bagi orang benar; sungguh, ada Elohim yang menghakimi di bumi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi orang benar"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "yang menghakimi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:37.511408731Z",
+  "model": "glm-5.3"
+}

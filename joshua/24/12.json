@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan Aku menghantar ⟨את⟩ penyengat sebelum kamu, dan ia menghalau ⟨את⟩ mereka dari hadapan kamu — dua raja ha-Emori — bukan dengan pedangmu dan bukan dengan panahmu.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "dan Aku menghantar"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sebelum kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyengat"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "penyengat"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "dan ia menghalau"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari hadapan kamu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "dengan pedangmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "dengan panahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:14.798952578Z",
+  "model": "glm-5.3"
+}

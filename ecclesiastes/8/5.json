@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Penjaga perintah tidak akan mengalami perkara jahat, dan hati orang bijaksana mengenal waktu dan penghakiman.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan waktu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan penghakiman"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijaksana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:03.543088514Z",
+  "model": "glm-5.3"
+}

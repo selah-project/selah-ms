@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Masa untuk menangis, dan masa untuk ketawa; masa untuk meratap, dan masa untuk menari.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "untuk menangis"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "untuk ketawa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "untuk meratap"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "untuk menari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:23.543486794Z",
+  "model": "glm-5.3"
+}

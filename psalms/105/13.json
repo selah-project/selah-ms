@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Mereka berjalan dari bangsa ke bangsa, dari kerajaan ke kaum yang lain.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "dari kerajaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:02.716036157Z",
+  "model": "glm-5.3"
+}

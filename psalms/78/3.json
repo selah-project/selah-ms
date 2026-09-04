@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "yang kami telah dengar dan kami ketahui, dan bapa-bapa kami telah menceritakannya kepada kami,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami telah dengar"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "dan kami ketahui"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "dan bapa-bapa kami"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "telah menceritakannya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:23.422389796Z",
+  "model": "glm-5.3"
+}

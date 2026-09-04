@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Orang benar mengenal nyawa binatangnya, tetapi belas-kasihan orang jahat ⟨itu⟩ kejam.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "binatangnya"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "tetapi belas-kasihan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kejam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.493129216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Paroh memanggil Moshe dan Aharon, dan berkata: \"Berdoalah kepada Yahweh supaya ⟨dia⟩ menjauhkan katak-katak itu dariku dan daripada umatku, maka aku akan melepaskan ⟨את⟩ umat itu, dan mereka akan mempersembahkan korban kepada Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu memanggil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "berdoalah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "supaya menjauhkan"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak itu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dariku"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "dan daripada umatku"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "maka aku akan melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "dan mereka akan mempersembahkan korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:22.114298587Z",
+  "model": "glm-5.3"
+}

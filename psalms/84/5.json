@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Berbahagialah penghuni rumah-Mu; mereka masih akan memuji Engkau. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penghuni"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "akan memuji Engkau"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:58.757087108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu seluruh bangsa itu menanggalkan ⟨את⟩ anting-anting emas yang ada pada telinga mereka, dan membawanya kepada Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Lalu menanggalkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anting-anting emas"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "anting-anting"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "pada telinga mereka"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:46.751410439Z",
+  "model": "glm-5.3"
+}

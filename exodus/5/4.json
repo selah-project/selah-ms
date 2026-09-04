@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan raja Mitsrayim berkata kepada mereka: \"Mengapakah kamu, Moshe dan Aharon, membiarkan umat itu dari pekerjaannya? Pergilah kepada beban-beban kamu!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "kamu membiarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "dari pekerjaannya"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "kepada beban-beban kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:35.546751487Z",
+  "model": "glm-5.3"
+}

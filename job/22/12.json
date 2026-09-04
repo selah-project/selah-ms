@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 22:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Bukankah Eloah tinggi di langit? Dan lihatlah kepala bintang-bintang, betapa tingginya!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "tingginya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:44.173515020Z",
+  "model": "glm-5.3"
+}

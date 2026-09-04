@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Tiada kespian dalam dagingku kerana geram-Mu, tiada syalom dalam tulang-tulangku kerana dosaku.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tiada"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kespian"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dalam dagingku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "geram-Mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "dalam tulang-tulangku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:37.105047117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bangkitlah, pergilah ke Ninwe, bandar yang besar itu, dan berserulah kepadanya ⟨את⟩ seruan yang aku ucapkan kepadamu.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Bangkitlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar itu"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "yang besar itu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "dan berserulah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seruan"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "seruan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ucapkan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:27.579391818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Inilah pintu gerbang milik Yahweh; orang-orang benar akan masuk ke dalamnya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik Yahweh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "akan masuk"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ke dalamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:34.172382450Z",
+  "model": "glm-5.3"
+}

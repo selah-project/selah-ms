@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "yang diberkati oleh Yahweh Tsebaot, katanya: Berkatalah Umat-Ku Mitsrayim, dan perbuatan tangan-Ku Asyur, dan milik-Ku Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "diberkati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya:"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Berkatalah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Umat-Ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "dan perbuatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "dan milik-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:35.633303762Z",
+  "model": "glm-5.3"
+}

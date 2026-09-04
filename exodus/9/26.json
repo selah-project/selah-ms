@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Hanya di bumi Gosen, tempat anak-anak Yisrael berada di sana, tiada hujan batu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gosen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hujan batu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:21.102984931Z",
+  "model": "glm-5.3"
+}

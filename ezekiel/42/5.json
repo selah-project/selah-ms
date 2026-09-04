@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dan bilik-bilik yang atas itu dipendekkan, kerana ⟨kehadiran⟩ beranda-beranda memakan ruang daripada mereka, lebih daripada bilik-bilik yang bawah dan bilik-bilik yang tengah dalam bangunan.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "Dan bilik-bilik"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "yang atas"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "dipendekkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "memakan ruang"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "beranda-beranda"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "daripada mereka"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "daripada bilik-bilik yang bawah"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "dan daripada bilik-bilik yang tengah"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "dalam bangunan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:32.503118124Z",
+  "model": "glm-5.3"
+}

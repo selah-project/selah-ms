@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 19:9",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Maka didengarnya tentang Tirhakah raja Kusy, katanya: Lihat, ia telah keluar untuk berperang dengan ⟨את⟩ engkau; maka ia pulang dan mengutus utusan-utusan kepada Hizkiyahu, katanya:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "maka didengarnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirhakah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ia keluar"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "dengan ⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka ia pulang"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan ia mengutus"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:39.212570951Z",
+  "model": "glm-5.3"
+}

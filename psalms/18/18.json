@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Ia melepaskan aku daripada musuhku yang kuat, dan daripada pembenci-pembenciku, sebab mereka lebih kuat daripadaku.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Ia melepaskan aku"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "daripada musuhku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "yang kuat"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "dan daripada pembenci-pembenciku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "mereka lebih kuat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.547927648Z",
+  "model": "glm-5.3"
+}

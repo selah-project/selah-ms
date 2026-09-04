@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": " bekalan makanannya akan kuberkat-i dengan berkat; orang-orang miskinnya akan Aku kenyangkan dengan roti.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "bekalan makanannya"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kuberkat-i"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "dengan berkat"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "orang-orang miskinnya"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "akan Aku kenyangkan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dengan roti"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:20.322915367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Sebab siapa di awan dapat disamakan dengan Yahweh, siapa diserupakan dengan Yahweh di antara anak-anak para El?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "di awan"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "dapat disamakan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dengan Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "siapa diserupakan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dengan Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "di antara anak-anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "para El"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:50.983753967Z",
+  "model": "glm-5.3"
+}

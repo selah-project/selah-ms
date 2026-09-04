@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan aku akan menyaksikan bagiku saksi-saksi yang dipercayai: ⟨את⟩ Uriyah sang imam, dan ⟨את⟩ Zekharyah anak Yeberekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Dan aku akan menyaksikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "yang dipercayai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah sang imam"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zekharyah anak Yeberekhyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekhyahu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:16.307066832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sebab setiap kasut tentera yang menggedor dengan bising, dan setiap pakaian yang digulung dalam darah, akan menjadi untuk dibakar, menjadi makanan api.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "kasut tentera"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "yang menggedor"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "dengan bising"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "dan pakaian"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "yang digulung"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dalam darah"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "untuk dibakar"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:59.219936643Z",
+  "model": "glm-5.3"
+}

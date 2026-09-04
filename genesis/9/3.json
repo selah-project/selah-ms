@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Segala yang merayap yang ⟨ia⟩ hidup — bagi kamu semuanya akan menjadi makanan; seperti tumbuhan hijau, ⟨Aku⟩ telah memberikan kepada kamu ⟨את⟩ segalanya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "seperti tumbuhan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "hijau"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "⟨Aku⟩ telah memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segalanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segalanya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:06.399621569Z",
+  "model": "glm-5.3"
+}

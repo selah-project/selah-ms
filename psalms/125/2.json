@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 125,
+  "translation": "Yerusalaim — gunung-gunung mengelilinginya, dan Yahweh mengelilingi umat-Nya, dari sekarang dan sampai selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-nya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari sekarang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:41.773572968Z",
+  "model": "glm-5.3"
+}

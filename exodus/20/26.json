@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan jangan engkau naik dengan anak tangga ke atas mazbah-Ku, supaya ketelanjanganmu tidak tersingkap ke atasnya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "engkau naik"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "dengan anak tangga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mazbah-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tersingkap"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ketelanjanganmu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:11.916063901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan mengapakah kamu membawa ⟨את⟩ jemaah Yahweh ke padang gurun ini, untuk mati di sana, kami dan binatang ternak kami?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapakah"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kamu membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jemaah Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun ini"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "dan binatang ternak kami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:48.572116670Z",
+  "model": "glm-5.3"
+}

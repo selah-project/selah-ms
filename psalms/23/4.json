@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Sungguh pun aku berjalan di lembah bayang maut, aku tidak takut bencana, kerana Engkau bersama aku; tongkat-Mu dan penyokong-Mu — itulah yang menghiburkan aku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pun"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "bayang maut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersama aku"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tongkat-Mu"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "dan penyokong-Mu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "yang menghiburkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:43.586384499Z",
+  "model": "glm-5.3"
+}

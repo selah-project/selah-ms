@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Siapakah akan membawa saya ke bandar berkubu? Siapakah akan memimpin saya sampai ke Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "akan membawa saya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "akan memimpin saya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:43.534354941Z",
+  "model": "glm-5.3"
+}

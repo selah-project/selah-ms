@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Orang benar bersukacita apabila dia melihat pembalasan; langkahnya dibasuh dalam darah orang fasik.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Orang benar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dia melihat"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "langkahnya"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dibasuh"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dalam darah"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "orang fasik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:37.511280003Z",
+  "model": "glm-5.3"
+}

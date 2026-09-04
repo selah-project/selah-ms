@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu mereka berperang menentang Midyan, seperti yang diperintahkan Yahweh kepada ⟨את⟩ Moshe, dan mereka membunuh segala lelaki.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "lalu mereka berperang"
+    },
+    {
+      "surface": "על",
+      "gloss": "menentang"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "dan mereka membunuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lelaki"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:34.564512608Z",
+  "model": "glm-5.3"
+}

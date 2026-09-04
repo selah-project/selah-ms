@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Nyanyikanlah bagi Yahweh nyanyian baru, pujian-Nya dari hujung bumi, hai kamu yang turun ke laut dan segala isinya, pulau-pulau dan penduduknya.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "nyanyikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dari hujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "hai kamu yang turun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan segala isinya"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "dan penduduknya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:00.857904842Z",
+  "model": "glm-5.3"
+}

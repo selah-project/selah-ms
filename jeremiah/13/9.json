@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Beginilah firman Yahweh: Seperti itulah Aku akan membinasakan ⟨את⟩ kemegahan Yehudah dan ⟨את⟩ kemegahan Yerushalaim yang besar.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Seperti itulah"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "Aku akan membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemegahan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kemegahan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kemegahan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kemegahan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:45.265473563Z",
+  "model": "glm-5.3"
+}

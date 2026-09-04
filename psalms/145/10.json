@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Memuji Engkau, Yahweh, segala perbuatan-Mu, dan hasidim-Mu memberkati Engkau.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Memuji Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "dan hasidim-Mu"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "memberkati Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.621680707Z",
+  "model": "glm-5.3"
+}

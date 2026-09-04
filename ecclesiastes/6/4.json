@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kerana dalam hebel ia datang, dan dalam gelap ia pergi, dan dalam gelap namanya diselubungi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dalam hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dan dalam gelap"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ia pergi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "dan dalam gelap"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "diselubungi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:12.587434732Z",
+  "model": "glm-5.3"
+}

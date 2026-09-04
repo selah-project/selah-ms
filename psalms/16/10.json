@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Sebab Engkau tidak akan meninggalkan napasiku kepada Syeol; tidak akan Kau berikan hasid-Mu untuk melihat lobang kehancuran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "Engkau akan meninggalkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasiku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Engkau akan berikan"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "hasid-Mu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lobang kehancuran"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:55.568265756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Engkau menyembunyikan wajah-Mu, mereka terkejut; Engkau mengumpulkan roh mereka, mereka menghembuskan nafas terakhir, dan kepada debu mereka mereka kembali.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "Engkau menyembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "mereka terkejut"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "Engkau mengumpulkan"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "roh mereka"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "mereka menghembuskan nafas terakhir"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "debu mereka"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "mereka kembali"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.631828286Z",
+  "model": "glm-5.3"
+}

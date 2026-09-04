@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 9:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Jangan kaukata dalam hatimu, ketika Yahweh, Elohimmu, menghalau mereka dari hadapanmu, dengan berkata: 'Oleh kebenaranku Yahweh membawa aku masuk untuk merampas tanah ini'; tetapi oleh kejahatan bangsa-bangsa inilah Yahweh menghalau mereka dari hadapanmu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kaukata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "בהדף",
+      "gloss": "ketika menghalau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (objek dihalau)"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "בצדקתי",
+      "gloss": "Oleh kebenaranku"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "membawa aku masuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "untuk merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וברשעת",
+      "gloss": "tetapi oleh kejahatan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מורישם",
+      "gloss": "menghalau mereka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:26.719271719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu mereka menghampiri dan mengangkat mereka dalam kutnet mereka ke luar ⟨⟨dari⟩⟩ kemah, sebagaimana difirmankan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Lalu mereka menghampiri"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "dan mengangkat mereka"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "dalam kutnet mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:07.674433565Z",
+  "model": "glm-5.3"
+}

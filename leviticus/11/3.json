@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Segala yang membelah kuku dan bersela pada kukunya, serta memuntahkan semula makanan di dalam mulutnya dari antara binatang ternak, itulah yang boleh kamu makan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "yang membelah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "dan bersela"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "sela"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "yang memuntahkan semula makanan di dalam mulut"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan dimamah semula"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "di antara binatang ternak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "itulah (yang boleh kamu makan)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:55.965525297Z",
+  "model": "glm-5.3"
+}

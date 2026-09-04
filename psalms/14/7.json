@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Ah, siapa ⟨yang⟩ memberi dari Tsyion kelepasan bagi Yisrael! Apabila Yahweh memulangkan nasib umat-Nya, Yaakov akan bersukaria, Yisrael akan bersukacita.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨yang⟩ memberi"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsyion"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kelepasan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bagi Yisrael"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Apabila ... memulangkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nasib"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "akan bersukaria"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "akan bersukacita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:10.603599103Z",
+  "model": "glm-5.3"
+}

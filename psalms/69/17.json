@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Jawablah aku, hai Yahweh, sebab baiklah hesed engkau; menurut kelimpahan rahmat engkau berpalinglah elah aku.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Jawablah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed engkau"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "menurut kelimpahan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat engkau"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "berpalinglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "elah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:59.049975714Z",
+  "model": "glm-5.3"
+}

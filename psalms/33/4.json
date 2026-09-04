@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Sebab luruslah firman Yahweh, dan segala perbuatan-Nya dalam kesetiaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "perbuatan-Nya"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dalam kesetiaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:30.879101594Z",
+  "model": "glm-5.3"
+}

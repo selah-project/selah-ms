@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan keluarlah ⟨sang⟩ imam ke luar kemah, dan imam itu melihat, dan lihat, telah sembuh ║nega║ penyakit tsaraat itu dari orang yang ber-tsaraat itu —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dan keluarlah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan imam itu melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "telah sembuh"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega (tempalan\/penyakit kulit)"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "orang yang ber-tsaraat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:48.133491332Z",
+  "model": "glm-5.3"
+}

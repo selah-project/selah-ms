@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "⟨את⟩ siapakah yang akan diajarnya pengetahuan, dan ⟨את⟩ siapakah yang akan dibuatnya memahami berita? ⟨Merekalah⟩ yang baru disapih daripada susu, yang ditarik daripada buah dada.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siapakah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "akan diajarnya"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "siapakah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "dibuatnya memahami"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "berita"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "yang disapih"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "daripada susu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "yang ditarik"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "daripada buah dada"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:38.668993851Z",
+  "model": "glm-5.3"
+}

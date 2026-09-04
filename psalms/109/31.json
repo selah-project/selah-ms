@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Sebab ⟨dia⟩ berdiri di sebelah kanan si miskin, untuk menyelamatkannya daripada para hakim yang menghukum dirinya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "di sebelah kanan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "untuk menyelamatkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "para hakim yang menghukum"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dirinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:58.755065578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Inilah gol kamu, porsi ukuranmu dari sisi-Ku ⟨את⟩, firman Yahweh, bahawa engkau telah melupakan ⟨את⟩ Aku dan menyandarkan diri pada kebatilan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "gol kamu"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "porsi"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ukuranmu"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "dari sisi-Ku ⟨את⟩",
+      "marks": "porsi ukuranmu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "engkau telah melupakan"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "dan engkau menyandarkan diri"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "pada kebatilan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:08.568349946Z",
+  "model": "glm-5.3"
+}

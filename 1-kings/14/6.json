@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan terjadilah, apabila Ahia mendengar ⟨את⟩ bunyi langkahnya masuk di pintu, ia berkata: Masuklah, hai isteri Yaravam! Mengapakah engkau menyamar diri? Aku diutus kepadamu membawa ⟨khabar⟩ yang berat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengar"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi langkahnya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "langkahnya"
+    },
+    {
+      "surface": "באה",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Masuklah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "menyamar diri"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "diutus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yang berat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:55.147343279Z",
+  "model": "glm-5.3"
+}

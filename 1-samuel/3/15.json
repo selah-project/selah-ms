@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Syemuel berbaring sampai pagi, dan membuka ⟨את⟩ pintu-pintu rumah Yahweh; dan Syemuel takut memberitahukan ⟨את⟩ penglihatan itu kepada Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Lalu berbaring"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "dan membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pintu-pintu"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "dan Syemuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penglihatan itu"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "penglihatan itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:50.273263335Z",
+  "model": "glm-5.3"
+}

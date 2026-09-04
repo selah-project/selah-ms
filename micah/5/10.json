@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Aku akan melenyapkan kota-kota tanahmu, dan Aku akan meruntuhkan segala kubu pertahananmu.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "dan Aku akan melenyapkan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "dan Aku akan meruntuhkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "kubu pertahananmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:20.722227321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Yahweh menghakimi kaum-kaum; hakimilah aku, Yahweh, menurut kebenaranku dan menurut ketulusanku ⟨yang berada⟩ padaku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hakimilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "menurut kebenaranku"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "dan menurut ketulusanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "padaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:36.999618317Z",
+  "model": "glm-5.3"
+}

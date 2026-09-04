@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka bangkitlah selepas dia Yair orang Gilad, dan ia menghakimi ⟨את⟩ Yisrael dua puluh dua tahun.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Maka bangkitlah"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "selepas dia"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "orang Gilad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "dan ia menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:32.221709374Z",
+  "model": "glm-5.3"
+}

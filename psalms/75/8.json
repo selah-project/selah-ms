@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Sebab Elohim ⟨ialah⟩ yang menghakim: yang satu direndahkan-Nya, dan yang lain diangkat-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "menghakim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "direndahkan-Nya"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dan yang lain"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "diangkat-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:09.491625371Z",
+  "model": "glm-5.3"
+}

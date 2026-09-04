@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "yang telah dibuka oleh bibirku, dan yang diucapkan mulutku dalam kesesakanku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "telah dibuka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "oleh bibirku"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dan yang diucapkan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:00.465569479Z",
+  "model": "glm-5.3"
+}

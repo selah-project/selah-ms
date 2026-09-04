@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan air menutupi lawan-lawan mereka; tidak seorang pun dari mereka yang tinggal.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Dan menutupi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "lawan-lawan mereka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "yang tinggal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:58.556352243Z",
+  "model": "glm-5.3"
+}

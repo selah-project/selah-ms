@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan anak perempuan seorang kohen, apabila ia menjadi bagi seorang luar, ia sendiri tidak boleh makan daripada persembahan teruma perkara-perkara kudus.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "dan anak perempuan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "seorang kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bagi seorang"
+    },
+    {
+      "surface": "זר",
+      "gloss": "luar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia sendiri"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "daripada persembahan teruma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "perkara-perkara kudus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "boleh makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:40.553138040Z",
+  "model": "glm-5.3"
+}

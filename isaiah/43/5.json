@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Jangan takut, sebab ⟨את⟩-Dekat denganmu ⟨adalah⟩ Aku; dari timur Aku akan membawa zarahmu, dan dari barat Aku akan mengumpulkan engkau.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-Dekat denganmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "dari timur"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Aku akan membawa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zarahmu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "dan dari barat"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "Aku akan mengumpulkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:53.797117774Z",
+  "model": "glm-5.3"
+}

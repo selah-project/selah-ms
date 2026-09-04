@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "maka Yahweh memanggil Syemuel, dan ia berkata, \"Inilah aku.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "maka memanggil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Inilah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:33.472821818Z",
+  "model": "glm-5.3"
+}

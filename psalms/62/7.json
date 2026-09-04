@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Hanya Dialah gunung batuku dan keselamatanku, kubu pertahananku; aku tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "gunung batuku"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "dan keselamatanku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "kubu pertahananku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "akan goyah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:59.751905695Z",
+  "model": "glm-5.3"
+}

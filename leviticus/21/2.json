@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "melainkan bagi kerabatnya yang dekat dengannya: bagi ibunya dan bagi ayahnya, dan bagi anak lelakinya, dan bagi anak perempuannya, dan bagi saudaranya,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kecuali⟩"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "bagi kerabatnya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "bagi ibunya"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "dan bagi ayahnya"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "dan bagi anak lelakinya"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "dan bagi anak perempuannya"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "dan bagi saudaranya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:45.738404972Z",
+  "model": "glm-5.3"
+}

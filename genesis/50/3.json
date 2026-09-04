@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Lalu genaplah baginya empat puluh hari, kerana begitulah genapnya hari-hari orang yang diapukkan; dan Mitsrayim menangisi ⟨את⟩ dia tujuh puluh hari.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "lalu genaplah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "genapnya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "orang yang diapukkan"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dan menangisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:37.801732203Z",
+  "model": "glm-5.3"
+}

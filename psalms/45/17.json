@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Menggantikan bapa-bapamu akan menjadi anak-anakmu; engkau akan menjadikan mereka pembesar-pembesar di seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bapa-bapamu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "engkau akan menjadikan mereka"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:13.840360476Z",
+  "model": "glm-5.3"
+}

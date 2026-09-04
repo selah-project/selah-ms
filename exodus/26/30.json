@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan engkau dirikan ⟨את⟩ Mishkan itu mengikut hukumnya, yang ditunjukkan kepadamu di gunung itu.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "dan engkau dirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan itu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan itu"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "mengikut hukumnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ditunjukkan kepadamu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:18.068322685Z",
+  "model": "glm-5.3"
+}

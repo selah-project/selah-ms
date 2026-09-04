@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu didekatkan Moshe ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya, lalu dibasuhnya ⟨את⟩ mereka dengan air.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "lalu didekatkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "lalu dibasuhnya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:37.746707339Z",
+  "model": "glm-5.3"
+}

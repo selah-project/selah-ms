@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan janganlah bersaksi dengan saji terhadap sesamamu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan janganlah"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bersaksi"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "terhadap sesamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seorang saksi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "dengan saji"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:00.054618154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 127,
+  "translation": "Nyanyian naikan, bagi Syelomo. Jika Yahweh tidak membina rumah, sia-sia bersusah-payah para pembinanya padanya; jika Yahweh tidak menjaga kota, sia-sia berjaga-jaga penjaganya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "naikan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "bagi Syelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "bersusah-payah"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "para pembinanya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "berjaga-jaga"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "penjaganya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:47.245460079Z",
+  "model": "glm-5.3"
+}

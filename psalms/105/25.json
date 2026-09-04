@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dibalik-Nya hati mereka untuk membenci umat-Nya, untuk berlaku licik terhadap hamba-hamba-Nya.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "dibalik-Nya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuk membenci"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "untuk berlaku licik"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "terhadap hamba-hamba-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:15.833435344Z",
+  "model": "glm-5.3"
+}

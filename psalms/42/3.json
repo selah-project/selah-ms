@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dahaga nafasku kepada Elohim, kepada El yang hidup: bilakah aku akan datang dan tampak wajah Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "dahaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilakah"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku akan datang"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan tampak"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:30.757055193Z",
+  "model": "glm-5.3"
+}

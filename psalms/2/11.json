@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Berdanlah kepada ⟨את⟩ Yahweh dengan takut, dan bersukarialah dengan gemetar.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "berdanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "dengan takut"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "dan bersukarialah"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "dengan gemetar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:41.730554222Z",
+  "model": "glm-5.3"
+}

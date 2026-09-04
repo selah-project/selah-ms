@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan ⟨את⟩ hai arnebet, kerana ia memuntahkan ⟨את⟩ makanan mengunyahnya, tetapi tapak kakinya tidak dibelah — ia haram bagi kamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hai arnebet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "hai arnebet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "memuntahkan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan mengunyah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "dan tapak kaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "dibelah"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "haram"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:37.639896709Z",
+  "model": "glm-5.3"
+}

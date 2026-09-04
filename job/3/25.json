@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab kegerunan yang aku geruni telah datang menimpa aku, dan yang aku takuti itu datang kepadaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kegerunan"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "yang aku geruni"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "telah datang menimpa aku"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "aku takuti"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:58.177155144Z",
+  "model": "glm-5.3"
+}

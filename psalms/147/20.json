@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Tidak demikian dilakukan-Nya kepada segala bangsa lain, dan peraturan-peraturan — tidak sekali-kali mereka mengetahuinya. Haleluya!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segala"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa lain"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dan peraturan-peraturan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak sekali-kali"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "mereka mengetahuinya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Haleluya (pujilah!)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:24.856063149Z",
+  "model": "glm-5.3"
+}

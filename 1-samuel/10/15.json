@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu kata bapa saudara Syaul, \"Ceritakanlah kiranya kepadaku apakah yang dikatakan Svmuel kepada kamu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu kata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "bapa saudara"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ceritakanlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Svmuel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:18.408613627Z",
+  "model": "glm-5.3"
+}

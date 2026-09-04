@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Ia mengubah laut menjadi darat kering; di sungai mereka melintas berjalan kaki; di sanalah kita bersukaria di dalam Dia.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Ia mengubah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "menjadi darat kering"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "mereka melintas"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "berjalan kaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sanalah"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "kita bersukaria"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam Dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:10.450908810Z",
+  "model": "glm-5.3"
+}

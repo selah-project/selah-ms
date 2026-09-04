@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dia menghantar seorang lelaki mendahului mereka — Yosef (Yusuf), yang dijual sebagai hamba.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "menghantar"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "mendahului mereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sebagai hamba"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "dijual"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:05.680873278Z",
+  "model": "glm-5.3"
+}

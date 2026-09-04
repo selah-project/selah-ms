@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Daging mereka jangan kamu makan, dan bangkai mereka jangan kamu sentuh — mereka haram bagi kamu.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "daging mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "dan bangkai mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamu sentuh"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "haram"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:37.640190556Z",
+  "model": "glm-5.3"
+}

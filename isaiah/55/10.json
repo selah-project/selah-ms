@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Sebab seperti hujan turun dan salji dari langit, dan tidak kembali ke sana, melainkan ia mengenyangkan ⟨את⟩ bumi, dan membuatnya melahirkan serta menumbuhkan, dan memberi benih kepada penabur dan roti kepada pemakan —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "turun"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "dan salji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "mengenyangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "dan membuatnya melahirkan"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "serta menumbuhkan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kepada penabur"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dan roti"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kepada pemakan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:43.746233976Z",
+  "model": "glm-5.3"
+}

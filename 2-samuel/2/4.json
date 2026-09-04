@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka datanglah orang-orang Yehuda dan di sana mereka mengurapi ⟨את⟩ Dawid menjadi raja atas keluarga Yehuda. Dan mereka memberitahu Dawid, katanya: \"Orang-orang Yaves-Gilead ialah mereka yang menguburkan ⟨את⟩ Syaul.\"",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Maka datanglah"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "dan mereka mengurapi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "Dan mereka memberitahu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Orang-orang"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "menguburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:53.755179252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Israel menolak yang baik; musuh akan mengejarnya.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "akan mengejarnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:32.439840385Z",
+  "model": "glm-5.3"
+}

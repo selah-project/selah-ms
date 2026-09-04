@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Tiga tahun ⟨ia⟩ memerintah di Yerusyalaim, dan nama ibunya ⟨ialah⟩ Maakha, puteri Avisyalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Tiga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusyalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "puteri"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avisyalom"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:12.361241367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Kejahatan-kejahatan dirancang oleh lidahmu, seperti pisau cukur yang dilitar, hai pembuat penipuan.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Kejahatan-kejahatan"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "dirancang"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "oleh lidahmu"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "seperti pisau cukur"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "yang dilitar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hai pembuat"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "penipuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:05.560555197Z",
+  "model": "glm-5.3"
+}

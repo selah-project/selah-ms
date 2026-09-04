@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Nyanyikanlah bagi Yahweh, berkatilah namanya; kabarkanlah keselamatannya dari hari ke hari.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kabarkanlah"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "dari hari"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ke hari"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "keselamatannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:17.784322397Z",
+  "model": "glm-5.3"
+}

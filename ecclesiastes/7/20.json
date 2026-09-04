@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Kerana manusia — tiada ⟨orang⟩ benar di atas bumi yang berbuat baik dan tidak berdosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "benar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di atas bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "berdosa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:52.782746621Z",
+  "model": "glm-5.3"
+}

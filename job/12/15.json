@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Sesungguhnya, Dia menahan air dan ⟨ia⟩ mengering; Dia melepaskannya dan ⟨ia⟩ membalikkan bumi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dan mengering"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "melepaskannya"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "dan membalikkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:31.128982429Z",
+  "model": "glm-5.3"
+}

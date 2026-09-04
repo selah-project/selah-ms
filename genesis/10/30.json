@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan tempat kediaman mereka dari Mesya, ketika menuju ke Sefara, gunung di timur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan jadilah"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "tempat kediaman mereka"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "dari Mesya"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ketika menuju ke"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "di timur"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:56.523349077Z",
+  "model": "glm-5.3"
+}

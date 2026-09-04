@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan kamu memikul ⟨את⟩ Sikut raja kamu, dan ⟨את⟩ Kiyyun patung-patung kamu, bintang tuhan kamu, yang kamu buat untuk kamu.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Dan kamu memikul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut raja kamu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "raja kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kiyyun patung-patung kamu"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "patung-patung kamu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "bintang"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "tuhan kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:05.046050134Z",
+  "model": "glm-5.3"
+}

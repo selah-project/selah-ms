@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan dibawanya surat itu kepada raja Israel, bunyinya: Dan sekarang, apabila surat ini sampai kepadamu, lihatlah, aku telah menghantar kepadamu ⟨את⟩ Naaman hambaku, supaya engkau menyembuhkannya daripada penyakit kustanya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dan dibawanya"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bunyinya"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "apabila sampai"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "aku telah menghantar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hambaku"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "supaya engkau menyembuhkannya"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "daripada penyakit kustanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:41.594640871Z",
+  "model": "glm-5.3"
+}

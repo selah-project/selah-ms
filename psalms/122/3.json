@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Yerusalem, yang dibina sebagai kota yang bersambung rapat kepadanya, bersama-sama.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "yang dibina"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "sebagai kota"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "yang bersambung rapat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:19.680796180Z",
+  "model": "glm-5.3"
+}

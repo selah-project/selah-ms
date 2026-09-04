@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Kenyangkan kami ⟨pada⟩ waktu pagi dengan hesed-Mu, supaya kami bersorak dan bersukacita sepanjang hari-hari kami.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Kenyangkan kami"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨pada⟩ waktu pagi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "dengan hesed-Mu"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "supaya kami bersorak"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hari-hari kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:42.575278652Z",
+  "model": "glm-5.3"
+}

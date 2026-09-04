@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Maka engkau mengingati kembali ⟨את⟩ kekejian masa mudamu, ketika ⟨mereka⟩ memeras dada-dadamu di Mitsrayim, demi buah dada masa mudamu.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "maka engkau mengingati kembali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekejian masa mudamu"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "masa mudamu"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "ketika memeras"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "dada-dadamu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "buah dada"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "masa mudamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:35:21.006450756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 13:5",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "dan negeri orang Gibli, dan seluruh Lebanon, ke timur matahari, dari Baal-Gad di bawah gunung Hermon sampai ke pintu masuk Hamat,",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "dan negeri"
+    },
+    {
+      "surface": "הגבלי",
+      "gloss": "orang Gibli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ke timur"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "dari Baal-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ke pintu masuk"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:07.242442678Z",
+  "model": "glm-5.3"
+}

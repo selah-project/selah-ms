@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Sebab tanpa sebab mereka menyembunyikan bagi-Ku lubang perangkap — jaring mereka; tanpa sebab mereka menggali untuk nyawa-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "mereka menyembunyikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lubang perangkap"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "jaring mereka"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "mereka menggali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "untuk nyawa-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:40.546718236Z",
+  "model": "glm-5.3"
+}

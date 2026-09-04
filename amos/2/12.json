@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Tetapi kamu memberi minum kepada ⟨את⟩ orang-orang nazir anggur, dan kepada nabi-nabi kamu memberi perintah, berkata: Jangan bernubuat.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "kamu memberi minum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang nazir"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "orang-orang nazir"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "kamu memberi perintah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "bernubuat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:43.525418610Z",
+  "model": "glm-5.3"
+}

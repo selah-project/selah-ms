@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "sebab Yahweh telah menebus ⟨את⟩ Yaakov, dan membebaskannya dari tangan yang lebih kuat daripadanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "telah menebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "dan membebaskannya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yang lebih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:18:45.163642390Z",
+  "model": "glm-5.3"
+}

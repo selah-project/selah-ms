@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Orang yang berjalan dengan tulus akan diselamatkan, tetapi orang yang bengkok jalannya akan jatuh sekali gus.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "orang yang berjalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dengan tulus"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "akan diselamatkan"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "tetapi orang yang bengkok"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "akan jatuh"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "sekali gus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:14.937237482Z",
+  "model": "glm-5.3"
+}

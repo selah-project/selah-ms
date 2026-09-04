@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Bagi-Mu ⟨ialah⟩ lengan bersama kegagahan; kuat tangan-Mu, terangkat tangan kanan-Mu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Bagi-Mu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kegagahan"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:06.518102771Z",
+  "model": "glm-5.3"
+}

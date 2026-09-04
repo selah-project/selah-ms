@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Kalev bin Hetseron memperanakkan ⟨את⟩ Azuvah ⟨perempuan itu⟩ dan ⟨את⟩ Yeriot, dan inilah anak-anaknya: Yesyer, dan Syovav, dan Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Dan Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetseron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azuvah"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuvah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yeriot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Yeriot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Yesyer"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "dan Syovav"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "dan Ardon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:41.977982046Z",
+  "model": "glm-5.3"
+}

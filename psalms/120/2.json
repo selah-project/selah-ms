@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 120,
+  "translation": "Yahweh, selamatkanlah nefesyaku dari bibir dusta, dari lidah yang curang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesyaku"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "dari bibir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "dari lidah"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "yang curang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:23.490514776Z",
+  "model": "glm-5.3"
+}

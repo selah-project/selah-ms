@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Sebab Aku mengangkat ke langit tangan-Ku, dan Aku berkata: Selama-lamanya Aku hidup!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Aku mengangkat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "dan Aku berkata"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Aku hidup"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:22.685424162Z",
+  "model": "glm-5.3"
+}

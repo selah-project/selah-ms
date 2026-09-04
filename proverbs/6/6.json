@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Pergilah kepada semut, hai pemalas; lihatlah jalannya dan jadilah bijaksana.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "semut"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "hai pemalas"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "dan jadilah bijaksana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:45.505063377Z",
+  "model": "glm-5.3"
+}

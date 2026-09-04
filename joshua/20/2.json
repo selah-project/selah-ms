@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Berbicaralah kepada bani Israel, katanya: Berikanlah bagi kamu ⟨את⟩ bandar-bandar perlindungan yang telah Aku katakan kepada kamu dengan perantaraan Moshe,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "berbicaralah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar-bandar perlindungan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Aku katakan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan perantaraan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T12:03:18.831957428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika dari umur lima tahun sampai umur dua puluh tahun, maka nilai pengangkatanmu bagi lelaki itu dua puluh syikal, dan bagi perempuan sepuluh syikal.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "dari umur"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "nilai pengangkatanmu"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "bagi lelaki itu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "syikal"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "dan bagi perempuan"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "syikal"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:25.534618120Z",
+  "model": "glm-5.3"
+}

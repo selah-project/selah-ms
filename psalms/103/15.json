@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Manusia fana — seperti rumput hari-harinya; seperti bunga ladang, demikianlah ia berbunga.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Manusia fana"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hari-harinya"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "seperti bunga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang itu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ia berbunga"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.163027856Z",
+  "model": "glm-5.3"
+}

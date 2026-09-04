@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yahweh menopang orang-orang yang rendah hati; ⟨Ia⟩ merendahkan orang-orang fasik sampai ⟨ke⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "menopang"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang yang rendah hati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sampai ⟨ke⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:32.741826145Z",
+  "model": "glm-5.3"
+}

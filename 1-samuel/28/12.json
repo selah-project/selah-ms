@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lalu perempuan itu melihat ⟨את⟩ Shemuel, dan ia menjerit dengan suara nyaring; dan berkatalah perempuan itu kepada Shaul, katanya: Mengapa engkau menipu aku — padahal engkau Shaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Lalu melihat"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "dan ia menjerit"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nyaring"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "engkau menipu aku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "padahal engkau"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:26.691556694Z",
+  "model": "glm-5.3"
+}

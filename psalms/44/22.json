@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Tidakkah Elohim mengkaji ⟨ini⟩, sebab Dialah yang mengetahui rahsia hati?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tidakkah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "mengkaji"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "rahsia"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:16.205183485Z",
+  "model": "glm-5.3"
+}

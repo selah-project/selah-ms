@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ padang-padang kamu, dan ⟨את⟩ kebun-kebun anggur kamu, dan pokok-pokok zaitun kamu yang terbaik, ia akan mengambil, dan memberikannya kepada hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang-padang kamu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "padang-padang kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kebun-kebun anggur kamu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "kebun-kebun anggur kamu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "dan pokok-pokok zaitun kamu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "yang terbaik"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ia akan mengambil"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "kepada hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:52.825335088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Yahweh Elohim Tsebaot, pulihkanlah kami; cerahkanlah wajah-Mu, maka kami akan diselamatkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "pulihkanlah kami"
+    },
+    {
+      "surface": "האר",
+      "gloss": "cerahkanlah"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "maka kami akan diselamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:48.308436014Z",
+  "model": "glm-5.3"
+}

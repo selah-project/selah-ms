@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan orang berongga akan berakal, dan anak kuda liar dilahirkan sebagai manusia.",
+  "tokens": [
+    {
+      "surface": "ויש ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "berongga"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "akan berakal"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "dan anak kuda"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "liar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "dilahirkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:22.885017016Z",
+  "model": "glm-5.3"
+}

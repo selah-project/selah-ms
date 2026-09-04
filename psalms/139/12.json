@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Juga kegelapan tidak akan menggelapkan dari-Mu, dan malam bercahaya seperti siang; seperti kegelapan, seperti terang ⟨bagi-Mu⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "akan menggelapkan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari-Mu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti siang"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bercahaya"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "seperti kegelapan"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "seperti terang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.065531183Z",
+  "model": "glm-5.3"
+}

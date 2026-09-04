@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan kepada Gad ia berkata: Diberkati dia yang meluaskan Gad; seperti singa betina ia berdiam, dan menyambar lengan, malah kepala bahagian tengah.",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "Dan kepada Gad"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Diberkati"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "dia yang meluaskan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "seperti singa betina"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ia berdiam"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "dan menyambar"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kepala bahagian tengah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:36.130430792Z",
+  "model": "glm-5.3"
+}

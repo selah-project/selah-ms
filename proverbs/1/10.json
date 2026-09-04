@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Anakku, jika orang-orang berdosa memujuk engkau, jangan engkau bersetuju.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "memujuk engkau"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "orang-orang berdosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "engkau bersetuju"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:38.246309639Z",
+  "model": "glm-5.3"
+}

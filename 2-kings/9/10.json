@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ⟨את⟩ Izevel akan dimakan oleh anjing-anjing di helk Yizreel, dan tiada penguburan; lalu dibukanya pintu itu dan larilah ia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan dimakan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjing-anjing"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "di helk"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "penguburan"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "lalu dibukanya"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu itu"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dan larilah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:34.494657076Z",
+  "model": "glm-5.3"
+}

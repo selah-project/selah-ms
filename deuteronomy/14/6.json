@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan setiap haiwan yang membelah kuku, dan menghujahkan celah dua kuku, serta memuntahkan semula makanannya pada haiwan — ⟨את⟩ haiwan itu kamu boleh makan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "haiwan"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "membelah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "dan menghujahkan"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "celah"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "memuntahkan semula"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "makanan dikunyah"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "pada haiwan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haiwan itu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:09.340174281Z",
+  "model": "glm-5.3"
+}

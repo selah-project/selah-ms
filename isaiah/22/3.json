@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Semua pemimpinmu telah lari bersama-sama; dari anak panah mereka ditangkap; semua yang dijumpai pada dirimu telah ditangkap bersama-sama; mereka telah lari ke tempat yang jauh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Semua"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "pemimpinmu"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "mereka telah lari"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "dari anak panah"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "mereka ditangkap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "yang dijumpai pada dirimu"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "mereka ditangkap"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ke tempat yang jauh"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "mereka telah lari"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:54.905267799Z",
+  "model": "glm-5.3"
+}

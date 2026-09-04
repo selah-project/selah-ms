@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Maka hamba-hambanya membawanya dengan kereta, sudah mati, dari Megido, dan membawanya masuk ke Yerusalaim, lalu mengkebumikannya dalam kuburnya sendiri; maka umat negeri itu mengambil Yehoahaz anak Yoasyahu, lalu mengurapinya dan menjadikannya raja menggantikan ayahnya.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "maka membawanya dengan kereta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sudah mati"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "dari Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dan membawanya masuk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerusalaim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "lalu mengkebumikannya"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "dalam kuburnya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "maka mengambil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "lalu mengurapinya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "dan menjadikannya raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:39.135321974Z",
+  "model": "glm-5.3"
+}

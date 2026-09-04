@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Yang mengumpul seperti timbunan air laut, yang menaruh kedalaman dalam perbendaharaan-Nya.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Yang mengumpul"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "seperti timbunan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yang menaruh"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "dalam perbendaharaan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kedalaman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:01.857009752Z",
+  "model": "glm-5.3"
+}

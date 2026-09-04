@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Pada waktu itu cahayamu akan terbelah seperti fajar, dan kesembuhanmu segera bertunas; kebenaranmu berjalan di hadapanmu, kemuliaan Yahweh mengumpulkan engkau.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada waktu itu"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "akan terbelah"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "seperti fajar"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "cahayamu"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "dan kesembuhanmu"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "segera"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "bertunas"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaranmu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "mengumpulkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:39.494912231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Maka berkatalah Yehuda kepada Onan: Masuklah kepada isteri abangmu dan beribumertu-lah ⟨את⟩ kepadanya, dan bangkitkan zuriat bagi abangmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maka berkatalah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kepada Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Masuklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "abangmu"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "dan beribumertu-lah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kepadanya"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "dan bangkitkan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriat"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bagi abangmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:52.995529827Z",
+  "model": "glm-5.3"
+}

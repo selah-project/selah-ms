@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan raja Asyur membuang ⟨את⟩ Yisrael ke Asyur, dan menempatkan mereka di Halah dan di Habor, sungai Gozan, dan di kota-kota Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "membuang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ke Asyur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dan menempatkan mereka"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "di Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "dan di Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "dan kota-kota"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:17.352410819Z",
+  "model": "glm-5.3"
+}

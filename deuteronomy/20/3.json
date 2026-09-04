@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan berkata kepada mereka: Dengarlah, hai Yisrael, kamu ⟨menghampiri⟩ pada hari ini untuk berperang terhadap musuhmu; janganlah lembut hatimu, janganlah takut, janganlah tergopoh-gapah, dan janganlah gempar kerana mereka.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hai Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "⟨menghampiri⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lembut"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "tergopoh-gapah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "gempar"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kerana mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:56.274035971Z",
+  "model": "glm-5.3"
+}

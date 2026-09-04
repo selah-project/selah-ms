@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan jadilah kejahatan yang besar itu keji kepada Yonah, dan ia berkecil hati.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "jadilah keji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dan ia panas hati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dalam dirinya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:31.249039290Z",
+  "model": "glm-5.3"
+}

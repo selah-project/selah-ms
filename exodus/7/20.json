@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Moshe dan Aharon berbuat demikian, seperti yang diperintahkan Yahweh; dan ia mengangkat tongkat itu serta memukul ⟨את⟩ air yang ada di sungai, di depan mata Paroh dan di depan mata hamba-hambanya; dan segala air yang ada di sungai itu berubah menjadi darah.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Lalu berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "tongkat itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "serta memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di depan mata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "dan di depan mata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "dan berubah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "di sungai itu"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "menjadi darah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:35.975592316Z",
+  "model": "glm-5.3"
+}

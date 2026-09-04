@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Jangan ada baginya yang merentangkan hesed, dan jangan ada yang mengasihani anak-anak yatimnya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "משך",
+      "gloss": "yang merentangkan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ada"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "yang mengasihani"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "anak-anak yatimnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:48.813252609Z",
+  "model": "glm-5.3"
+}

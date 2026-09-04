@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Bahkan serigala menyerahkan susunya, menyusukan anak-anaknya; anak perempuan umatku menjadi kejam, seperti burung unta di padang gurun.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "serigala"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "menyerahkan"
+    },
+    {
+      "surface": "שד",
+      "gloss": "susu"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "menyusukan"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "kejam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "burung unta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:18.192759555Z",
+  "model": "glm-5.3"
+}

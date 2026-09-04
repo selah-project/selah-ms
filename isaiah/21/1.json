@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Beban padang gurun laut. Seperti puting beliung di Negev untuk melintas, ia datang dari padang gurun, dari tanah yang gerun.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beban"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Seperti puting beliung"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "di Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "untuk melintas"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "dari padang gurun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "yang gerun"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:20.685100769Z",
+  "model": "glm-5.3"
+}

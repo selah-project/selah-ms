@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Aku akan membalas kepadamu perkataan-perkataan, dan ⟨את⟩ rakan-rakanmu bersamamu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "akan membalas kepadamu"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rakan-rakanmu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "rakan-rakanmu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:00.138478610Z",
+  "model": "glm-5.3"
+}

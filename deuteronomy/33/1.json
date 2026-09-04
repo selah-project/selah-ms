@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan inilah berkat yang dengannya Moshe, orang Elohim, memberkati ⟨את⟩ bani Israel sebelum kematiannya.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kematiannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:43.216509483Z",
+  "model": "glm-5.3"
+}

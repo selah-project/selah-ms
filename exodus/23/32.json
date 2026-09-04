@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan engkau mengikat perjanjian dengan mereka dan dengan tuhan-tuhan mereka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "engkau mengikat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "dan dengan tuhan-tuhan mereka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:04.370052282Z",
+  "model": "glm-5.3"
+}

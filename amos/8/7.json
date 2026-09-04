@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Telah bersumpah Yahweh demi keagungan Yaakov: \"Tidak sekali-kali Aku melupakan segala perbuatan mereka untuk selama-lamanya.\"",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Telah bersumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "demi keagungan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika \/ sungguh"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "Aku melupakan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:26:15.527251209Z",
+  "model": "glm-5.3"
+}

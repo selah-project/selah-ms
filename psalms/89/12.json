@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Milik-Mulah langit, juga milik-Mu bumi; dunia dan segala isinya — Engkaulah ⟨yang⟩ mendasarkannya.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "milik-Mulah"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "milik-Mu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dan segala isinya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "mendasarkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:52.947198847Z",
+  "model": "glm-5.3"
+}

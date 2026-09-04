@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Sebab anak panah-Mu telah menancap ke dalam diriku, dan tangan-Mu telah turun ke atasku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "anak panah-Mu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "telah menancap"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ke dalam diriku"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "dan telah turun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:37.104902534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Untuk memberitakan bahawa Yahweh ⟨adalah⟩ lurus, batu karangku, dan tiada kecurangan di dalam diri-Nya.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "untuk memberitakan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu karangku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam diri-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.101798361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Tetapi mereka tidak mendengar, dan mereka mengeraskan ⟨את⟩ tengkuk mereka seperti tengkuk bapa-bapa mereka, yang tidak percaya kepada Yahweh, Elohim mereka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "dan mereka mengeraskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tengkuk mereka"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "tengkuk mereka"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "seperti tengkuk"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "mereka percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:20.073206564Z",
+  "model": "glm-5.3"
+}

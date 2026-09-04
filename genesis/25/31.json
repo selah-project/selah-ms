@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Yaakov berkata: \"Juallah hari ini ⟨את⟩ hak anak sulungmu itu kepadaku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "juallah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hak anak sulungmu"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "hak anak sulungmu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:11.210644775Z",
+  "model": "glm-5.3"
+}

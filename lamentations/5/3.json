@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Anak yatim kami telah menjadi, tiada bapa; ibu kami seperti balu.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami telah menjadi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa",
+      "marks": "bapa"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ibu kami"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "seperti balu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.627603706Z",
+  "model": "glm-5.3"
+}

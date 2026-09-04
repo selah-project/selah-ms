@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Semoga Ia mengingati segala persembahanmu, dan olahanmu Ia menggemukkan ⟨menerima⟩; selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "semoga Ia mengingati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "persembahanmu"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "dan olahanmu"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "Ia menggemukkan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:16.283499731Z",
+  "model": "glm-5.3"
+}

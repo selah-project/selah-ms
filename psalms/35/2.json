@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Pegang-lah perisai kecil dan perisai besar, dan bangun-lah ⟨untuk⟩ pertolonganku.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "pegang-lah"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "perisai kecil"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "dan perisai besar"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "dan bangun-lah"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "⟨untuk⟩ pertolonganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:38.835703924Z",
+  "model": "glm-5.3"
+}

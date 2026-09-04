@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ burung hasida, burung anafa menurut jenisnya, dan ⟨את⟩ burung duchifat, dan ⟨את⟩ burung atalef",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung hasida"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "burung hasida"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "burung anafa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung duchifat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "burung duchifat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung atalef"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "burung atalef"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:57.932441427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab kegeraman membunuh ⟨orang⟩ bodoh, dan iri hati mematikan si mudah tertipu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kegeraman"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "dan si mudah tertipu"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "mematikan"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "iri hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:59.083137655Z",
+  "model": "glm-5.3"
+}

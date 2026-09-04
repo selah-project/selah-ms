@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yang diperbilang daripada mereka, bagi suku Gad, empat puluh lima ribu enam ratus lima puluh.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "yang diperbilang daripada mereka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bagi suku"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "dan empat puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dan lima puluh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:31.285560849Z",
+  "model": "glm-5.3"
+}

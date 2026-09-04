@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan pada hari ketujuh: tujuh ekor lembu jantan, dua ekor domba jantan, empat belas ekor anak domba berumur setahun, yang tiada bercacat.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "lembu jantan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "setahun"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "yang tiada bercacat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:26.848142439Z",
+  "model": "glm-5.3"
+}

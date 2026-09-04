@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau hendaklah meletakkan ⟨את⟩ semuanya atas satu bakul, dan engkau hendaklah menghampirkan ⟨את⟩ semuanya dalam bakul itu, dan ⟨את⟩ lembu jantan itu dan ⟨את⟩ dua ekor domba jantan itu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau hendaklah meletakkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ semuanya",
+      "marks": "roti dan kuih (makanan dari ayat 2)"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "סל",
+      "gloss": "bakul"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "dan engkau hendaklah menghampirkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ semuanya",
+      "marks": "bakul itu"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "dalam bakul itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu jantan itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu jantan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dua ekor domba jantan itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "domba jantan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:09.791647511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Mazmurkanlah kemuliaan nama-Nya; jadikanlah pujian-Nya semarak.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mazmurkanlah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "jadikanlah"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "semarek"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:54.121242885Z",
+  "model": "glm-5.3"
+}

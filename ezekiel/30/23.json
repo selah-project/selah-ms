@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan Aku akan menyelerakkan ⟨את⟩ orang Mitsrayim di antara bangsa-bangsa, dan menaburkan mereka di negeri-negeri.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "Dan Aku akan menyelerakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "dan menaburkan mereka"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di negeri-negeri"
+    }
+  ],
+  "timestamp": "2026-09-04T13:36:52.145011236Z",
+  "model": "glm-5.3"
+}

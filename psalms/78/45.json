@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Ia menghantar ke tengah-tengah mereka kumpulan lalat, dan itu memakan mereka; dan katak, dan itu membinasakan mereka.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ia menghantar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ke tengah-tengah mereka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kumpulan lalat"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "dan itu memakan mereka"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "dan katak"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "dan itu membinasakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:50.813110106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Mulutku akan berbicara hikmat, dan renungan hatiku ⟨ialah⟩ pengertian.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "dan renungan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "pengertian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:01.391644862Z",
+  "model": "glm-5.3"
+}

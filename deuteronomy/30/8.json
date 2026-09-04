@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan engkau akan berpaling dan mendengarkan suara Yahweh, dan melakukan ⟨את⟩ segala perintah-Nya yang aku perintahkan kepadamu pada hari ini.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "akan berpaling"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "dan mendengarkan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perintah-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "perintah-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:59.143427484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Ia membuka batu karang, dan mengalirlah air; mengalir di tempat-tempat kering seperti sungai.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Ia membuka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "dan mengalirlah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mengalir"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "di tempat-tempat kering"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "seperti sungai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:44.221487225Z",
+  "model": "glm-5.3"
+}

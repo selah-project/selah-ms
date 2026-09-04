@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Aku meremukkan mereka sehingga mereka tidak sanggup bangun; mereka jatuh di bawah kakiku.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Aku meremukkan mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sehingga tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mereka sanggup"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mereka jatuh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:49.102486985Z",
+  "model": "glm-5.3"
+}

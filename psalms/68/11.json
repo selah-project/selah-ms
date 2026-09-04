@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Kawanan hidupan-Mu diam di dalamnya; dengan kebaikan-Mu Engkau menyediakan bagi si miskin, wahai Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "kawanan hidupan-Mu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Engkau menyediakan"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "dengan kebaikan-Mu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi si miskin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:35.939905321Z",
+  "model": "glm-5.3"
+}

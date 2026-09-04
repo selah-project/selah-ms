@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan ia bergelut dengan ⟨את⟩ malaikat dan ia berjaya; ia menangis dan memohon belas kasihan kepadanya; di Beit-El Ia menemuinya, dan di sana Ia berbicara dengan kami,",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "Dan ia bergelut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "dan ia berjaya"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "dan memohon belas kasihan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "Ia menemuinya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Ia berbicara"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "dengan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:33.026131308Z",
+  "model": "glm-5.3"
+}

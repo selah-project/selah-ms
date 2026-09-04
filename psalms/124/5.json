@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "Pada ketika itu air yang bergelora itu melampaui diri kami — hidup kami.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Pada ketika itu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melampaui"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "diri kami"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "yang bergelora itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:19.265176882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu datanglah Nebukadnesar, raja Babel, menyerang kota itu, sementara hamba-hambanya mengepongnya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu datanglah"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "על",
+      "gloss": "menyerang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "sementara hamba-hambanya"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "mengepong"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:08.490682327Z",
+  "model": "glm-5.3"
+}

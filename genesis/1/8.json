@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Elohim menamakan ⟨את⟩ cakrawala itu 'syurga-syurga'. Maka jadilah petang, maka jadilah pagi — hari yang kedua.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu menamakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "kepada cakrawala"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "'syurga-syurga'"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yang kedua"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:55.290188323Z",
+  "model": "glm-5.3"
+}

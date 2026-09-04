@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Tetapi aku, kepada-Mu, wahai Yahweh, aku berseru, dan pada waktu pagi doa aku mendahului ⟨sampai kepada⟩-Mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dan pada waktu pagi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa aku"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "mendahului ⟨sampai kepada⟩-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:07.140639810Z",
+  "model": "glm-5.3"
+}

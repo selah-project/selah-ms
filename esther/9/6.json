@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan di Syusyan ⟨di⟩ kubu itu orang Yahudi membunuh dan memusnahkan lima ratus lelaki.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "di Syusyan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "kubu itu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang Yahudi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "memusnahkan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:04.789730829Z",
+  "model": "glm-5.3"
+}

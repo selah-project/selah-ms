@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "tetapi kabut naik dari bumi dan menyiram ⟨את⟩ seluruh muka tanah itu.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "tetapi kabut"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "dan menyiram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh muka tanah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:55.498773466Z",
+  "model": "glm-5.3"
+}

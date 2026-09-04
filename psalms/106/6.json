@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Kami telah berdosa bersama bapa-bapa kami, kami telah berbuat bengkok, kami telah berbuat jahat.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Kami telah berdosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "kami telah berbuat bengkok"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "kami telah berbuat jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:03.724338725Z",
+  "model": "glm-5.3"
+}

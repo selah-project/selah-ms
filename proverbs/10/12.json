@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Kebencian membangkitkan permusuhan, tetapi di atas segala pelanggaran kasih menyelubungi.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "kebencian"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "membangkitkan"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "permusuhan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tetapi di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "pelanggaran"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "menyelubungi"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kasih"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:41.565619851Z",
+  "model": "glm-5.3"
+}

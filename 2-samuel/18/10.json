@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu seorang lelaki melihat dan memberitahu Yoav, katanya: Lihat, aku telah melihat ⟨את⟩ Avshalom tergantung pada pohon ela itu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu melihat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahu"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kepada Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "tergantung"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "pada pohon ela"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:24.672030322Z",
+  "model": "glm-5.3"
+}

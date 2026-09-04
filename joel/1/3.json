@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Tentangnya ceritakanlah kepada anak-anak kamu, dan anak-anak kamu kepada anak-anak mereka, dan anak-anak mereka kepada angkatan yang lain.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Tentangnya"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "kepada anak-anak kamu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ceritakanlah"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "dan anak-anak kamu"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kepada anak-anak mereka"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "dan anak-anak mereka"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kepada angkatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:12.901936109Z",
+  "model": "glm-5.3"
+}

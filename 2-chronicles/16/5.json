@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Maka berlakulah, apabila Baasa mendengarnya, bahawa ia berhenti membina ⟨את⟩ Rama, dan ia menghentikan ⟨את⟩ kerjanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengarnya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "bahawa ia berhenti"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dan ia menghentikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerjanya"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "kerjanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:09:23.825657692Z",
+  "model": "glm-5.3"
+}

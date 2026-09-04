@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ raja Ai ditangkap hidup-hidup, lalu dibawa ⟨את⟩ dia kepada Yehosyua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "raja Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "ditangkap"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup-hidup"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "lalu dibawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:04.582518005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Yahweh mengutus ⟨את⟩ Natan kepada Dawid, dan ia datang kepadanya, dan berkata kepadanya: Dua orang ada di satu bandar, seorang kaya dan seorang miskin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan ia datang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "orang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bandar"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "dan seorang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "miskin"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:34.446997163Z",
+  "model": "glm-5.3"
+}

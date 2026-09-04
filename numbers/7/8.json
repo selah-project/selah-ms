@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ empat buah gerabang serta ⟨את⟩ lapan ekor lembu diberikannya kepada bani Merari, mengikut tugas pekerjaan mereka, di bawah tangan Itamar bin Aharon sang imam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "empat buah gerabang"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "buah gerabang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "lapan ekor lembu"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ekor lembu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "tugas pekerjaan mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di bawah tangan"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:48.575259645Z",
+  "model": "glm-5.3"
+}

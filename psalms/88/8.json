@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Atas aku bertumpu kemarahan-Mu, dan dengan segala ombak-Mu Engkau telah menindas aku. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "atas aku"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "bertumpu"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "kemarahan-Mu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan dengan segala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombak-Mu"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "Engkau telah menindas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.553709229Z",
+  "model": "glm-5.3"
+}

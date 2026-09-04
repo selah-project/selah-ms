@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "\"Bawalah ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya bersamanya, serta ⟨את⟩ pakaian-pakaian, dan ⟨את⟩ minyak urapan, dan ⟨את⟩ lembu korban dosa, dan ⟨את⟩ dua domba jantan, dan ⟨את⟩ bakul roti tak beragi —",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "bawalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pakaian-pakaian"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu korban dosa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dua domba jantan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bakul roti tak beragi"
+    },
+    {
+      "surface": "סל",
+      "gloss": "bakul"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tak beragi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:56.946552609Z",
+  "model": "glm-5.3"
+}

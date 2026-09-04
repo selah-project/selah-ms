@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Elohim mengingat ⟨את⟩ Noh, dan ⟨את⟩ segala haiwan yang hidup, dan ⟨את⟩ segala binatang ternakan yang bersama ⟨את⟩-nya di dalam bahtera; dan Elohim menggerakkan angin melintasi bumi, lalu redalah air itu.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "mengingat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala haiwan yang hidup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "haiwan yang hidup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala binatang ternakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang ternakan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama ⟨את⟩-nya"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "di dalam bahtera"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "menggerakkan melintasi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "על",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "lalu reda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:27.325581437Z",
+  "model": "glm-5.3"
+}

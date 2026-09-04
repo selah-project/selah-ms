@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Kembalilah, O Israel, kepada Yahweh Elohimmu, kerana engkau telah tersandung dalam kesalahanmu.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "engkau telah tersandung"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "dalam kesalahanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:58.981547706Z",
+  "model": "glm-5.3"
+}

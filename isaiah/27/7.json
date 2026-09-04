@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Seperti pemukulan pemukulnya — pernahkah ⟨Ia⟩ memukulnya? Atau seperti pembunuhan orang-orang yang dibunuh-Nya — pernahkah dibunuh?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Seperti pemukulan"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "pemukulnya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "memukulnya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Atau(kah)"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "seperti pembunuhan"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "orang-orang yang dibunuh-Nya"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dibunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:49.955976738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Ambillah dari antara kamu suatu persembahan ⟨את⟩ bagi Yahweh; setiap orang yang hatinya rela membawanya, persembahan Yahweh: emas dan perak dan gangsa.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ dari antara kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "yang rela"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "membawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "dan gangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:59.578531352Z",
+  "model": "glm-5.3"
+}

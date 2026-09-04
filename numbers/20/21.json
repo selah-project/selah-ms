@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Edom menolak memberi ⟨את⟩ Yisrael laluan melintasi sempadannya, dan Yisrael berpaling daripadanya.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "laluan melintasi"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "sempadannya"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:12.594482115Z",
+  "model": "glm-5.3"
+}

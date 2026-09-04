@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Sesungguhnya, penyakit kami ⟨dialah⟩ yang dipikulnya, dan kesakitan kami ditanggungnya; tetapi kita, kita menganggapnya terkena, dipukul oleh Elohim, dan dianiaya.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "penyakit kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yang dipikulnya"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "dan kesakitan kami"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "ditanggungnya"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kita"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "kita menganggapnya"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "terkena"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oleh Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "dan dianiaya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:18.055300041Z",
+  "model": "glm-5.3"
+}

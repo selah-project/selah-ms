@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Maka seluruh Israel turun kepada orang Filistim untuk menajamkan; setiap orang ⟨את⟩ mata bajaknya dan ⟨את⟩ cangkulnya dan ⟨את⟩ kapaknya dan ⟨את⟩ beliungnya.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "maka turunlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kepada orang Filistim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "untuk menajamkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata bajaknya"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "mata bajaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "cangkulnya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cangkulnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kapaknya"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kapaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "beliungnya"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "beliungnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:53.626325996Z",
+  "model": "glm-5.3"
+}

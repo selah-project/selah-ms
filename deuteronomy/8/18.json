@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "tetapi engkau mengingat ⟨את⟩ Yahweh Elohimmu, kerana Dialah yang memberi kepadamu kekuatan untuk membuat kekayaan, supaya Dia mengesahkan ⟨את⟩ perjanjian-Nya yang Dia bersumpah kepada bapa-bapamu, seperti pada hari ini.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "tetapi engkau mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "yang memberi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk membuat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "mengesahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Nya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Dia bersumpah"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "kepada bapa-bapamu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti pada hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:08.028289129Z",
+  "model": "glm-5.3"
+}

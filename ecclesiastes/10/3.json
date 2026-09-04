@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Juga, ketika orang bodoh berjalan di jalan, hatinya kurang ⟨akal⟩, dan ia berkata kepada semua orang ⟨bahawa⟩ dia bodoh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "sebagai orang bodoh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada semua"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "bodoh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:46.905784991Z",
+  "model": "glm-5.3"
+}

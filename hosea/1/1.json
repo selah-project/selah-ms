@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 1:1",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Firman Yahweh yang datang kepada Hoshea bin Beeri, pada zaman Uziyah, Yotam, Ahaz, dan Hizkiyah, raja-raja Yehuda, dan pada zaman Yarobeam bin Yoas, raja Yisrael.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Beeri"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada zaman"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Uziyah"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Hizkiyah"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dan pada zaman"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:09.749217878Z",
+  "model": "glm-5.3"
+}

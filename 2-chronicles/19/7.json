@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 19:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan sekarang, biarlah ketakutan kepada Yahweh ada atas kamu; berjagalah dan buatlah, kerana tidak ada bersama Yahweh Elohim kita kecurangan, tidak memandang muka, dan tidak menerima suap.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "biarlah ada"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "berjagalah"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "dan memandang muka"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "(wajah)"
+    },
+    {
+      "surface": "ומקח",
+      "gloss": "dan menerima"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-09-04T15:10:33.967099977Z",
+  "model": "glm-5.3"
+}

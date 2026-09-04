@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 100,
+  "translation": "Masuklah pintu gerbang-Nya dengan kesyukuran, dan pelataran-Nya dengan pujian; pujilah dia, berkatilah nama-Nya.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Masuklah"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "pintu gerbang-Nya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dengan kesyukuran"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "pelataran-Nya"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "dengan pujian"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:10.795716891Z",
+  "model": "glm-5.3"
+}

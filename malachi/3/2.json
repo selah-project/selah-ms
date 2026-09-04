@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan siapakah yang tahan ⟨את⟩ hari kedatangannya, dan siapakah yang berdiri ketika ia menampakkan diri? Sebab ia seperti api pelebur dan seperti sabun pencuci.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "yang tahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "kedatangannya"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "ketika ia menampakkan diri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "seperti api"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "pelebur"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "dan seperti sabun"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "pencuci"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:30.928478558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Setiap barang yang beragi kamu tidak boleh makan; di segala tempat kediaman kamu, kamu akan makan roti tak beragi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "barang yang beragi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tempat kediaman kamu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu akan makan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tak beragi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:44.888316638Z",
+  "model": "glm-5.3"
+}

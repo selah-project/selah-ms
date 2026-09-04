@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu Yahosyua memberkatinya, dan diberikannya ⟨את⟩ Hevron kepada Kalev bin Yefune sebagai milik pusaka.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "Lalu ... memberkatinya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahosyua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diberikannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "sebagai milik pusaka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:46.831731760Z",
+  "model": "glm-5.3"
+}

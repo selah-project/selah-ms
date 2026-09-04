@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Bangunlah, dan turunlah ke rumah tukang periuk, dan di sana Aku akan membuat engkau mendengar ⟨את⟩ perkataan-Ku.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "dan turunlah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "tukang periuk"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "Aku akan membuat engkau mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-Ku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:28.162516954Z",
+  "model": "glm-5.3"
+}

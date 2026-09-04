@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Elam ⟨si kelima⟩, Yehohanan ⟨si keenam⟩, Elihoenai ⟨si ketujuh⟩.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "⟨si kelima⟩"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Yehohanan"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "⟨si keenam⟩"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "Elihoenai"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "⟨si ketujuh⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:44.609848728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan kamu, yang berpaut pada Yahweh, Elohim kamu, hidup semuanya kamu pada hari ini.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Dan kamu"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "yang berpaut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pada Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "semuanya kamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:51.011875618Z",
+  "model": "glm-5.3"
+}

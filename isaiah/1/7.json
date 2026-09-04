@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Tanah kamu ⟨adalah⟩ tandus, kota-kota kamu dibakar api; tanah ladang kamu, di hadapan kamu orang asing memakannya ⟨את⟩, dan ⟨ia⟩ ⟨adalah⟩ tandus seperti keruntuhan orang asing.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Tanah kamu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tandus"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kota-kota kamu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tanah ladang kamu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "di hadapan kamu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ladang kamu"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "dan tandus"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "seperti keruntuhan"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang asing"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:23.262376914Z",
+  "model": "glm-5.3"
+}

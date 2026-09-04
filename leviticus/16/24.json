@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan ia membasuh ⟨את⟩ tubuhnya dengan air di tempat yang kudus, dan memakai ⟨את⟩ pakaiannya, dan keluar, dan membuat ⟨את⟩ korban bakarannya dan ⟨את⟩ korban bakaran umat itu, dan mengadakan penebusan bagi dirinya dan bagi umat itu.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "dan membasuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tubuhnya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "dan memakai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakarannya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "korban bakarannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban bakaran umat itu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan penebusan"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan bagi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:38.144173139Z",
+  "model": "glm-5.3"
+}

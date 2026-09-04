@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka mereka gentar dan malu, disebabkan Kush ⟨inilah⟩ harapan mereka, dan disebabkan Mitsrayim kegemilangan mereka.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "maka mereka gentar"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "dan malu"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "harapan mereka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan disebabkan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "kegemilangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:50.909847861Z",
+  "model": "glm-5.3"
+}

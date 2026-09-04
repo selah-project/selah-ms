@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ⟨dia⟩ berkata, \"Suaramu ⟨את⟩ kudengar di dalam taman, dan aku takut, sebab telanjang aku, maka aku bersembunyi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaramu"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kudengar"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di dalam taman"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "dan aku takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "maka aku bersembunyi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:35.220813789Z",
+  "model": "glm-5.3"
+}

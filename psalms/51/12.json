@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Hati yang tahir ciptakanlah untukku, ya Elohim, dan roh yang teguh perbaruilah dalam batin aku.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Hati"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yang tahir"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ciptakanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan roh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "yang teguh"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "perbaruilah"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dalam batin aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:21.993627548Z",
+  "model": "glm-5.3"
+}

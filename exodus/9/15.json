@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sebab sekarang telah Kuhulurkan ⟨את⟩ tanganku, dan pasti Kupukul ⟨את⟩ engkau dan ⟨את⟩ umatmu dengan wabak, dan engkau telah dipadamkan dari bumi —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "telah Kuhulurkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "dan pasti Kupukul"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "umatmu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dengan wabak"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "dan engkau telah dipadamkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:48.009341224Z",
+  "model": "glm-5.3"
+}

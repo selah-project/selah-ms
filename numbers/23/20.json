@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Sesungguhnya, aku telah menerima ⟨perintah⟩ untuk memberkati, dan Ia telah memberkati — aku tidak dapat menariknya balik.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "untuk memberkati"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aku telah menerima ⟨perintah⟩"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "dan Ia telah memberkati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "dapat aku menariknya balik"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:43.918838447Z",
+  "model": "glm-5.3"
+}

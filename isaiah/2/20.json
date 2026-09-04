@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Pada hari itu manusia membuang ⟨את⟩ berhala peraknya dan ⟨את⟩ berhala emasnya, yang dibuatnya untuk dirinya sendiri untuk sujud menyembah — kepada binatang penggali liang dan kepada kelawar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "membuang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhala peraknya"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "berhala"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "peraknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "berhala emasnya"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "berhala"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "emasnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "untuk dirinya"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "untuk sujud menyembah"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kepada binatang penggali"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "liang"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "dan kepada kelawar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:58.240550576Z",
+  "model": "glm-5.3"
+}

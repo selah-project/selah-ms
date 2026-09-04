@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan sekarang, pergilah, dan Aku akan bersama mulutmu, dan Aku akan mengajarmu apa yang engkau harus katakan.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan Aku"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "akan bersama ada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "dan Aku akan mengajarmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "engkau harus katakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:14.424035951Z",
+  "model": "glm-5.3"
+}

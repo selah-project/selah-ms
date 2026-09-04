@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan mereka melihat ⟨את⟩ Elohim Yisrael; dan di bawah kaki-Nya seperti pekerjaan batu safir, dan seperti zat langit kepada ketulenannya.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Dan mereka melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-Nya"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "seperti pekerjaan"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "batu putih berseri"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "dan seperti zat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "kepada ketulenannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:00.984639430Z",
+  "model": "glm-5.3"
+}

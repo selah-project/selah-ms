@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Apa yang telah ada, sudah lama ⟨adapala⟩ ia; dan apa yang akan ada, sudah lama ada; dan Elohim mencari ⟨את⟩ yang telah dikejar.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sudah lama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan apa yang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sudah lama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang telah dikejar"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "yang telah dikejar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:33.102549572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Ya, di jalan hukum-Mu, Yahweh, kami menanti-nantikan Engkau; kepada nama-Mu dan kepada peringatan-Mu ⟨ialah⟩ kerinduan jiwa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "kami menanti-nantikan Engkau"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kepada nama-Mu"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "dan kepada peringatan-Mu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kerinduan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:22.201060916Z",
+  "model": "glm-5.3"
+}

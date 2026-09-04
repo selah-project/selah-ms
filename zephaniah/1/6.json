@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan ⟨את⟩ orang-orang yang berpaling daripada mengikuti Yahweh, dan mereka yang tidak mencari ⟨את⟩ Yahweh dan tidak menanyakan Dia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang yang berpaling"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "orang-orang yang berpaling"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "daripada mengikuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan mereka yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "menanyakan Dia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:01.568761615Z",
+  "model": "glm-5.3"
+}

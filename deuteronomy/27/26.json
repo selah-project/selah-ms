@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Terkutuk ⟨Dia yang⟩ tidak menegakkan ⟨את⟩ perkataan Tora ini untuk melakukannya; dan seluruh bangsa itu akan berkata: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "menegakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan Tora ini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora ini"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukannya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-nya"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan akan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:53.298376012Z",
+  "model": "glm-5.3"
+}

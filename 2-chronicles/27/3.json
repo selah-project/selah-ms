@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dialah yang membina ⟨את⟩ pintu gerbang rumah Yahweh yang atas, dan pada tembok HaOfel ia membina dengan banyak.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pintu gerbang"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yang atas"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "dan pada tembok"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "HaOfel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ia membina"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "dengan banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:28.831213946Z",
+  "model": "glm-5.3"
+}

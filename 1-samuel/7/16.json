@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan berjalanlah dia dari tahun demi tahun, dan mengelilingi Beit-El, dan Gilgal, dan Mitzpa, dan menghakimi ⟨את⟩ Israel ⟨את⟩ segala tempat-tempat ini.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "Dan berjalanlah"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "dari setiap"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "demi tahun"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "dan mengelilingi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "dan Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "dan Mitzpa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "dan menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala tempat-tempat ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "tempat-tempat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:25.186301932Z",
+  "model": "glm-5.3"
+}

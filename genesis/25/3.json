@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Yokshan memperanakkan ⟨את⟩ Syeba dan ⟨את⟩ Dedan; dan bani Dedan ⟨adalah⟩ Asyurim dan Letusyim dan Leumim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Dan Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syeba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Asyurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "dan Letusyim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan Leumim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:21.720645041Z",
+  "model": "glm-5.3"
+}

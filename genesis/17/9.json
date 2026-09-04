@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu Elohim berfirman kepada Avraham: Adapun engkau, engkau akan memelihara ⟨את⟩ perjanjian-Ku, engkau dan zuriat keturunanmu selepas engkau, bagi seluruh keturunan mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "adapun engkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "engkau akan memelihara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dan zuriat keturunanmu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "selepas engkau"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bagi keturunan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:17.188203551Z",
+  "model": "glm-5.3"
+}

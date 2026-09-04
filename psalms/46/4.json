@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Airnya berbuih bergolak, gunung-gunung goyah pada keangkuhannya. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "berbuih (berdengung)"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "bergolak (mendidih)"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "airnya"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "pada keangkuhannya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:31.277244341Z",
+  "model": "glm-5.3"
+}

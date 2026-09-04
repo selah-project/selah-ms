@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Kepadamu, kepada kamu seorang sahaja, aku telah berdosa, dan kejahatan di mata kamu telah aku lakukan, supaya kamu dibenarkan dalam perkataan kamu, bersih dalam penghakiman kamu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kepadamu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kepada kamu seorang sahaja"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku telah berdosa"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "dan kejahatan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata kamu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "telah aku lakukan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "kamu dibenarkan"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "dalam perkataan kamu"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "dalam penghakiman kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:25.524712526Z",
+  "model": "glm-5.3"
+}

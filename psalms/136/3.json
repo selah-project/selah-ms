@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "Pujilah Adonai segala tuan, sebab sampai selamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "segala tuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.260070795Z",
+  "model": "glm-5.3"
+}

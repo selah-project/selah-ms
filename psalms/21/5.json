@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Hidup ia minta daripada-Mu, Engkau memberikannya kepadanya — panjang hari, selama-lamanya dan seterusnya.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ia minta"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripada-Mu"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau memberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan seterusnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:38.893518883Z",
+  "model": "glm-5.3"
+}

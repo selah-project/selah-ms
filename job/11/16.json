@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "sebab engkau akan melupakan kesusahanmu, dan engkau akan mengingatnya seperti air yang telah berlalu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahanmu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "engkau akan melupakan"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "yang telah berlalu"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "engkau akan mengingatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:47.988916730Z",
+  "model": "glm-5.3"
+}

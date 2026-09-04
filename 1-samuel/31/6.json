@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Demikianlah mati Saul dan tiga orang anaknya serta pengangkat senjatanya, juga semua orangnya, pada hari itu, bersama-sama.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Demikianlah mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "dan tiga orang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "serta pengangkat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "senjatanya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "orangnya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:39.309779728Z",
+  "model": "glm-5.3"
+}

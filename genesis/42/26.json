@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Lalu mereka memuat ⟨את⟩ bijirin mereka ke atas keldai mereka, dan berjalan dari sana.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Lalu mereka memuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bijirin mereka"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "bijirin mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keldai mereka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:40.429867405Z",
+  "model": "glm-5.3"
+}

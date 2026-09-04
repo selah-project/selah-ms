@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Tetapi ⟨את⟩ Natan nabi, dan Benayahu, dan ⟨את⟩ para pahlawan, dan ⟨את⟩ Syelomo saudaranya, tidak dipanggilnya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Natan nabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "dan Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "para pahlawan"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "para pahlawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syelomo saudaranya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dipanggilnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:08.186479870Z",
+  "model": "glm-5.3"
+}

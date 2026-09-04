@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Kerana sesungguhnya ada masa depan, dan harapanmu tidak akan diputus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "masa depan"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "dan harapanmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "akan diputus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:58.039308093Z",
+  "model": "glm-5.3"
+}

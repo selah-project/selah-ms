@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan mereka meruntuhkan ⟨את⟩ tiang Baal, dan mereka meruntuhkan ⟨את⟩ rumah Baal, lalu menjadikannya tempat buang hajat sampai hari ini.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Dan mereka meruntuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "dan mereka meruntuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "lalu mereka menjadikannya"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "tempat buang hajat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:08.645277127Z",
+  "model": "glm-5.3"
+}

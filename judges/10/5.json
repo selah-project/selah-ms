@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu matilah Yair, dan ia dikuburkan di Kamon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lalu matilah"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan dikuburkan"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "di Kamon"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:41.189664812Z",
+  "model": "glm-5.3"
+}

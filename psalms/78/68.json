@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Lalu dipilih-Nya ⟨את⟩ suku Yehuda, ⟨את⟩ gunung Tsiyon yang dikasihi-Nya.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "lalu dipilih-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dikasihi-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:11.240112043Z",
+  "model": "glm-5.3"
+}

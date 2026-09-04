@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Elohim kami datang dan tidak akan berdiam diri; api memakan di hadapan-Nya, dan di sekeliling-Nya berbadai hebat.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "dan di sekeliling-Nya"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "berbadai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hebat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:12.902199953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Muliakanlah ⟨את⟩ bapamu dan ⟨את⟩ ibumu, supaya panjang umurmu di atas tanah yang Yahweh Elohimmu memberikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Muliakanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapamu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibumu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "panjang umurmu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:33.925041412Z",
+  "model": "glm-5.3"
+}

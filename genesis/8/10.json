@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ia menunggu lagi tujuh hari yang lain, lalu ditambahnya menghantar ⟨את⟩ merpati itu dari bahtera itu.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "dan ia menunggu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "lalu ditambahnya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "menghantar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merpati itu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "merpati itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:19.829676459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ketika mereka sampai ke Shomeron, Elisa berkata: \"Yahweh, bukalah ⟨את⟩ mata orang-orang ini supaya mereka melihat.\" Lalu Yahweh membuka ⟨את⟩ mata mereka, dan mereka melihat, dan lihat, mereka ⟨berada⟩ di tengah-tengah Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan ... terjadi"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "ketika mereka sampai"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ke Shomeron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "... berkata"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "bukalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata orang-orang ini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "orang-orang ini"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "supaya mereka melihat"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "Lalu ... membuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata mereka"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mata mereka"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dan mereka melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:45.975614170Z",
+  "model": "glm-5.3"
+}

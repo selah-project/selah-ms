@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Aurat isteri ayahmu jangan kaubuka; aurat ayahmu ⟨ialah⟩ dia.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kaubuka"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:46.752025167Z",
+  "model": "glm-5.3"
+}

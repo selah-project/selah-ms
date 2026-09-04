@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Jika engkau membeli seorang hamba Ibrani, enam tahun ia akan berkhidmat, dan pada tahun ketujuh ia akan keluar merdeka tanpa bayaran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "engkau membeli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ibrani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ia akan berkhidmat"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "dan pada tahun ketujuh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ia akan keluar"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "merdeka"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:02.072021127Z",
+  "model": "glm-5.3"
+}

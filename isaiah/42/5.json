@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Beginilah kata El Yahweh, yang mencipta langit dan membentangkannya, yang menghamparkan bumi dan tumbuhannya, yang memberi nafas kepada umat yang di atasnya dan roh kepada mereka yang berjalan di atasnya:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "yang mencipta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit",
+      "marks": "langit"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "dan membentangkannya"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "yang menghamparkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi",
+      "marks": "bumi"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "dan tumbuhannya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yang memberi"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada umat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "yang di atasnya"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan roh"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "kepada mereka yang berjalan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.631524083Z",
+  "model": "glm-5.3"
+}

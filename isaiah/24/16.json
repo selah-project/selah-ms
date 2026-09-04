@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 24:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dari pinggir bumi kami telah mendengar nyanyian: kemuliaan bagi orang benar. Tetapi aku berkata: Aku kurus, aku kurus, celakalah aku! Pengkhianat telah berkhianat, ya dengan pengkhianatan pengkhianat telah berkhianat.",
+  "tokens": [
+    {
+      "surface": "מכנף",
+      "gloss": "Dari pinggir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "זמרת",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami telah mendengar"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi orang benar"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "רזי",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "רזי",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pengkhianat"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "telah berkhianat"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "ya dengan pengkhianatan"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "pengkhianat"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "telah berkhianat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:10.454017899Z",
+  "model": "glm-5.3"
+}

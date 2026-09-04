@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Orang kaya dan orang miskin bertemu; Yahweh ⟨ialah⟩ pembuat mereka semua.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "bertemu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pembuat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mereka semua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:27.253195165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu dibentangkannya ⟨את⟩-nya di hadapanku, dan ia tertulis pada muka depan dan muka belakang; dan tertulis padanya qinim (ratapan), dan rintihan, dan hai!",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Lalu dibentangkannya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan itu (dibentangkan)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dan ia"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "tertulis"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "pada muka depan"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "dan muka belakang"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "dan tertulis"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "qinim (ratapan)"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "dan rintihan"
+    },
+    {
+      "surface": "והי",
+      "gloss": "dan hai!"
+    }
+  ],
+  "timestamp": "2026-09-04T13:28:03.329096726Z",
+  "model": "glm-5.3"
+}

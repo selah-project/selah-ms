@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Ia akan menghujani atas orang-orang fasik jerat, api dan belerang, dan angin yang membakar — itulah bahagian piala mereka.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "akan menghujani"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "dan belerang"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan angin"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "yang membakar"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bahagian"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "piala mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:01.605928670Z",
+  "model": "glm-5.3"
+}

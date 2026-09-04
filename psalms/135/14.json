@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Sebab Yahweh ⟨akan⟩ menghakimi umatnya, dan terhadap hamba-hambanya ⟨ia⟩ akan menyesali ⟨dirinya⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "akan menyesali"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:21.879271662Z",
+  "model": "glm-5.3"
+}

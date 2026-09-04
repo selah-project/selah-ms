@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Lalu dihantarnya ⟨את⟩ saudara-saudaranya dan mereka pun berangkat; dan berkatalah ia kepada mereka: Jangan bertengkar dalam perjalanan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu dihantarnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka berangkat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "bertengkar"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dalam perjalanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:14.773112181Z",
+  "model": "glm-5.3"
+}

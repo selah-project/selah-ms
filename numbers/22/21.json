@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu bangunlah Bilam pada waktu pagi, dan memasang pelana pada ⟨את⟩ kaldainya, lalu pergi bersama pembesar-pembesar Moav.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangunlah"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "memasang pelana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaldainya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "kaldainya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:34.838522731Z",
+  "model": "glm-5.3"
+}

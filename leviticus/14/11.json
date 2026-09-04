@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan imam yang mentahirkan itu mendirikan ⟨את⟩ orang yang ditahirkan itu dan ⟨את⟩ semuanya di hadapan Yahweh, di pintu kemah perjumpaan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "Dan mendirikan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yang mentahirkan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang ditahirkan itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yang ditahirkan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dan ⟨את⟩ semuanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:38.714795875Z",
+  "model": "glm-5.3"
+}

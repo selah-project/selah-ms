@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lihatlah, Aku menaruh ⟨את⟩ tanah itu di hadapan kamu; masuklah dan milikilah ⟨את⟩ tanah yang Yahweh telah bersumpah kepada nenek moyang kamu — kepada Avraham (Abraham), kepada Yitshak (Ishak), dan kepada Yaakov (Yakub) — untuk memberikannya kepada mereka dan kepada keturunan mereka selepas mereka.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku menaruh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di hadapan kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "dan milikilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "telah bersumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kepada nenek moyang kamu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kepada Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kepada Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "dan kepada Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikannya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "dan kepada keturunan mereka"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "selepas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:42.881268148Z",
+  "model": "glm-5.3"
+}

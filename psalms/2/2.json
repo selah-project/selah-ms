@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Raja-raja bumi berdiri tegak, dan pembesar-pembesar bersepakat bersama-sama, melawan Yahweh dan melawan Mashiah-Nya:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "dan pembesar-pembesar"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bersepakat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan melawan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:12.565941832Z",
+  "model": "glm-5.3"
+}

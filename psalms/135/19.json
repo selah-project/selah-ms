@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Wahai kaum Israel, berkatilah ⟨את⟩ Yahweh; wahai kaum Aharon, berkatilah ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "wahai kaum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wahai kaum"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:31.559248350Z",
+  "model": "glm-5.3"
+}

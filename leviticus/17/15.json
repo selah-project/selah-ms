@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan setiap nyawa yang memakan bangkai atau sisa mangsa binatang, baik anak negeri mahupun ger — ia akan membasuh pakaiannya dan membasuh dirinya dalam air, dan ia najis sampai waktu petang, kemudian ia bersih.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan setiap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "atau sisa mangsa"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "anak negeri"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "mahupun ger"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ia akan membasuh"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan membasuh dirinya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan ia najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu petang"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "kemudian ia bersih"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:32.840109994Z",
+  "model": "glm-5.3"
+}

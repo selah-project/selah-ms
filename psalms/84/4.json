@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Bahkan burung pipis pun menemui rumah, dan burung layang-layang sarang bagi dirinya, tempat ia meletakkan anak-anaknya — ⟨di⟩ mazbah-mazbah-Mu, Yahweh Tsebaot, rajaku dan Elohimku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "burung pipis"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "menemui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "dan burung layang-layang"
+    },
+    {
+      "surface": "קן",
+      "gloss": "sarang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "meletakkan"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah-mazbah-Mu"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "mazbah-mazbah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rajaku"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohimku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:12.126675314Z",
+  "model": "glm-5.3"
+}

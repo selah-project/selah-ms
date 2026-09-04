@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan tenteranya dan bilangan mereka ⟨ialah⟩ enam puluh dua ribu tujuh ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan tenteranya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan bilangan mereka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dan tujuh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:43.993440947Z",
+  "model": "glm-5.3"
+}

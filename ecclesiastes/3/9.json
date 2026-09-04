@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Apakah kelebihan bagi ⟨si⟩ yang bekerja dalam apa yang ia bersusah-susah?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "⟨si⟩ yang bekerja"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "dalam apa yang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bersusah-susah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:22.041542553Z",
+  "model": "glm-5.3"
+}

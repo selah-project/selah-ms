@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu sang imam memberikan kepada para pemimpin seratus ⟨את⟩ tombak-tombak dan ⟨את⟩ perisai-perisai yang kepunyaan raja Daud, yang ada di rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan dia memberikan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "kepada para pemimpin"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tombak-tombak"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tombak-tombak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perisai-perisai"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "perisai-perisai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepunyaan raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:43.053810158Z",
+  "model": "glm-5.3"
+}

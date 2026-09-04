@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan Avraham telah tua, telah lanjut umur, dan Yahweh telah memberkati ⟨את⟩ Avraham dalam segala sesuatu.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Dan Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "telah tua"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah lanjut"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "umur"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "telah memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala sesuatu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:42.384524842Z",
+  "model": "glm-5.3"
+}

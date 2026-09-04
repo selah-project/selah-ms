@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan ia keluar dan berperang melawan orang Pelisyt, dan membongkar ⟨את⟩ tembok Gat dan ⟨את⟩ tembok Yavneh dan ⟨את⟩ tembok Asydod; dan ia membina kota-kota di Asydod dan di tanah orang Pelisyt.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dan ia keluar"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "dan berperang"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "melawan orang Pelisyt"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "dan membongkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembok Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tembok Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tembok Asydod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asydod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "dan ia membina"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "di Asydod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "dan di tanah orang Pelisyt"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:28.262011362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Kasihilah ⟨את⟩ Yahweh, semua orang setia-Nya; orang-orang amanah dijaga Yahweh, dan dibalas berlimpah-limpah atas kelebihan orang yang berbuat kesombongan.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Kasihilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "orang setia-Nya"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "orang-orang amanah"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "dijaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "dan dibalas"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kelebihan (berlimpah)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "orang yang berbuat"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kesombongan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:02.603083327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan anak-anak Kehat ialah Amram, dan Yitshar, dan Hevron, dan Uziel; dan tahun-tahun kehidupan Kehat ⟨ialah⟩ tiga puluh tiga dan seratus tahun.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "dan Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "dan Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "dan Uziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan tahun-tahun"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:35.104452783Z",
+  "model": "glm-5.3"
+}

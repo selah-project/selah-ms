@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Mereka tunduk, telutut bersama-sama; tidak mampu menyelamatkan muatan itu, dan nyawa mereka pergi ke dalam tawanan.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "mereka tunduk"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "mereka telutut"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "משא",
+      "gloss": "muatan itu"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "dan nyawa mereka"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ke dalam tawanan"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:41.794487102Z",
+  "model": "glm-5.3"
+}

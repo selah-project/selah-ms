@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan anak-anak itu bergaduh dalam kandungannya, lalu katanya: Jika begini, mengapa aku ⟨ini⟩? Maka pergilah ia untuk menanyakan ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "bergaduh"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "dalam kandungannya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ini⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "maka pergilah"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "untuk menanyakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:51.906742653Z",
+  "model": "glm-5.3"
+}

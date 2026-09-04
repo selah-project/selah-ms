@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau akan membawa masuk ⟨את⟩ meja itu, dan mengatur ⟨את⟩ susunannya, dan engkau akan membawa masuk ⟨את⟩ Menorah itu, dan menghidupkan ⟨את⟩ pelitanya.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Dan engkau akan membawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "dan mengatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "susunannya"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "susunannya"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "dan engkau akan membawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menorah itu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menorah itu"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "dan menghidupkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelitanya"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "pelitanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:09.721572263Z",
+  "model": "glm-5.3"
+}

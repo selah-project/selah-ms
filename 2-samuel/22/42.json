@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Mereka memandang mencari pertolongan, tetapi tiada penolong; kepada Yahweh, tetapi Dia tidak menjawab mereka.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "Mereka memandang mencari pertolongan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Dia menjawab mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:32:34.155197649Z",
+  "model": "glm-5.3"
+}

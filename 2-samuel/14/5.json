@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan raja berkata kepadanya, \"Apakah padamu?\" Lalu katanya, \"Sesungguhnya hamba seorang perempuan janda, dan suami hamba telah mati.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "suami hamba"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:14.795872863Z",
+  "model": "glm-5.3"
+}

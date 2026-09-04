@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "kerana mata kamu ⟨ialah⟩ yang melihat ⟨את⟩ segala perbuatan Yahweh yang besar, yang dilakukan-Nya;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mata kamu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "yang melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:25.230666799Z",
+  "model": "glm-5.3"
+}

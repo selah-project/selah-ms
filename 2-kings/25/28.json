@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan baginda berbicara dengannya perkara-perkara yang baik, dan menaikkan ⟨את⟩ takhtanya melebihi takhta raja-raja yang bersamanya di Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan baginda berbicara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "perkara-perkara yang baik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhtanya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "di Bavel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:52.111270605Z",
+  "model": "glm-5.3"
+}

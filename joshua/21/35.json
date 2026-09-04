@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna dan ⟨את⟩ padang rumputnya, ⟨את⟩ Nahalal dan ⟨את⟩ padang rumputnya — empat kota.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang rumputnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang rumputnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padang rumputnya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:03:07.765085394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Janganlah kamu mencuri, dan janganlah kamu menafi, dan janganlah kamu berdusta, seorang terhadap sesamanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "kamu mencuri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "kamu menafi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "kamu berdusta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "terhadap sesamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:13.745394213Z",
+  "model": "glm-5.3"
+}

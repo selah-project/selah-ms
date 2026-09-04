@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan mereka akan makan dan tidak kenyang; mereka berzina dan tidak bertambah banyak; sebab ⟨את⟩ Yahweh telah mereka tinggalkan dengan tidak memelihara ⟨kepada⟩-Nya.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Dan mereka akan makan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "mereka berzina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "bertambah banyak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "telah mereka tinggalkan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "dengan tidak memelihara"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:50.291585172Z",
+  "model": "glm-5.3"
+}

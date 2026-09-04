@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Engkau telah menghentikan kecermelangannya, dan kerusinya ke bumi telah Kaujatuhkan.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "Engkau telah menghentikan"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "kecermelangannya"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "dan kerusinya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "Engkau telah menjatuhkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.422483075Z",
+  "model": "glm-5.3"
+}

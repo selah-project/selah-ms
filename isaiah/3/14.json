@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Yahweh datang ⟨ke dalam⟩ penghakiman bersama tuaian-tuaian umatnya dan pembesar-pembesarnya: kamu telah memakan habis kebun anggur itu; rampasan orang miskin itu ⟨ada⟩ dalam rumah-rumah kamu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨ke dalam⟩ penghakiman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tuaian-tuaian"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "dan pembesar-pembesarnya"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "telah memakan habis"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "kebun anggur itu"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "העני",
+      "gloss": "orang miskin itu"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "dalam rumah-rumah kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:49.177919023Z",
+  "model": "glm-5.3"
+}

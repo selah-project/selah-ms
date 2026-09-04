@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Tetapi kamu tidak mahu naik, dan kamu memberontak terhadap ⟨את⟩ mulut Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Tetapi tidak"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kamu mahu"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "naik"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "dan kamu memberontak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:27.957458151Z",
+  "model": "glm-5.3"
+}

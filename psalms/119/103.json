@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Betapa manisnya kata-Mu itu pada langit-langit mulutku, melebihi madu pada mulutku!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "manisnya"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "pada langit-langit mulutku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "kata-Mu"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "melebihi madu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pada mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:48.730499408Z",
+  "model": "glm-5.3"
+}

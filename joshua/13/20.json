@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "dan Beit Peor, dan lereng-lereng ha-Pisga, dan Beit ha-Yesimot",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "dan Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "dan lereng-lereng"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ha-Pisga"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan Beit"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ha-Yesimot"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:50.991059712Z",
+  "model": "glm-5.3"
+}

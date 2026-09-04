@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Perbuatan tangan-tangan-Nya ⟨ialah⟩ kebenaran dan keadilan; teguhlah segala titah perintah-Nya.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-tangan-Nya"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan keadilan"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "teguhlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "titah perintah-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:06.672768278Z",
+  "model": "glm-5.3"
+}

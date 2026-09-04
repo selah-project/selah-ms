@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Yang berkata: Dengan lidah kami kami akan berkuasa; bibir kami ⟨את⟩ berserta kami — siapa tuan atas kami?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "dengan lidah kami"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "kami akan berkuasa"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "bibir kami"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "berserta kami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "atas kami"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:19.163022318Z",
+  "model": "glm-5.3"
+}

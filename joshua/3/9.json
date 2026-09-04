@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Yehosyua berkata kepada bani Israel: Datanglah ke sini, dan dengarlah ⟨את⟩ firman Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Datanglah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke sini"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "dan dengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:06.386907892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu mereka meninggalkan di sana ⟨את⟩ berhala mereka, dan mengambilnya David dan orang-orangnya.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "lalu mereka meninggalkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berhala mereka"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "berhala mereka"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "dan mengambilnya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וינשיו",
+      "gloss": "dan orang-orangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:46.369107675Z",
+  "model": "glm-5.3"
+}

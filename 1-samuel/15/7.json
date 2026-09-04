@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu Shaul memukul ⟨את⟩ Amalek dari Havila, pada perjalananmu ke Syur, yang di hadapan Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Lalu memukul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "dari Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "pada perjalananmu ke"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Syur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:37.736159997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan didapati di dalamnya seorang lelaki miskin yang berhikmah, dan diselamatkannya ⟨את⟩ kota itu dengan hikmahnya; tetapi tidak seorang manusiapun mengingati ⟨את⟩ lelaki miskin itu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Dan didapati"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yang berhikmah"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "dan diselamatkannya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "dengan hikmahnya"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "tetapi manusia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mengingati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelaki miskin itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "yang miskin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:27.974848377Z",
+  "model": "glm-5.3"
+}

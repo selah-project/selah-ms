@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Yahweh berbuat menurut perkataan Moshe, lalu matilah katak-katak itu dari rumah-rumah, dari halaman-halaman, dan dari padang-padang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu berbuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut perkataan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "lalu matilah"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "halaman-halaman"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "padang-padang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:00.907668254Z",
+  "model": "glm-5.3"
+}

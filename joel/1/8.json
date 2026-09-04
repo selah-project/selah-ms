@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Merataplah, seperti anak dara yang berikat kain karung atas tuan masa mudanya.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Merataplah"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "seperti anak dara"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "berikat"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kain karung"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "masa mudanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:19.681295946Z",
+  "model": "glm-5.3"
+}

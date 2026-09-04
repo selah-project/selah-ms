@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan apabila didengar oleh anak Shaul bahawa Avner telah mati di Hevron, maka lemahlah tangannya dan seluruh Yisrael tercengang.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan apabila didengar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hevron"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "maka lemahlah"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "tercengang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:56.821549696Z",
+  "model": "glm-5.3"
+}

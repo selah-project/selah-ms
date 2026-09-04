@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka kuduskanlah dirimu dan kamu akan menjadi kudus, sebab Aku ⟨ialah⟩ Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "maka kuduskanlah dirimu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "kamu akan menjadi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:42.179659914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Pujilah Yahweh, segala tentera-Nya, pelayan-pelayan-Nya yang melakukan kerelaan-Nya.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "tentera-Nya"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "pelayan-pelayan-Nya"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kerelaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:43.248058032Z",
+  "model": "glm-5.3"
+}

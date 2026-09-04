@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu berkatalah raja Yisrael kepada Elisha, ketika ia melihat ⟨את⟩ mereka: \"Haruskah aku memukul? Haruskah aku memukul? Ayahku?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ketika ia melihat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (tawanan Aram)"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "haruskah aku memukul"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:19.444077926Z",
+  "model": "glm-5.3"
+}

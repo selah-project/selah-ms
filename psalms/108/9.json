@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Gilad punya saya, Menasye punya saya, dan Efrayim ⟨ialah⟩ kubahan kepala saya, Yehuda ⟨ialah⟩ penggubal undang-undang saya",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "punya saya"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "punya saya"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "dan Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kubahan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala saya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "penggubal undang-undang saya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:43.533741475Z",
+  "model": "glm-5.3"
+}

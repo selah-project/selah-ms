@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dalam ketetapan-Mu aku akan bersenang-senang, tidak akan aku lupakan firman-Mu.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Dalam ketetapan-Mu"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "aku akan bersenang-senang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "akan aku lupakan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:49.336419127Z",
+  "model": "glm-5.3"
+}

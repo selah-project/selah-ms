@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 32:11",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Sesungguhnya, aku telah menunggu perkataan-perkataan kamu, aku memasang telinga kepada kefahaman kamu, sehingga kamu menghurai perkataan-perkataan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aku telah menunggu"
+    },
+    {
+      "surface": "לדבריכם",
+      "gloss": "perkataan-perkataan kamu"
+    },
+    {
+      "surface": "אזין",
+      "gloss": "memasang telinga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "תבונתיכם",
+      "gloss": "kefahaman kamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "תחקרון",
+      "gloss": "kamu menghurai"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "perkataan-perkataan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:51.497803110Z",
+  "model": "glm-5.3"
+}

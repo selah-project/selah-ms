@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Maka berjayalah, apabila kamu mendengar ⟨את⟩ suara itu dari tengah-tengah kegelapan, sementara gunung itu menyala dengan api, kamu pun menghampiri aku — segala ketua puak-puakmu dan orang-orang tuamu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berjayalah"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "apabila kamu mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara itu"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "suara itu"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah-tengah"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "dan gunung itu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "kamu pun menghampiri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "puak-puakmu"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "dan orang-orang tuamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:27.008249214Z",
+  "model": "glm-5.3"
+}

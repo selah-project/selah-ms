@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "dan ⟨את⟩ kedua-dua anaknya, yang nama yang satu Gersyom, sebab katanya: pendatang aku ini di bumi asing;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua-dua anaknya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersyom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:19.032989460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan terjadilah selepas itu, David memukul ⟨את⟩ orang Pelesyit dan menundukkan mereka, dan mengambil ⟨את⟩ Gat serta kampung-kampungnya dari tangan orang Pelesyit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Pelesyit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelesyit"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "dan menundukkan mereka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "serta kampung-kampungnya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelesyit"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:09.235133418Z",
+  "model": "glm-5.3"
+}

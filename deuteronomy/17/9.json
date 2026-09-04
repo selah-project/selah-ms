@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan engkau datang kepada para imam, orang-orang Lewi, dan kepada hakim yang ada pada hari-hari itu, dan engkau bertanya, dan mereka memberitahukan kepadamu ⟨את⟩ perkara penghakiman itu.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "dan engkau datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "dan engkau bertanya"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "dan mereka memberitahukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara penghakiman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "penghakiman itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:57.895552638Z",
+  "model": "glm-5.3"
+}

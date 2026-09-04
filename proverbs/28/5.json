@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Orang jahat tidak memahami keadilan, tetapi mereka yang mencari Yahweh memahami segala-galanya.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "orang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "tetapi mereka yang mencari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala-galanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:06.402471500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dengarkan suara permohonanku ketika aku berseru kepada-Mu, ketika aku mengangkat tanganku ke arah Debir kesucian-Mu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengarkan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ketika aku berseru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ketika aku mengangkat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kesucian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.614496834Z",
+  "model": "glm-5.3"
+}

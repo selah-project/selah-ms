@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu kata kakaknya kepada batu Paroh: \"Mahukah aku pergi dan memanggilkah untukmu seorang perempuan yang menyusukan dari kalangan perempuan Ibrani, supaya ia menyusukan bagimu ⟨את⟩ kanak-kanak itu?\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu kata"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "kakaknya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "batu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "mahukah aku pergi"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "dan memanggilkah aku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang perempuan"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "yang menyusukan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari kalangan"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "perempuan Ibrani"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "supaya ia menyusukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanak-kanak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "kanak-kanak itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:05.104914586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Yahweh membalas aku menurut kebenaranku, menurut bersihnya tanganku dibalas-Nya kepadaku.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "membalas aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "menurut kebenaranku"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "menurut bersihnya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "dibalas-Nya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:46.674060487Z",
+  "model": "glm-5.3"
+}

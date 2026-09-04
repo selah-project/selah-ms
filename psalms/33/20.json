@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Nafas hidup kami telah menanti Yahweh; pertolongan kami dan perisai kami — dialah ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nafas hidup kami"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "telah menanti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "pertolongan kami"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "dan perisai kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:17.392575107Z",
+  "model": "glm-5.3"
+}

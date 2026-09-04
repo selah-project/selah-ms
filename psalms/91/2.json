@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Aku berkata kepada Yahweh: \"Perlindunganku dan kubu-kubuku, Elohaku, padanyalah aku berserah.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Perlindunganku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "dan kubu-kubuku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohaku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "aku berserah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanyalah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:09.579633807Z",
+  "model": "glm-5.3"
+}

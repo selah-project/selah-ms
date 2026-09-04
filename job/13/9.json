@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Adakah baik bahawa Dia memeriksa ⟨את⟩ kamu? Ataukah seperti memperdaya manusia, kamu memperdaya Dia?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Adakah baik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "Dia memeriksa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "seperti memperdaya"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "kamu memperdaya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:32.932372490Z",
+  "model": "glm-5.3"
+}

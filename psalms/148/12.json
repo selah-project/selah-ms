@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Teruna dan juga dara, orang tua bersama anak muda",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Teruna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "dara"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "orang tua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "anak muda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:15.158848523Z",
+  "model": "glm-5.3"
+}

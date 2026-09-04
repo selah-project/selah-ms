@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika wang kamu pinjamkan ⟨את⟩ kepada umat-Ku, ⟨את⟩ si miskin yang bersamamu, jangan engkau menjadi kepadanya seperti pemiutang; jangan kamu kenakan ke atasnya bunga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang (perak)"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "kamu pinjamkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si miskin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yang bersamamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "engkau menjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "seperti pemiutang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "kamu kenakan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga (riba)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:14.465635129Z",
+  "model": "glm-5.3"
+}

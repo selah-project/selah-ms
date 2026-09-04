@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan baginda membuat ⟨את⟩ rumah bukit-bukit pengorbanan, dan baginda membuat imam-imam dari hujung rakyat, yang bukan dari bani Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan baginda membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan baginda membuat"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "dari hujung"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari bani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:35.097674737Z",
+  "model": "glm-5.3"
+}

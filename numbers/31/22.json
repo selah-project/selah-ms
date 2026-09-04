@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Hanya ⟨את⟩ emas dan ⟨את⟩ perak, ⟨את⟩ tembaga, ⟨את⟩ besi, ⟨את⟩ timah, dan ⟨את⟩ plumbum —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembaga"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timah"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "timah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "plumbum"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "plumbum"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:51.223878568Z",
+  "model": "glm-5.3"
+}

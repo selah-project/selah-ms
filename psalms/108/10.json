@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Moab ⟨ialah⟩ periuk pembasuhan saya; ke atas Edom saya campak kasut saya; ke atas Pelesyet saya menjerit sorak",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "periuk"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pembasuhan saya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "saya campak"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "kasut saya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "saya menjerit sorak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:43.534119766Z",
+  "model": "glm-5.3"
+}

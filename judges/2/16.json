@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 2:16",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh membangkitkan hakim-hakim, dan mereka menyelamatkan mereka dari tangan perampok mereka.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu ... membangkitkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hakim-hakim"
+    },
+    {
+      "surface": "ויושיעום",
+      "gloss": "dan mereka menyelamatkan mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שסיהם",
+      "gloss": "perampok mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:28.687814604Z",
+  "model": "glm-5.3"
+}

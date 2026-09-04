@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Marilah kita masuk ke kediaman-kediaman-Nya, marilah kita sujud di tepak kaki-Nya.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "marilah kita masuk"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ke kediaman-kediaman-Nya"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "marilah kita sujud"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "di tepak"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:17.678356156Z",
+  "model": "glm-5.3"
+}

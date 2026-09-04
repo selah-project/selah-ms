@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Mereka menghina, dan bercakap dalam kejahatan penindasan; dari tempat tinggi mereka bercakap.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "mereka menghina"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dan bercakap"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dalam kejahatan"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "penindasan"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dari tempat tinggi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mereka bercakap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:43.920841235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Tetap hatiku, Elohim; aku akan menyanyi, malah aku akan berbalas-balas (mizmor), juga kemuliaanku.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Tetap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan menyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "malah aku akan berbalas-balas (mizmor)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:56.390819192Z",
+  "model": "glm-5.3"
+}

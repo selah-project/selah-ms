@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 7:18",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan jika sungguh dimakan daripada daging korban syelaminya pada hari ketiga, tidak akan diterima ⟨dia⟩ yang membawa dekat ⟨את⟩-nya, tidak akan dikira baginya; piggul ia akan menjadi, dan nefesy yang memakannya kesalahannya akan dipikul.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "sungguh dimakan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "daripada daging"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "syelaminya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "akan diterima"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "yang membawa dekat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia yang membawa dekat (objek tanda אתו指向)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "akan dikira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "piggul"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "dan nefesy"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "yang memakan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "akan dipikul"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:19.030056239Z",
+  "model": "glm-5.3"
+}

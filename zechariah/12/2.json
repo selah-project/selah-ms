@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lihat, Aku menjadikan ⟨את⟩ Yerusalem cawan pening bagi semua bangsa sekeliling, dan juga atas Yehuda akan berlaku ⟨ini⟩ dalam kepungan terhadap Yerusalem.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "סף",
+      "gloss": "cawan"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "pening"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan berlaku"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "dalam kepungan"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:50.184369237Z",
+  "model": "glm-5.3"
+}

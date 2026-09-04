@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Apabila ia dihakimi, keluarlah ia bersalah, dan doanya jadilah dosa.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "apabila ia dihakimi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bersalah"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "dan doanya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:45.514901580Z",
+  "model": "glm-5.3"
+}

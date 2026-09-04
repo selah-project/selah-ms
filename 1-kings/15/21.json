@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Maka berlakulah, apabila Baasa mendengarnya, bahawa ia berhenti membina ⟨את⟩ Rama, lalu ia menetap di Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengarnya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "bahawa ia berhenti"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu ia menetap"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "di Tirtsa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:03.491947204Z",
+  "model": "glm-5.3"
+}

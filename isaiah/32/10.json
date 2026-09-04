@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Hari-hari atas setahun kamu akan gempar, hai yang penuh percaya, kerana sudah habis penuaian anggur, pengumpulan buah tiada datang.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "setahun"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "kamu akan gempar"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "hai yang penuh percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sudah habis"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "penuaian anggur"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pengumpulan buah"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:40.041235389Z",
+  "model": "glm-5.3"
+}

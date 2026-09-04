@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu berkata Dawid kepadanya: Jika engkau melintasi bersama ⟨את⟩ku, maka engkau akan menjadi atasku sebagai beban.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "engkau melintasi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bersama ⟨את⟩ku",
+      "marks": "ku (aku)"
+    },
+    {
+      "surface": "והית",
+      "gloss": "maka engkau akan menjadi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "sebagai beban"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:11.514497823Z",
+  "model": "glm-5.3"
+}

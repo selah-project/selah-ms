@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu berkata Yahweh kepada Yehosyua: Lihat, Aku telah menyerahkan ke dalam tanganmu ⟨את⟩ Yerikho dan ⟨את⟩ rajanya — para pahlawan yang gagah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku telah menyerahkan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerikho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rajanya"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "rajanya"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "para pahlawan"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "yang gagah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:59:26.952382520Z",
+  "model": "glm-5.3"
+}

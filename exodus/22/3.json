@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika kecurian itu benar-benar didapati dalam tangannya — dari lembu sampai keldai sampai domba, hidup — dua kali ganda ia membayar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "benar-benar didapati"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dalam tangannya"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "kecurian itu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dari lembu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keldai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "domba"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua kali ganda"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia membayar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:47.299483534Z",
+  "model": "glm-5.3"
+}

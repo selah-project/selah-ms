@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Manusia dalam kemuliaan tetapi tidak mengerti, telah disamakan ⟨dengan⟩ binatang-binatang; mereka telah dibinasakan.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Manusia"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dalam kemuliaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mengerti"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "telah disamakan"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "⟨dengan⟩ binatang-binatang"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "mereka telah dibinasakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:07.934455980Z",
+  "model": "glm-5.3"
+}

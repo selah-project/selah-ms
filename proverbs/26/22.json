@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Perkataan penfitnah adalah seperti makanan yang lazat, dan mereka turun ke bilik-bilik dalaman perut.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "penfitnah"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "seperti makanan yang lazat"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "bilik-bilik dalaman"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "perut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:24.581793139Z",
+  "model": "glm-5.3"
+}

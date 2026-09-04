@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "sesungguhnya Aku membangkitkan mereka dari tempat yang kamu jual ⟨את⟩ mereka ke sana, dan Aku membalik balasan kamu di atas kepala kamu;",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "sesungguhnya Aku"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "membangkitkan mereka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "kamu jual"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "dan Aku membalik"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "balasan kamu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "di atas kepala kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:01.256267301Z",
+  "model": "glm-5.3"
+}

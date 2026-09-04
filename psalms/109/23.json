@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Seperti bayang-bayang yang memanjang, aku telah berlalu; aku digoncang seperti belalang.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Seperti bayang-bayang"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "yang memanjang"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "aku telah berlalu"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "aku digoncang"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "seperti belalang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:46.797776425Z",
+  "model": "glm-5.3"
+}

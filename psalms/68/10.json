@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Hujan pemberian sukarela Engkau guncangkan keluar, wahai Elohim; warisan-Mu, dan ketika ia letih, Engkau menegakkannya.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "Hujan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "pemberian sukarela"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "Engkau guncangkan keluar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "warisan-Mu"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "dan ketika ia letih"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "menegakkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:35.939771633Z",
+  "model": "glm-5.3"
+}

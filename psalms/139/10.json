@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "juga di sana tangan-Mu akan menuntun aku, dan tangan kanan-Mu akan memegang aku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "akan menuntun aku"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "dan akan memegang aku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.065247744Z",
+  "model": "glm-5.3"
+}

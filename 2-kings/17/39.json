@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Tetapi ⟨את⟩ Yahweh, Elohim kamu, haruslah kamu takut, dan Dialah yang akan menyelamatkan ⟨את⟩ kamu dari tangan segala musuh kamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu takut"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dia"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "akan menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:59.510744824Z",
+  "model": "glm-5.3"
+}

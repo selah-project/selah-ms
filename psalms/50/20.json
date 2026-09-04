@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Engkau duduk, terhadap saudaramu engkau berbicara; terhadap anak ibumu engkau memberi fitnah.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "engkau duduk"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "terhadap saudaramu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "engkau berbicara"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "terhadap anak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau memberi"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "fitnah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:55.018269235Z",
+  "model": "glm-5.3"
+}

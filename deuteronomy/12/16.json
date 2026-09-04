@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Hanya darahnya janganlah kamu makan; di atas tanah engkau akan menumpahkannya seperti air.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "engkau akan menumpahkannya"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:11.143422146Z",
+  "model": "glm-5.3"
+}

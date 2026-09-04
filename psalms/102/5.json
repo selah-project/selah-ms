@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Dipukul seperti rumput, dan keringlah hatiku, kerana aku sudah lupa memakan rotiku.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "Dipukul"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "dan keringlah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "aku sudah lupa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "rotiku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:25.779328011Z",
+  "model": "glm-5.3"
+}

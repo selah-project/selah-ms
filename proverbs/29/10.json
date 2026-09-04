@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lelaki-lelaki darah membenci ⟨את⟩ yang tulus, dan yang lurus mencari ⟨את⟩ nyawanya.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "lelaki-lelaki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "תם",
+      "gloss": "yang tulus"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "dan yang lurus"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:52.384016449Z",
+  "model": "glm-5.3"
+}

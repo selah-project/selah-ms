@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan mengapa kamu telah menaikkan kami dari Mitsrayim untuk membawa kami ⟨את⟩ ke tempat yang jahat ini? Bukan tempat bertanam, dan ara, dan pokok anggur, dan delima; dan air tiada untuk diminum.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Dan mengapa"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "kamu telah menaikkan kami"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "untuk membawa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bertanam"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "dan ara"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "dan pokok anggur"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "dan delima"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "untuk diminum"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:18.577460651Z",
+  "model": "glm-5.3"
+}

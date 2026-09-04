@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "dan membuat hesed kepada ribuan generasi bagi mereka yang mengasihi Aku dan bagi mereka yang memelihara perintah-perintah-Ku.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "kepada ribuan generasi"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "bagi mereka yang mengasihi Aku"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "dan bagi mereka yang memelihara"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "perintah-perintah-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:53.094607230Z",
+  "model": "glm-5.3"
+}

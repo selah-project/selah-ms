@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "dan mereka berjalan-jalan dari bangsa ke bangsa, dan dari satu kerajaan ke kaum yang lain.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "dan mereka berjalan-jalan"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "dan dari kerajaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:41.291325229Z",
+  "model": "glm-5.3"
+}

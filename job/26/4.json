@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Kepada siapakah engkau menyampaikan ⟨את⟩ perkataan, dan nafas siapakah yang keluar dari padamu?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "engkau menyampaikan"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "dan nafas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:54.739133806Z",
+  "model": "glm-5.3"
+}

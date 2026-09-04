@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "dan ⟨את⟩ padang bandar itu serta ⟨את⟩ pekarangannya mereka berikan kepada Kalev bin Yefune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "pekarangannya"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "pekarangannya"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "mereka berikan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:03.364156756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Lalu diangkatnya ⟨את⟩ matanya dan dilihatnya ⟨את⟩ para perempuan itu dan ⟨את⟩ kanak-kanak itu, lalu katanya, \"Siapakah mereka ini bersamamu?\" Dan katanya, \"Kanak-kanak yang dikurniakan Elohim kepada hamba tuan.\"",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "lalu diangkatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matanya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan dilihatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para perempuan itu"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para perempuan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kanak-kanak itu"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "kanak-kanak itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mereka ini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "kanak-kanak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "dikurniakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba tuan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba tuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:42.369174649Z",
+  "model": "glm-5.3"
+}

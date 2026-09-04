@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu diberitahukan kepada David, lalu dikumpulkannya ⟨את⟩ seluruh Yisrael, dan diseberanginya Yarden, lalu datang kepada mereka, dan diaturkannya barisan menghadapi mereka; lalu David mengatur barisan menghadapi Aram dalam peperangan, dan mereka berperang dengannya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lalu diberitahukan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "lalu dikumpulkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan diseberanginya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "dan diaturkannya barisan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "lalu mengatur"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "menghadapi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dan mereka berperang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:47.590917281Z",
+  "model": "glm-5.3"
+}

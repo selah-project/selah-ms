@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Terkutuklah orang yang menyesatkan orang buta di jalan, dan segala bangsa itu akan berkata: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "terkutuk"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "yang menyesatkan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "orang buta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:54.954845964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Sesungguhnya, kepanasan manusia akan memuji Engkau; sisa kepanasan, Engkau akan mengikatnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "akan memuji Engkau"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "Engkau akan mengikat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:42.389288040Z",
+  "model": "glm-5.3"
+}

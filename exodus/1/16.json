@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan berkata: \"Apabila kamu membantu melahirkan ⟨את⟩ perempuan Ibrani itu, dan kamu melihat mereka di atas batu kelahiran — jika anak lelaki dia, bunuhlah ⟨את⟩ dia; dan jika anak perempuan dia, biarlah dia hidup.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "apabila kamu membantu melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan Ibrani"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "perempuan Ibrani"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "dan kamu melihat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu kelahiran"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "bunuhlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (anak lelaki itu)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "biarlah hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:17.436233327Z",
+  "model": "glm-5.3"
+}

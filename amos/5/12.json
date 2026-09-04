@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab aku tahu: banyak pelanggaran kamu, dan berat dosa kamu — menindas orang benar, mengambil suap, dan orang miskin di gerbang mereka sesatkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "pelanggaran kamu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "dan berat"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa kamu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "suap"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di gerbang"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "mereka sesatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:18.794245632Z",
+  "model": "glm-5.3"
+}

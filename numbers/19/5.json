@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan orang akan membakar ⟨את⟩ lembu itu di depan matanya; kulitnya dan ⟨את⟩ dagingnya dan ⟨את⟩ darahnya, bersama tinjanya, dibakarnya;",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "dan dibakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu itu"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di depan matanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulitnya"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "kulitnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dagingnya"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "tinjanya"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dibakarnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:12.413477748Z",
+  "model": "glm-5.3"
+}

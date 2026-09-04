@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu naiklah lelaki itu, Elkana, dan seisi rumahnya, untuk mempersembahkan kepada Yahweh ⟨את⟩ korban hari-hari itu dan ⟨את⟩ nazarnya.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Lalu naiklah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seisi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "untuk mempersembahkan korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban hari-hari itu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "nazarnya"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nazarnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:43.038109732Z",
+  "model": "glm-5.3"
+}

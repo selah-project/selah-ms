@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan berkata Aharon: Janganlah menyala hidung tuanku; engkau sendiri tahu ⟨את⟩ bangsa itu, bahawa ia cenderung pada kejahatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau sendiri"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "pada kejahatan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:10.999071268Z",
+  "model": "glm-5.3"
+}

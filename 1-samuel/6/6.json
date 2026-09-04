@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan mengapakah kamu membebankan ⟨את⟩ hati kamu, seperti Mitsrayim dan Paroh membebankan ⟨את⟩ hati mereka? Bukankah seperti ketika ia menganiaya mereka, lalu mereka menyuruh mereka pergi, dan mereka pun pergi?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Dan mengapakah"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "kamu membebankan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati kamu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hati kamu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "membebankan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "dan Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati mereka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti ketika"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "ia menganiaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "lalu mereka menyuruh mereka pergi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka pun pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:56.964807113Z",
+  "model": "glm-5.3"
+}

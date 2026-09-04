@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 6:3",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan terjadilah: apabila Israel menabur benih, maka Midian dan Amalek dan bani timur turun naik menyerang mereka.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "menabur benih"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "maka ... naik"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dan Amalek"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "timur"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "dan mereka naik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "menyerang mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:06:52.110241081Z",
+  "model": "glm-5.3"
+}

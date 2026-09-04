@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Engkau menjadikan kami cela bagi jiran-jiran kami, olok-olok dan perolokan bagi mereka yang di sekeliling kami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Engkau menjadikan kami"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "bagi jiran-jiran kami"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "olok-olok"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "dan perolokan"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "bagi sekeliling kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:18.261630190Z",
+  "model": "glm-5.3"
+}

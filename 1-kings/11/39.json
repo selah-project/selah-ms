@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Aku akan menghina ⟨את⟩ benih David oleh sebab ini; hanya, tidak sepanjang segala hari.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "dan Aku akan menghina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benih David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang segala"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:10.337354400Z",
+  "model": "glm-5.3"
+}

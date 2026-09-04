@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Biarkanlah kiranya sedikit air diambil, dan basuhlah kaki kamu, dan bersandarlah kamu di bawah pokok itu.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "Biarkanlah diambil"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "dan basuhlah"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "kaki kamu"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "dan bersandarlah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pokok itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:52.024705599Z",
+  "model": "glm-5.3"
+}

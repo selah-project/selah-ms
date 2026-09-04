@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "⟨את⟩ suara syofar didengarnya tetapi ia tidak mengambil amaran — darahnya sendiri akan tertimpa kepadanya; tetapi ia yang mengambil amaran, nyawanya akan terlepaskan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara syofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "syofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "didengarnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mengambil amaran"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan tertimpa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tetapi ia"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mengambil amaran"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "terlepaskan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:38:02.285762581Z",
+  "model": "glm-5.3"
+}

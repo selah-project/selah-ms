@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Pada kematian manusia fasik, harapan ⟨ia⟩ binasa, dan pengharapan orang lalim telah hilang.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "Pada kematian"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "fasik"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "harapan"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "dan pengharapan"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "orang lalim"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "telah hilang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:46.186153292Z",
+  "model": "glm-5.3"
+}

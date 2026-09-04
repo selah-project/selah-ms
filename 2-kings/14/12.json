@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu Yehuda tewas di hadapan Yisrael, dan mereka melarikan diri, setiap orang ke khemahnya.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "Lalu ... tewas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan mereka melarikan diri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ke khemahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:40.415592498Z",
+  "model": "glm-5.3"
+}

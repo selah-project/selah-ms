@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu bangkit para hambanya, dan mereka mengikat satu pakatan, lalu mereka memukul ⟨את⟩ Yoas di Beit-Milo, di ⟨jalan⟩ yang turun ke Sila.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "lalu bangkit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para hambanya"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "dan mereka mengikat"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "satu pakatan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lalu mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sila"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:34.754399527Z",
+  "model": "glm-5.3"
+}

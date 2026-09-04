@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Engkau telah naik ke tempat tinggi, telah membawa tawanan dalam tawanan, telah mengambil anugerah-anugerah dari antara manusia, bahkan dari orang-orang yang menderhaka, supaya Yah, Elohim, berdiam ⟨di sana⟩.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "Engkau telah naik"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ke tempat tinggi"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "telah membawa tawanan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "telah mengambil"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "anugerah-anugerah"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dari antara manusia"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "orang-orang yang menderhaka"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "supaya berdiam"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:04.431157740Z",
+  "model": "glm-5.3"
+}

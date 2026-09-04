@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Yitshak mengasihi ⟨את⟩ Esav, sebur-buruan ada di mulutnya; tetapi Rivka mengasihi ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "dan mengasihi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "buruan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di mulutnya"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "tetapi Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:49.718696621Z",
+  "model": "glm-5.3"
+}

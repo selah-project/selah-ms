@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "sambil berfirman: \"Kepadamu Aku berikan ⟨את⟩ tanah Kenaan, tali ukur pusaka kamu.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berfirman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku berikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tali ukur"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "pusaka kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:49.817902147Z",
+  "model": "glm-5.3"
+}

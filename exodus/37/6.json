@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan dihadapkannya kaporet (tudung pendamaian) daripada emas tulen: dua hasta setengah panjangnya dan satu hasta setengah lebarnya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dihadapkannya"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "lebarnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:34.884230579Z",
+  "model": "glm-5.3"
+}

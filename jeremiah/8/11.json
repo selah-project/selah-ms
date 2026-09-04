@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan mereka menyembuhkan ⟨את⟩ patah puteri umat-Ku secara ringan, sambil berkata: \"Damai, damai!\" — padahal tiada damai.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "dan mereka menyembuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patah puteri umat-Ku"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "puteri"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "secara"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ringan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "padahal tiada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    }
+  ],
+  "timestamp": "2026-09-04T13:12:27.525946841Z",
+  "model": "glm-5.3"
+}

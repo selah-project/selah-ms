@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Dan Yisrael berkata: Mengapa kamu berbuat jahat kepada saya dengan memberitahu orang itu bahawa kamu masih mempunyai saudara?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "kamu berbuat jahat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada saya"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "dengan memberitahu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang itu"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "masih adakah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "אח",
+      "gloss": "saudara"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:09.587804299Z",
+  "model": "glm-5.3"
+}

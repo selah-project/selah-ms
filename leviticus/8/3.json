@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "dan ⟨את⟩ seluruh jemaah himpunkanlah di depan pintu kemah pertemuan.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh jemaah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "himpunkanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:56.946687693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "maka imam memerintahkan, dan diambil bagi orang yang hendak ditahirkan dua ekor burung hidup yang tahir, dan kayu araz, dan benang syani tolaat, dan ezob.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "bagi orang yang hendak ditahirkan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua ekor"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "burung"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "yang tahir"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dan kayu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "araz"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan benang syani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "dan ezob"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:38.631835210Z",
+  "model": "glm-5.3"
+}

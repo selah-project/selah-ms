@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 2:14",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Merpatiku, di celah-celah batu karang, di tempat tersembunyi anak tangga, tunjukkanlah kepadaku wajahmu, perdengarkanlah kepadaku suaramu, kerana suaramu manis dan wajahmu cantik.",
+  "tokens": [
+    {
+      "surface": "יונתי",
+      "gloss": "merpatiku"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "di celah-celah"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tempat tersembunyi"
+    },
+    {
+      "surface": "המדרגה",
+      "gloss": "anak tangga"
+    },
+    {
+      "surface": "הראיני",
+      "gloss": "tunjukkanlah kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahmu"
+    },
+    {
+      "surface": "מראיך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "perdengarkanlah kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaramu"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manis"
+    },
+    {
+      "surface": "ומראיך",
+      "gloss": "dan wajahmu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "cantik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:01.105026343Z",
+  "model": "glm-5.3"
+}

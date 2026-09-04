@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Dosa mulut mereka, perkataan bibir mereka; biarlah mereka tertangkap dalam keangkuhan mereka, dan kerana sumpah dan dusta mereka menceritakan.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibir mereka"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dan biarlah tertangkap"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "dalam keangkuhan mereka"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "dan kerana sumpah"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "dan dusta"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "mereka menceritakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:38.886089148Z",
+  "model": "glm-5.3"
+}

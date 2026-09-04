@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan dibuatnyalah bagi rumah itu tingkap-tingkap jeriji, tertutup rapat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnyalah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bagi rumah itu"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "tingkap-tingkap"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "jeriji"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "tertutup rapat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:39.181901710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu raja itu sampai, dan seluruh umat yang ⟨את⟩-nya bersama dia, keletihan, dan dia menghirup nafas di sana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu sampai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya bersama dia",
+      "marks": "umat"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "keletihan"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "dan menghirup nafas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:21.907059435Z",
+  "model": "glm-5.3"
+}

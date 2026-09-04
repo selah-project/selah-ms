@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Yang mengalihkan gunung-ganang, dan mereka tidak mengetahui, yang membalikkan mereka dalam kemurkaannya.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "Yang mengalihkan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-ganang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mereka mengetahui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "membalikkan mereka"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam kemurkaannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:56.684042990Z",
+  "model": "glm-5.3"
+}

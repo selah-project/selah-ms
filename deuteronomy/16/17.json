@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Setiap orang menurut pemberian tangannya, menurut berkat Yahweh Elohimmu yang telah diberikan-Nya kepadamu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "menurut pemberian"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "menurut berkat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah diberikan-Nya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:21.352076322Z",
+  "model": "glm-5.3"
+}

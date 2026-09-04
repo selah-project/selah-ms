@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Sabat, sabat penuh ⟨ia⟩ bagi kamu, dan kamu akan merendahkan ⟨את⟩ diri kamu — ketetapan selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabat penuh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "dan kamu akan merendahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri kamu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "diri kamu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:35.257452800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Berbilang-banyak melebihi rambut kepala ku ⟨ialah⟩ pembenci ku tanpa sebab; perkasa pembinasa ku, musuh ku dengan dusta — yang tidak aku rampas, aku harus memulangkan.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "berbilang-banyak"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "rambut"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala ku"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "pembenci ku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "perkasa"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "pembinasa ku"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh ku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan dusta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "aku merampas"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "aku memulangkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:39.793546249Z",
+  "model": "glm-5.3"
+}

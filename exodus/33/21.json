@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan Yahweh berfirman: Lihat, ada tempat ⟨את⟩ di sisi-Ku, dan engkau akan berdiri di atas batu karang itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ di sisi-Ku",
+      "marks": "tempat"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "dan engkau akan berdiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "batu karang itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:00.335664532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lelaki dan perempuan diciptakan mereka, dan diberkatinya ⟨את⟩ mereka, dan dipanggilnya ⟨את⟩ nama mereka Adam, pada hari penciptaan mereka.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Lelaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "dan perempuan"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "diciptakan mereka"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan diberkatinya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan dipanggilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama mereka"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nama mereka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "penciptaan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:31.169612936Z",
+  "model": "glm-5.3"
+}

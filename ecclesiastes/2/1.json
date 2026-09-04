@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Aku berkata dalam hatiku: Marilah, aku mencuba ⟨dengan⟩ kesukaan dan melihat kebaikan — dan lihat, bahkan itu pun habel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "aku mencuba"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "⟨dengan⟩ kesukaan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:40.438311679Z",
+  "model": "glm-5.3"
+}

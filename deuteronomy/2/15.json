@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Bahkan tangan Yahweh ⟨telah⟩ berada atas mereka untuk membinasakan mereka dari tengah perkhemahan, sampai habis lenyap mereka.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "berada"
+    },
+    {
+      "surface": "בם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "untuk membinasakan mereka"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "perkhemahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "habis lenyap"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:59.901301058Z",
+  "model": "glm-5.3"
+}

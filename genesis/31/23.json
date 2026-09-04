@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu diambilnya ⟨את⟩ saudara-saudaranya bersamanya, dan dikejarnya dia sejauh perjalanan tujuh hari, dan ia menyusul ⟨את⟩ dia di gunung HaGilad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu diambilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "dan dikejarnya"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dia (di belakangnya)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sejauh perjalanan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "dan ia menyusul"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "di gunung HaGilad"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "HaGilad"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:15.831952418Z",
+  "model": "glm-5.3"
+}

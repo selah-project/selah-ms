@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Yoktan memperanakkan ⟨את⟩ Almodad, dan ⟨את⟩ Syelef, dan ⟨את⟩ Hasarmawet, dan ⟨את⟩ Yerah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Dan Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Syelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hasarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hasarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yerah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:30.198331223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Sebab hambamu nazar telah menazar ketika aku diam di Gesyur, di Aram, katanya: Jika sungguh-sungguh Yahweh memulangkan aku ke Yerusalim, maka aku akan berbakti kepada ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "telah menazar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "ketika aku diam"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "di Gesyur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "di Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "memulangkan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerusalim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "maka aku akan berbakti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:04.613754632Z",
+  "model": "glm-5.3"
+}

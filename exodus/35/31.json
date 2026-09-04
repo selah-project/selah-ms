@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan telah mengisi ⟨את⟩ dia roh Elohim, dengan hikmat, dengan kefahaman, dan dengan pengetahuan, dan dalam segala kerja",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Dan telah mengisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dengan hikmat"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "dengan kefahaman"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "dan dengan pengetahuan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan dalam segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kerja"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:35.212966637Z",
+  "model": "glm-5.3"
+}

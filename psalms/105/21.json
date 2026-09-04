@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dituatkannya dia sebagai tuan atas rumahnya, dan sebagai pemerintah atas segala miliknya.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Dituatkannya dia sebagai"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "atas rumahnya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dan sebagai pemerintah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "atas segala"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "miliknya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.582687513Z",
+  "model": "glm-5.3"
+}

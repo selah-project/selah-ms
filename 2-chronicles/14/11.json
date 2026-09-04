@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu Yahweh memukul ⟨את⟩ orang-orang Kusy di hadapan Asa dan di hadapan Yehuda, lalu orang-orang Kusy itu melarikan diri.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Lalu... memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Kusy"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "orang-orang Kusy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "lalu... melarikan diri"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "orang-orang Kusy"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:58.472433437Z",
+  "model": "glm-5.3"
+}

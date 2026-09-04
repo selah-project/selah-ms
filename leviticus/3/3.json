@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ia akan menghampirkan dari korban syelamim itu suatu persembahan api bagi Yahweh: ⟨את⟩ lemak yang menutupi ⟨את⟩ isi perut, dan ⟨את⟩ segala lemak yang ada di atas isi perut.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Dan ia akan menghampirkan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "dari korban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "syelamim itu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "yang menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi perut"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi perut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi perut"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:39.330284857Z",
+  "model": "glm-5.3"
+}

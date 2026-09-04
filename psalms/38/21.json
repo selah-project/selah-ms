@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan yang membalas kejahatan dengan kebaikan terhadapku, mereka menuduhku, kerana aku mengejar kebaikan.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "Dan yang membalas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "mereka menuduhku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "pengejaranku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:20.385520528Z",
+  "model": "glm-5.3"
+}

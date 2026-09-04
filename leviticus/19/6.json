@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Pada hari korban kamu ia dimakan, dan pada hari esok; dan yang berlebihan sampai hari ketiga, dalam api dibakar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "korban kamu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ia dimakan"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "dan pada hari esok"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "dan yang berlebihan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dibakar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:50.341565003Z",
+  "model": "glm-5.3"
+}

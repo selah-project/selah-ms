@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Engkau melihat ⟨את⟩ penderitaan bapa-bapa kami di Mitsrayim, dan ⟨את⟩ jeritan mereka Engkau dengar di Laut Suf;",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Dan Engkau melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jeritan mereka"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "jeritan mereka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Engkau dengar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-04T14:54:29.752081876Z",
+  "model": "glm-5.3"
+}

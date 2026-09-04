@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan rakyat itu keluar ke padang menghadapi Yisrael, dan peperangan itu terjadi di hutan Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dan keluar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ke padang"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "menghadapi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan terjadi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "peperangan itu"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "di hutan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:00.558073188Z",
+  "model": "glm-5.3"
+}

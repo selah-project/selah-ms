@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Habis ⟨⟨ialah⟩⟩ daging-Ku dan hati-Ku; batu hati-Ku dan bahagian-Ku ⟨ialah⟩ Elohim, sampai selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "habis"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "daging-Ku"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "dan hati-Ku"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hati-Ku"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "dan bahagian-Ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:39.229957651Z",
+  "model": "glm-5.3"
+}

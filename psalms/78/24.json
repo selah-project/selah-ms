@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "dan diturunkan-Nya hujan man bagi mereka untuk dimakan, dan gandum langit diberikan-Nya kepada mereka.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "dan diturunkan-Nya hujan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk dimakan"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "dan gandum"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan-Nya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:12.076928519Z",
+  "model": "glm-5.3"
+}

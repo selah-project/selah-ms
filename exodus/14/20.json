@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu ia masuk di antara kem Mitsrayim dan antara kem Yisrael, dan menjadi awan itu serta kegelapan, lalu menerangi ⟨את⟩ malam itu, dan yang satu tidak menghampiri yang lain sepanjang malam itu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu ia masuk"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "serta kegelapan"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "lalu menerangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malam itu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "menghampiri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:28.269069693Z",
+  "model": "glm-5.3"
+}

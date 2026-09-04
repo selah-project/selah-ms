@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan ia mempersembahkan korban dan membakar ukupan di tempat-tempat tinggi, dan di atas bukit-bukit, dan di bawah setiap pokok yang rimbun.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "dan ia mempersembahkan korban"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "dan membakar ukupan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat tinggi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yang rimbun"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:42.993810423Z",
+  "model": "glm-5.3"
+}

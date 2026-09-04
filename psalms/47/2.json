@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Segala bangsa, tepukkan tangan; bersorak-soraklah kepada Elohim dengan suara kegembiraan!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tepukkan"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan (telapak)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bersorak-soraklah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kegembiraan (sorak)"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:57.136452275Z",
+  "model": "glm-5.3"
+}

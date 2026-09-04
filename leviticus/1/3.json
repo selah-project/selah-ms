@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Jika korbanannya ⟨ialah⟩ olah, dari lembu — jantan, sempurna — ia membawa dekatnya; ke pintu Kem Pertemuan ia membawa dekat ⟨את⟩ dia untuk diterimanya, di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbanannya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jantan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sempurna"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ia membawa dekatnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ia membawa dekat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "objek: korban olah itu"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "untuk diterimanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:52.796229756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan ia mengambilnya dari tangan mereka, lalu membentuk ⟨את⟩nya dengan alat pahat, dan menjadikannya anak lembu tuangan; dan mereka berkata: Inilah tuhan-tuhan kamu, hai Yisrael, yang membawa kamu naik dari tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan mereka"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "lalu membentuk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "dengan alat pahat"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "dengan alat pahat"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "dan menjadikannya"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "מסכah",
+      "gloss": "tuangan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tuhan-tuhan kamu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hai Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "membawa kamu naik"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:46.751587851Z",
+  "model": "glm-5.3"
+}

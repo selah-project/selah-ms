@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "ketika ia memperlihatkan ⟨את⟩ kekayaan kemuliaan kerajaannya dan ⟨את⟩ keagungan keindahan kebesarannya, berhari-hari lamanya — delapan puluh dan seratus hari —",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "ketika ia memperlihatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekayaan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kerajaannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "keagungan"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "keindahan"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kebesarannya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "berhari-hari"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lamanya"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "delapan puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:35.602136544Z",
+  "model": "glm-5.3"
+}

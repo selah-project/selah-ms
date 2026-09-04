@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan berlakulah, setelah Syelomoh selesai membina ⟨את⟩ rumah Yahweh dan ⟨את⟩ rumah raja itu, dan ⟨את⟩ segala keinginan Syelomoh yang ia berkenan untuk melakukan",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "setelah selesai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala keinginan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ia berkenan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:37:42.702268891Z",
+  "model": "glm-5.3"
+}

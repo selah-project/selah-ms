@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika pencuri itu didapati sedang memecah masuk, dan dipukul sehingga mati, tiada baginya ⟨tuntutan⟩ darah.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "sedang memecah masuk"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "pencuri itu"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dan dipukul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sehingga mati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:47.299061169Z",
+  "model": "glm-5.3"
+}

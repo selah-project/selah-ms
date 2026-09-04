@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "dan ⟨את⟩ meja itu serta ⟨את⟩ perkakasnya, dan ⟨את⟩ kandil yang murni beserta ⟨את⟩ segala perkakasnya, dan ⟨את⟩ mezbah ukupan —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perkakasnya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kandil yang murni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "yang murni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah ukupan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ukupan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:38.297945327Z",
+  "model": "glm-5.3"
+}

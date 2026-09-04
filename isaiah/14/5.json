@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Telah mematahkan Yahweh tongkat orang-orang jahat, pentadbir pemerintah-pemerintah.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "telah mematahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pentadbir"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "pemerintah-pemerintah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:03.586467876Z",
+  "model": "glm-5.3"
+}

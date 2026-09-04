@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Pada malam itu juga, Belsyazar raja Kasdim itu dibunuh.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "pada itu"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "malam"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belsyazar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Kasdim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:44:37.463216485Z",
+  "model": "glm-5.3"
+}

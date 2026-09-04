@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Elazar memperanakkan ⟨את⟩ Pinehas; Pinehas memperanakkan ⟨את⟩ Avisyua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinehas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avisyua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avisyua"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:42.058204059Z",
+  "model": "glm-5.3"
+}

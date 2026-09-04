@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Maka pada waktu memberikan Merab, anak perempuan Syaul, kepada David, ternyata dia diberikan kepada Adriel orang Mehola menjadi isteri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "תת",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "kepada Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "orang Mehola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "menjadi isteri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:08.981007195Z",
+  "model": "glm-5.3"
+}

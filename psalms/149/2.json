@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 149,
+  "translation": "Biarlah Yisrael bersukacita dalam Pembuatnya, anak-anak Tsyion bersorak-sorai dalam Raja mereka.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "dalam Pembuatnya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "dalam Raja mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:36.772956626Z",
+  "model": "glm-5.3"
+}

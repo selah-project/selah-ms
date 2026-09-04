@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Nafasyang kenyang menghentak-hentak ⟨את⟩ madu yang menitis, tetapi nafas yang lapar — segala yang pahit pun manis baginya.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Nafas"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yang kenyang"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "menghentak-hentak"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "madu yang menitis"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "tetapi nafas"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "yang lapar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מר",
+      "gloss": "yang pahit"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "pun manis"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:04.641243070Z",
+  "model": "glm-5.3"
+}

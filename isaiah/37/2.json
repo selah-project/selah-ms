@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu ia mengutus ⟨את⟩ Eliakim yang atas rumah itu, dan ⟨את⟩ Shebna sang jurutulis, dan ⟨את⟩ para tuaian imam, berselimut kain kasut, kepada Yesyahu bin Amots sang nabi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu ia mengutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Shebna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "jurutulis itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "para tuaian"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tuaian"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "berselimut"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "kain kasut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:32.551343242Z",
+  "model": "glm-5.3"
+}

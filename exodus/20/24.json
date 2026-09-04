@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Mazbah tanah engkau buat bagi-Ku, dan engkau mempersembahkan di atasnya ⟨את⟩ korban bakaranmu dan ⟨את⟩ korban syelammu, ⟨את⟩ kambing dombamu dan ⟨את⟩ lembumu; di setiap tempat yang Aku mengingat ⟨את⟩ nama-Ku, Aku datang kepadamu dan memberkatimu.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "Mazbah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "dan engkau mempersembahkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaranmu"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "korban bakaranmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban syelammu"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "korban syelammu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing dombamu"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "kambing dombamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembumu"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "lembumu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di setiap"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "Aku mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-Ku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "Aku datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "dan memberkatimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:22.112170515Z",
+  "model": "glm-5.3"
+}

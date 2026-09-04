@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "sehasta panjangnya dan sehasta lebarnya; empat segi ia akan menjadi, dan dua hasta tingginya; tanduknya dari padanya.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "sehasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan sehasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "empat segi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "dan dua hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:19.573818327Z",
+  "model": "glm-5.3"
+}

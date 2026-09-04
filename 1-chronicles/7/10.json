@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan anak-anak Yediael: Bilhan; dan anak-anak Bilhan: Yeush, dan Binyamin, dan Ehud, dan Kenaana, dan Zeitan, dan Tarsyis, dan Ahisyahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dan Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "dan Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "dan Kenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "dan Zeitan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "dan Tarsyis"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "dan Ahisyahar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:37.224334197Z",
+  "model": "glm-5.3"
+}

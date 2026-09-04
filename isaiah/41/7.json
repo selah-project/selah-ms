@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Lalu tukang kayu menguatkan ⟨את⟩ penapis logam, yang menghalus dengan tukul besi ⟨את⟩ yang memukul landasan, berkata kepada pelekat: \"Ia baik\"; dan ia mengukuhkannya dengan paku-paku supaya tidak bergoyang.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Lalu ... menguatkan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tukang kayu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penapis logam"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "penapis logam"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "yang menghalus"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "dengan tukul besi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang memukul landasan"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "landasan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "kepada pelekat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "dan ia mengukuhkannya"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "dengan paku-paku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bergoyang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:07.244667506Z",
+  "model": "glm-5.3"
+}

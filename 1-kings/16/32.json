@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan ia mendirikan mezbah bagi Baal di rumah Baal yang dibinanya di Somron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dan mendirikan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bagi Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibinanya"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Somron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:59.871988715Z",
+  "model": "glm-5.3"
+}

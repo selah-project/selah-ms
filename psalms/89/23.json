@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Tidak akan memeras musuh dia, dan anak kelaliman tidak akan menindas dia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan memeras"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kelaliman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "akan menindas dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.493010597Z",
+  "model": "glm-5.3"
+}

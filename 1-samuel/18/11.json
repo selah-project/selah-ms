@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Saul melempar ⟨את⟩ tombak itu, sambil berkata: Aku akan memukul David, sampai ke dinding; dan David berpaling dari hadapannya, dua kali.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "dan melempar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tombak itu"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tombak itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "aku akan memukul"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "sampai ke dinding"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:37.100102458Z",
+  "model": "glm-5.3"
+}

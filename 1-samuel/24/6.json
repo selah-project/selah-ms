@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan berlakulah selepas itu, maka hati Dawid memukul ⟨את⟩ dia, kerana ia telah memotong ⟨את⟩ hujung ⟨yang⟩ kepunyaan Syaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "telah memotong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hujung (jubah)"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "hujung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepunyaan Syaul"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:04.956822830Z",
+  "model": "glm-5.3"
+}

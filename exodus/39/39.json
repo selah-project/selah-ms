@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "⟨את⟩ mezbah tembaga itu, dan ⟨את⟩ grate tembaga yang ada padanya, ⟨את⟩ kayu-kayu penyokongnya, dan ⟨את⟩ segala kelengkapannya; ⟨את⟩ besen basuh dan ⟨את⟩ tapaknya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah tembaga itu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "grate tembaga"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "grate"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu-kayu penyokongnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "kayu-kayu penyokongnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kelengkapannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kelengkapannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besen basuh"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "besen basuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapaknya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tapaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:11.341468876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Aduh, bangsa yang berdosa, umat yang sarat dengan kesalahan, zuriah pembinasa, anak-anak yang rosak! Mereka meninggalkan ⟨את⟩ Yahweh, mereka menghina ⟨את⟩ Yang Kudus Israel, mereka berpaling ke belakang.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "yang berdosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yang sarat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dengan kesalahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zuriah"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pembinasa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "yang rosak"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Mereka meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "mereka menghina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yang Kudus Israel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yang Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "mereka berpaling"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:20.907835977Z",
+  "model": "glm-5.3"
+}

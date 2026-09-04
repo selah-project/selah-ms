@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Inilah dari bani Gad, kepala-kepala tentera: satu lawan seratus yang terkecil, dan yang terbesar lawan seribu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "dari bani"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "lawan seratus"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yang terkecil"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "dan yang terbesar"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "lawan seribu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:07.456484330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan engkau akan meletakkannya ⟨את⟩ di hadapan tabir yang di atas aron ha-edut, di hadapan tutup pendamaian yang di atas ha-edut, yang di situ Aku akan bertemu dengan engkau.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "dan engkau akan meletakkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tabir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ha-edut"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ha-edut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "Aku akan bertemu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dengan engkau"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di situ"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:03.402995320Z",
+  "model": "glm-5.3"
+}

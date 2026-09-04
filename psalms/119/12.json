@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Terpujilah Engkau, wahai Yahweh; ajarlah aku ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarlah aku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:06.980421628Z",
+  "model": "glm-5.3"
+}

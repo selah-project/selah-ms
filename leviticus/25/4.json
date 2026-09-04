@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "tetapi pada tahun yang ketujuh, syabat syabaton bagi bumi itu hendaklah ada, syabat bagi Yahweh; padangmu jangan engkau menabur, dan kebun anggurmu jangan engkau memangkas.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "tetapi pada tahun"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yang ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "syabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "syabaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hendaklah ada"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bagi bumi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "syabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "padangmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "engkau menabur"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "dan kebun anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "engkau memangkas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:15.532233918Z",
+  "model": "glm-5.3"
+}

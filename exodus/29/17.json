@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ biri-biri jantan itu engkau potong kepada potongannya, dan engkau basuh perutnya dan kakinya, dan engkau letakkan atas potongannya dan atas kepalanya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "biri-biri jantan itu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biri-biri jantan itu"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "engkau potong"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "kepada potongannya"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "dan engkau basuh"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "perutnya"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "dan kakinya"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau letakkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "potongannya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:34.178401204Z",
+  "model": "glm-5.3"
+}

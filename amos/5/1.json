@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dengarlah ⟨את⟩ perkataan ini yang aku angkat ke atasmu, suatu ratapan, hai keluarga Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ke atasmu"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "suatu ratapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:34.460756123Z",
+  "model": "glm-5.3"
+}

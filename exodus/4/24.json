@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan terjadilah, di jalan, di tempat bermalam, Yahweh menghadap dia dan berikhtiar hendak membunuhnya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "di tempat bermalam"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "menghadap dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "dan berikhtiar"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "hendak membunuhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:44.509999779Z",
+  "model": "glm-5.3"
+}

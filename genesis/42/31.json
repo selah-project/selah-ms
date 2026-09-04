@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "dan kami berkata kepadanya: Kami ini orang-orang jujur, bukan pengintip kami.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "dan kami berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "orang-orang jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami ⟨adalah⟩"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "pengintip"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:00.333687563Z",
+  "model": "glm-5.3"
+}

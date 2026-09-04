@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "dan keldai tiga puluh ribu lima ratus",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "dan keldai"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:45.026490387Z",
+  "model": "glm-5.3"
+}

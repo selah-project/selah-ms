@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 31:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan Ashur akan rebah oleh pedang, bukan ⟨pedang⟩ manusia; dan pedang, bukan ⟨pedang⟩ manusia biasa, akan menghapuskannya; dan ia akan lari dari hadapan pedang, dan teruna-terunanya akan menjadi upahan kerja paksa.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "Dan akan rebah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "oleh pedang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨pedang⟩ manusia"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "dan pedang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨pedang⟩ manusia biasa"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "akan menghapuskannya"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "dan akan lari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ובחוריו",
+      "gloss": "dan teruna-terunanya"
+    },
+    {
+      "surface": "למס",
+      "gloss": "upahan kerja paksa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:37.320987440Z",
+  "model": "glm-5.3"
+}

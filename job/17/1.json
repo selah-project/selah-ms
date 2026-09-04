@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 17:1",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Roh ku telah diikat, hari-hari ku telah padam, kubur-kubur bagiku.",
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "Rohku"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "telah diikat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    },
+    {
+      "surface": "נזעכו",
+      "gloss": "telah padam"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "kubur-kubur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:21.033405104Z",
+  "model": "glm-5.3"
+}

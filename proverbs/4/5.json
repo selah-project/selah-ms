@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Perolehlah hikmah, perolehlah pengertian; jangan lupa, dan jangan menyimpang dari perkataan mulutku.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "perolehlah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "perolehlah"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pengertian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תט",
+      "gloss": "menyimpang"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "dari perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:14.708155935Z",
+  "model": "glm-5.3"
+}

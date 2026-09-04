@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan jahatlah di mata Yahweh apa yang dilakukannya, lalu dibunuh-Nya dia juga ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "dan jahatlah"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukannya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu matilah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Onan)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:19.590980785Z",
+  "model": "glm-5.3"
+}

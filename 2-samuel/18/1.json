@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu David memeriksa ⟨את⟩ orang yang bersamanya, dan dia mengangkat atas mereka pembesar-pembesar ribuan dan pembesar-pembesar ratusan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "lalu memeriksa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersamanya ⟨את⟩"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribuan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "dan pembesar-pembesar"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratusan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:17.556807133Z",
+  "model": "glm-5.3"
+}

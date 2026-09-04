@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "dan segala kota Sihon raja orang Emori, yang memerintah di Hesybon, sampai ke sempadan bani Amon;",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "di Hesybon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sempadan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:46.043255421Z",
+  "model": "glm-5.3"
+}

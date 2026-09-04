@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Inilah tempat perhentian-Ku selama-lamanya; di sini Aku akan tinggal, kerana Aku telah mengingininya.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "tempat perhentian-Ku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "selama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-lamanya"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "Aku akan tinggal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "Aku telah mengingininya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:20.322774206Z",
+  "model": "glm-5.3"
+}

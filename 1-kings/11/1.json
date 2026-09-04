@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan raja Shelomo mencintai banyak perempuan asing, dan ⟨את⟩ puteri Paraoh, perempuan Moav, Amon, Edom, Tsidon, Het —",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Dan raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mencintai"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "asing"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "puteri Paraoh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "puteri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:40.061503530Z",
+  "model": "glm-5.3"
+}

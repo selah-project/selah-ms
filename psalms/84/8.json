@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Mereka berjalan dari kekuatan ke kekuatan; akan tampaklah ⟨mereka⟩ kepada Elohim di Tsyion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Mereka berjalan"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "dari kekuatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan tampaklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsyion"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:58.758335973Z",
+  "model": "glm-5.3"
+}

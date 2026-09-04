@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Ia bersandar pada rumahnya, dan ia tidak akan berdiri; ia berpegang padanya, dan ia tidak akan bangun.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Ia bersandar"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ia berpegang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan bangun"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:18.303206800Z",
+  "model": "glm-5.3"
+}

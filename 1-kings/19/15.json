@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan berkatalah Yahweh kepadanya: Pergilah, kembalilah pada jalanmu ke padang gurun Damsyik, dan engkau tiba, dan engkau mengurapi ⟨את⟩ HazaEl menjadi raja atas Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "pada jalanmu"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ke padang gurun"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "dan engkau tiba"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau mengurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HazaEl"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "HazaEl"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:29.315845968Z",
+  "model": "glm-5.3"
+}

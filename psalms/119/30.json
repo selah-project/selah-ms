@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Jalan kesetiaan telah kupilih; peraturan-peraturan-Mu telah kutetapkan di hadapanku.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kesetiaan"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "telah kupilih"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "peraturan-peraturan-Mu"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "telah kutetapkan di hadapanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:57.807464701Z",
+  "model": "glm-5.3"
+}

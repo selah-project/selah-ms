@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Curahkan amarah-Mu ke atas bangsa-bangsa yang tidak mengenal Engkau, dan ke atas kerajaan-kerajaan yang atas nama-Mu tidak memanggil.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Curahkan"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "amarah-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "mengenal Engkau"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan-kerajaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "atas nama-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "memanggil"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:16.642061071Z",
+  "model": "glm-5.3"
+}

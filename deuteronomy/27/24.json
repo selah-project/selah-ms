@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Terkutuklah orang yang memukul sesamanya secara tersembunyi, dan segala bangsa itu berkata: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuklah"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "secara tersembunyi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:45.931401730Z",
+  "model": "glm-5.3"
+}

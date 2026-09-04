@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan aku, aku berkata dalam ketergesaan-Ku: Aku telah dipotong dari hadapan mata-Mu — namun sesungguhnya Engkau mendengar suara permohonanku ketika aku berseru kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dalam ketergesaan-Ku"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "aku telah dipotong"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-Mu"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "namun sesungguhnya"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Engkau mendengar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ketika aku berseru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:02.602861772Z",
+  "model": "glm-5.3"
+}

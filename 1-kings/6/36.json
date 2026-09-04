@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu dibinanyalah ⟨את⟩ halaman pelataran yang sebelah dalam: tiga baris batu bentang, dan satu baris rasuk kayu araz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lalu dibinanyalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halaman pelataran yang sebelah dalam"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman pelataran"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "yang sebelah dalam"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "baris"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu bentang"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "dan satu baris"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "rasuk kayu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araz"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:33.483548405Z",
+  "model": "glm-5.3"
+}

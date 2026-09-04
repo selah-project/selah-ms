@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan berfirmanlah kepada mereka: \"Najiskanlah rumah itu dan penuhilah pelataran-pelataran itu dengan orang-orang yang dibunuh; keluarlah.\" Maka mereka keluar dan memukul di bandar itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirmanlah"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "najiskanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelataran-pelataran itu"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "pelataran-pelataran itu"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "dengan orang-orang yang dibunuh"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "maka mereka keluar"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bandar itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:30:49.028167948Z",
+  "model": "glm-5.3"
+}

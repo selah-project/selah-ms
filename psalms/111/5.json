@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Rezeki diberikan-Nya kepada orang yang takut akan Dia; Dia mengingat ⟨unt⟩ selama-lamanya perjanjian-Nya.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "rezeki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan-Nya"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kepada orang yang takut akan Dia"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "Dia mengingat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨untuk⟩ selama-lamanya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:06.672113112Z",
+  "model": "glm-5.3"
+}

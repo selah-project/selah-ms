@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Apakah ini tidak kauketahui sejak dahulu, sejak manusia diletakkan di atas bumi?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tidak kauketahui ⟨apakah⟩"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sejak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dahulu kala"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sejak"
+    },
+    {
+      "surface": "שים",
+      "gloss": "diletakkan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:03.173532709Z",
+  "model": "glm-5.3"
+}

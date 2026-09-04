@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Berbaliklah dari kejahatan dan buatlah kebaikan, maka tinggallah ⟨kau⟩ untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "berbaliklah"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari kejahatan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "maka tinggallah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:14.680932150Z",
+  "model": "glm-5.3"
+}

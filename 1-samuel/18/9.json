@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan terjadilah Saul menejuri ⟨את⟩ David, dari hari itu dan seterusnya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "menejuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "dari hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "dan seterusnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:37.099624845Z",
+  "model": "glm-5.3"
+}

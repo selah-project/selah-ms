@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan ia membuat ⟨את⟩ mizbeakh pembakaran ukupan itu daripada kayu akasia (syitim): sehasta panjangnya dan sehasta lebarnya, segi empat, dan dua hasta tingginya; daripadanya tanduk-tanduknya dijadikan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeakh pembakaran ukupan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeakh"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "pembakaran ukupan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia (syitim)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sehasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan sehasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "segi empat"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "dan dua hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dijadikan"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduk-tanduknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:47.741253587Z",
+  "model": "glm-5.3"
+}

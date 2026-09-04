@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Elohim telah berfirman dalam kekudusan-Nya: Aku akan bersorak-sorai, Aku akan membagi Shekhem, dan lembah Sukot akan aku ukur.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dalam kekudusan-Nya"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Aku akan bersorak-sorai"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "Aku akan membagi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "dan lembah"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "akan aku ukur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:54.716937527Z",
+  "model": "glm-5.3"
+}

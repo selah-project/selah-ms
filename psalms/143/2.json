@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "dan jangan masuk ke dalam penghakiman ⟨terhadap⟩ ⟨את⟩ hambamu, sebab tidak akan dibenarkan di hadapanmu setiap yang hidup.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ke dalam penghakiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambamu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "akan dibenarkan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:36.544079855Z",
+  "model": "glm-5.3"
+}

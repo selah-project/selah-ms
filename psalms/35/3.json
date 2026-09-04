@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan tombak pun hunus-lah, dan tutup-lah jalan ⟨terhadap⟩ para pengkerumuku; katakan-lah kepada jiwa-ku: \"Keselamatan-mu ⟨ialah⟩ aku.\"",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "dan hunus-lah"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "dan tutup-lah"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨terhadap⟩"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "para pengkerumuku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan-lah"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kepada jiwa-ku"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "keselamatan-mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:38.835841942Z",
+  "model": "glm-5.3"
+}

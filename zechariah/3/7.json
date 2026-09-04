@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 3:7",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Beginilah firman Yahweh Tsebaot: Jika engkau berjalan di jalan-Ku, dan jika engkau memelihara pemeliharaan-Ku, maka engkau juga akan menghakimi rumah-Ku, dan juga akan memelihara pelataran-Ku; dan Aku akan memberikan kepadamu tempat berjalan di antara mereka yang berdiri ini.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di jalan-Ku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau berjalan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemeliharaan-Ku"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "pemeliharaan-Ku"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "engkau memelihara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "maka juga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "תדין",
+      "gloss": "akan menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah-Ku"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah-Ku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "engkau akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelataran-Ku"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "pelataran-Ku"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "מהלכים",
+      "gloss": "tempat berjalan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mereka yang berdiri"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T13:53:44.640505882Z",
+  "model": "glm-5.3"
+}

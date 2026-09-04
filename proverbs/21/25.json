@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Keinginan orang pemalas membunuhnya, kerana tangannya enggan bekerja.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "orang pemalas"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "membunuhnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "enggan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bekerja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:09.837233327Z",
+  "model": "glm-5.3"
+}

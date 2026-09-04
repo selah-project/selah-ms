@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Sebab musuh telah mengejar nyawaku; ia telah meremukkan ke bumi kehidupanku; ia telah membuatku duduk dalam kegelapan, seperti mati dari zaman purba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "telah mengejar"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "telah meremukkan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "kehidupanku"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "telah membuatku duduk"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "seperti mati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dari zaman purba"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:36.544243088Z",
+  "model": "glm-5.3"
+}

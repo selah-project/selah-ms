@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Mataku habis lesu menantikan keselamatan-Mu dan untuk janji kebenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis lesu"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "menantikan keselamatan-Mu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "dan untuk janji"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:20.733000391Z",
+  "model": "glm-5.3"
+}

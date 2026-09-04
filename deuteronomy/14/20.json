@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "setiap burung yang halal boleh kamu makan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yang halal"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "boleh kamu makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:58.675497598Z",
+  "model": "glm-5.3"
+}

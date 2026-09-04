@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Betapa baik kemah-kemahmu, ya Yaakov, kediaman-kediamanmu, ya Yisrael!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "baik"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "kemah-kemahmu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "kediaman-kediamanmu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:38.478796611Z",
+  "model": "glm-5.3"
+}

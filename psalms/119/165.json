@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Syalom yang besar bagi pengasihi Tora-Mu, dan tiada bagi mereka batu tersandung.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Syalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "besar"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "bagi pengasihi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "batu tersandung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:19.981454509Z",
+  "model": "glm-5.3"
+}

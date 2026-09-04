@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Apabila saudaramu menjadi miskin dan menjual milik pegangannya, maka penebusnya yang terdekat kepadanya datang dan menebus ⟨את⟩ hasil jualan saudaranya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "menjadi miskin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "dan menjual"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "milik pegangannya"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "penebusnya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yang terdekat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "dan menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil jualan"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "hasil jualan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:35.666143334Z",
+  "model": "glm-5.3"
+}

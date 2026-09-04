@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu berkatalah Yehonatan kepada David: Marilah, kita keluar ke padang. Maka keluarlah kedua-dua mereka ke padang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "kita keluar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ke padang"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Maka keluarlah"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-dua mereka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ke padang"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:05.979364570Z",
+  "model": "glm-5.3"
+}

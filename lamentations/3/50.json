@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "sampai Yahweh menengok dari langit dan melihat.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "menengok"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:25.634455899Z",
+  "model": "glm-5.3"
+}

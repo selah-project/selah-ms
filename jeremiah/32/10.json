@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "dan aku menulis dalam surat itu, dan aku meterai, dan aku memanggil saksi-saksi, dan aku menimbang wang itu dengan neraca.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "dan aku menulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam surat itu"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "dan aku meterai"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "dan aku memanggil"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "dan aku menimbang"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "wang itu"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "dengan neraca"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:22.350456805Z",
+  "model": "glm-5.3"
+}

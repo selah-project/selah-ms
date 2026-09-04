@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan mereka memberikan kepada mereka ⟨את⟩ bandar-bandar perlindungan: ⟨את⟩ Sekhem dan ⟨את⟩ tanah lapangnya di pegunungan Efrayim, dan ⟨את⟩ Gezer dan ⟨את⟩ tanah lapangnya.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dan mereka memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar-bandar perlindungan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:26.776114732Z",
+  "model": "glm-5.3"
+}

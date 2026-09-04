@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Kepercayaan yang sungguh pada kuda ⟨ialah⟩ sia-sia untuk keselamatan, dan dengan banyaknya kekuatannya ia tidak akan melepaskan.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "sia-sia (kebohongan)"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "pada kuda"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "untuk keselamatan"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "dan dengan banyaknya"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "kekuatannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ia akan melepaskan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:17.392088901Z",
+  "model": "glm-5.3"
+}

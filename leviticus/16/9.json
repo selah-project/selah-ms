@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan Aharon harus menghamparkan ⟨את⟩ kambing jantan itu, yang ke atasnya naik undi bagi Yahweh, dan mengolahnya menjadi korban dosa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dan harus menghamparkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan itu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "undi itu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "dan mengolahnya"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:07.058275624Z",
+  "model": "glm-5.3"
+}

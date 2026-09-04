@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Jalan kepalsuan — singkirkan daripadaku, dan dengan Tora-Mu berilah aku kasih karunia.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kepalsuan"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "singkirkan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dan dengan Tora-Mu"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "berilah aku kasih karunia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:57.807042894Z",
+  "model": "glm-5.3"
+}

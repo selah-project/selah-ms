@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan mereka akan memakan ⟨את⟩ daging itu pada malam ini; dipanggang dengan api, dan roti tanpa ragi — bersama herba pahit mereka akan memakannya.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "dan mereka akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging itu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "dipanggang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "dan roti tanpa ragi"
+    },
+    {
+      "surface": "על",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "herba pahit"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "mereka akan memakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:02.455688971Z",
+  "model": "glm-5.3"
+}

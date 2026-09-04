@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan berlakulah pada tahun ketiga Hosya (Hosea) bin Ela raja Israel, Hizkiya (Hizkia) bin Ahaz raja Yehuda menjadi raja.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "pada tahun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hosya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:52.446432875Z",
+  "model": "glm-5.3"
+}

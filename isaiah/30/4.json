@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Sebab para pembesarnya ada di Tsoan, dan para utusannya sampai di Hanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "di Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "para pembesarnya"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "dan para utusannya"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sampai"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:53.253926522Z",
+  "model": "glm-5.3"
+}

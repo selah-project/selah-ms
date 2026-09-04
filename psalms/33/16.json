@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Tidak ada raja diselamatkan oleh kebesaran tentera; pahlawan tidak dilepaskan oleh kebesaran kekuatan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tidak ada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "diselamatkan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "oleh kebesaran"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "dilepaskan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "oleh kebesaran"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:19.834968507Z",
+  "model": "glm-5.3"
+}

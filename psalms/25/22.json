@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Tebuslah, Elohim, ⟨את⟩ Yisrael daripada segala kesempitannya.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Tebuslah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada segala"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kesempitannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:47.314300953Z",
+  "model": "glm-5.3"
+}

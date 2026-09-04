@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Yehosyua bangun pagi-pagi dan mendekatkan ⟨את⟩ Israel mengikut suku-sukunya, dan tertangkaplah suku Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangun pagi-pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dan mendekatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "mengikut suku-sukunya"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dan tertangkaplah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:00.552073089Z",
+  "model": "glm-5.3"
+}

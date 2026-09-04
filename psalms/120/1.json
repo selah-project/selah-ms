@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 120,
+  "translation": "Nyanyian Hamaalot. Kepada Yahweh dalam kesesakanku aku berseru, dan Dia menjawab aku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Hamaalot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "dan Dia menjawab aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:23.490297062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan mereka mengambil ⟨את⟩ anak-anak perempuan mereka bagi mereka menjadi isteri, dan ⟨את⟩ anak-anak perempuan mereka diberikan kepada anak-anak lelaki mereka; dan mereka beribadah kepada ⟨את⟩ tuhan-tuhan mereka.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Dan mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "menjadi isteri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kepada anak-anak lelaki mereka"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:18.863653640Z",
+  "model": "glm-5.3"
+}

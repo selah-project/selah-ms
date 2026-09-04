@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu berkatalah Ester kepada Hatakh dan menyuruhnya ⟨pergi⟩ kepada Mordekhai,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "kepada Hatakh"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "dan menyuruhnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:39.119118012Z",
+  "model": "glm-5.3"
+}

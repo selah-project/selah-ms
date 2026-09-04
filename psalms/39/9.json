@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dari segala pemberontakanku lepaskanlah aku; aib orang bodoh jangan Kaujadikan aku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pemberontakanku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "lepaskanlah aku"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "aib"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "Kaujadikan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:34.798163408Z",
+  "model": "glm-5.3"
+}

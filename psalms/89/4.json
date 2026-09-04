@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Aku telah mengikat perjanjian dengan pilihan-Ku; aku telah bersumpah kepada David, hamba-Ku:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "aku telah memotong"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "dengan pilihan-Ku"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "aku telah bersumpah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.773585140Z",
+  "model": "glm-5.3"
+}

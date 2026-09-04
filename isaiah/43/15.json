@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Akulah Yahweh, Yang Kudus kamu, Pencipta Israel, Raja kamu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Yang Kudus kamu"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Pencipta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Raja kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:14.781288335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 128,
+  "translation": "Lihatlah, sesungguhnya demikianlah diberkati lelaki yang takut akan Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "diberkati"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:29.199151975Z",
+  "model": "glm-5.3"
+}

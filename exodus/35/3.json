@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Jangan kamu menyulut api di semua tempat kediamanmu pada hari Sabat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "kamu menyulut"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di semua"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "tempat kediamanmu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:06.770715703Z",
+  "model": "glm-5.3"
+}

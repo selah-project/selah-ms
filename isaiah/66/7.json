@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Sebelum ia berkesakitan, ia melahirkan; sebelum sakit bersalin datang kepadanya, ia pun melahirkan seorang anak lelaki.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Sebelum"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "ia berkesakitan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ia melahirkan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sakit bersalin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "ia pun melahirkan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "seorang anak lelaki"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:08.351051780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan Yahweh Elohim-mu akan menyerahkan mereka ke hadapanmu, dan mengempiskan mereka dengan kekacauan yang besar, sehingga mereka dibinasakan.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Dan akan menyerahkan mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ke hadapanmu"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "dan mengempiskan"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "dengan kekacauan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "mereka dibinasakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:23.436767300Z",
+  "model": "glm-5.3"
+}

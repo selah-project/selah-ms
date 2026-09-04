@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Maka pada waktu petang menjelang, hendaklah ia membasuh dirinya dengan air, dan apabila matahari terbenam, ia boleh masuk ke tengah-tengah khemah.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Maka ⟨terjadilah⟩"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "pada waktu menjelang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "hendaklah ia membasuh dirinya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "dan apabila terbenam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ia boleh masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tengah-tengah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "khemah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:47.285618769Z",
+  "model": "glm-5.3"
+}

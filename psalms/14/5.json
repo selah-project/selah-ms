@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Di sana mereka telah diliputi ketakutan, sebab Elohim ⟨ada⟩ di tengah angkatan orang benar.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Di sana"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "mereka telah diliputi ketakutan"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "di tengah angkatan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:10.603171849Z",
+  "model": "glm-5.3"
+}

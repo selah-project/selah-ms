@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Engkau akan menampi mereka dan angin akan mengangkat mereka, dan badai akan menyebarkan ⟨את⟩ mereka; dan engkau akan bersukaria di dalam Yahweh, di dalam Yang Kudus Israel engkau bermegah.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Engkau akan menampi mereka"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan angin"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "akan mengangkat mereka"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "dan badai"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "akan menyebarkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "akan bersukaria"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di dalam Yahweh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "di dalam Yang Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "engkau bermegah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:33.441500783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 9:18",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sebab suara ratapan terdengar dari Tsiyon: betapa kami dibinasakan! Kami mendapat malu ⟨yang⟩ besar, sebab kami telah meninggalkan tanah, sebab mereka telah membuang kediaman kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "נהי",
+      "gloss": "ratapan"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "terdengar"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsiyon"
+    },
+    {
+      "surface": "איך",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "שדדנו",
+      "gloss": "kami dibinasakan"
+    },
+    {
+      "surface": "בשנו",
+      "gloss": "kami mendapat malu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "besar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami telah meninggalkan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "mereka telah membuang"
+    },
+    {
+      "surface": "משכנותינו",
+      "gloss": "kediaman kami"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:17.475744021Z",
+  "model": "glm-5.3"
+}

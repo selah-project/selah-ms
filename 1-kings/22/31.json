@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Raja Aram pula memerintahkan ⟨את⟩ para panglima keretanya yang tiga puluh dua orang, katanya: Jangan berperang ⟨את⟩ orang kecil mahupun ⟨את⟩ orang besar, melainkan ⟨את⟩ raja Israel seorang sahaja.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para panglima kereta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para panglima"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dan dua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kamu berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang kecil"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "orang kecil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang besar"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "orang besar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seorang sahaja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:29.924098667Z",
+  "model": "glm-5.3"
+}

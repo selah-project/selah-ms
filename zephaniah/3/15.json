@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Yahweh telah menghapuskan hukuman atasmu, telah membelakangkan musuhmu; raja Israel, Yahweh, ada di tengah-tengahmu — jangan takut akan kejahatan lagi.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "telah menghapuskan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukuman atasmu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "telah membelakangkan"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tengah-tengahmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "takut"
+    },
+    {
+      "surface": "רע",
+      "gloss": "akan kejahatan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:51:31.963410978Z",
+  "model": "glm-5.3"
+}

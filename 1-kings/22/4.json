@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu baginda berkata kepada Yehosafat, Adakah engkau akan pergi ⟨את⟩bersamaku untuk berperang di Ramot-Gilad? Dan Yehosafat berkata kepada raja Israel, Seperti diriku, seperti dirimu; seperti umatku, seperti umatmu; seperti kudaku, seperti kudamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu baginda berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "adakah engkau akan pergi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩bersamaku",
+      "marks": "bersamaku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "seperti diriku"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti dirimu"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "seperti umatku"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "seperti umatmu"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "seperti kudaku"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "seperti kudamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:43.312492464Z",
+  "model": "glm-5.3"
+}

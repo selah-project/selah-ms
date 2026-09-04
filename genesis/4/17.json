@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Kayin mengenal ⟨את⟩ isterinya, dan ia mengandung, dan melahirkan ⟨את⟩ Hanokh; dan ia menjadi pembina sebuah bandar, dan ia menamakan nama bandar itu mengikut nama anaknya, Hanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "dan mengenal"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isterinya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia menjadi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pembina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia menamakan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar itu"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "mengikut nama"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:22.970897094Z",
+  "model": "glm-5.3"
+}

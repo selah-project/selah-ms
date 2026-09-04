@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Yang satu kepada yang lain berhimpit, dan angin tidak dapat masuk di antara mereka.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Yang satu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "kepada yang lain"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "berhimpit"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan angin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dapat masuk"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "di antara mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:35.816031947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Lalu mereka segera menurunkan, setiap seorang ⟨את⟩ polybagnya ke tanah, dan setiap seorang membuka polybagnya.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "mereka segera"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "menurunkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap seorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polybagnya"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "polybagnya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "dan membuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap seorang"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "polybagnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:04.707446913Z",
+  "model": "glm-5.3"
+}

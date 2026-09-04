@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 112,
+  "translation": "Orang fasik akan melihat dan berdukacita; giginya akan digertakkan, dan ia akan hancur; keinginan orang-orang fasik akan binasa.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Orang fasik"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan melihat"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "dan berdukacita"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "giginya"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "akan digertakkan"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "dan akan hancur"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "akan binasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:28.108083971Z",
+  "model": "glm-5.3"
+}

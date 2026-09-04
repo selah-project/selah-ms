@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "kerana Barukh bin Nerya membujuk engkau ⟨את⟩ terhadap kami, supaya menyerahkan kami ⟨את⟩ ke tangan orang Kasdim, untuk membunuh kami ⟨את⟩ dan untuk mengasingkan kami ⟨את⟩ ke Bavel.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerya"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "membujuk"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תת",
+      "gloss": "menyerahkan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "orang Kasdim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "untuk membunuh"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "dan untuk mengasingkan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:23:46.692822130Z",
+  "model": "glm-5.3"
+}

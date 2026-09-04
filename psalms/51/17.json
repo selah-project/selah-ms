@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Adonai, bibirku Engkau buka, dan mulutku akan memberitakan pujian-Mu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Engkau buka"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "dan mulutku"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "akan memberitakan"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:22.186501761Z",
+  "model": "glm-5.3"
+}

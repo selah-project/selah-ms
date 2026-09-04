@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan imam itu akan membakar ⟨את⟩ lemak itu di atas mezbah, dan dada itu menjadi milik Aharon dan anak-anaknya.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "dan akan membakar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak itu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak itu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dada itu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "milik Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "dan anak-anaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:25.376759141Z",
+  "model": "glm-5.3"
+}

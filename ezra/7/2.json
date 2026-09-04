@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "bin Salum bin Tsadok bin Ahitub",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitub"
+    }
+  ],
+  "timestamp": "2026-09-04T14:50:27.846534456Z",
+  "model": "glm-5.3"
+}

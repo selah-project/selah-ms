@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Jalan perintah-perintah-Mu akan kulari, sebab Engkau melapangkan hatiku.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "akan kulari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "Engkau melapangkan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:57.807931209Z",
+  "model": "glm-5.3"
+}

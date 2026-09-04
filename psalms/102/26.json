@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Pada zaman lampau Engkau mengasaskan ⟨את⟩ bumi, dan langit ialah pekerjaan tangan-Mu.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Pada zaman lampau"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Engkau mengasaskan"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "dan pekerjaan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:12.023595703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 114,
+  "translation": "Yehuda menjadi kesucian-Nya, Yisrael wilayah-wilayah kekuasaan-Nya.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kesucian-Nya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "wilayah-wilayah kekuasaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:16.617380272Z",
+  "model": "glm-5.3"
+}

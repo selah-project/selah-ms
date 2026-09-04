@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Marilah dan lihatlah perbuatan-perbuatan Elohim; ⟨Ia⟩ dahsyat dalam ⟨perbuatan⟩-Nya terhadap anak-anak Adam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dahsyat"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "dalam ⟨perbuatan⟩-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam (manusia)"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:10.450619294Z",
+  "model": "glm-5.3"
+}

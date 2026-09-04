@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Mizmor. Nyanyikanlah bagi Yahweh nyanyian baharu, sebab ⟨dia⟩ telah melakukan keajaiban; keselamatan bagi-Nya ⟨diberikan oleh⟩ tangan kanan-Nya dan lengan kesucian-Nya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baharu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah melakukan"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tangan kanan-Nya"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "dan lengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesucian-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:56.741044145Z",
+  "model": "glm-5.3"
+}

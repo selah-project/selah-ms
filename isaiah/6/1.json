@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Pada tahun kematian raja Uziyahu aku melihat ⟨את⟩ Adonai duduk di atas takhta yang tinggi dan ditinggikan, dan hujung jubah-Nya memenuhi ⟨את⟩ istana itu.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Pada tahun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "רם",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dan ditinggikan"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "dan hujung jubah-Nya"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istana itu"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "istana itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:53.059605718Z",
+  "model": "glm-5.3"
+}

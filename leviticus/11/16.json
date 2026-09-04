@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ anak burung unta, dan ⟨את⟩ tahmas, dan ⟨את⟩ burung camar, dan ⟨את⟩ rajawali menurut jenisnya —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak burung unta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "burung unta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung camar"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "burung camar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rajawali"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "rajawali"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:18.796674825Z",
+  "model": "glm-5.3"
+}

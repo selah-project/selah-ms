@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Sebab Kaudahului dia dengan berkat-berkat kebaikan; Kautaatkan pada kepalanya mahkota emas tulen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "Kaudahului dia"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dengan berkat-berkat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "Kautaatkan"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "pada kepalanya"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "פז",
+      "gloss": "emas tulen"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:38.080258008Z",
+  "model": "glm-5.3"
+}

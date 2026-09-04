@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab dalam kelimpahan mimpi-mimpi dan kepalsuan serta banyak perkataan — tetapi ⟨engkau⟩ takutlah akan ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dalam kelimpahan"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mimpi-mimpi"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "dan kepalsuan"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "serta perkataan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takutlah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:57.043048521Z",
+  "model": "glm-5.3"
+}

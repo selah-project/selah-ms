@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu diambilnya ⟨את⟩ tua-tua bandar itu, dan ⟨את⟩ duri-duri padang belantara, dan ⟨את⟩ onak-onak itu, dan dengan itu dia menghajar ⟨את⟩ orang-orang Sukot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu diambilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tua-tua bandar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "duri-duri"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "duri-duri"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang belantara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "onak-onak itu"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "onak-onak itu"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "menghajar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dengan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Sukot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-09-04T15:44:02.957631467Z",
+  "model": "glm-5.3"
+}

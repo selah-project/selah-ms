@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Merekalah yang melihat, begitu juga mereka tercengang; mereka bingung, bergegas lari.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Merekalah"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "yang melihat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitu juga"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "mereka tercengang"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "mereka bingung"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "bergegas lari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:51.413007644Z",
+  "model": "glm-5.3"
+}

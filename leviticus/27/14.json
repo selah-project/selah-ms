@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan seorang manusia, apabila ia menguduskan rumahnya sebagai kudus bagi Yahweh, maka hakim(imam) menilainya, sama ada baik atau buruk; seperti yang dinilai imam kepadanya, demikianlah ia berdiri.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ia menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahnya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sebagai kudus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "maka menilainya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sama ada"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "dinilai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "imam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ia berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:05.121577778Z",
+  "model": "glm-5.3"
+}

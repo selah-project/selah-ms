@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan Aku mengembalikan ⟨את⟩ keadaan tawanan Yehuda dan ⟨את⟩ keadaan tawanan Yisrael, dan Aku membina mereka semula seperti pada mulanya.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "dan Aku mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawanan Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "keadaan tawanan Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "dan Aku membina mereka semula"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "seperti pada mulanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:17.235143485Z",
+  "model": "glm-5.3"
+}

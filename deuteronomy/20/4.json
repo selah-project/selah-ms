@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "sebab Yahweh Elohimkumullah ⟨yang⟩ berjalan bersama kamu, untuk berperang bagi kamu terhadap musuhmu, untuk menyelamatkan ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "untuk menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:56.274208353Z",
+  "model": "glm-5.3"
+}

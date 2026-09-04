@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Sebab segala hukum-Nya di hadapanku, dan ketetapan-Nya tidak aku singkirkan daripadaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukum-Nya"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "dan ketetapan-Nya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "aku singkirkan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "daripadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:46.674452748Z",
+  "model": "glm-5.3"
+}

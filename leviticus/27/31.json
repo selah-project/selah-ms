@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika seorang lelaki menebus semula sesuatu daripada maasernya, ia akan menambah seperlimanya ke atasnya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "menebus semula"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ia menebus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "daripada maasernya"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "seperlimanya"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ia akan menambah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:13.563467037Z",
+  "model": "glm-5.3"
+}

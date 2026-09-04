@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Dengarlah, umat-Ku, dan aku akan berbicara; Israel, dan aku akan bersaksi terhadapmu: Elohim, Elohim-mu, aku inilah.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dan aku akan berbicara"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "dan aku akan bersaksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku inilah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:49.363624261Z",
+  "model": "glm-5.3"
+}

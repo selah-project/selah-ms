@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Kerana suara musuh, kerana muka penindasan orang jahat; sebab mereka menjatuhkan kelaliman ke atasku, dan dalam amarah mereka memusuhi aku.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Kerana suara"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana muka"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "penindasan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "mereka menjatuhkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kelaliman"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "dan dalam amarah"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mereka memusuhi aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:00.386000099Z",
+  "model": "glm-5.3"
+}

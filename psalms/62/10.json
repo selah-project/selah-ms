@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Sungguh, sesuatu yang sia-sia ⟨ialah⟩ anak-anak manusia, dusta ⟨ialah⟩ anak-anak lelaki; di atas neraca untuk naik — mereka itu daripada kesia-siaan sekaligus.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "di atas neraca"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "untuk naik"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka itu"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "daripada kesia-siaan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sekaligus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:51.262715697Z",
+  "model": "glm-5.3"
+}

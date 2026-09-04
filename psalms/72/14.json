@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Dari penindasan dan keganasan ia akan menebus nyawa mereka, dan darah mereka berharga di matanya.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "dan dari keganasan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ia akan menebus"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "dan berharga"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:12.915583664Z",
+  "model": "glm-5.3"
+}

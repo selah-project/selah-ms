@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Sekarang Aku bangun, firman Yahweh; sekarang Aku ditinggikan; sekarang Aku terangkat.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sekarang"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "Aku bangun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "Aku ditinggikan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "Aku terangkat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:26.115836080Z",
+  "model": "glm-5.3"
+}

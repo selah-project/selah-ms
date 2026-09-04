@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan lagi sedikit, dan tiadalah orang fasik; dan engkau memperhatikan tempatnya, dan tiadalah dia.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "dan lagi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiadalah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "dan engkau memperhatikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatnya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan tiadalah dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:33.096752236Z",
+  "model": "glm-5.3"
+}

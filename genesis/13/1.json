@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu Avram naik dari Mitsrayim (Mesir), dia dan isterinya dan segala yang ada padanya, dan Lot bersamanya, ke arah Negev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naik"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan isterinya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "dan Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ke arah Negev"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:29.715659236Z",
+  "model": "glm-5.3"
+}

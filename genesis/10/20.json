@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Inilah anak-anak Ham menurut keluarga mereka, menurut bahasa mereka, di negeri mereka, di bangsa mereka.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga mereka"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "menurut bahasa mereka"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di negeri mereka"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "di bangsa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:15.214825206Z",
+  "model": "glm-5.3"
+}

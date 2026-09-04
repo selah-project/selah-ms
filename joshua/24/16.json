@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu umat itu menjawab dan berkata: Jauh sekali bagi kita untuk meninggalkan ⟨את⟩ Yahweh dengan beribadah kepada tuhan-tuhan yang lain.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawab"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Jauh sekali"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "untuk meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "dengan beribadah kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "yang lain"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:19.165529553Z",
+  "model": "glm-5.3"
+}

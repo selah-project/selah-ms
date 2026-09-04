@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Apabila Adonai telah membasuh kotoran anak-anak perempuan Tsyion, dan darah Yerusalem telah dibasuh dari tengah-tengahnya, dengan roh penghakiman dan dengan roh pembakaran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "telah membasuh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotoran anak-anak perempuan Tsyion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kotoran"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "darah Yerusalem"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "telah dibasuh"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "dari tengah-tengahnya"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "dengan roh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghakiman"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "dan dengan roh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pembakaran"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:04.798517760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Avraham memberi ⟨את⟩ segala yang ada padanya kepada Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kepada Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:08.602921171Z",
+  "model": "glm-5.3"
+}

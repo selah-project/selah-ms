@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ⟨את⟩ rumah besar itu disalutnya kayu berusyim, lalu disalutnya emas yang baik, dan dinaikkannya ke atasnya timorim dan rantai-rantai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah besar itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "disalutnya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berusyim"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "lalu disalutnya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan dinaikkannya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "timorim (pilar bentuk pokok palma)"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "dan rantai-rantai"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:57.889623522Z",
+  "model": "glm-5.3"
+}

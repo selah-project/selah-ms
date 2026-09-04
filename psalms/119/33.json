@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Ajarlah aku, Yahweh, jalan ketetapan-ketetapanmu, maka aku akan menurutinya sampai ke penghujung.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ajarlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapanmu"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "maka aku akan menurutinya"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sampai ke penghujung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:51.525972018Z",
+  "model": "glm-5.3"
+}

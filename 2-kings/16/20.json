@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu Ahaz berbaringlah dengan bapa-bapanya, dan dikuburkan dengan bapa-bapanya di kota David, dan Hizkiyahu anaknya menjadi raja menggantikannya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Lalu berbaringlah"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan dikuburkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan menjadi raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:56.270306572Z",
+  "model": "glm-5.3"
+}

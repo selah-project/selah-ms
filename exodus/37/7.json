@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan dihadapkannya dua keruvim daripada emas; kerja tempaan dihadapkannya ⟨את⟩ mereka, daripada kedua-dua hujung kaporet itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dihadapkannya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kerja tempaan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dihadapkannya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (dua keruvim itu)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "daripada kedua-dua"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "hujung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:34.884435161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Elohim ⟨adalah⟩ di tengah-tengahnya; ia tidak akan bergoyah; Elohim akan menolongnya menjelang pagi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "akan bergoyah"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "akan menolongnya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "menjelang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:42.930132464Z",
+  "model": "glm-5.3"
+}

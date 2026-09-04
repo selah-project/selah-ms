@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu Naomi mengambil ⟨את⟩ kanak-kanak itu dan meletakkannya di pangkuannya, dan ia menjadi ibu susu baginya.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanak-kanak itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "kanak-kanak itu"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "meletakkannya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "di pangkuannya"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "ibu susu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:32.489318805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan jika dengan satu saja ditiup, maka berkumpullah kepadamu para pembesar, kepala-kepala beribu-ribu orang Israel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "dengan satu"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ditiup"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "maka berkumpullah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "beribu-ribu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:36.794434784Z",
+  "model": "glm-5.3"
+}

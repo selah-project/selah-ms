@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan raja Ahasyweros mengenakan wizurai atas bumi dan pulau-pulau laut.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mengenakan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ahasyweros"
+    },
+    {
+      "surface": "מס",
+      "gloss": "wizurai"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "dan pulau-pulau"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:11.846704550Z",
+  "model": "glm-5.3"
+}

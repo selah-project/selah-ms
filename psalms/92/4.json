@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "atas asor sepuluh tali dan atas nevel, atas higayon dengan kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor sepuluh tali"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinor"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:01.281233892Z",
+  "model": "glm-5.3"
+}

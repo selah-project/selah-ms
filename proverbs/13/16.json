@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Setiap orang berakal bertindak dengan pengetahuan, tetapi orang bodah membentangkan kebodohan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "orang berakal"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bertindak"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "dengan pengetahuan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tetapi orang bodah"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "membentangkan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:52.023659611Z",
+  "model": "glm-5.3"
+}

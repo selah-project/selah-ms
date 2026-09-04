@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Lihat, pada telapak tangan-Ku Aku telah mengukir engkau; tembok-tembokmu terus-menerus di hadapan-Ku.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "Aku telah mengukir engkau"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "tembok-tembokmu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di hadapan-Ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-menerus"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:10.821463442Z",
+  "model": "glm-5.3"
+}

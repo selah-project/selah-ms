@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Patung-patung mereka perak dan emas, buatan tangan manusia.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Patung-patung mereka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:21.614735731Z",
+  "model": "glm-5.3"
+}

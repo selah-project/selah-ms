@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu Avraham menghulurkan ⟨את⟩ tangannya, dan mengambil ⟨את⟩ pisau itu, untuk menyembelih ⟨את⟩ anaknya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "menghulurkan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pisau itu"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pisau itu"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "untuk menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:48.797042640Z",
+  "model": "glm-5.3"
+}

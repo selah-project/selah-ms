@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Di tempat yang mereka menyembelih ⟨את⟩ korban olah, di situ mereka menyembelih ⟨את⟩ korban asham, dan ⟨את⟩ darahnya ia memercik ke atas mezbah sekeliling.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "mereka menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban olah"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "mereka menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ia memercik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:21.228329780Z",
+  "model": "glm-5.3"
+}

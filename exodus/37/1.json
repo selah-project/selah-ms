@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu Betsalel membuat ⟨את⟩ tabut itu daripada kayu akasia: dua hasta setengah panjangnya, dan satu hasta setengah lebarnya, dan satu hasta setengah tingginya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu membuat"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tabut itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daripada kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dua hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "satu hasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:50.436411723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu aku membeli ⟨את⟩ ikat pinggang itu, seperti firman Yahweh, dan aku memakainya pada pinggangku.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Lalu aku membeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikat pinggang itu"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ikat pinggang itu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "seperti firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "dan aku memakainya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "pinggangku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:42.993588875Z",
+  "model": "glm-5.3"
+}

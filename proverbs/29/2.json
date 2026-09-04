@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Apabila orang-orang benar bertambah banyak, bangsa bersukacita; tetapi apabila orang fasik memerintah, bangsa mengeluh.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "apabila bertambah banyak"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "tetapi apabila memerintah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "mengeluh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:52.848817875Z",
+  "model": "glm-5.3"
+}

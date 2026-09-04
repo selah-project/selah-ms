@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 141,
+  "translation": "Mazmur bagi Dawid. Yahweh, aku berseru kepada Engkau; segeralah kepadaku; pasanglah telinga kepada suaraku apabila aku berseru kepada Engkau.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "aku berseru kepada Engkau"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "apabila aku berseru"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:34.036872075Z",
+  "model": "glm-5.3"
+}

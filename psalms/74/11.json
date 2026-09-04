@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Mengapa Engkau menarik balik tangan-Mu, bahkan tangan kanan-Mu? Dari tengah pangkuan-Mu, habiskanlah ⟨mereka⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Engkau menarik balik"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "bahkan tangan kanan-Mu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "pangkuan-Mu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "habiskanlah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:50.887771564Z",
+  "model": "glm-5.3"
+}

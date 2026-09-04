@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Dia mengisar dengan kerikil gigiku, Dia menghempap aku dalam abu.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "Dan mengisar"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "dengan kerikil"
+    },
+    {
+      "surface": "שני",
+      "gloss": "gigiku"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "menghempap aku"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "dalam abu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:40.484027890Z",
+  "model": "glm-5.3"
+}

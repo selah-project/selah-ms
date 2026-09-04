@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Kohelet berusaha mencari kata-kata yang berkenan, dan yang tertulis ⟨ialah⟩ lurus — kata-kata kebenaran.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "berusaha mencari"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "mendapat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yang berkenan"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "dan yang tertulis"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kata"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:35.263541418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan ambillah dari sana sedikit, dalam bilangan, dan ikatlah ⟨את⟩ mereka dalam lipatan jubahmu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Dan ambillah"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam bilangan"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "dan ikatlah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "dalam lipatan jubahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:29:31.697561980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Jika kepada penghina Ia menghina, tetapi kepada orang-orang rendah hati Ia memberi kasih karunia.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "kepada penghina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "tetapi kepada orang-orang rendah hati"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ia memberi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:19.457793831Z",
+  "model": "glm-5.3"
+}

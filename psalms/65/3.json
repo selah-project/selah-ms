@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Pendengar doa, kepada-Mu segala daging akan datang.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Pendengar"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "akan datang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:17.834919844Z",
+  "model": "glm-5.3"
+}

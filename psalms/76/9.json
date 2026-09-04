@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Dari langit Engkau menjadikan penghakiman didengar; bumi takut dan diam.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Dari langit"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "Engkau menjadikan didengar"
+    },
+    {
+      "surface": "דין",
+      "gloss": "penghakiman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "takut"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "dan diam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:42.388977988Z",
+  "model": "glm-5.3"
+}

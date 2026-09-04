@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Lalu raja Babel memukul ⟨את⟩ mereka dan membunuh mereka di Rivla, di tanah Hamat; lalu Yahudah dibuang dari atas tanahnya.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lalu memukul"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "dan membunuh mereka"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "di Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "lalu dibuang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:05.400465722Z",
+  "model": "glm-5.3"
+}

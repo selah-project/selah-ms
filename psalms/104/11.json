@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Mereka memberi minum segala binatang padang; baghal-baghal liar menghilangkan dahaga mereka.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "mereka memberi minum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "mematahkan"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "baghal-baghal liar"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "dahaga mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:49.684917700Z",
+  "model": "glm-5.3"
+}

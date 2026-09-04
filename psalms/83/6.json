@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Sebab dengan hati mereka telah bermuafakat bersama-sama; terhadap Engkau mereka membuat perjanjian:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "mereka telah bermuafakat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "dengan hati"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadap Engkau"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "mereka membuat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.860355151Z",
+  "model": "glm-5.3"
+}

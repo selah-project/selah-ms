@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Kerana dalam-Ku ia berpaut, maka Aku akan melepaskannya; Aku akan meninggikannya, kerana ia mengenal nama-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "dalam-Ku"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ia berpaut (mengasihi)"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "maka Aku akan melepaskannya"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "Aku akan meninggikannya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ia mengenal"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:53.897558370Z",
+  "model": "glm-5.3"
+}

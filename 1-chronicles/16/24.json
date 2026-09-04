@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Ceritakanlah di antara bangsa-bangsa ⟨את⟩ kemuliaan-Nya, di antara segala umat keajaiban-keajaiban-Nya.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Ceritakanlah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan-Nya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antara segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "umat"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "keajaiban-keajaiban-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:22.518641178Z",
+  "model": "glm-5.3"
+}

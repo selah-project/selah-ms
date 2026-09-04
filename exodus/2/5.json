@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu turunlah batu Paroh untuk mandi di tepi sungai, dan budak-budak perempuannya berjalan di sepanjang tebing sungai itu; dan dilihatnya ⟨את⟩ petinya di tengah-tengah rumput gelagah, lalu dihantarnya ⟨את⟩ hamba perempuannya, dan diambilnya ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "lalu turunlah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "batu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "untuk mandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "dan budak-budak perempuannya"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sepanjang"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tebing"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "dan dilihatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "peti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "rumput gelagah"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "lalu dihantarnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba perempuannya"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "hamba perempuannya"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "dan diambilnya dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:05.104521697Z",
+  "model": "glm-5.3"
+}

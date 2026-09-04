@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan sekarang, suruhlah — segera — ⟨את⟩ ternakanmu dan ⟨את⟩ segala yang ada padamu di padang: setiap manusia dan haiwan yang dijumpai di padang dan tidak dikumpulkan ke rumah, hujan batu akan turun ke atas mereka dan mereka akan mati.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "suruhlah"
+    },
+    {
+      "surface": "העז",
+      "gloss": "segera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ternakanmu"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ternakanmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ada padamu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "dan haiwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "dijumpai"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "dikumpulkan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan akan turun"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ke atas mereka"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "hujan batu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dan mereka akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:22.676785473Z",
+  "model": "glm-5.3"
+}

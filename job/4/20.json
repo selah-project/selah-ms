@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dari pagi sampai petang mereka dilumatkan; tanpa ada yang memedulikan, selama-lamanya mereka binasa.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "Dari pagi"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sampai petang"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "mereka dilumatkan"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa ada"
+    },
+    {
+      "surface": "משים",
+      "gloss": "yang memedulikan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mereka binasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:11.414471443Z",
+  "model": "glm-5.3"
+}

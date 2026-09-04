@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Tetapi aku, dengan kelimpahan hesed-mu aku akan masuk ke rumahmu; aku akan sujud ke arah istana kudusmu dengan takut akan engkau.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dengan kelimpahan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-mu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku akan masuk"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ke rumahmu"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "aku akan sujud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kudusmu"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "dengan takut akan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:35.633873271Z",
+  "model": "glm-5.3"
+}

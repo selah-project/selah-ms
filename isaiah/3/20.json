@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "hiasan kepala, dan rantai-rantai buku lali, dan ikat-ikat pinggang, dan bekas-bekas bau-bauan, dan azimat-azimat;",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "hiasan kepala"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "dan rantai-rantai buku lali"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "dan ikat-ikat pinggang"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "dan bekas-bekas"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "bau-bauan"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "dan azimat-azimat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:39.854743626Z",
+  "model": "glm-5.3"
+}

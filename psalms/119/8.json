@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "⟨את⟩ ketetapan-ketetapan-Mu aku pelihara; jangan tinggalkan aku sampai sangat!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "aku pelihara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tinggalkan aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:44.616185387Z",
+  "model": "glm-5.3"
+}

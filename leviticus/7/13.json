@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Di atas kek leper roti beragi ia membawa dekat persembahannya, di atas sembelihan syukur damai-sejahteranya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "kek leper"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "beragi"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ia membawa dekat"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "persembahannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sembelihan"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "damai-sejahteranya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:18.770123331Z",
+  "model": "glm-5.3"
+}

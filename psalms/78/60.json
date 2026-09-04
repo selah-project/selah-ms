@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Maka Ia meninggalkan kediaman Syilo, khemah yang dibuat-Nya berdiam di antara manusia.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "maka Ia meninggalkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Syilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "berdiam"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "di antara manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:13.235766505Z",
+  "model": "glm-5.3"
+}

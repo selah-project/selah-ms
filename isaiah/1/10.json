@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dengarlah firman Yahweh, hai pemimpin Sedom; pasanglah telinga kepada Tora Elohim kita, hai umat Amora!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:51.630421932Z",
+  "model": "glm-5.3"
+}

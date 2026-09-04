@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Adakah takhta kebinasaan bersekutu dengan-Mu, yang membentuk kesusahan atas ketetapan?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Adakah bersekutu dengan-Mu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yang membentuk"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:49.857985208Z",
+  "model": "glm-5.3"
+}

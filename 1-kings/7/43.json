@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "dan ⟨את⟩ sepuluh mekonot itu, dan ⟨את⟩ sepuluh kiyor di atas mekonot itu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mekonot"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mekonot itu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kiyor"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "kiyor"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mekonot itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:31.260346421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan bagi rusuk kedua Kemah Pertemuan, bagi sisi utara, dua puluh papan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "dan bagi rusuk"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Kemah Pertemuan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "bagi sisi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:09.626952997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Hai orang-orang pekak, dengarlah! Dan hai orang-orang buta, pandanglah supaya melihat!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "hai orang-orang pekak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "dan hai orang-orang buta"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "pandanglah"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "supaya melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:37.596566186Z",
+  "model": "glm-5.3"
+}

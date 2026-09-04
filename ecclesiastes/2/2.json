@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Tentang ketawa aku berkata: gila; dan tentang kesukaan: apa yang dilakukannya?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Tentang ketawa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "gila"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "dan tentang kesukaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:40.438527297Z",
+  "model": "glm-5.3"
+}

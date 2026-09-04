@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan Aku akan membuat bandar-bandar kamu sunyi sepi, dan Aku akan memusnahkan tempat-tempat kudus kamu, dan Aku tidak akan menghidu bau persembahan yang menenangkan kamu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar-bandar kamu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "bandar-bandar kamu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "sunyi sepi"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "dan Aku akan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat-tempat kudus kamu"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "tempat-tempat kudus kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "akan Aku menghidu"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "persembahan yang menenangkan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:58.657586669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Inilah para pelayan yang melayani ⟨את⟩ raja, selain daripada yang ditempatkan raja di bandar-bandar berkubu di seluruh Yehuda.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "para pelayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "selain daripada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ditempatkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di bandar-bandar"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:19.262518201Z",
+  "model": "glm-5.3"
+}

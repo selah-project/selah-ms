@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan Aku akan menempatkan kediaman-Ku di tengah-tengah kamu, dan jiwa-Ku tidak akan membenci ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menempatkan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "kediaman-Ku"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "akan membenci \/ menjijikkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:32.365922082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Siapakah yang bekerja dan membuat, yang memanggil keturunan-keturunan dari mula? Akulah Yahweh, yang pertama, dan ⟨bersama⟩ ⟨את⟩ yang kemudian Akulah Dia.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "yang bekerja"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yang memanggil"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "keturunan-keturunan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "dari mula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang kemudian"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "yang kemudian"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:53.214875254Z",
+  "model": "glm-5.3"
+}

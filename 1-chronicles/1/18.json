@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Arpaksyad memperanakkan ⟨את⟩ Selah, dan Selah memperanakkan ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Dan Arpaksyad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dan Selah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:30.197993999Z",
+  "model": "glm-5.3"
+}

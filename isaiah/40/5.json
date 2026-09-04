@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan akan tersingkap kemuliaan Yahweh, dan semua daging akan melihatnya bersama-sama, kerana mulut Yahweh telah berfirman.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "dan akan tersingkap"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan akan melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:53.517759714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia mengumpulkan ⟨את⟩ segala pembesar Yisrael, serta para imam dan orang-orang Lewi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Dan ia mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala pembesar Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "serta para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dan orang-orang Lewi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:19.399875749Z",
+  "model": "glm-5.3"
+}

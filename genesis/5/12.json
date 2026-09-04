@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Kenan hidup tujuh puluh tahun, dan memperanakkan ⟨את⟩ Mahalalel (Mahalaleel).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:05.400131192Z",
+  "model": "glm-5.3"
+}

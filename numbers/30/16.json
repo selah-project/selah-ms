@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Tetapi jika ia membatalkan ⟨את⟩ mereka selepas ia mendengarnya, maka ia akan menanggung ⟨את⟩ kesalahannya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "membatalkan"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "membatalkannya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengarnya"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "maka ia akan menanggung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahannya"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kesalahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:41.291007257Z",
+  "model": "glm-5.3"
+}

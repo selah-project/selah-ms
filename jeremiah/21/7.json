@@ -1,0 +1,185 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 21:7",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan sesudah itu, demikianlah ucapan Yahweh, Aku akan menyerahkan ⟨את⟩ Tsidkiyahu raja Yehudah, dan ⟨את⟩ hamba-hambanya, dan ⟨את⟩ umat itu, dan ⟨את⟩ mereka yang tinggal di kota ini dari penyakit sampar, dari pedang, dan dari kelaparan, ke tangan Nebukadretsar raja Babel, dan ke tangan musuh mereka, dan ke tangan mereka yang mencari nyawa mereka; dan ia akan memukul mereka menurut mulut pedang — ia tidak akan berbelas kasihan terhadap mereka, dan tidak akan menyayangkan, dan tidak akan mengasihani.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "dan sesudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku akan menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu raja Yehudah"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mereka yang tinggal di kota ini"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "mereka yang tinggal"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "penyakit sampar itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang itu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan itu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "dan ke tangan"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "musuh mereka"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "dan ke tangan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mereka yang mencari"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "dan ia akan memukul mereka"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mulut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחוס",
+      "gloss": "akan berbelas kasihan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "akan menyayangkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "akan mengasihani"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:23.929986410Z",
+  "model": "glm-5.3"
+}

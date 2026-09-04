@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Inilah yang akan berdiri untuk memberkati ⟨את⟩ bangsa itu di atas Gunung Gerizim, ketika kamu menyeberangi ⟨את⟩ Yarden: Syimeon, dan Lewi, dan Yehuda, dan Yisaskar, dan Yosef, dan Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "yang akan berdiri"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "untuk memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Gunung"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ketika kamu menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Syimeon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "dan Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "dan Yisaskar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dan Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dan Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:04.412899520Z",
+  "model": "glm-5.3"
+}

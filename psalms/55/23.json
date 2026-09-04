@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Lemparkan bebanmu kepada Yahweh, dan Dia akan menanggungmu; Dia tidak akan membiarkan buat selama-lamanya orang benar tergoncang.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "Lemparkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "bebanmu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dia"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "akan menanggungmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan membiarkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "buat selama-lamanya"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "tergoncang"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "orang benar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:56.025594305Z",
+  "model": "glm-5.3"
+}

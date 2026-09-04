@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan mengguntur di langit Yahweh, dan Elyon memberi suara-Nya: batu es dan bara api.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "dan mengguntur"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "dan Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suara-Nya"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "batu es"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "dan bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:14.150612583Z",
+  "model": "glm-5.3"
+}

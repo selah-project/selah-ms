@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Berserulah bagi Yahweh, segala bumi; meletuslah dan bersoraklah, dan berzanilah.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Berserulah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "meletuslah"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "dan bersoraklah"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "dan berzanilah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:56.741534681Z",
+  "model": "glm-5.3"
+}

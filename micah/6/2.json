@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dengarlah, hai gunung-gunung, ⟨את⟩ perkarahan Yahweh, dan hai tunggul-tunggul tegar, asas-asas bumi; sebab perkarahan ada bagi Yahweh dengan umat-Nya, dan dengan Israel Dia akan berhujah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hai gunung-gunung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkarahan Yahweh"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "perkarahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "dan hai tunggul-tunggul tegar"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "asas-asas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "perkarahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "Dia akan berhujah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:36.383682355Z",
+  "model": "glm-5.3"
+}

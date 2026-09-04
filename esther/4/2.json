@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan datanglah dia sampai ke hadapan pintu gerbang raja itu, kerana tiada boleh masuk ke pintu gerbang raja dengan memakai kain karung.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Dan datanglah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "boleh masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "dengan memakai"
+    },
+    {
+      "surface": "שק",
+      "gloss": "kain karung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:39.864004096Z",
+  "model": "glm-5.3"
+}

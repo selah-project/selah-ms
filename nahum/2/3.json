@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab Yahweh telah memulihkan ⟨את⟩ keagungan Yaakov, seperti keagungan Yisrael, sebab pengosong-pengosong telah mengosongkan, dan dahan sulur mereka telah dirusakkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "telah memulihkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keagungan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "seperti keagungan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "telah mengosongkan"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "pengosong-pengosong"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "dan dahan sulur mereka"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "telah dirusakkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:51.765014159Z",
+  "model": "glm-5.3"
+}

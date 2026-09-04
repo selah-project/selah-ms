@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dia mengenyangkan aku dengan kepahitan, Dia membuat aku kenyang dengan hamtu.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "mengenyangkan aku"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "dengan kepahitan"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "membuat aku kenyang"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "dengan hamtu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:40.483857463Z",
+  "model": "glm-5.3"
+}

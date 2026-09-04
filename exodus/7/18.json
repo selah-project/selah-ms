@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan ikan yang ada di sungai itu akan mati, dan sungai itu akan berbau busuk, dan Mitsrayim akan susah payah minum air dari sungai itu.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "dan ikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "dan berbau busuk"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "dan akan susah payah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sungai itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:35.975208228Z",
+  "model": "glm-5.3"
+}

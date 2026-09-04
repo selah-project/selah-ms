@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu keluar seorang penduel dari kem-kem orang Filistin, Golyat namanya, dari Gat; tingginya enam hasta dan sejengkal.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Lalu keluar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "penduel"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "dari kem-kem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Filistin"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "dari Gat"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "dan sejengkal"
+    }
+  ],
+  "timestamp": "2026-09-04T15:48:18.361673133Z",
+  "model": "glm-5.3"
+}

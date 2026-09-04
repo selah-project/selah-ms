@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Tetapi sejauh mereka menindas ⟨את⟩nya, demikianlah ia berbilang-banyak dan demikianlah ia membiak; maka mereka berasa jijik kerana anak-anak Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "tetapi sejauh"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mereka menindas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia (Yisrael)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ia berbilang-banyak"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "dan demikianlah"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ia membiak"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "maka mereka berasa jijik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:59.925922223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Sepanjang hari musuh-musuhku mencela aku; mereka yang mengamuk terhadapku bersumpah atas aku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mencela aku"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "mereka yang mengamuk terhadapku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "atas aku"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "bersumpah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:42.925232377Z",
+  "model": "glm-5.3"
+}

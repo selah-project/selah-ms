@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Lalu mereka menangkap ⟨את⟩ raja itu, dan membawa ⟨את⟩ dia menghadap raja Babel di Rivla; dan mereka menjatuhkan ⟨את⟩ hukuman ke atasnya.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "menangkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "menghadap raja Babel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "di Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "menjatuhkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hukuman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuman"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:18.893806413Z",
+  "model": "glm-5.3"
+}

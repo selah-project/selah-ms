@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Kerana telinga mendengar dan terus mengurniakan berkat kepadaku, dan mata melihat dan terus bersaksi bagiku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "terus mengurniakan berkat kepadaku"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "dan mata"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "terus bersaksi bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:09.033532473Z",
+  "model": "glm-5.3"
+}

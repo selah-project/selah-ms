@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Umat-Mu, Yahweh, mereka remukkan, dan milik pusaka-Mu mereka tindas.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "mereka remukkan"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "dan milik pusaka-Mu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mereka tindas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:43.337752634Z",
+  "model": "glm-5.3"
+}

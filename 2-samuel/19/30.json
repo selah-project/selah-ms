@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu berkatalah raja kepadanya, \"Mengapa engkau bercakap lagi tentang perkaramu? Aku telah berkata: engkau dan Tsiba membahagi tanah itu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "engkau bercakap"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkaramu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku telah berkata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "dan Tsiba"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "kamu berdua membahagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:29.190310427Z",
+  "model": "glm-5.3"
+}

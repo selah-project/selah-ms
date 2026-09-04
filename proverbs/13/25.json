@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Orang benar makan sehingga kenyang nafsunya, tetapi perut orang-orang jahat kekurangan.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sehingga kenyang"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nafsunya"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "tetapi perut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "kekurangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:37.877787989Z",
+  "model": "glm-5.3"
+}

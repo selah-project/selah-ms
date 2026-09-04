@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dan di hadapan bilik-bilik itu satu laluan selebar sepuluh hasta ke arah bahagian dalam, jalan sehasta, dan pintu-pintu mereka ke arah utara.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "bilik-bilik itu"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "laluan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "selebar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "bahagian dalam"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "dan pintu-pintu mereka"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ke arah utara"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:26.517514364Z",
+  "model": "glm-5.3"
+}

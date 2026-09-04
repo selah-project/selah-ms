@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Di hadapannya bumi bergoncang, bergoyang langit, menjadi gelap matahari dan bulan, dan bintang-bintang menarik kembali kilauan mereka.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapannya"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "bergoncang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "bergoyang"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "menjadi gelap"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "menarik kembali"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "kilauan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:58.254373913Z",
+  "model": "glm-5.3"
+}

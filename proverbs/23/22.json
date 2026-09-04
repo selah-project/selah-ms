@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dengarlah kepada bapa ⟨engkau⟩ yang melahirkan ⟨engkau⟩, dan jangan memandang hina, sebab sudah tua ibu ⟨engkau⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "kepada bapa ⟨engkau⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "melahirkan ⟨engkau⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "memandang hina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "sudah tua"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibu ⟨engkau⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:31.934132105Z",
+  "model": "glm-5.3"
+}

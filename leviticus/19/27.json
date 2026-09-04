@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Jangan kamu memotong sudut kepala kamu, dan jangan merosakkan ⟨את⟩ sudut janggutmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kamu memotong"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sudut"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "kepala kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "merosakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sudut janggutmu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sudut"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "janggutmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:14.952588745Z",
+  "model": "glm-5.3"
+}

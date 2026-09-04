@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Mereka tidak boleh diam di negerimu, supaya jangan mereka membuat engkau berdosa ⟨kepada⟩-Ku, kerana engkau akan beribadah ⟨את⟩ tuhan-tuhan mereka, kerana ia akan menjadi perangkap bagimu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "mereka diam"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di negerimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "mereka membuat berdosa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau akan beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "perangkap"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:00.137577354Z",
+  "model": "glm-5.3"
+}

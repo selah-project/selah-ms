@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Lalu menjawab Yosef ⟨את⟩ Paroh, katanya: \"Bukan kerana aku; Elohim yang akan menjawab ⟨את⟩ kesejahteraan Paroh.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawab"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "bukan kerana aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "yang akan menjawab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesejahteraan Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:57.711252302Z",
+  "model": "glm-5.3"
+}

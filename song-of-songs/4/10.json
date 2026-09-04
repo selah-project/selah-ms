@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Betapa indah kasihmu, saudariku, pengantinku! Betapa baik kasihmu melebihi anggur, dan bau minyakmu melebihi segala bumbu-bumbu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "indah"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "kasihmu"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudariku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantinku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "baik"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "kasihmu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "melebihi anggur"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "dan bau"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "minyakmu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi segala"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bumbu-bumbu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:52.679433379Z",
+  "model": "glm-5.3"
+}

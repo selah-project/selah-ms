@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab sepuluh petak kebun anggur akan menghasilkan satu bat, dan satu khomer benih akan menghasilkan satu efa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "petak (sepasang lembu)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "akan menghasilkan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "satu bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "dan benih"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "khomer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan menghasilkan"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:23.832218142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Sebab ⟨Dia⟩ merendahkan penduduk tempat tinggi, kota yang terlalu tinggi; Dia merendahkannya, merendahkannya sampai ke bumi, menjatuhkannya sampai ke debu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "השח",
+      "gloss": "merendahkan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "tempat tinggi"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "yang terlalu tinggi"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "Dia merendahkannya"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "merendahkannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "menjatuhkannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:22.200486913Z",
+  "model": "glm-5.3"
+}

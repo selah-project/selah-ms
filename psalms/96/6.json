@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Semarak dan keluhuran di hadapan-Nya; kekuaatan dan keindahan di tempat kudus-Nya.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Semarak"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan keluhuran"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuaatan"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "dan keindahan"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "di tempat kudus-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:52.242690721Z",
+  "model": "glm-5.3"
+}

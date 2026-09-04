@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Apabila engkau duduk untuk makan bersama ⟨את⟩ pemerintah, fahamilah dengan teliti ⟨את⟩ apa yang di hadapanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "engkau duduk"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "untuk makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemerintah"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "pemerintah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fahamilah"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "dengan teliti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang di hadapanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:00.481610583Z",
+  "model": "glm-5.3"
+}

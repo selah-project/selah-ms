@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Aku mengenakan kepada langit kegelapan, dan kain kasut sebagai tudung mereka.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Aku mengenakan kepada"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "dan kain kasut"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "aku menjadikan"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "sebagai tudung mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:54.980807576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Bukankah Engkau Elohim kami? Engkau telah menghalau penduduk tanah ini dari hadapan umat-Mu Israel, dan memberikannya kepada zuriat Avraham, yang mengasihi-Mu, untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "Engkau telah menghalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk tanah ini"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kepada zuriat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "yang mengasihi-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:09:53.912772342Z",
+  "model": "glm-5.3"
+}

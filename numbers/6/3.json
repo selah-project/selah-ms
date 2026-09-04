@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dari wain dan arak ia akan menahan diri; cuka wain dan cuka arak tidak akan ia minum, dan segala air perahan anggur tidak akan ia minum; dan anggur segar serta yang kering tidak akan ia makan.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "dari wain"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "dan arak"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "ia akan menahan diri"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "cuka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "dan cuka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "arak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "akan ia minum"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "air perahan"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "akan ia minum"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "segar"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "serta yang kering"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akan ia makan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:44.952174931Z",
+  "model": "glm-5.3"
+}

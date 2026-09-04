@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "dan aku pulang dengan selamat ke rumah bapaku, maka Yahweh akan ⟨menjadi⟩ Elohim bagiku",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "dan aku pulang"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dengan selamat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapaku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka akan menjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:44.222024756Z",
+  "model": "glm-5.3"
+}

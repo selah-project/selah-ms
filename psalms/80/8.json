@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, pulihkanlah kami, dan buatlah wajah-Mu bercahaya, maka kami akan diselamatkan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "pulihkanlah kami"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "dan buatlah bercahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "maka kami akan diselamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:37.327820909Z",
+  "model": "glm-5.3"
+}

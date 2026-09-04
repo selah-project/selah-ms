@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan Zikhri, seorang pahlawan Efrayim, membunuh ⟨את⟩ Maaseyahu bin raja, dan ⟨את⟩ Azrikam, ketua istana, dan ⟨את⟩ Elkanah, orang kedua kepada raja.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "dan membunuh"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "istana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "orang kedua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kepada raja"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:13.456261224Z",
+  "model": "glm-5.3"
+}

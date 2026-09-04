@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan pedang berpusar di kotanya, dan membinasakan palang-palang pintunya, dan memakan ⟨kerana⟩ rancangan-rancangan mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "berpusar"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "di kotanya"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "membinasakan"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palang-palang pintunya"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "dari rancangan-rancangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:00.379298312Z",
+  "model": "glm-5.3"
+}

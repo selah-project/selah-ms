@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan terjadilah, ketika mereka masuk, ia melihat ⟨את⟩ Eliav, dan berkata: Sungguh, di hadapan Yahweh Mashiah-Nya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ketika mereka masuk"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ia melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:45.576083438Z",
+  "model": "glm-5.3"
+}

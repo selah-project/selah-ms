@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Untuk pemimpin ⟨muzik⟩, mengenai Yedutun, bagi Asaf, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:13.647985044Z",
+  "model": "glm-5.3"
+}

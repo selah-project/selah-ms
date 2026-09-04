@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan Dibawa-Nya keluar umat-Nya seperti kawanan biri-biri, dan Dibimbing-Nya mereka seperti kawanan di padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Dan Dibawa-Nya keluar"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "seperti kawanan biri-biri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "dan Dibimbing-Nya mereka"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "seperti kawanan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:33.910272266Z",
+  "model": "glm-5.3"
+}

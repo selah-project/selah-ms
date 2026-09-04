@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan hak melihat imam itu, dan lihat, tsaraat itu telah menutup ⟨את⟩ segala dagingnya, maka imam menghalalkan ⟨את⟩ nagua itu; segalanya berubah menjadi putih — bersih dia.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "telah menutup"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala dagingnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "maka menghalalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagua itu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nagua itu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "berubah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "menjadi putih"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:22.240167213Z",
+  "model": "glm-5.3"
+}

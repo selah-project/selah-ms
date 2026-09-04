@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Pergi, dan katakanlah kepada Hizkiyahu: Beginilah firman Yahweh, Elohim Daud, bapamu: Aku telah mendengar ⟨את⟩ doamu, aku telah melihat ⟨את⟩ air matamu; sesungguhnya Aku menambah atas hari-harimu lima belas tahun.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Pergi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dan katakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapamu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doamu"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "doamu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air matamu"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "air matamu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sesungguhnya Aku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "menambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:58.518198861Z",
+  "model": "glm-5.3"
+}

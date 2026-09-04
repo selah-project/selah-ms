@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Kauturut ⟨את⟩ meja di hadapaniku, berhadapan dengan lawanku; Kaulumur dengan minyak ⟨את⟩ kepalaku; pialaku penuh melimpah.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Kauturut"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapaniku"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "berhadapan dengan"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "lawanku"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "Kaulumur"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepalaku"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "pialaku"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "penuh melimpah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:43.454356716Z",
+  "model": "glm-5.3"
+}

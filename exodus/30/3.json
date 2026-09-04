@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan engkau akan menyadurkannya ⟨את⟩nya dengan emas tulen: ⟨את⟩ bumbungnya, dan ⟨את⟩ dinding-dindingnya sekeliling, dan ⟨את⟩ tanduk-tanduknya; dan engkau akan membuat baginya lingkar emas sekeliling.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Dan engkau akan menyadurkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia (mezbah itu)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumbungnya"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "bumbungnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dinding-dindingnya"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "dinding-dindingnya"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanduk-tanduknya"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tanduk-tanduknya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "lingkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:08.371386473Z",
+  "model": "glm-5.3"
+}

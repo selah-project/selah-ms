@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Pada hari itu Aku akan mendirikan ⟨את⟩ sukah Dawid yang telah runtuh, dan Aku akan menutup ⟨את⟩ pecahannya, dan reruntuhannya akan Aku dirikan, dan Aku akan membina semula dia seperti hari-hari zaman silam.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "Aku akan mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukah Dawid"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "sukah"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "yang telah runtuh"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "dan Aku akan menutup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pecahannya"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "pecahannya"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "dan reruntuhannya"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "akan Aku dirikan"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "dan Aku akan membina semula dia"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "seperti hari-hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zaman silam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:24.418272590Z",
+  "model": "glm-5.3"
+}

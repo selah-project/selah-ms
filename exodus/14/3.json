@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Maka Paroh akan berkata tentang bani Israel: Mereka tersepit di negeri ini, padang belantara telah menutup mereka.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tentang bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "tersepit"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "menutup"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang belantara"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:12.523311591Z",
+  "model": "glm-5.3"
+}

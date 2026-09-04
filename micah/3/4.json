@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka mereka akan menjerit kepada Yahweh, tetapi Ia tidak akan menjawab ⟨את⟩ mereka; Ia akan menyembunyikan wajah-Nya dari mereka pada waktu itu, sebagaimana mereka telah berbuat jahat dalam perbuatan-perbuatan mereka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "mereka akan menjerit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "Ia akan menjawab"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (objek 'menjawab')"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "Ia akan menyembunyikan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajah-Nya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dari mereka"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "mereka telah berbuat jahat"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "perbuatan-perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:27.143675044Z",
+  "model": "glm-5.3"
+}

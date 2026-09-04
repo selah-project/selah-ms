@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Juga Asyur bergabung dengan mereka; mereka menjadi lengan ⟨bagi⟩ bani Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "bergabung"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mereka menjadi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:28.772364773Z",
+  "model": "glm-5.3"
+}

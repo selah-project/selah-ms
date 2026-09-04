@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Aku menyelamatkan kamu dari tangan Mitsrayim dan dari tangan semua penindas kamu, dan Aku menghalau mereka dari hadapan kamu, dan Aku memberikan kepada kamu ⟨את⟩ tanah mereka",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "dan Aku menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "dari tangan Mitsrayim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "penindas kamu"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "dan Aku menghalau"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "dari hadapan kamu"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari hadapan kamu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dan Aku memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:06:19.768230750Z",
+  "model": "glm-5.3"
+}

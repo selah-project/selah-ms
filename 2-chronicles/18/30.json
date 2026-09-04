@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Raja Aram telah memerintahkan ⟨את⟩ para panglima kereta yang bersamanya, katanya: Jangan kamu berperang ⟨את⟩ yang kecil mahupun ⟨את⟩ yang besar, melainkan ⟨את⟩ raja Yisrael seorang sahaja.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Dan raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "telah memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para panglima kereta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para panglima"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kamu berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang kecil"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yang kecil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang besar"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kecuali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seorang sahaja"
+    }
+  ],
+  "timestamp": "2026-09-04T15:09:55.681223743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Sumpah-serapah mulutnya penuh, dan tipu daya dan penipuan; di bawah lidahnya kesusahan dan kejahatan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sumpah-serapah"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "dan tipu daya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "dan penipuan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lidahnya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "dan kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:17.243106430Z",
+  "model": "glm-5.3"
+}

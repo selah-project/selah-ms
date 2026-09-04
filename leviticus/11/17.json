@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan ⟨את⟩ burung kos, dan ⟨את⟩ burung syalakh, dan ⟨את⟩ burung yansyuf",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "burung kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung syalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "burung syalakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "burung yansyuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "burung yansyuf"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:57.932095125Z",
+  "model": "glm-5.3"
+}

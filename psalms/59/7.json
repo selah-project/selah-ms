@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Mereka kembali pada waktu senja, menggonggong seperti anjing, dan berkeliling kota.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mereka kembali"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "menggonggong"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "seperti anjing"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "dan berkeliling"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:14.621657629Z",
+  "model": "glm-5.3"
+}

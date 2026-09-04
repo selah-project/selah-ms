@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Adapun lelaki itu, Moshe, sangatlah rendah hati, lebih daripada semua manusia yang di atas muka bumi itu.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Adapun lelaki itu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "rendah hati"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangatlah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lebih daripada semua"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:39:02.870750969Z",
+  "model": "glm-5.3"
+}

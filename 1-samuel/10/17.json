@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu Syemuel memanggil ⟨את⟩ umat itu kepada Yahweh di ha-Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "di ha-Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:43.697143446Z",
+  "model": "glm-5.3"
+}

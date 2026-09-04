@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan beratung atasnya kayu araz, di atas bilik-bilik sisi yang di atas keempat puluh lima tiang itu, lima belas setiap deret.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "Dan beratung"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "kayu araz"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "bilik-bilik sisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "deret"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:10.384459032Z",
+  "model": "glm-5.3"
+}

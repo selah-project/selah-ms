@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Ia menghantar ke atas mereka kebaraan hidung-Nya, kebuasan dan kegeraman dan kesusahan, penghantaran utusan-utusan kejahatan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ia menghantar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ke atas mereka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "kebaraan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hidung-Nya"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "kebuasan"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "dan kegeraman"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "dan kesusahan"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "penghantaran"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:33.909704340Z",
+  "model": "glm-5.3"
+}

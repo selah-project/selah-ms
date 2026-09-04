@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "dan telah melemparkan ⟨את⟩ tuhan-tuhan mereka ke dalam api, kerana bukan tuhan mereka itu, melainkan buatan tangan manusia, kayu dan batu; maka dimusnahkan mereka itu.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dan telah melemparkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan-tuhan mereka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke dalam api"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "maka dimusnahkan mereka itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:09.669475762Z",
+  "model": "glm-5.3"
+}

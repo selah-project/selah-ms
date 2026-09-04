@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Aku akan menguduskan ⟨את⟩ Khemah Perjumpaan dan ⟨את⟩ mazbah itu, dan ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya Aku kuduskan untuk menjadi imam bagi-Ku.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "dan Aku akan menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khemah Perjumpaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Perjumpaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mazbah itu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "Aku kuduskan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuk menjadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:09.466703803Z",
+  "model": "glm-5.3"
+}

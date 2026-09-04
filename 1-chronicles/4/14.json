@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Meonotai memperanakkan ⟨את⟩ Oferah; dan Serayah memperanakkan ⟨את⟩ Yoab, bapa Ge-Harasyim, kerana mereka tukang-tukang.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "dan Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oferah"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Oferah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "dan Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Ge (lembah)"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Harasyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "tukang-tukang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mereka adalah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:57.907516084Z",
+  "model": "glm-5.3"
+}

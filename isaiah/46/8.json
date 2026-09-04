@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Ingatlah akan ini, dan teguhlah; kembalilah, hai pemberontak, kepada hati!",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "akan ini"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "dan teguhlah"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "hai pemberontak"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:13.851683961Z",
+  "model": "glm-5.3"
+}

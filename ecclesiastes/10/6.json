@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "kebodohan diletakkan di tempat-tempat tinggi yang banyak, sedangkan orang kaya duduk di tempat rendah.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "diletakkan"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "di tempat-tempat tinggi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "sedangkan orang kaya"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "di tempat rendah"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "duduk"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:23.548110934Z",
+  "model": "glm-5.3"
+}

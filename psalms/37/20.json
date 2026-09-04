@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Sebab orang-orang fasik akan binasa, dan musuh-musuh Yahweh seperti kegemukan anak-anak domba — habis lenyap, dalam asap habis lenyap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "dan musuh-musuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "seperti kegemukan"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "anak-anak domba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis lenyap"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "dalam asap"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis lenyap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:15.464290419Z",
+  "model": "glm-5.3"
+}

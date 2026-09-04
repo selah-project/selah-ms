@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Yoram beristirahat bersama bapa-bapanya, dan dikuburkan bersama bapa-bapanya di Kota Dawid; maka Ahaziahu anaknya memerintah menggantikannya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "beristirahat"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dikuburkan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di Kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:02.182127978Z",
+  "model": "glm-5.3"
+}

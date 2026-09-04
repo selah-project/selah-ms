@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Tunjukkanlah jalan-Mu kepadaku dalam kebenaran-Mu, dan ajarlah aku, sebab Engkaulah Elohim keselamatan-ku; kepada-Mu aku menunggu sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Tunjukkanlah jalan kepadaku"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "dan ajarlah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatan-ku"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kepada-Mu",
+      "marks": "kepada-Mu (objek penantian)"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "aku menunggu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:00.234249872Z",
+  "model": "glm-5.3"
+}

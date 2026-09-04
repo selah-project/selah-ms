@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Anak domba yang satu engkau buat pada waktu pagi, dan anak domba yang kedua engkau buat di antara dua petang.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba yang satu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak domba yang kedua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dua petang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:18.923729736Z",
+  "model": "glm-5.3"
+}

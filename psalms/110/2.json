@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 110,
+  "translation": "Tongkat kuasa-mu dihantar Yahweh dari Tsyion: berkuasalah di tengah musuh-mu.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Tongkat"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kuasa-mu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "dihantar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsyion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "berkuasalah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-mu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:18.162084947Z",
+  "model": "glm-5.3"
+}

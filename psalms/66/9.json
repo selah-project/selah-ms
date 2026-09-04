@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "yang menempatkan nyawa kami dalam kehidupan dan tidak memberi kakinya tergelincir",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "yang menempatkan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nyawa kami"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "dalam kehidupan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "kaki kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:35.770195407Z",
+  "model": "glm-5.3"
+}

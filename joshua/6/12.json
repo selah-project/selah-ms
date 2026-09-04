@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu bangunlah Yehosua pagi-pagi, dan para imam mengangkat ⟨את⟩ aron Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "lalu bangunlah"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi-pagi"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:26.487933583Z",
+  "model": "glm-5.3"
+}

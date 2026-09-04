@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Yahweh berfirman kepada Moshe, kata-Nya:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:40.910450497Z",
+  "model": "glm-5.3"
+}

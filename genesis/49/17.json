@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Jadilah Dan ular di jalan, ular tedung di laluan, yang menggigit tumit kuda, sehingga penunggangnya jatuh ke belakang.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שפיפון",
+      "gloss": "ular tedung"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "laluan"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "yang menggigit"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "tumit"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "sehingga jatuh"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "penunggangnya"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:33.745670745Z",
+  "model": "glm-5.3"
+}

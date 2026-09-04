@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Dan puteri Tsor dengan persembahan — wajahmu akan dipujuk oleh orang-orang kaya ⟨dari⟩ bangsa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Dan puteri"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "dengan persembahan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "akan dipujuk"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "orang-orang kaya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:46.687876274Z",
+  "model": "glm-5.3"
+}

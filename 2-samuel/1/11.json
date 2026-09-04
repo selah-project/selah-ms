@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka David mencenggam pakaiannya dan merobeknya, dan juga segala orang yang ⟨את⟩ bersama dia.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Maka mencengkam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "dan merobeknya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersama dia",
+      "marks": "segala orang yang bersama dia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:33.664556246Z",
+  "model": "glm-5.3"
+}

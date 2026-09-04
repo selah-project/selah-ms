@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Perhatikanlah aku dan jawablah aku; aku mengembara dalam keluhanku dan aku merengek.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Perhatikanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dan jawablah aku"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "aku mengembara"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dalam keluhanku"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "dan aku merengek"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:00.385826599Z",
+  "model": "glm-5.3"
+}

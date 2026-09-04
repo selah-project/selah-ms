@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Mata yang memandangnya tidak akan ⟨menambah pandangan⟩, dan tempatnya tidak akan memandangnya lagi.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "yang memandangnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "akan menambah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "memandangnya"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:38.010724190Z",
+  "model": "glm-5.3"
+}

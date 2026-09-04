@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan mereka memberi minum ayah mereka ⟨את⟩ wain pada malam itu, maka masuklah anak sulung itu dan berbaring dengan ayahnya ⟨את⟩, dan ia tidak tahu pada waktu ia berbaring mahupun pada waktu ia bangun.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "dan mereka memberi minum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayah mereka"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dan masuklah"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "anak sulung itu"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "dan berbaring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "pada waktu ia berbaring"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "dan pada waktu ia bangun"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:43.381276773Z",
+  "model": "glm-5.3"
+}

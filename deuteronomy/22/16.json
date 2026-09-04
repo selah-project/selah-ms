@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "dan bapa gadis itu berkata kepada para tua itu: ⟨את⟩ anak perempuanku aku berikan kepada lelaki ini sebagai isteri, dan ia membencinya —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para tua itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak perempuanku"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anak perempuanku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku berikan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada lelaki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sebagai isteri"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "dan ia membencinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:45.487900028Z",
+  "model": "glm-5.3"
+}

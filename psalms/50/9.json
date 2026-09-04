@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Tidak Aku mengambil dari rumahmu lembu jantan, dari kandang-kandangmu kambing-kambing jantan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Aku mengambil"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "dari rumahmu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu jantan"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "dari kandang-kandangmu"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kambing-kambing jantan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:35.423811556Z",
+  "model": "glm-5.3"
+}

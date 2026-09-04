@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan berkatalah Paroh: Lihat, banyak sekarang bangsa negeri ⟨itu⟩, dan kamu menghentikan ⟨את⟩ mereka dari beban-beban mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri ⟨itu⟩"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "dan kamu menghentikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (dari beban-beban mereka)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "dari beban-beban mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:28.077164832Z",
+  "model": "glm-5.3"
+}

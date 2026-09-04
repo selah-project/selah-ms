@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Lalu mereka memberikan kepada Yaakov ⟨את⟩ semua tuhan-tuhan asing yang ada di tangan mereka, dan ⟨את⟩ anting-anting yang ada di telinga mereka; dan Yaakov menyembunyikan mereka di bawah pokok terentina yang berdekatan Syekhem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Lalu mereka memberikan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua tuhan-tuhan asing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ada di tangan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anting-anting"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "anting-anting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ada di telinga mereka"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "dan menyembunyikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "pokok terentina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "berdekatan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekhem"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:34.793273697Z",
+  "model": "glm-5.3"
+}

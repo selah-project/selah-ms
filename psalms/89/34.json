@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Tetapi hesed aku tidak akan kupatahkan daripadanya, dan tidak akan aku menipu dalam kesetiaan aku.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "tetapi hesed aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "akan kupatahkan"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "akan aku menipu"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "dalam kesetiaan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:57.063208446Z",
+  "model": "glm-5.3"
+}

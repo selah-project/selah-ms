@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Tetapi aku ini miskin dan berduka; keselamatan-Mu, ya Elohim, akan meninggikan aku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "dan berduka"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "keselamatan-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "akan meninggikan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:07.290625832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Bertambah-tambahlah kesakitan mereka yang bergegas mengikuti allah lain; aku tidak akan menuangkan persembahan tumpahan mereka dari darah, dan aku tidak akan menyebut ⟨את⟩ nama-nama mereka di atas bibirku.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "bertambah-tambahlah"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "kesakitan mereka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "mereka bergegas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "aku akan menuangkan"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "persembahan tumpahan mereka"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku akan menyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-nama mereka"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "nama-nama mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:27.046802543Z",
+  "model": "glm-5.3"
+}

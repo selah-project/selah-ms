@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 133,
+  "translation": "Seperti embun Hermon yang mengalir turun ke atas gunung-gunung Tsiyon, sebab di sana Yahweh memerintah ⟨את⟩ berkat — kehidupan sampai selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Seperti embun"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yang mengalir turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkat"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:32.916736747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan Novah pergi lalu menawan ⟨את⟩ Kenat dan ⟨את⟩ kampung-kampungnya, dan ia menamakannya Novah menurut namanya.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Dan Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "lalu menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kampung-kampungnya"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampung-kampungnya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia menamakan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ia"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "menurut namanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:32.129576594Z",
+  "model": "glm-5.3"
+}

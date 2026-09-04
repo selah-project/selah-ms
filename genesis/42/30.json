@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Lelaki itu, tuan negeri itu, berbicara dengan kami dengan keras, dan dia menjadikan kami seperti pengintip ⟨את⟩ negeri itu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "dengan ⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "dengan keras"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan dia menjadikan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami seperti pengintip"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "seperti pengintip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:00.333566798Z",
+  "model": "glm-5.3"
+}

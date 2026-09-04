@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim bapa-bapa kamu, menambah atas kamu seperti kamu seribu kali ganda, dan memberkati ⟨את⟩ kamu, seperti yang Ia firmankan kepada kamu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "menambah"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "seperti kamu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ia firmankan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:57.982016324Z",
+  "model": "glm-5.3"
+}

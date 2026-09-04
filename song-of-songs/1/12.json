@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sementara raja ⟨duduk⟩ di singgahsananya, naradku memberi baunya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sementara"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "di singgahsananya"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "naradku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "baunya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:39.115282392Z",
+  "model": "glm-5.3"
+}

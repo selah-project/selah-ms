@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Atas daging manusia tidak akan dituang, dan menurut takarannya jangan kamu buat yang serupa dengannya; kuduslah ia, kudus ia akan menjadi bagi kamu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "akan dituang"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "dan menurut takarannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "yang serupa dengannya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah ia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:32.009502815Z",
+  "model": "glm-5.3"
+}

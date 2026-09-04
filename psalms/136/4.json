@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "Kepada Yang membuat keajaiban besar, seorang diri, sebab sampai selamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kepada Yang membuat"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "keajaiban"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "besar"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seorang diri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.260209022Z",
+  "model": "glm-5.3"
+}

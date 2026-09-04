@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku mewarisi edot-Mu untuk selama-lamanya, kerana ⟨itulah⟩ kegembiraan jantung hatiku.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "aku mewarisi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "edot-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "jantung hatiku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨itulah⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:24.486790634Z",
+  "model": "glm-5.3"
+}

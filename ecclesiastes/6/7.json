@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Segala usaha manusia untuk mulutnya, namun juga nefesy tidak akan dipenuhi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "usaha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "untuk mulutnya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "namun juga"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "akan dipenuhi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:43.331240858Z",
+  "model": "glm-5.3"
+}

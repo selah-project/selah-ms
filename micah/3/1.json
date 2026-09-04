@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan aku berkata: Dengarlah kiranya, kepala-kepala Yaakov, dan pemimpin-pemimpin bait Yisrael — bukankah bagi kamu untuk mengetahui ⟨את⟩ keadilan?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan aku berkata"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "dan pemimpin-pemimpin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadilan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:27.143040483Z",
+  "model": "glm-5.3"
+}

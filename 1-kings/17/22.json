@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan Yahweh mendengar suara Eliyahu, lalu kembalilah nyawa kanak-kanak itu ke dalam dirinya, dan ia hidup.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "lalu kembalilah"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "kanak-kanak itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "dirinya"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dan ia hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:20.850166423Z",
+  "model": "glm-5.3"
+}

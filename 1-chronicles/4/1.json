@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Bani Yehuda: Perets, Chetsron, Karmi, Chur, dan Syobal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "dan Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "dan Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "dan Syobal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:59.226744915Z",
+  "model": "glm-5.3"
+}

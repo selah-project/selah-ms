@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan pintu-pintu tertutup di jalanan, ketika suara penggilingan menjadi rendah, dan seseorang bangun pada suara burung, dan segala anak perempuan nyanyian ditundukkan,",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "dan tertutup"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "di jalanan"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ketika menjadi rendah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "penggilingan"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "dan bangun"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pada suara"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "burung"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "dan ditundukkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:35.739323845Z",
+  "model": "glm-5.3"
+}

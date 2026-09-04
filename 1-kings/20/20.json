@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan mereka memukul masing-masing lawannya, lalu Aram melarikan diri, dan Yisrael mengejar mereka; dan Ben-Hadad raja Aram terlepas atas kuda bersama penunggang-penunggang kuda.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masing-masing"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "lawannya"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "lalu melarikan diri"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "dan mengejar mereka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dan terlepas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "bersama penunggang-penunggang kuda"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:24.028640331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 123,
+  "translation": "Kasihanilah kami, Yahweh, kasihanilah kami, kerana terlampau kenyang kami dengan penghinaan.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Kasihanilah kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "kasihanilah kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "terlampau"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "kenyang kami"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "dengan penghinaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:46.024807973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Berharga di mata Yahweh ⟨ialah⟩ kematian bagi yang setia kepada-Nya.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Berharga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "bagi yang setia kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:43.601409966Z",
+  "model": "glm-5.3"
+}

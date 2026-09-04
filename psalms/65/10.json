@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Engkau melawat bumi dan mengairinya; berlimpah-limpah Engkau memperkayanya; parit Elohim penuh air; Engkau menyediakan biji-bijian mereka, kerana demikianlah Engkau menyediakannya.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Engkau melawat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "dan mengairinya"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "berlimpah-limpah"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "Engkau memperkayanya"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "parit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Engkau menyediakan"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "biji-bijian mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "Engkau menyediakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:49.956992948Z",
+  "model": "glm-5.3"
+}

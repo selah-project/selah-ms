@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Balak bin Tsipor melihat ⟨את⟩ segala yang telah dilakukan Israel kepada orang Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan ... melihat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dilakukan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kepada orang Emori"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:55.126697780Z",
+  "model": "glm-5.3"
+}

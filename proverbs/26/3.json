@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Cambuk bagi kuda, kekang bagi keldai, dan rotan bagi belakang orang-orang bodoh.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "Cambuk"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "bagi kuda"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "kekang"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "bagi keldai"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "dan rotan"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "bagi belakang"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:15.787586973Z",
+  "model": "glm-5.3"
+}

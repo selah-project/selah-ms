@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Mereka membahagikan pakaianku kepada diri mereka, dan atas pakaianku mereka menjatuhkan undi.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "Mereka membahagikan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaianku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada diri mereka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "pakaianku"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "mereka menjatuhkan"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:35.152629911Z",
+  "model": "glm-5.3"
+}

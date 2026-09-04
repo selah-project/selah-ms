@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Sebab abu seperti roti telah aku makan, dan minumanku dengan tangisan telah kuadunkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "seperti roti"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "telah aku makan"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "dan minumanku"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "dengan tangisan"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "telah kuadunkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:42.925445480Z",
+  "model": "glm-5.3"
+}

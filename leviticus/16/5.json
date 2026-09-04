@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan daripada ⟨את⟩ jemaah bani Israel ia akan mengambil dua ekor kambing jantan bagi korban dosa (chatat), dan seekor domba jantan bagi korban bakaran (ola).",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "dan daripada ⟨את⟩",
+      "marks": "jemaah bani Israel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ia akan mengambil"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "kambing jantan"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bagi korban dosa"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan domba jantan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seekor"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bagi korban bakaran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:14.296478602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Lalu mereka menyediakan ⟨את⟩ hadiah itu sehingga kedatangan Yosef pada tengah hari, kerana mereka telah mendengar bahawa di sana mereka akan makan roti.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "lalu mereka menyediakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadiah itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadiah itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kedatangan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "pada tengah hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka telah mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mereka akan makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:49.040195158Z",
+  "model": "glm-5.3"
+}

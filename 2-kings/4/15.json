@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan katanya: Panggillah dia. Lalu dipanggilnyalah dia, dan berdirilah dia di pintu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "panggillah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu dipanggilnyalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan berdirilah dia"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "di pintu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:04.277012028Z",
+  "model": "glm-5.3"
+}

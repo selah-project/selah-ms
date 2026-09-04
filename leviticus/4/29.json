@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ia meletakkan ⟨את⟩ tangannya ke atas kepala korban chatat (korban dosa) itu, dan menyembelih ⟨את⟩ korban chatat itu di tempat sembelihan korban olah (korban bakaran) itu.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "dan ia meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban chatat itu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban chatat itu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban chatat itu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban olah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:56.315527414Z",
+  "model": "glm-5.3"
+}

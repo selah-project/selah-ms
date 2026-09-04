@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Kejahatan membunuh orang fasik, dan pembenci-pembenci orang benar akan dihukum.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "dan pembenci-pembenci"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "akan dihukum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:03.691939490Z",
+  "model": "glm-5.3"
+}

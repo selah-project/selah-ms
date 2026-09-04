@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan dia menambah lagi dan melahirkan seorang anak lelaki, dan dia menamai ⟨את⟩ namanya Syela; dan ⟨dia⟩ berada di Keziv ketika dia melahirkannya ⟨את⟩dia.",
+  "tokens": [
+    {
+      "surface": "וַתֹּסֶף",
+      "gloss": "Dan dia menambah"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "וַתֵּלֶד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "seorang anak lelaki"
+    },
+    {
+      "surface": "וַתִּקְרָא",
+      "gloss": "dan dia menamai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שֵׁלָה",
+      "gloss": "Syela"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "dan ⟨dia⟩ berada"
+    },
+    {
+      "surface": "בִּכְזִיב",
+      "gloss": "di Keziv"
+    },
+    {
+      "surface": "בְּלִדְתָּהּ",
+      "gloss": "ketika dia melahirkannya"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩dia"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:36.525742750Z",
+  "model": "glm-5.3"
+}

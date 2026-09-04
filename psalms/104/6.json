@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Tehom seperti pakaian Engkau tutupinya; di atas gunung-gunung berdiri air.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "seperti pakaian"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Engkau tutupinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:01.545402951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aibu tembaga Kaujadikan lenyap semua orang fasik bumi; sebab itu aku mengasihi kesaksian-kesaksianmu.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Aibu tembaga"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Kaujadikan lenyap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "رשעי",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku mengasihi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kesaksian-kesaksianmu",
+      "marks": "kesaksian-kesaksianmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.615272625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Apakah akan aku balaskan kepada Yahweh, segala kebaikan-Nya ke atasku?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "akan aku balaskan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "kebaikan-Nya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:22.878697727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Lalu masuklah Yisrael ke Mitsrayim, dan Yaakov menetap sebagai pendatang di tanah Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu masuklah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dan Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "menetap sebagai pendatang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.583112254Z",
+  "model": "glm-5.3"
+}

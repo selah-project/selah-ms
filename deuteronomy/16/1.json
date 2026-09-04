@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Pelahiharalah bulan ha-Aviv, dan buatlah Pesah bagi Yahweh Elohimmu, kerana dalam bulan Aviv Yahweh Elohimmu membawa engkau keluar dari Mitsrayim pada waktu malam.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Pelahiharalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulan ha-Aviv"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ha-Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dalam bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "membawa engkau keluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pada waktu malam"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:53.783562474Z",
+  "model": "glm-5.3"
+}

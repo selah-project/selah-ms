@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Inilah keturunan Syem: Syem berumur seratus tahun, dan memperanakkan ⟨את⟩ Arpaksyad dua tahun selepas air bah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Syem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Syem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur (anak)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaksyad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaksyad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "dua tahun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "air bah"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:57.625608546Z",
+  "model": "glm-5.3"
+}

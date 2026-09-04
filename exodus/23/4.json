@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Apabila engkau berjumpa lembu musuhmu atau keldainya yang sesat, engkau hendaklah mengembalikannya kepadanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "engkau berjumpa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "keldainya"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "yang sesat"
+    },
+    {
+      "surface": "השב",
+      "gloss": "hendaklah mengembalikan"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "engkau mengembalikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:42.488086821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Pukul-pukulan pasti engkau tumpaskan ⟨את⟩ penduduk negeri itu dengan mata pedang; tumpaskan habis ⟨את⟩nya dan ⟨את⟩ segala yang ada padanya, dan ⟨את⟩ ternakannya, dengan mata pedang.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "pasti memukul"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "engkau memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk negeri itu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tumpaskan habis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia (negeri itu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada padanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ternakannya"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ternakannya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:27.975297826Z",
+  "model": "glm-5.3"
+}

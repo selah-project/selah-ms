@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan Elohim tampak kepada Yaakov lagi, pada kedatangannya dari Padan-Aram, dan Dia memberkati ⟨את⟩-nya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan tampak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "pada kedatangannya"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "dari Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan Dia memberkati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dia (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:48.185489482Z",
+  "model": "glm-5.3"
+}

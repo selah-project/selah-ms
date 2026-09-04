@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Tetapi jika ia tidak mau berdamai denganmu, melainkan membuat perang terhadapmu, maka kepunglah ia.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "mau berdamai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "denganmu"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "melainkan membuat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "maka kepunglah"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:22.320403438Z",
+  "model": "glm-5.3"
+}

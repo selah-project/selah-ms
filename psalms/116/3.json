@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Tali-tali maut melingkupi aku, dan ikatan Syeol mendapat aku; kesusahan dan dukacita aku jumpai.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "melingkupi aku"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "Tali-tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "dan ikatan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "mendapat aku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "dan dukacita"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "aku jumpai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:43.342096966Z",
+  "model": "glm-5.3"
+}

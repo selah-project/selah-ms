@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Orang-orang yang takut akan Engkau akan melihat aku dan bersukacita, sebab kepada firman-Mu aku telah berharap.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "orang-orang yang takut akan Engkau"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "akan melihat aku"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "kepada firman-Mu"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "aku telah berharap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:12.557306349Z",
+  "model": "glm-5.3"
+}

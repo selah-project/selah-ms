@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Janganlah engkau mengeji orang Edom, kerana saudaramu ⟨ialah⟩ dia; janganlah engkau mengeji orang Mitsri, kerana pendatang engkau telah menjadi di negerinya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "engkau mengeji"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "orang Edom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "engkau mengeji"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "orang Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "היית",
+      "gloss": "engkau telah menjadi"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "di negerinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:09.136514735Z",
+  "model": "glm-5.3"
+}

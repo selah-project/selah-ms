@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Sebab lagi sedikit, sedikit sahaja, dan habislah kegeraman, dan amarah-Ku atas pemusnahan mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "sedikit sahaja"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "dan habislah"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "kegeraman"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "dan amarah-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "pemusnahan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:20.986779661Z",
+  "model": "glm-5.3"
+}

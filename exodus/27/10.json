@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "dan tiang-tiangnya dua puluh, dan tapak-tapaknya dua puluh, tembaga; dan cangkuk tiang-tiang itu serta gelang-gelangnya perak.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "dan tiang-tiangnya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "dan tapak-tapaknya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "dan cangkuk"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "dan gelang-gelangnya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:35.226689417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "maka murka-Ku akan menyala, dan Aku akan membunuh ⟨את⟩ kamu dengan pedang, dan isteri-isteri kamu akan menjadi janda, dan anak-anak kamu yatim.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "dan akan menyala"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "murka-Ku (harfiah: hidung-Ku)"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "dan Aku akan membunuh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan akan menjadi"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "isteri-isteri kamu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "janda"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "dan anak-anak kamu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yatim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:14.465486634Z",
+  "model": "glm-5.3"
+}

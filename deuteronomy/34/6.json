@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dan Ia menguburkan ⟨את⟩ dia di lembah, di tanah Moab, berhadapan Beit Peor; dan tiada seorang pun mengetahui ⟨את⟩ tempat penguburannya sampai hari ini.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Dan Ia menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "berhadapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat penguburannya"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "tempat penguburannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:53.931958272Z",
+  "model": "glm-5.3"
+}

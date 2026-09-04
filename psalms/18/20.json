@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Ia membawa aku keluar ke tempat lapang, Ia melepaskan aku, sebab Ia berkenan kepadaku.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Dan Ia membawa aku keluar"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ke tempat lapang"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Ia melepaskan aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ia berkenan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.548315160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Engkau akan membinasakan ⟨orang-orang⟩ yang bercakap dusta; Yahweh menjijikkan lelaki penumpah darah dan penipu.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Engkau akan membinasakan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "yang bercakap"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "penumpah darah"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dan penipu"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "menjijikkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:35.633745660Z",
+  "model": "glm-5.3"
+}

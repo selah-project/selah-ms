@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu aku tersungkur di hadapan Yahweh selama empat puluh hari dan empat puluh malam yang aku tersungkur itu, kerana Yahweh telah berkata untuk membinasakan ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "Lalu aku tersungkur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "empat puluh"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "empat puluh"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "aku tersungkur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:44.233827524Z",
+  "model": "glm-5.3"
+}

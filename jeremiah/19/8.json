@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan aku akan menjadikan ⟨את⟩ kota ini kekejutan dan siulan; setiap orang yang lalu di atasnya akan tercengang dan bersiul atas segala pukulannya.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Dan aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota ini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "kekejutan"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "dan siulan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang lalu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "akan tercengang"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "dan bersiul"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "pukulannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:38.975770927Z",
+  "model": "glm-5.3"
+}

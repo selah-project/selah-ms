@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Aku menjadi bisu, tidak kubuka mulutku, kerana Engkaulah yang telah melakukannya.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "aku menjadi bisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "kubuka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yang telah Engkau lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:34.798386220Z",
+  "model": "glm-5.3"
+}

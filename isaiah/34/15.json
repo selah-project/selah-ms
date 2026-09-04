@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Di sana ular panah telah bersarang dan bertelur, menetaskan dan mengerami di bawah naungannya; sungguh, di sana burung-burung pemangsa berhimpun, satu sama temannya.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "telah bersarang"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "ular panah"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "dan bertelur"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "menetaskan"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "mengerami"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "di bawah naungannya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "berhimpun"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "burung-burung pemangsa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "satu sama"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "temannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:40.451734961Z",
+  "model": "glm-5.3"
+}

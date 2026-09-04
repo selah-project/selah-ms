@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Yang merampas bapa dan menghalau ibu — anak yang menimbulkan malu dan mencela.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "yang merampas"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "menghalau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yang menimbulkan malu"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "dan mencela"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:00.118038758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu dibawanya keluar ⟨את⟩ anak raja itu, dan diletakkannya ke atasnya ⟨את⟩ mahkota dan ⟨את⟩ kesaksian; maka mereka mengangkat ⟨את⟩ dia menjadi raja dan mengurapinya, lalu mereka bertepuk tangan dan berkata: \"Hiduplah raja!\"",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Lalu dibawanya keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak raja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diletakkannya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahkota"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "mahkota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kesaksian"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "maka mereka mengangkat dia menjadi raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "dan mengurapinya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lalu mereka bertepuk"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Hiduplah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raaja"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:11.255556972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Yang bersemayam di syurga akan ketawa; Adonai akan memperolok-olokkan mereka.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Yang bersemayam"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di syurga"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "akan ketawa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "akan memperolok-olokkan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:12.566182455Z",
+  "model": "glm-5.3"
+}

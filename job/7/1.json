@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Bukankah ada tenteraan bagi manusia fana di atas bumi, dan seperti hari-hari upahan itulah hari-harinya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tenteraan"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "bagi manusia fana"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "dan seperti hari-hari"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "upahan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hari-harinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:38.216866747Z",
+  "model": "glm-5.3"
+}

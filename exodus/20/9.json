@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Enam hari engkau akan bekerja dan engkau akan melakukan segala kerjamu.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau akan bekerja"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan melakukan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "kerjamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:33.924265970Z",
+  "model": "glm-5.3"
+}

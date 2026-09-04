@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 134,
+  "translation": "Angkatlah tangan kamu ke arah ⟨tempat⟩ kudus, dan berkatilah ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tangan kamu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "dan berkatilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:07.057161046Z",
+  "model": "glm-5.3"
+}

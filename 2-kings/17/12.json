@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan mereka beribadat kepada hagalulim, yang telah difirmankan oleh Yahweh kepada mereka: Jangan kamu lakukan ⟨את⟩ perkara ini.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan mereka beribadat kepada"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "hagalulim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu lakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:58.809929204Z",
+  "model": "glm-5.3"
+}

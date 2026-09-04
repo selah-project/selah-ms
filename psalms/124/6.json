@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "Terpujilah Yahweh, yang tidak memberikan kami sebagai mangsa kepada gigi mereka.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "yang tidak"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "memberikan kami"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sebagai mangsa"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "kepada gigi mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:19.265406749Z",
+  "model": "glm-5.3"
+}

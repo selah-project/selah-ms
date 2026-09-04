@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan menyala amarah Yahweh terhadap umat-Nya, dan Dia membenci ⟨את⟩ milik pusaka-Nya.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Dan menyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "amarah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "terhadap umat-Nya"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "dan Dia membenci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milik pusaka-Nya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "milik pusaka-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:58.380116820Z",
+  "model": "glm-5.3"
+}

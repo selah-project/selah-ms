@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan pada zaman Yoyakim ada imam-imam, kepala-kepala keluarga: bagi Seryah, Merayah; bagi Yirmeyah, Hananya",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "dan pada zaman"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "keluarga-keluarga"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "bagi Seryah"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "Merayah"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "bagi Yirmeyah"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:55:19.624968294Z",
+  "model": "glm-5.3"
+}

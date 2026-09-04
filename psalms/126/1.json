@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 126,
+  "translation": "Syir hamaalot. Ketika Yahweh memulangkan ⟨את⟩ pemulangan Tsiyon, kami menjadi seperti orang yang bermimpi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Syir"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hamaalot"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ketika memulangkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pemulangan Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "pemulangan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami menjadi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "seperti orang yang bermimpi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:31.511966629Z",
+  "model": "glm-5.3"
+}

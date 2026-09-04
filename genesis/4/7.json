@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Bukankah, jika engkau berbuat baik, ⟨ada⟩ pengangkatan ⟨dosa⟩? dan jika engkau tidak berbuat baik, dosa baring di muka pintu; dan kepadamu rindu ⟨ia⟩, tetapi engkaulah yang berkuasa atasnya.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "engkau berbuat baik"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "pengangkatan ⟨dosa⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "engkau berbuat baik"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "di muka pintu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "baring"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "dan kepadamu"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "rindu ⟨ia⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tetapi engkaulah"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "yang berkuasa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:37.687341478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Dan aku berkata: \"Sungguh, kegelapan akan menindih aku, tetapi malah malam menjadi terang di sekeliling aku.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "akan menindih aku"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "tetapi malah malam"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "di sekeliling aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.065394632Z",
+  "model": "glm-5.3"
+}

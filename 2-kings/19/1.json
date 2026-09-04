@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Maka berlakulah, apabila raja Hizkiyahu mendengarnya, dia mengoyakkan ⟨את⟩ pakaiannya dan berselimut dengan kain sak, lalu masuk ke rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengarnya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dia mengoyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "dan berselimut"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "dengan kain sak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu masuk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:12.185735438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan engkau hendaklah membuat ⟨את⟩ palang-palang itu dari kayu sitim, dan engkau hendaklah menyadur ⟨את⟩-nya dengan emas, dan dengannya meja itu akan diangkat.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau hendaklah membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palang itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "palang-palang itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dan engkau hendaklah menyadur"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dengan emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dan akan diangkat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:32.464364786Z",
+  "model": "glm-5.3"
+}

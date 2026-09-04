@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Jiwa yang memberi berkat akan dijenangkan, dan yang memberi minum, ia juga akan diberi minum.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "memberi berkat"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "dijenangkan"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "dan yang memberi minum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "akan diberi minum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:25.876760921Z",
+  "model": "glm-5.3"
+}

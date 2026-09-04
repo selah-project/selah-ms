@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Tetapi Engkau, Yahweh Adonai, berbuatlah ⟨את⟩ denganku demi nama-Mu, kerana baik hesed-Mu, selamatkanlah aku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuatlah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ denganku",
+      "marks": "denganku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "selamatkanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:46.797400089Z",
+  "model": "glm-5.3"
+}

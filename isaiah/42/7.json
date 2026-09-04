@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "untuk membuka mata orang-orang buta, untuk mengeluarkan orang tahanan dari penjara, orang-orang yang duduk dalam kegelapan dari rumah tahanan,",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "untuk membuka"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "orang-orang buta"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "untuk mengeluarkan"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "dari penjara"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "orang tahanan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "orang-orang yang duduk"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dalam kegelapan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:50.809277445Z",
+  "model": "glm-5.3"
+}

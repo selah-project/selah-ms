@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 27:15",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Orang-orang yang tinggal daripadanya akan dikuburkan oleh maut, dan balu-balunya tidak akan menangis.",
+  "tokens": [
+    {
+      "surface": "שרידו",
+      "gloss": "orang-orang yang tinggal daripadanya"
+    },
+    {
+      "surface": "במות",
+      "gloss": "oleh maut"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "akan dikuburkan"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "dan balu-balunya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "akan menangis"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:47.299613265Z",
+  "model": "glm-5.3"
+}

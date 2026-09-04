@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "⟨את⟩ burung kos, dan ⟨את⟩ burung yansuf, dan burung tinsyamet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "burung kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung yansuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "burung yansuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "dan burung tinsyamet"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:47.646991821Z",
+  "model": "glm-5.3"
+}

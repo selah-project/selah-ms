@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan perempuan yang diratai seorang lelaki ⟨את⟩ nya dengan aliran mani, keduanya membasuh diri dengan air dan menjadi tuman sehingga waktu petang.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "dan perempuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "diratai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nya (perempuan itu)"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "aliran"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mani"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "keduanya membasuh diri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "dan menjadi tuman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu petang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:17.012790850Z",
+  "model": "glm-5.3"
+}

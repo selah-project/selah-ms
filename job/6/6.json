@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Adakah yang tawar dimakan tanpa garam? Adakah rasa pada kirna telur?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "Adakah... dimakan"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "yang tawar"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "garam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Adakah"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adakah"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "rasa"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "pada"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "kirna telur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:05.778614411Z",
+  "model": "glm-5.3"
+}

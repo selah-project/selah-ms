@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Aku membawa keluar ⟨את⟩ bapa-bapa kamu dari Mitsrayim, dan kamu sampai ke laut; dan orang Mitsrayim memburu bapa-bapa kamu dengan kereta kuda dan dengan penunggang kuda — Laut Tsuf.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "lalu Aku membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa-bapa kamu"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "dan kamu sampai"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "ke laut"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dan memburu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "dengan kereta kuda"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "dan dengan penunggang kuda"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Tsuf"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:54.044227687Z",
+  "model": "glm-5.3"
+}

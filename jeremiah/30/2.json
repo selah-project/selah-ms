@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Begitulah kata Yahweh, Elohim Israel, katanya: Tuliskan bagimu ⟨את⟩ segala perkataan yang Kukatakan kepadamu dalam sebuah kitab.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Begitulah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Tuliskan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Kukatakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dalam"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sebuah kitab"
+    }
+  ],
+  "timestamp": "2026-09-04T13:19:31.776191004Z",
+  "model": "glm-5.3"
+}

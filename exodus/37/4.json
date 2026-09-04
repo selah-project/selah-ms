@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan dibuatnya kayu penyangkut daripada kayu akasia, lalu disalutinya ⟨את⟩ mereka dengan emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "kayu penyangkut"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daripada kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "disalutinya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (kayu penyangkut itu)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:50.436980208Z",
+  "model": "glm-5.3"
+}

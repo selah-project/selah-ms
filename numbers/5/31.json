@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan lelaki itu ⟨dibebaskan⟩ dari kesalahan, tetapi perempuan itu akan menanggung ⟨את⟩ kesalahannya sendiri.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "dan ⟨dibebaskan⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "dari kesalahan"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "tetapi perempuan itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "akan menanggung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahannya"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kesalahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:17.479502893Z",
+  "model": "glm-5.3"
+}

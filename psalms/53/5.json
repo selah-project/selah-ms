@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Tidakkah ⟨mereka⟩ mengetahui para pembuat kesia-siaan — pemakan umatku telah memakan roti — Elohim tidak mereka panggil?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tidakkah"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "para pembuat"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pemakan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "telah memakan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "mereka panggil"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:15.656132378Z",
+  "model": "glm-5.3"
+}

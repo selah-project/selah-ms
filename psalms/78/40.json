@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Betapa kerap kali mereka menderhaka kepada-Nya di padang belantara, menyakiti hati-Nya di tanah gersang!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "betapa kerap kali"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "merekah menderhaka kepada-Nya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "mereka menyakiti hati-Nya"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di tanah gersang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:00.460349623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Maka aku memandang, aku ini menaruh hatiku ⟨di atasnya⟩; aku telah melihat, aku telah menerima pengajaran.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "maka aku memandang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "aku menaruh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aku telah menerima"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pengajaran"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:02.172105003Z",
+  "model": "glm-5.3"
+}

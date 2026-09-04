@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 7:39",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan diletakkannya ⟨את⟩ tapak-tapak itu, lima pada bahu rumah itu dari kanan, dan lima pada bahu rumah itu dari kirinya; dan ⟨את⟩ laut itu diletakkannya di bahu rumah itu di sebelah kanan, ke timur, di seberang selatan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapak-tapak"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "tapak-tapak"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "dari kanan"
+    },
+    {
+      "surface": "ויתן את המכנות חמש על כתף הבית מימין וחמש על כתף הבית משמאלו ואת הים נתן מכתף הבית הימנית קדמה ממול נגב-stub",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "משמאלו",
+      "gloss": "dari kirinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "di bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "di sebelah kanan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ke timur"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "selatan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:03.762517084Z",
+  "model": "glm-5.3"
+}

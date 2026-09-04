@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab mulutku akan mengumandangkan kebenaran sejati, dan kekejian bagi bibirku ⟨ialah⟩ kejahatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran sejati"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "akan mengumandangkan"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "dan kekejian"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bagi bibirku"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:08.917224655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Seperti asap dilenyapkan ⟨oleh angin⟩, begitu ⟨Engkau⟩ melenyapkan ⟨mereka⟩; seperti lilin meleleh di hadapan api, orang-orang fasik binasa dari hadapan Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Seperti ... dilenyapkan ⟨oleh angin⟩"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asap"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨Engkau⟩ melenyapkan ⟨mereka⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "Seperti ... meleleh"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:29.065492520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 137,
+  "translation": "Ingatlah, wahai Yahweh, kepada bani Edom ⟨את⟩ hari Yerusalem — yang berkata: \"Bongkarlah, bongkarlah sampai kepada tapaknya!\"",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari Yerusalem"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bongkarlah"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bongkarlah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "kepada tapak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:54.958386720Z",
+  "model": "glm-5.3"
+}

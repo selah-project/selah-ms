@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Nahor hidup selepas memperanakkan ⟨את⟩ Terah sembilan belas tahun dan seratus tahun, dan memperanakkan anak-anak lelaki dan anak-anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hidup"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sembilan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan memperanakkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dan anak-anak perempuan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:00.827638723Z",
+  "model": "glm-5.3"
+}

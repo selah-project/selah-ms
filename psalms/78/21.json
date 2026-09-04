@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Sebab itu Yahweh mendengar dan murka ter menyala, dan api menyala dalam Yaakov, dan juga kepanasan hidung naik dalam Yisrael;",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sebab itu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "dan murka ter menyala"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "dan api"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "dalam Yaakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kepanasan hidung"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "dalam Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:12.076219710Z",
+  "model": "glm-5.3"
+}

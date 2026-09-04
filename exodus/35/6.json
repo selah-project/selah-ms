@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "dan kain biru, dan ungu, dan merah beruang (kirmizi), dan lenan halus, dan bulu kambing.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "dan kain biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan merah beruang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(kirmizi)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan lenan halus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "dan bulu kambing"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:59.578820449Z",
+  "model": "glm-5.3"
+}

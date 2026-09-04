@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Sebab apabila engkau melintasi air, ⟨את⟩ Aku bersamamu, dan di sungai-sungai mereka tidak akan menenggelamkanmu; sebab apabila engjau berjalan melalui api, engkau tidak akan terbakar, dan nyala tidak akan menyala padamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "engkau melintasi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bersamamu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "dan di sungai-sungai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "akan menenggelamkanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau berjalan"
+    },
+    {
+      "surface": "במו",
+      "gloss": "melalui"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "engkau akan terbakar"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "dan nyala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "akan menyala"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:04.505741219Z",
+  "model": "glm-5.3"
+}

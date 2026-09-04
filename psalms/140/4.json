@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Mereka menajamkan lidah mereka seperti ular; bisa ular tedung ⟨adalah⟩ di bawah bibir mereka. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Mereka menajamkan"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ular tedung"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibir mereka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:58.881227615Z",
+  "model": "glm-5.3"
+}

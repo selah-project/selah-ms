@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Dan engkau akan mengambil ⟨את⟩ lembu korban dosa itu, dan membakarnya di tempat yang ditetapkan bagi rumah itu, di luar tempat kudus.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu korban dosa itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa itu"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "dan membakarnya"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "di tempat yang ditetapkan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bagi rumah itu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "tempat kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T13:41:22.361303814Z",
+  "model": "glm-5.3"
+}

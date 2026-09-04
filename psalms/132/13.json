@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Kerana Yahweh telah memilih Tsiyon, ⟦dia⟧ mengingininya sebagai tempat kedudukan bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "telah memilih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "mengingininya"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "sebagai tempat kedudukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:20.322543082Z",
+  "model": "glm-5.3"
+}

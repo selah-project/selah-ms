@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan juga setiap manusia yang makan dan minum serta melihat kebaikan dalam segala usahanya — itu ⟨ialah⟩ pemberian Elohim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "yang makan"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "serta melihat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "usahanya"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "pemberian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itu ⟨ialah⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:33.101977525Z",
+  "model": "glm-5.3"
+}

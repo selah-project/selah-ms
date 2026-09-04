@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu katanya kepada kaumnya: Lihat, kaum anak-anak Yisrael itu ramai dan kuat melebihi kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaumnya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "dan kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "melebihi kita"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:59.925352132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Burung langit dan ikan laut, yang melintasi jalan-jalan laut.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "burung"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "dan ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang melintasi"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:37.005831820Z",
+  "model": "glm-5.3"
+}

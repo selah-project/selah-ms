@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Sebab beginilah firman Yahweh: Biarpun tawanan orang gagah akan diambil, dan rampasan orang kejam akan dilepaskan, namun ⟨dengan⟩ para lawanmu ⟨itulah⟩ aku akan berbantah, dan anak-anakmu akan aku selamatkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Biarpun"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "orang gagah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan diambil"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "dan rampasan"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "orang kejam"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "akan dilepaskan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para lawanmu"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "para lawanmu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "akan berbantah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "akan selamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:53.202671649Z",
+  "model": "glm-5.3"
+}

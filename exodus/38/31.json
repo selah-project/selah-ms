@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan ⟨את⟩ tapak-tapak halaman sekeliling, dan ⟨את⟩ tapak-tapak pintu gerbang halaman, dan ⟨את⟩ segala pancang Mishkan, dan ⟨את⟩ segala pancang halaman sekeliling.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapak-tapak halaman sekeliling"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tapak-tapak"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapak-tapak pintu gerbang halaman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tapak-tapak"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala pancang Mishkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pancang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala pancang halaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pancang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:53.391463716Z",
+  "model": "glm-5.3"
+}

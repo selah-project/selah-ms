@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Maka aron Yahweh berada di padang Pelesytim tujuh bulan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka beradalah"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:56.783625577Z",
+  "model": "glm-5.3"
+}

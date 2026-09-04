@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dalam titah-Mu aku akan merenung, dan aku akan memandang jalan-jalan-Mu.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "Dalam titah-Mu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku akan merenung"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "dan aku akan memandang"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jalan-jalan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:49.336170751Z",
+  "model": "glm-5.3"
+}

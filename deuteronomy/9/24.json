@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Orang penderhaka kamu ⟨telah⟩ menjadi terhadap Yahweh, sejak hari aku mengenal ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Orang penderhaka"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu ⟨telah⟩ menjadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "sejak hari"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "aku mengenal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:47.941980817Z",
+  "model": "glm-5.3"
+}

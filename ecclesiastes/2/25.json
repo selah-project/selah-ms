@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab siapakah yang dapat makan, dan siapakah yang beria-ia, selain daripada aku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yang dapat makan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "yang beria-ia"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "selain"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:05.138148990Z",
+  "model": "glm-5.3"
+}

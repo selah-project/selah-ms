@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan Avraham menegur ⟨את⟩ Avimelekh berkenaan peristiwa telaga air yang telah dirampas oleh hamba-hamba Avimelekh.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "menegur"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "על",
+      "gloss": "berkenaan"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "peristiwa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "telaga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "dirampas"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:49.725310176Z",
+  "model": "glm-5.3"
+}

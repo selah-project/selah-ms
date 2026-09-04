@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan Yahweh Elohim-mu akan membawa engkau masuk ke tanah yang bapa-bapamu dahulu mendudukinya, dan engkau akan mendudukinya; dan Dia akan berbuat baik kepadamu dan membanyakkan engkau melebihi bapa-bapamu.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "dan Dia akan membawa engkau masuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "dahulu mendudukinya"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bapa-bapamu"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "dan engkau akan mendudukinya"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "dan Dia akan berbuat baik kepadamu"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "dan membanyakkan engkau"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "melebihi bapa-bapamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:59.142806963Z",
+  "model": "glm-5.3"
+}

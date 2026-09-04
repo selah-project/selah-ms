@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Sebab ia menghaluskan segala-galanya di matanya sendiri, untuk menemui kesalahan⟨nya⟩ yang membenci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "menghaluskan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "untuk menemui"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuk membenci"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:32.338985574Z",
+  "model": "glm-5.3"
+}

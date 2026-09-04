@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Dan diukurnya dinding rumah itu enam hasta, dan lebar bilik sisi itu empat hasta, sekeliling sekeliling bagi rumah itu sekeliling.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Dan diukurnya"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan lebar"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "bilik sisi itu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bagi rumah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:48.394536162Z",
+  "model": "glm-5.3"
+}

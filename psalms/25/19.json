@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Lihatlah musuhku, sebab mereka telah ramai, dan dengan kebencian ganas mereka membenciku.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "mereka telah ramai"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "dan dengan kebencian"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ganas"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "mereka membenciku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:50.776238802Z",
+  "model": "glm-5.3"
+}

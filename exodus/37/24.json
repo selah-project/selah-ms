@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "segini emas tulen dibuatnya ⟨את⟩nya, dan ⟨את⟩ segala perkakasnya",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "segini"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩nya",
+      "marks": "kandil itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:32.918615589Z",
+  "model": "glm-5.3"
+}

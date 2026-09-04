@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Yehonatan menanggalkan ⟨את⟩ jubah yang ada padanya dan memberikannya kepada Dawid, serta pakaiannya, dan sampai pedangnya, dan sampai busurnya, dan sampai ikat pinggangnya.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Dan menanggalkan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "serta pakaiannya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangnya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "busurnya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ikat pinggangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:13.515179688Z",
+  "model": "glm-5.3"
+}

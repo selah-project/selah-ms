@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu pengangkat senjatanya melihat bahawa Saul telah mati, maka jatuhlah juga dia atas pedangnya dan mati bersama-sama dengannya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu melihat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pengangkat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "senjatanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "maka jatuhlah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangnya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-sama dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:39.309540013Z",
+  "model": "glm-5.3"
+}

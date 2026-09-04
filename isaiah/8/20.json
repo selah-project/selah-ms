@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "⟨Berpalinglah⟩ kepada Tora dan kepada kesaksian! Jika mereka tidak berkata menurut perkataan ini, ⟨maka⟩ tiada fajar baginya.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "kepada Tora"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "dan kepada kesaksian"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut perkataan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:24.080203701Z",
+  "model": "glm-5.3"
+}

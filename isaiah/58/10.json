@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "dan engkau mengulurkan jiwa kepadamu bagi yang lapar, dan jiwa yang ditindas engkau kenyangkan — maka terbit dalam kegelapan cahayamu, dan kegelapanmu seperti waktu tengah hari.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "dan engkau mengulurkan"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "bagi yang lapar"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jiwa kepadamu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dan jiwa"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "yang ditindas"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "engkau kenyangkan"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "maka terbit"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "cahayamu"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "dan kegelapanmu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "seperti waktu tengah hari"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:22.406448859Z",
+  "model": "glm-5.3"
+}

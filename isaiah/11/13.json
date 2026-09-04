@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan akan surut ⟨cemburu⟩ Efrayim, dan para lawan Yehuda akan diputus; Efrayim tidak akan cemburu terhadap ⟨את⟩ Yehuda, dan Yehuda tidak akan menyesak ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "akan surut"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "cemburu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "dan para lawan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "akan diputus"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "akan cemburu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "akan menyesak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:07.247938552Z",
+  "model": "glm-5.3"
+}

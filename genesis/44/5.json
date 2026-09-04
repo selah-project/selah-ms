@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Bukankah ini yang diminum tuanku, dan dengannya dia menilik-nilik? Sungguh jahat yang kamu lakukan!",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "diminum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "menilik"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "menilik-nilik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "sungguh jahat kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kamu lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:46.404127480Z",
+  "model": "glm-5.3"
+}

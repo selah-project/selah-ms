@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Yahweh Elohim Tsebaot, sampai bila Engkau berasel ⟨dengan⟩ doa umat-Mu?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "berasel"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "⟨dengan⟩ doa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:37.327268628Z",
+  "model": "glm-5.3"
+}

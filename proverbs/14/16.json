@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Orang bijak takut dan berpaling dari kejahatan, tetapi orang bodoh melampaui batas dan ⟨merasa⟩ percaya.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "dari kejahatan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "tetapi orang bodoh"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "melampaui batas"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "dan ⟨merasa⟩ percaya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:30.455846164Z",
+  "model": "glm-5.3"
+}

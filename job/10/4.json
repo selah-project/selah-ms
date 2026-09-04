@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Adakah mata daging padamu, atau melihat seperti manusia fana engkau melihat?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "adakah mata"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "seperti melihat"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:03.689755604Z",
+  "model": "glm-5.3"
+}

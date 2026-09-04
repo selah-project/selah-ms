@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dari penghujung langit keluarnya, dan edarannya sampai ke hujung mereka; dan tiada yang tersembunyi dari panasnya.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Dari penghujung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "keluarnya"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "dan edarannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "hujung mereka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada yang"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "tersembunyi"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "dari panasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:31.074330187Z",
+  "model": "glm-5.3"
+}

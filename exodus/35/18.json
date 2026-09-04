@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "⟨את⟩ pancang kemah suci dan ⟨את⟩ pancang pelataran serta ⟨את⟩ tali-tali mereka,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pancang"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pancang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pancang"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pancang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "tali-tali"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "tali-tali mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:18.598293183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "dan jika ia perempuan, maka jadilah taksiranmu tiga puluh syikal.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "taksiranmu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syikal"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:06.220651024Z",
+  "model": "glm-5.3"
+}

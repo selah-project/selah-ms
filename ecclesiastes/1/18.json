@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab dalam kelimpahan hikmat ⟨ada⟩ kelimpahan kedukacitaan, dan siapa menambah pengetahuan menambah kesakitan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dalam kelimpahan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kedukacitaan"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "dan menambah"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "menambah"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kesakitan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:14.039398570Z",
+  "model": "glm-5.3"
+}

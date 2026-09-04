@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab bagi setiap kehendak ada waktu dan penghakiman, kerana kejahatan manusia banyak ⟨terhimpit⟩ ke atasnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi setiap"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kehendak"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan penghakiman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:03.543348345Z",
+  "model": "glm-5.3"
+}

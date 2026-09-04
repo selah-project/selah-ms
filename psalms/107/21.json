@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Biarlah mereka mengaku bersyukur kepada Yahweh atas hesed-Nya, dan atas perbuatan-Nya yang ajaib bagi anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "biarlah mereka mengaku bersyukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan perbuatan-Nya yang ajaib"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:56.077277448Z",
+  "model": "glm-5.3"
+}

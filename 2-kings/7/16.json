@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Maka keluarlah kaum itu dan mereka menjarah ⟨את⟩ kem Aram, lalu jadilah satu sah tepung gandum dengan satu syikal, dan dua sah barli dengan satu syikal, menurut firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Maka keluarlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum itu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dan mereka menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kem Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lalu jadilah"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "satu sah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung gandum"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "dengan satu syikal"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "dan dua sah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "barli"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "dengan satu syikal"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:50.558385651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "dan biarlah himpunan bangsa-bangsa mengelilingi Engkau, dan kerananya kembalilah ke tempat tinggi.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "dan himpunan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "mengelilingi Engkau"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "dan kerananya"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ke tempat tinggi"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kembalilah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:10.636200982Z",
+  "model": "glm-5.3"
+}

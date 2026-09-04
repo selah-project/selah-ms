@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebagai korban resyit kamu boleh membawa dekat ⟨את⟩ mereka kepada Yahweh, tetapi ke atas mizbeach itu mereka tidak naik sebagai reah nikhoach.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "resyit"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kamu bawa dekat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (hamets dan devasy)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tetapi ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mereka naik"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "sebagai bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nikhoach"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:19.597110373Z",
+  "model": "glm-5.3"
+}

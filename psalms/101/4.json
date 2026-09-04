@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Hati yang bengkok akan berpaling daripadaku; kejahatan tidak aku kenal.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Hati"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "akan berpaling"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aku kenal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:18.182438820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan mereka akan berbakti kepada Yahweh, Elohim mereka, dan kepada ⟨את⟩ David, raja mereka, yang akan Ku bangkitkan bagi mereka.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "dan mereka akan berbakti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "raja mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "akan Ku bangkitkan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:18:54.366508551Z",
+  "model": "glm-5.3"
+}

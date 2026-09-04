@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Jangan serahkan aku kepada nafsu orang-orang yang menindas aku, sebab telah bangkit menentang aku saksi-saksi dusta, dan yang menghembus keganasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "serahkan aku"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kepada nafsu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "orang-orang yang menindas aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "telah bangkit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menentang aku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "dan yang menghembus"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:08.385193041Z",
+  "model": "glm-5.3"
+}

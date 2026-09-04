@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan mereka akan menjawab dan berkata, Tangan kami tidak menumpahkan ⟨את⟩ darah ini, dan mata kami tidak melihatnya.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "dan mereka akan menjawab"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "menumpahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah ini"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "dan mata kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:34.000275849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Maka saudara-saudaranya melihat bahawa bapa mereka mengasihi dia melebihi semua saudaranya, lalu mereka membenci dia, dan tidak mampu bercakap dengannya secara damai.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "maka melihat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "mengasihi dia"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi semua"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "lalu membenci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "membenci dia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bercakap dengannya"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "secara damai"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:35.758358763Z",
+  "model": "glm-5.3"
+}

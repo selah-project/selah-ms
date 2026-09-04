@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Berhala-berhala bangsa-bangsa ⟨ialah⟩ perak dan emas, buatan tangan manusia.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:21.879411845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dan aku akan menjawab penghina aku dengan perkataan, sebab aku berharap kepada perkataan-Mu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "dan aku akan menjawab"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "penghina aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dengan perkataan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku berharap"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "kepada perkataan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:44.154051214Z",
+  "model": "glm-5.3"
+}

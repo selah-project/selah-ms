@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Sebab orang fasik berbangga atas keinginan jiwanya, dan pemungut untung memberkati (namun) menghina Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "berbangga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwanya"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "dan pemungut untung"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "menghina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:28.807099409Z",
+  "model": "glm-5.3"
+}

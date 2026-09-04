@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan Mitsrayim sedang mengkebumikan ⟨את⟩ orang yang diketuk Yahweh di antara mereka, setiap anak sulung; dan ke atas tuhan-tuhan mereka melakukan Yahweh hukuman.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Dan Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "sedang mengkebumikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang diketuk Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "diketuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "dan ke atas tuhan-tuhan mereka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukuman"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:17.097700500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "⟨את⟩ tumbuhan-tumbuhan sendiri hasil tuai-mu jangan engkau tuai, dan ⟨את⟩ buah anggur pokok anggur yang tidak dipangkas-mu jangan engkau petik; tahun perhentian syabat ia akan menjadi bagi tanah itu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumbuhan-tumbuhan sendiri"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "tumbuhan-tumbuhan sendiri"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "hasil tuai-mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "engkau tuai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "buah anggur"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "buah anggur"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "pokok anggur yang tidak dipangkas-mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "engkau petik"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "perhentian syabat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bagi tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:59.504308924Z",
+  "model": "glm-5.3"
+}

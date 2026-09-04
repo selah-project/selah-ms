@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Yahweh, pada waktu pagi Engkau mendengar suaraku; pada waktu pagi aku mengatur ⟨doa⟩ bagi-Mu, dan aku berjaga mengharapkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Engkau mendengar"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "aku mengatur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "dan aku berjaga mengharapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:44.639499822Z",
+  "model": "glm-5.3"
+}

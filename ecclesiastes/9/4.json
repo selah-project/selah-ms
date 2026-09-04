@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sebab siapa yang bergabung dengan semua yang hidup, ada harapan; sebab seekor anjing yang hidup lebih baik daripada singa yang mati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bergabung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "harapan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "seekor anjing"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yang mati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:17.295905345Z",
+  "model": "glm-5.3"
+}

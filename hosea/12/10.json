@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Tetapi Akulah Yahweh, Elohimmu, dari bumi Mitsrayim; lagi Aku akan membuatmu duduk dalam kemah-kemah, seperti hari-hari perayaan yang ditetapkan.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Tetapi Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "Aku akan membuatmu duduk"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "dalam kemah-kemah"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "seperti hari-hari"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perayaan yang ditetapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:47.442325842Z",
+  "model": "glm-5.3"
+}

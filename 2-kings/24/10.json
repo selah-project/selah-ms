@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Pada masa itu naiklah hamba-hamba Nebukadnesar (Nebuchadnezzar), raja Babel, ke Yerusalem, dan kota itu masuk ke dalam kepungan.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Pada masa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerusalem"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "dan … masuk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ke dalam kepungan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:08.490565473Z",
+  "model": "glm-5.3"
+}

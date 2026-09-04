@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Biarlah gelap mata mereka dari melihat, dan pinggang mereka biarlah sentiasa goyah.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "biarlah gelap"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mata mereka"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "dari melihat"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "dan pinggang mereka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "biarlah goyah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:22.799259085Z",
+  "model": "glm-5.3"
+}

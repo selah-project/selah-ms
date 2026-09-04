@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan seluruh Yisrael mendengar, katanya, Syaul telah memukul ⟨את⟩ pos Pelisyt, dan juga Yisrael telah menjadi busuk kepada Pelisyt; lalu bangsa itu berseru mengikut Syaul di Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "telah memukul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos Pelisyt"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisyt"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "telah menjadi busuk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "kepada Pelisyt"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "lalu berseru"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:38.961078629Z",
+  "model": "glm-5.3"
+}

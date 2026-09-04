@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "kepada tukang-tukang kayu, dan tukang-tukang batu, dan tukang-tukang tembok, dan untuk membeli kayu dan batu terbentuk, untuk mengukuhkan ⟨את⟩ rumah itu",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "kepada tukang-tukang kayu"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "dan tukang-tukang batu"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "dan tukang-tukang tembok"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "dan untuk membeli"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "terbentuk"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "untuk mengukuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:08.478843298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan Ia mengubah menjadi darah sungai-sungai mereka, dan anak-anak sungai mereka tidak boleh diminum.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Dan Ia mengubah"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "menjadi darah"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "sungai-sungai mereka"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "dan anak-anak sungai mereka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "boleh diminum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:20.959413649Z",
+  "model": "glm-5.3"
+}

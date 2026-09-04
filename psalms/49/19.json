@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "sebab dirinya sendiri diberkatinya semasa hidupnya, dan orang memuji engkau apabila engkau berbuat baik kepada dirimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dirinya sendiri"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "semasa hidupnya"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "diberkatinya"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "dan orang memuji engkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "engkau berbuat baik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada dirimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:42.125755428Z",
+  "model": "glm-5.3"
+}

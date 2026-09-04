@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Ia menghantar firman-Nya dan melelehkan semuanya; Ia meniupkan angin-Nya — mengalirlah air.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "menghantar"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "dan melelehkan semuanya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "meniupkan"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "angin-Nya"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "mengalirlah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:24.855773004Z",
+  "model": "glm-5.3"
+}

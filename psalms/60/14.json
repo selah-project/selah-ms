@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Dalam Elohim kami akan berbuat keberanian, dan Dialah yang akan menghenjak musuh kami.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Dalam Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kami akan berbuat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "keberanian"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dialah"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "yang akan menghenjak"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "musuh kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:24.145914241Z",
+  "model": "glm-5.3"
+}

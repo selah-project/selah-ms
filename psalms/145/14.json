@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Yahweh menyokong semua yang jatuh, dan menegakkan semua yang bengkok.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "menyokong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "yang jatuh"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "dan menegakkan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "yang bengkok"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:24.228358102Z",
+  "model": "glm-5.3"
+}

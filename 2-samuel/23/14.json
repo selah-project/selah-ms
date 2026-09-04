@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan David ketika itu ⟨berada⟩ di kubu kuat, sementara garison orang Filistin ketika itu di Beit-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "dan David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ketika itu"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "di kubu kuat"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "dan garison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Filistin"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ketika itu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:33:03.777034790Z",
+  "model": "glm-5.3"
+}

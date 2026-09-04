@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ lantai rumah itu disalutnya dengan emas, di bahagian dalam dan di bahagian luar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lantai rumah itu"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lantai"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "disalutnya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dengan emas"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "di bahagian dalam"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "dan di bahagian luar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:53.712137854Z",
+  "model": "glm-5.3"
+}

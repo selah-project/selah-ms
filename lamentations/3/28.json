@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Biar dia duduk seorang diri dan berdiam, sebab ⟨ Dia telah menimpakannya ke atasnya.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Biar dia duduk"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "seorang diri"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "dan berdiam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "⟨Dia telah menimpakan⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:48.008857928Z",
+  "model": "glm-5.3"
+}

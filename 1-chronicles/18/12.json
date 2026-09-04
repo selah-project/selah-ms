@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Avisyai bin Tseruya memukul ⟨את⟩ Edom di Lembah Garam — lapan belas ribu.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Dan Avisyai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "di Lembah"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Garam"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:02.735198775Z",
+  "model": "glm-5.3"
+}

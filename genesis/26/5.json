@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Eker — kerana Avraham mendengar suaraku dan menjaga penjagaanku, perintah-perintahku, ketetapan-ketetapanku dan Tora-toraku.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "eker (sebab)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "dan menjaga"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "penjagaanku"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "perintah-perintahku"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ketetapan-ketetapanku"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "dan Tora-toraku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:44.645336019Z",
+  "model": "glm-5.3"
+}

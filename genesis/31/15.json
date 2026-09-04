@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Bukankah kami telah dihitung sebagai orang asing baginya? Sebab ia telah menjual kami, dan ia telah memakan habis, sungguh memakan ⟨את⟩ wang kami.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "sebagai orang asing"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "kami telah dihitung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ia telah menjual kami"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dan ia telah memakan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "memakan habis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wang kami"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "wang kami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:00.331414437Z",
+  "model": "glm-5.3"
+}

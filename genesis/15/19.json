@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "⟨את⟩ orang Keni dan ⟨את⟩ orang Kenizi dan ⟨את⟩ orang Kadmoni,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Keni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "orang Keni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Kenizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "orang Kenizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Kadmoni"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "orang Kadmoni"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:02.260759666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Jalan ke Syeol ialah rumahnya, turun ke bilik-bilik maut.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "bilik-bilik"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:01.014154523Z",
+  "model": "glm-5.3"
+}

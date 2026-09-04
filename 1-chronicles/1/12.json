@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ⟨את⟩ orang Patrus, dan ⟨את⟩ orang Kasluh, yang dari sanalah keluar orang Pelisyt, dan ⟨את⟩ orang Kaftor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "orang Patrus"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "orang Patrus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Kasluh"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "orang Kasluh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelisyt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Kaftor"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "orang Kaftor"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:15.584579383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu berseru seluruh jemaah itu dan mengangkat ⟨את⟩ suara mereka, dan menangislah bangsa itu pada malam itu.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "berseru dan mengangkat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah itu"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan mereka memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara mereka"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suara mereka"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dan menangislah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:41.954321400Z",
+  "model": "glm-5.3"
+}

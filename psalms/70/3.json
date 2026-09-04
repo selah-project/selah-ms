@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 70,
+  "translation": "Biarlah mereka mendapat malu dan terhina, pencari nafsiku; biarlah mereka berundur ke belakang dan berkecil hati, yang menghajati kejahatanku.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Biarlah mereka mendapat malu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "dan terhina"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "pencari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsiku"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "biarlah mereka berundur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "dan berkecil hati"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "yang menghajati"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kejahatanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:46.207918676Z",
+  "model": "glm-5.3"
+}

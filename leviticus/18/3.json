@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Seperti perbuatan tanah Mitsrayim, yang kamu telah diam di dalamnya, jangan kamu buat; dan seperti perbuatan tanah Kenaan, yang aku bawa ⟨את⟩ kamu ke sana, jangan kamu buat; dan dalam ketetapan-ketetapan mereka jangan kamu berjalan.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "Seperti perbuatan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "kamu telah diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "dan seperti perbuatan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "dan dalam ketetapan-ketetapan mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kamu berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:17.042995687Z",
+  "model": "glm-5.3"
+}

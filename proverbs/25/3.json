@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Langit ⟨pada⟩ ketinggian, dan bumi ⟨pada⟩ kedalaman, dan hati raja-raja tiada terjelajah.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "⟨pada⟩ ketinggian"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "⟨pada⟩ kedalaman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "dan hati"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "terjelajah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:13.505643769Z",
+  "model": "glm-5.3"
+}

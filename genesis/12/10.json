@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Maka terjadilah kelaparan di bumi itu, lalu Avraham turun ke Mitsrayim untuk menumpang di sana, kerana kelaparan itu berat di bumi itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi itu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "lalu turun"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "untuk menumpang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan itu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:15.326050671Z",
+  "model": "glm-5.3"
+}

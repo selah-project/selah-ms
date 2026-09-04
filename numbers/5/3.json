@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dari lelaki sampai perempuan kamu hendaklah menyuruh mereka keluar; ke luar kem kamu hendaklah menyuruh mereka, supaya mereka jangan menajiskan ⟨את⟩ kem-kem mereka, yang Aku diam di tengah-tengahnya.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "dari lelaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "kamu hendaklah menyuruh keluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "kamu hendaklah menyuruh mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "mereka menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kem-kem mereka"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kem-kem mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tengah-tengahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:34.131558508Z",
+  "model": "glm-5.3"
+}

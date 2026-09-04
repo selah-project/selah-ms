@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Kelimpahan makanan ada pada tanah bajakan orang miskin, tetapi ada yang dilenyapkan tanpa keadilan.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "tanah bajakan"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "tetapi ada yang"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "dilenyapkan"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:03.423772381Z",
+  "model": "glm-5.3"
+}

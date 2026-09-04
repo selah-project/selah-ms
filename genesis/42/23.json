@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dan mereka tidak tahu bahawa Yosef mendengar, kerana juru bahasa ada di antara mereka.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "juru bahasa"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "di antara mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:18.594780374Z",
+  "model": "glm-5.3"
+}

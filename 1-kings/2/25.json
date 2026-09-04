@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu raja Syelomo mengutus dengan tangan Benayahu bin Yehoyada, dan ia menyerang dia, lalu dia mati.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu … mengutus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "dan ia menyerang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu dia mati"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:03.517729822Z",
+  "model": "glm-5.3"
+}

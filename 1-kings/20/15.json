@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu ia mengumpulkan ⟨את⟩ orang-orang muda pembesar-pembesar daerah, dan jumlah mereka dua ratus tiga puluh dua; dan sesudah mereka ia mengumpulkan ⟨את⟩ seluruh rakyat, semua orang Israel, tujuh ribu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Lalu ia mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang muda pembesar-pembesar daerah"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "orang-orang muda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "daerah"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan jumlah mereka"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "dan sesudah mereka"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ia mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:17.972593182Z",
+  "model": "glm-5.3"
+}

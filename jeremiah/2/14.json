@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Adakah Israel seorang hamba? Adakah dia lahir di rumah ⟨itu⟩? Mengapa dia menjadi mangsa?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "seorang hamba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "adakah"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "lahir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "mangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:34.468071482Z",
+  "model": "glm-5.3"
+}

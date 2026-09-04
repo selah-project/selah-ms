@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan Moshe melakukan segalanya menurut yang diperintahkan Yahweh ⟨את⟩ kepadanya; demikianlah dilakukannya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia melakukan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "menurut segalanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Moshe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:17.619163915Z",
+  "model": "glm-5.3"
+}

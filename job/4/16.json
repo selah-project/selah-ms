@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Ia berdiri, tetapi aku tidak mengenal rupanya; satu bayangan di hadapan mataku; diam — dan satu suara kulihat dengar.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Ia berdiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "aku mengenal"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "rupanya"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "satu bayangan"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "diam"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan satu suara"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kulihat dengar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:11.078615044Z",
+  "model": "glm-5.3"
+}

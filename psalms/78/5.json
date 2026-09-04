@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Ia mendirikan kesaksian di Yaakov, dan menaruh Tora di Yisrael, yang diperintahkan-Nya kepada ⟨את⟩ bapa-bapa kami, supaya diberitahukan kepada anak-anak mereka.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mendirikan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "dan Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "menaruh"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa-bapa kami"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "supaya diberitahukan"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kepada anak-anak mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:16.960850742Z",
+  "model": "glm-5.3"
+}

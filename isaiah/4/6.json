@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan pondok akan ada sebagai naungan siang hari dari kepanasan, dan sebagai tempat perlindungan dan sebagai tempat persembunyian dari ribut dan dari hujan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "dan pondok"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "sebagai naungan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang hari"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari kepanasan"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "dan sebagai tempat perlindungan"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "dan sebagai tempat persembunyian"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "dari ribut"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "dan dari hujan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:45.424625078Z",
+  "model": "glm-5.3"
+}

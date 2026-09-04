@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Bahagianku ialah Yahweh; aku telah berfirman ⟨dalam diriku⟩ untuk memelihara perkataan-Mu.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "bahagianku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku telah berkata"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk memelihara"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkataan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:54.050418593Z",
+  "model": "glm-5.3"
+}

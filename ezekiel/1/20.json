@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 1:20",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Ke mana roh itu hendak pergi, mereka pergi; ke sanalah roh itu hendak pergi, dan roda-roda itu terangkat bersebelahan mereka, kerana roh makhluk hidupan itu dalam roda-roda itu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ke mana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hendak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "roh itu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mereka pergi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sanalah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "roh itu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "dan roda-roda itu"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "bersebelahan mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "makhluk hidupan itu"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "dalam roda-roda itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:27:51.161823379Z",
+  "model": "glm-5.3"
+}

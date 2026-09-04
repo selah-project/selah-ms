@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Aku akan menghapuskan ⟨את⟩ nama-nama para Baal dari mulutnya, dan tidak akan diingati lagi dengan nama mereka.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "dan Aku akan menghapuskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-nama para Baal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "dari mulutnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יזזכרו",
+      "gloss": "akan diingati"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "dengan nama mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:00.114329726Z",
+  "model": "glm-5.3"
+}

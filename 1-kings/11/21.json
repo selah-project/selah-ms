@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Hadad mendengar di Mitsrayim bahawa Dawid telah berbaring dengan bapa-bapanya, dan bahawa Yoav, panglima tentera, telah mati; lalu berkatalah Hadad kepada Paroh: Lepaskanlah aku, dan aku akan pergi ke negeriku.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Dan Hadad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "telah berbaring"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahawa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Lepaskanlah aku"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "dan aku akan pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "negeriku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:53.032618214Z",
+  "model": "glm-5.3"
+}

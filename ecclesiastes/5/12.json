@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Ada kejahatan menyakitkan yang saya lihat di bawah matahari: kekayaan tersimpan bagi pemiliknya untuk kemudaratannya.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "menyakitkan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "saya lihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "tersimpan"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "bagi pemiliknya"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "untuk kemudaratannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:41.531420344Z",
+  "model": "glm-5.3"
+}

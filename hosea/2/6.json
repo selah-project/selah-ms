@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan ⟨את⟩ anak-anaknya tidak akan kukasihiani, kerana anak-anak pelacuran merekalah mereka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "akan kukasihiani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "pelacuran"
+    },
+    {
+      "surface": "המה",
+      "gloss": "merekalah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:17.093159614Z",
+  "model": "glm-5.3"
+}

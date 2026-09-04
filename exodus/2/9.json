@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu berkata anak perempuan Paraoh kepadanya, Bawalah ⟨את⟩ anak ini dan susuilah dia untukku, dan aku akan memberi ⟨את⟩ upahmu. Lalu diambil oleh perempuan itu anak itu dan disusuinya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "Bawalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak ini"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "dan susuilah dia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akan memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upahmu"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "upahmu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "Lalu diambil"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "oleh perempuan itu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "dan disusuinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:09.563322532Z",
+  "model": "glm-5.3"
+}

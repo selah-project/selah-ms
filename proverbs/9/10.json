@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Permulaan hikmah ialah takut akan Yahweh, dan pengetahuan tentang kedushing ialah kefahaman.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Permulaan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dan pengetahuan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "tentang kedushing"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kefahaman"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:06.065683445Z",
+  "model": "glm-5.3"
+}

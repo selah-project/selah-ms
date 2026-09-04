@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Pakaianmu tidak lusuh dari atas tubuhmu, dan kakimu tidak bengkak — ini empat puluh tahun.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "pakaianmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "lusuh"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "dari atas tubuhmu"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "dan kakimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "bengkak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:37.627713708Z",
+  "model": "glm-5.3"
+}

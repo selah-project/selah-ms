@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Engkaulah ⟨yang⟩ El yang melakukan pelay; Engkau telah menyatakan kekuatan-Mu di antara bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "pelay"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Engkau telah menyatakan"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:52:54.577264446Z",
+  "model": "glm-5.3"
+}

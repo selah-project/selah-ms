@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau akan mengurap ⟨את⟩ mezbah korban bakaran itu dan ⟨את⟩ segala kelengkapannya, dan engkau akan menguduskan ⟨את⟩ mezbah itu, dan mezbah itu akan menjadi kudus segala kudus.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau akan mengurap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah korban bakaran itu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kelengkapannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kelengkapannya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dan engkau akan menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah itu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "segala kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:57.535638034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "bahawa engkau mencari kesalahanku, dan dosaku engkau menyelidiki?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "engkau mencari"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "kesalahanku"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "dan dosaku"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "engkau menyelidiki"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:19.700395096Z",
+  "model": "glm-5.3"
+}

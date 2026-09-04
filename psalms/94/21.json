@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Mereka berkerumun menentang nyawa orang benar, dan darah orang yang tak bersalah mereka menyatakan bersalah.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "mereka berkerumun"
+    },
+    {
+      "surface": "על",
+      "gloss": "menentang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "dan darah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "yang tak bersalah"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "mereka menyatakan bersalah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:31.473564668Z",
+  "model": "glm-5.3"
+}

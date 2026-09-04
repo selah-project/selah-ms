@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Serulah dengan kerongkong, jangan tahan, seperti syofar angkatlah suaramu, dan beritahulah kepada umat-Ku pemberontakan mereka, dan kepada betul Yaakov dosa-dosa mereka.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Serulah"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "dengan kerongkong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "tahan"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "seperti syofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "dan beritahulah"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "kepada umat-Ku"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pemberontakan mereka"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "dan kepada betul"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosa-dosa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:13.419782271Z",
+  "model": "glm-5.3"
+}

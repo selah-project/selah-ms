@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Sebagaimana engkau tidak tahu apakah jalan roh ⟨itu⟩, bagaimana ⟨tumbuh⟩ tulang-tulang dalam perut yang penuh, begitulah engkau tidak akan tahu ⟨את⟩ pekerjaan Elohim yang membuat ⟨את⟩ segala sesuatu.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sebagaimana"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "engkau tidak"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "seperti tulang-tulang"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "dalam perut"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "yang penuh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekerjaan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala sesuatu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segala sesuatu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:21.680556419Z",
+  "model": "glm-5.3"
+}

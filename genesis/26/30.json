@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Lalu ia membuat bagi mereka jamuan, dan mereka makan dan minum.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu ia membuat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dan mereka makan"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "dan mereka minum"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:40.273549085Z",
+  "model": "glm-5.3"
+}

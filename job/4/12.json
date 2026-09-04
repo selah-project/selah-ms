@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan kepadaku sebuah perkataan diseludup masuk, dan telingaku menerima secebis daripadanya.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Dan kepadaku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sebuah perkataan"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "diseludup masuk"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dan menerima"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "telingaku"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "secebis"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:57.794455769Z",
+  "model": "glm-5.3"
+}

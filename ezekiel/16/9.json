@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu Aku membasuh engkau dengan air, dan Aku membasuh darahmu daripada atasmu, dan Aku mengurut engkau dengan minyak.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "dan Aku membasuh engkau"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "dan Aku membilas"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "darahmu"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "daripada atasmu"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "dan Aku mengurut engkau"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    }
+  ],
+  "timestamp": "2026-09-04T13:31:14.452483109Z",
+  "model": "glm-5.3"
+}

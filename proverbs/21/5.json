@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Rancangan orang yang rajin hanya kepada lebihan, tetapi setiap orang yang tergesa-gesa hanya kepada kekurangan.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "yang rajin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "kepada lebihan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "yang tergesa-gesa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "kepada kekurangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:01.245787671Z",
+  "model": "glm-5.3"
+}

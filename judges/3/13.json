@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu ia mengumpulkan kepada dirinya ⟨את⟩ bani Amon dan Amalek, dan pergi serta memukul ⟨את⟩ Israel, dan mereka merampas ⟨את⟩ kota pokok tamar.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "lalu ia mengumpulkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada dirinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dan Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "serta memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "dan mereka merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "pokok tamar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:06:13.033604047Z",
+  "model": "glm-5.3"
+}

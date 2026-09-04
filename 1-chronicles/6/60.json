@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "dan ⟨את⟩ Hukok dengan tanah ragutnya, dan ⟨את⟩ Rehob dengan tanah ragutnya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah ragutnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah ragutnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Rehob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah ragutnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah ragutnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:03.049606774Z",
+  "model": "glm-5.3"
+}

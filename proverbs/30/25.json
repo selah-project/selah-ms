@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Semut-semut ialah bangsa yang tidak kuat, tetapi mereka menyediakan makanan mereka pada musim panas;",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "semut-semut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuat"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "mereka menyediakan"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pada musim panas"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "makanan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:35.744162006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Setelah David selesai mempersembahkan korban bakaran itu dan korban keselamatan itu, ia memberkati ⟨את⟩ bangsa itu demi nama Yahweh Tsebaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "setelah selesai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "mempersembahkan"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dan korban keselamatan itu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ia memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "demi nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:35.471706070Z",
+  "model": "glm-5.3"
+}

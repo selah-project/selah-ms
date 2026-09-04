@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Dan balikkanlah kepada jiran-jiran kami tujuh kali ganda ke pangkuan mereka nistaan yang mereka lakukan terhadap-Mu, ya Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Dan balikkanlah"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kepada jiran-jiran kami"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuh kali ganda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "pangkuan mereka"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "nistaan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "mereka lakukan terhadap-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:35.569783127Z",
+  "model": "glm-5.3"
+}

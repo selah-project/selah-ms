@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Kasihanilah aku, Yahweh; lihatlah penderitaanku daripada pembenci-pembenciku, Engkaulah yang mengangkat aku dari pintu-pintu gerbang maut.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Kasihanilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "penderitaanku"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "daripada pembenci-pembenciku"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "yang mengangkat aku"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "dari pintu-pintu gerbang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:05.876220043Z",
+  "model": "glm-5.3"
+}

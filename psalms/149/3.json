@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 149,
+  "translation": "Biarlah mereka memuji nama-Nya dengan tarian, dengan gendang dan kecapi biarlah mereka bermazmur bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "dengan tarian"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "dengan gendang"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "dan kecapi"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bermazmur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:36.773115737Z",
+  "model": "glm-5.3"
+}

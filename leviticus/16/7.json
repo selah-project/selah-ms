@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan ia akan mengambil ⟨את⟩ kedua-dua kambing jantan itu, dan mengdirikan ⟨את⟩ mereka di hadapan Yahweh, di pintu kemah pertemuan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan ia akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedua-dua kambing jantan itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "dan mengdirikan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:14.296872750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Sungguh, orang-orang benar akan bersyukur kepada namamu; orang-orang lurus akan tinggal bersama ⟨את⟩ wajahmu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "akan bersyukur"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kepada namamu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "akan tinggal"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang-orang lurus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahmu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:00.984975182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Sesiapa yang tidur dengan binatang, pasti dihukum mati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sesiapa yang"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:36.461712045Z",
+  "model": "glm-5.3"
+}

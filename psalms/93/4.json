@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 93,
+  "translation": "Mengatasi suara air yang banyak, yang megah — ombak pecah laut — Yahweh di tempat tinggi ⟨adalah⟩ megah.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "mengatasi suara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "yang megah"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ombak pecah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "megah"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "di tempat tinggi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:01.462471068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan jika ia melahirkan anak perempuan, maka ia menjadi tahir dua kali tujuh hari, seperti masa haidnya, dan enam puluh hari enam hari ia duduk atas darah pentahirannya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ia melahirkan"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "maka ia menjadi tahir"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dua kali tujuh hari"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "seperti masa haidnya"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ia duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "darah"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "pentahiran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:27.061465811Z",
+  "model": "glm-5.3"
+}

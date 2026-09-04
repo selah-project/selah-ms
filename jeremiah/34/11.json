@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Tetapi selepas itu mereka berbalik dan mengembalikan ⟨את⟩ hamba-hamba lelaki dan ⟨את⟩ hamba-hamba perempuan yang telah mereka bebaskan sebagai orang merdeka, lalu menundukkan mereka menjadi hamba dan hamba perempuan.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Tetapi mereka berbalik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hamba lelaki"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "hamba-hamba lelaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hamba-hamba perempuan"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "hamba-hamba perempuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "telah mereka bebaskan"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "sebagai orang merdeka"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "lalu menundukkan mereka"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "menjadi hamba"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "dan hamba perempuan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:50.674964145Z",
+  "model": "glm-5.3"
+}

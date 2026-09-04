@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Jangan buat bagimu patung ukiran, sebarang rupa, yang di langit dari atas, dan yang di bumi dari bawah, dan yang di air dari bawah bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung ukiran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sebarang"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:12.946624641Z",
+  "model": "glm-5.3"
+}

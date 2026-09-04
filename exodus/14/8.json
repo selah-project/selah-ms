@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan Yahweh menguatkan ⟨את⟩ hati Paroh raja Mitsrayim, maka ia mengejar bani Yisrael; dan bani Yisrael keluar dengan tangan yang tinggi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dan menguatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "parעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "maka ia mengejar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "-si"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "yang tinggi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:37.164653894Z",
+  "model": "glm-5.3"
+}

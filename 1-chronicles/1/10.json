@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Kusy memperanakkan ⟨את⟩ Nimrod; dialah yang mula-mula menjadi gibor di bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Dan Kusy"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mula-mula"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gibor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:15.584282391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "api dan batu es, salji dan asap, angin ribut yang melakukan firman-⟨Nya⟩;",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "dan batu es"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salji"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "dan asap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ribut"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "firman-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.141145305Z",
+  "model": "glm-5.3"
+}

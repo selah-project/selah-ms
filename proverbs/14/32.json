@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dalam kejahatannya orang fasik ditolak jatuh, tetapi orang benar berlindung dalam kematiannya.",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "dalam kejahatannya"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "ditolak jatuh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "tetapi berlindung"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "dalam kematiannya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:46.169866418Z",
+  "model": "glm-5.3"
+}

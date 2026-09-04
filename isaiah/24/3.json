@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Kosong terkosonglah bumi, dan jarah terjarahlah, sebab Yahweh telah berfirman ⟨את⟩ firman ini.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Kosong"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "terkosonglah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "dan jarah"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "terjarahlah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:17.808208876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Di sana Binjamin, yang termuda, memerintah mereka; pembesar-pembesar Yehuda dengan kumpulan mereka, pembesar-pembesar Zebulon, pembesar-pembesar Naftali.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "yang termuda"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "memerintah mereka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "kumpulan mereka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zebulon"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:03.406063705Z",
+  "model": "glm-5.3"
+}

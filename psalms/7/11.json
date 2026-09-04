@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Perisaiku ⟨bersandar⟩ pada Elohim, yang menyelamatkan orang-orang yang lurus hati.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Perisaiku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "yang menyelamatkan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:37.000040194Z",
+  "model": "glm-5.3"
+}

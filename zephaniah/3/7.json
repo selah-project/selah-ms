@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Aku telah berkata: pasti engkau akan takut ⟨את⟩ daku, engkau akan menerima pengajaran, dan tidak akan dipotong tempat kediamannya — segala yang Aku telah menjatuhkan ke atasnya; tetapi mereka bangkit pagi-pagi dan merosakkan segala perbuatan mereka.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku telah berkata"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "engkau akan takut"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "daku"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "engkau akan menerima"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pengajaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "akan dipotong"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "tempat kediamannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Aku telah menjatuhkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "mereka bangkit pagi-pagi"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "merosakkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:40.591455554Z",
+  "model": "glm-5.3"
+}

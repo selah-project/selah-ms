@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Bangsa garang mukanya, yang tidak mengangkat muka ⟨kepada⟩ orang tua, dan orang muda tidak dikasihannya.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "garang"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mengangkat (muka)"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "kepada orang tua"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "dan orang muda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "dikasihannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:41.411665722Z",
+  "model": "glm-5.3"
+}

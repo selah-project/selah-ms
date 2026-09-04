@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Jiwa yang berdosa, itulah yang akan mati; anak tidak akan memikul kesalahan ayah, dan ayah tidak akan memikul kesalahan anak; kebenaran orang benar akan berada atasnya, dan kejahatan orang fasik akan berada atasnya.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yang berdosa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan memikul"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "האב",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "dan ayah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan memikul"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan berada"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "dan kejahatan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan berada"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:21.593256334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 8:9",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan akan jadilah pada hari itu, demikianlah titah Adonai Yahweh, Aku akan membuat matahari terbenam pada waktu tengah hari, dan Aku akan menggelapkan bumi pada hari terang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan akan jadilah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah titah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "Aku akan membuat masuk"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "pada waktu tengah hari"
+    },
+    {
+      "surface": "והחשכתי",
+      "gloss": "dan Aku akan menggelapkan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:41.226424501Z",
+  "model": "glm-5.3"
+}

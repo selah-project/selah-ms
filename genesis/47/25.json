@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Dan mereka berkata: \"Engkau telah menghidupkan kami; kami mendapat kasih karunia di mata tuanku, dan kami menjadi hamba kepada Paro.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "engkau telah menghidupkan"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kami mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dan kami menjadi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kepada Paro"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:26.892214373Z",
+  "model": "glm-5.3"
+}

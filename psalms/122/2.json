@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Berdiri telah kaki kami di pintu-pintu gerbangmu, hai Yerusalem.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Berdiri"
+    },
+    {
+      "surface": "היו",
+      "gloss": "telah"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "kaki kami"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di pintu-pintu gerbangmu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "hai Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:19.680673739Z",
+  "model": "glm-5.3"
+}

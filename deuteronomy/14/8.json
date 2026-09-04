@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ⟨את⟩ babi — kerana ia membelah kuku tetapi tidak memuntahkan girah, haram ia bagi kamu; dari daging mereka kamu tidak boleh makan, dan bangkai mereka kamu tidak boleh sentuh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "babi itu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "babi itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ia membelah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "girah"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "haram"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "dari daging mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "dan bangkai mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamu boleh sentuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:09.340546915Z",
+  "model": "glm-5.3"
+}

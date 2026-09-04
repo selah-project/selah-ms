@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab bukan El yang berkenan kepada kejahatan ⟨engkau⟩; kejahatan tidak akan menumpang bersamamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yang berkenan kepada"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "akan menumpang bersamamu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:35.633363527Z",
+  "model": "glm-5.3"
+}

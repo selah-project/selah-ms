@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Hanya dengan matamu engkau akan menilik, dan balasan orang-orang fasik engkau akan lihat.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "dengan matamu"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "engkau akan menilik"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "dan balasan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau akan lihat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:55.264040210Z",
+  "model": "glm-5.3"
+}

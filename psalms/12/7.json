@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Perkataan Yahweh ⟨ialah⟩ perkataan yang tahir: perak yang dilebur dalam tanur di bumi, ditapis tujuh kali.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "yang tahir"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "yang dilebur"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "dalam tanur"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "ditapis"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "tujuh kali"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:19.163426453Z",
+  "model": "glm-5.3"
+}

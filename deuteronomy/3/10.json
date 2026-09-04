@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "semua kota dataran, dan seluruh Gilead, dan seluruh Basyan, sampai ke Salkah dan Edrei, kota-kota kerajaan Og di Basyan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "dataran itu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead itu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basyan itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkah"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "dan Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "di Basyan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:47.274617073Z",
+  "model": "glm-5.3"
+}

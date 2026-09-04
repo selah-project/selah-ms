@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Kemuliaan bagi seseorang ⟨ialah⟩ berhenti dari perbalahan, tetapi setiap orang bodoh akan bertengkar.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Kemuliaan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bagi seseorang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "dari perbalahan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tetapi setiap"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "akan bertengkar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:08.342641933Z",
+  "model": "glm-5.3"
+}

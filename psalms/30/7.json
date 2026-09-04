@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan aku, aku berkata dalam ketenteramanku: \"Aku tidak akan goyah selama-lamanya.\"",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "dalam ketenteramanku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak sekali-kali"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "akan goyah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:35.186872160Z",
+  "model": "glm-5.3"
+}

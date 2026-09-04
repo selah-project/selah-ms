@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Kesempurnaan dan ke lurusan mengawal aku, sebab aku menanti-nantikan Engkau.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "kesempurnaan"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "dan kelurusan"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "mengawal aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "aku menanti-nantikan Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:47.314054742Z",
+  "model": "glm-5.3"
+}

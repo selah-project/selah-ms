@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dari hadapan-Mu biarlah keluar penghakimanku; mata-Mu sendiri memandang ⟨kelurusan⟩.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Dari hadapan-Mu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "penghakiman-ku"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "biarlah keluar"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-Mu"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "⟨kelurusan⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:37.260262192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Penghina mencari hikmah tetapi ⟨tiada⟩, dan pengetahuan itu ringan bagi orang yang berakal budi.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "penghina"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi ⟨tiada⟩"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dan pengetahuan"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "bagi orang yang berakal budi"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "ringan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:34.142735600Z",
+  "model": "glm-5.3"
+}

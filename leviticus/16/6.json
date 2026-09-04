@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan Aharon akan membawa dekat ⟨את⟩ lembu korban dosa itu yang menjadi miliknya, dan mengadakan penebusan bagi dirinya dan bagi keluarganya.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "dan ia akan membawa dekat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu korban dosa itu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "menjadi miliknya"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan penebusan"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan bagi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "keluarganya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:14.296688214Z",
+  "model": "glm-5.3"
+}

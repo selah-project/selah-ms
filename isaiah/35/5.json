@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Pada waktu itu terbukalah mata orang-orang buta, dan telinga orang-orang pekak dibuka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada waktu itu"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "terbukalah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "orang-orang buta"
+    },
+    {
+      "surface": "ו אזני",
+      "gloss": "dan telinga"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "orang-orang pekak"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "dibuka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:24.144544744Z",
+  "model": "glm-5.3"
+}

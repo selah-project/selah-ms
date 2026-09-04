@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Kulit kami seperti tanur menghitam kepanasan, kerana kepanasan kelaparan.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "kulit kami"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "seperti tanur"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "menghitam kepanasan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:58.019097532Z",
+  "model": "glm-5.3"
+}

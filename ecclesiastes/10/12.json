@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Perkataan mulut orang bijak ⟨mendatangkan⟩ kurnia, tetapi bibir orang bodoh menelannya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kurnia"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "tetapi bibir"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "menelannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:12.535191083Z",
+  "model": "glm-5.3"
+}

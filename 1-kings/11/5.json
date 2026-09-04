@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka Syelomoh mengikut Asytoret, tuhan orang Tsidon, dan mengikut Milkom, kekejian orang Amon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Maka pergi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Asytoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "orang Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dan mengikut"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "orang Amon"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:44.055466451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan ada pelacur kuil di antara anak-anak perempuan Yisrael, dan jangan ada pelacur kuil di antara anak-anak lelaki Yisrael.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ada (perempuan)"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "pelacur kuil (perempuan)"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "di antara anak-anak perempuan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada (lelaki)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pelacur kuil (lelaki)"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "di antara anak-anak lelaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:27.401327009Z",
+  "model": "glm-5.3"
+}

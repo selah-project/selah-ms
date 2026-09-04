@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Sebab raja itu akan mendengar, untuk melepaskan ⟨את⟩ hambanya dari tangan orang itu, yang hendak membinasakan ⟨את⟩-ku dan ⟨את⟩ anakku sekaligus dari pusaka Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "untuk melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambanya"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "hambanya"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "yang hendak membinasakan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ku",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sekaligus"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "dari pusaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:08.628901078Z",
+  "model": "glm-5.3"
+}

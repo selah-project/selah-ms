@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Sahabatmu dan sahabat ayahmu janganlah kautinggalkan, dan ke rumah saudaramu janganlah kau masuk pada hari bencanamu; lebih baik jiran yang dekat daripada saudara yang jauh.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "Sahabatmu"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "dan sahabat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kautinggalkan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan ke rumah"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kau masuk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "bencanamu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "jiran"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "daripada saudara"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "yang jauh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:36.301535872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 130,
+  "translation": "Biarlah Yisrael mengharap kepada Yahweh, sebab bersama Yahweh ⟨ada⟩ hesed, dan bersama-Nya penebusan yang berlimpah.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "biarlah mengharap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "dan yang berlimpah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-Nya"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "penebusan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:16.828719839Z",
+  "model": "glm-5.3"
+}

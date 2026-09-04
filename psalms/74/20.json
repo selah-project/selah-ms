@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Pandanglah perjanjian-Mu, sebab tempat-tempat gelap bumi telah penuh dengan sarang keganasan.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "telah penuh"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "tempat-tempat gelap"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "sarang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:02.910758486Z",
+  "model": "glm-5.3"
+}

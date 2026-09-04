@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 44:22",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Aku telah menghapus seperti kabus pelanggaranmu, dan seperti awan dosa-dosamu; kembalilah kepada-Ku, kerana Aku telah menebus engkau.",
+  "tokens": [
+    {
+      "surface": "מחיתי",
+      "gloss": "Aku telah menghapus"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "seperti kabus"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "pelanggaranmu"
+    },
+    {
+      "surface": "וכענן",
+      "gloss": "dan seperti awan"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "dosa-dosamu"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "Aku telah menebus engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:48.656746193Z",
+  "model": "glm-5.3"
+}

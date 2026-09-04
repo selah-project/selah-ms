@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "dan ⟨את⟩ Oval, dan ⟨את⟩ Avimael, dan ⟨את⟩ Sye ba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Oval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Sye ba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sye ba"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:50.341850870Z",
+  "model": "glm-5.3"
+}

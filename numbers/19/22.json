@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan segala yang disentuh oleh orang najis itu menjadi najis, dan ⟨setiap⟩ diri yang menyentuhnya menjadi najis sehingga petang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "disentuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "olehnya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "orang najis itu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "dan ⟨setiap⟩ diri"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "yang menyentuhnya"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:40:52.049483681Z",
+  "model": "glm-5.3"
+}

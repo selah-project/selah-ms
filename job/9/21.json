@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Tulen ⟨adalah⟩ saya; saya tidak mengenali nefesy saya; saya muak akan hayat saya.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "saya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mengenali"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesy saya"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "saya muak"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayat saya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:17.804299987Z",
+  "model": "glm-5.3"
+}

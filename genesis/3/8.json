@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu mereka mendengar ⟨את⟩ suara Yahweh Elohim yang berjalan-jalan dalam taman pada sejuk hari itu; dan manusia itu serta isterinya bersembunyi daripada hadapan Yahweh Elohim di tengah-tengah pokok taman itu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "lalu mereka mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "yang berjalan-jalan"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "dalam taman"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "pada angin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari itu"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "dan bersembunyi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "serta isterinya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "daripada hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:14.571246654Z",
+  "model": "glm-5.3"
+}

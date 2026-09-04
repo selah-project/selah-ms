@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Raja-raja Tarsyis dan pulau-pulau akan mengirim upeti; raja-raja Syeba dan Sewa akan mempersembahkan hadiah.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Raja-raja"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsyis"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "dan pulau-pulau"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "upeti"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "akan mengirim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "dan Sewa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "hadiah"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "akan mempersembahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:51.008959994Z",
+  "model": "glm-5.3"
+}

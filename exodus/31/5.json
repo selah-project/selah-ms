@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "dan dalam penukiran batu untuk pemasangan, dan dalam penukiran kayu untuk membuat segala jenis pekerjaan.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "dan dalam penukiran"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "untuk pemasangan"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "dan dalam penukiran"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk membuat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "jenis pekerjaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:38.297297566Z",
+  "model": "glm-5.3"
+}

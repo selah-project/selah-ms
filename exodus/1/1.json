@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan inilah nama-nama bani Israel yang datang ke Mitsrayim: ⟨את⟩ Yaakov, setiap lelaki dan isi rumahnya, datanglah mereka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "yang datang"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap lelaki"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "dan isi rumahnya"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datanglah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:07.889484430Z",
+  "model": "glm-5.3"
+}

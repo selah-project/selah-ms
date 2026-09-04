@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu berkata rakyat itu kepada Shemuel: Siapakah yang berkata, 'Syaul memerintah atas kita'? Berikanlah orang-orang itu dan kami akan membunuh mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kita"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "dan kami akan membunuh mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:29.671762720Z",
+  "model": "glm-5.3"
+}

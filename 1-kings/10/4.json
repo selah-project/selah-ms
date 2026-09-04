@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Maka tampaklah kepada permaisuri Syeba ⟨את⟩ segala hikmat Syelomo, dan ⟨את⟩ rumah yang dibinanya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Maka tampaklah"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kepada permaisuri"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala hikmat Syelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "dan rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "dibinanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:37:26.517317394Z",
+  "model": "glm-5.3"
+}

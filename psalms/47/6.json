@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Elohim telah naik dengan sorak-sorai, Yahweh dengan suara syofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "telah naik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "dengan sorak-sorai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:43.215294035Z",
+  "model": "glm-5.3"
+}

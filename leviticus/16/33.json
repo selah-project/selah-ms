@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan dia menghapus dosa ⟨את⟩ tempat suci yang maha suci, dan ⟨את⟩ khemah perjumpaan, dan ⟨את⟩ mezbah dia menghapus dosanya; dan atas para imam dan atas seluruh umat jemaah dia menghapus dosa.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "dan dia menghapus dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat suci yang maha suci"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tempat suci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "yang maha suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "khemah perjumpaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dia menghapus dosanya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dia menghapus dosa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:42.096561263Z",
+  "model": "glm-5.3"
+}

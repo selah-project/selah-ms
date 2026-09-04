@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Daud menghantar orang untuk bertanya tentang perempuan itu, dan ⟨seseorang⟩ berkata: Bukankah ini Bat-Syeba, anak perempuan Eliam, isteri Uria orang Het itu?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dan menghantar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "bertanya"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tentang perempuan itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "orang Het itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:09.233682745Z",
+  "model": "glm-5.3"
+}

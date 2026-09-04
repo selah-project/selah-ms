@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Biarlah padang beria-ria dan segala yang ada padanya; maka pada waktu itu bersorak-sorailah segala pohon hutan.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Biarlah beria-ria"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka pada waktu itu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:41.902851385Z",
+  "model": "glm-5.3"
+}

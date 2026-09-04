@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Adakah kepada orang-orang mati Engkau melakukan perkara ajaib? Adakah refaim akan bangkit, memuji Engkau? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Adakah kepada orang-orang mati"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Engkau melakukan"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "perkara ajaib"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Adakah"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "akan bangkit"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "memuji Engkau"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:38.792594838Z",
+  "model": "glm-5.3"
+}

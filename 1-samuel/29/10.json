@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Maka sekarang, bangunlah engkau awal pada pagi — engkau dan hamba-hamba tuanmu yang datang bersama ⟨את⟩ kamu — dan apabila kamu bangun awal pada pagi dan ada terang bagimu, pergilah.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "maka sekarang"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "bangunlah awal"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "dan hamba-hamba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "bersama kamu (preposisi את kekerabatan)"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "dan kamu bangun awal"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan ada terang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "pergilah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:48:44.399592217Z",
+  "model": "glm-5.3"
+}

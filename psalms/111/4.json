@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Kenangan telah dibuat-Nya bagi perbuatan-perbuatan ajaib-Nya; pengasih dan penyayang ialah Yahweh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kenangan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat-Nya"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "bagi perbuatan-perbuatan ajaib-Nya"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "pengasih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dan penyayang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:12.744298660Z",
+  "model": "glm-5.3"
+}

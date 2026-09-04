@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan berbicara kepada mereka menurut nasihat anak-anak muda itu, katanya: Ayahku memberatkan ⟨את⟩ kuk kamu, dan aku akan menambah atas kuk kamu; ayahku menghukum ⟨את⟩ kamu dengan cambuk, dan aku akan menghukum ⟨את⟩ kamu dengan kala jengking.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berbicara"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "menurut nasihat"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "anak-anak muda itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "memberatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk kamu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kuk kamu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "akan menambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kuk kamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "menghukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "dengan cambuk"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "dengan cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "akan menghukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "dengan kala jengking"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "dengan kala jengking"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:28.200225055Z",
+  "model": "glm-5.3"
+}

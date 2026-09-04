@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan katanya kepada Eliyahu (Elia): \"Apa hal aku dengan engkau, hai orang Elohim? Adakah engkau datang kepadaku untuk mengingat-ingat ⟨את⟩ kesalahan aku, dan untuk membunuh anak aku?\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hal aku"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dengan engkau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "untuk mengingat-ingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan aku"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kesalahan aku"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "dan untuk membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak aku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:01.710778694Z",
+  "model": "glm-5.3"
+}

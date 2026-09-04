@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan David memukul ⟨את⟩ Hadadezer bin Rehov, raja Tsovah, ketika ia pergi untuk mengembalikan tangannya di Sungai.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ketika ia pergi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "untuk mengembalikan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di Sungai"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:25.584702985Z",
+  "model": "glm-5.3"
+}

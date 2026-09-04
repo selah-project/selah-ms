@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan sekarang ayahku membebankan ke atas kamu kuk yang berat, dan aku akan menambah ke atas kuk kamu; ayahku mendisiplinkan ⟨את⟩ kamu dengan cambuk, dan aku akan mendisiplinkan ⟨את⟩ kamu dengan kala jengking.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "membebankan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ke atas kamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yang berat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "akan menambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kuk kamu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "mendisiplinkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu (dengan cambuk)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "dengan cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "akan mendisiplinkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu (dengan kala jengking)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "dengan kala jengking"
+    }
+  ],
+  "timestamp": "2026-09-04T15:48:35.010243245Z",
+  "model": "glm-5.3"
+}

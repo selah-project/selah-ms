@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Pada masa itu Hizkiyah memotong ⟨את⟩ pintu-pintu istana Yahweh dan ⟨את⟩ tiang-tiang yang disalut Hizkiyah raja Yehuda, lalu diberikannya kepada raja Asyur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "pada masa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "memotong"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pintu-pintu"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiang-tiang"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "disalut"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "lalu diberikannya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:16.356082201Z",
+  "model": "glm-5.3"
+}

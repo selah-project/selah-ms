@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 112,
+  "translation": "Kekayaan dan kemewahan ⟨ada⟩ di rumahnya, dan kebenarannya berdiri untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Kekayaan"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dan kemewahan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "dan kebenarannya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:59.267697235Z",
+  "model": "glm-5.3"
+}

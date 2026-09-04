@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Ada kejahatan yang telah kulihat di bawah matahari, seperti kesilapan yang keluar dari hadapan pemerintah:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "yang telah kulihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "seperti kesilapan"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "pemerintah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:23.547901393Z",
+  "model": "glm-5.3"
+}

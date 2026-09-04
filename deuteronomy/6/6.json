@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan perkataan-perkataan ini, yang aku perintahkan kepadamu pada hari ini, hendaklah ⟨ada⟩ atas hatimu.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Dan hendaklah ⟨ada⟩"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hatimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:09.870382653Z",
+  "model": "glm-5.3"
+}

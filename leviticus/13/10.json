@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "dan sang kohen melihat, dan sesungguhnya ada bengkak putih pada kulit, dan ia telah menukar bulu menjadi putih, dan ada daging hidup dalam bengkak itu;",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "bengkak"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "putih"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "pada kulit"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dan ia"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "telah menukar"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bulu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "putih"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "dan tumbuhan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "dalam bengkak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:55.854265029Z",
+  "model": "glm-5.3"
+}

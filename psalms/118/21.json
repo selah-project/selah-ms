@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Aku bersyukur kepada-Mu sebab Engkau menjawab aku dan ⟨Engkau⟩ telah menjadi keselamatan bagiku.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Aku bersyukur kepada-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Engkau menjawab aku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan telah menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "keselamatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:32.340427310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Ketika aku berdiam diri, menjadi lusuhlah tulang-tulangku, ketika aku meraung sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ketika"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "aku berdiam diri"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "menjadi lusuhlah"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulang-tulangku"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ketika aku meraung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:31.350939046Z",
+  "model": "glm-5.3"
+}

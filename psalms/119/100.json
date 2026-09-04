@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Daripada orang-orang tua aku lebih memahami, sebab titah-titah-Mu aku pelihara.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "daripada orang-orang tua"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aku lebih memahami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "titah-titah-Mu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "aku pelihara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:10.534648234Z",
+  "model": "glm-5.3"
+}

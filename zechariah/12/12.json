@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan negeri akan meratap, keluarga demi keluarga bersendirian: keluarga keluarga Dawid bersendirian, dan isteri mereka bersendirian; keluarga keluarga Natan bersendirian, dan isteri mereka bersendirian.",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "Dan akan meratap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "demi keluarga"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bersendirian"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bersendirian"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "dan isteri mereka"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bersendirian"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bersendirian"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "dan isteri mereka"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "bersendirian"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:21.959373799Z",
+  "model": "glm-5.3"
+}

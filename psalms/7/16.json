@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lubang dikoreknya dan digalinya ⟨ia⟩, dan ia jatuh ke dalam perigi yang dikerjakannya.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Lubang"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "dikoreknya"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "dan digalinya ⟨ia⟩"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ke dalam perigi"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "yang dikerjakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:42.278517043Z",
+  "model": "glm-5.3"
+}

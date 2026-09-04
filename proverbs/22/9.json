@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Baik mata ⟨ daripada ⟩ dia ⟨ akan diberkati ⟩, sebab dia memberi daripada rotinya kepada orang miskin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "⟨ akan diberkati ⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "daripada rotinya"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "kepada orang miskin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:47.182010957Z",
+  "model": "glm-5.3"
+}

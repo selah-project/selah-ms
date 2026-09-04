@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan saya sangat murka dalam diri saya apabila saya mendengar ⟨את⟩ jeritan mereka dan ⟨את⟩ perkataan-perkataan ini.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dan saya murka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dalam diri saya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "saya mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeritan mereka"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "jeritan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perkataan-perkataan ini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan ini"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T14:53:36.853677174Z",
+  "model": "glm-5.3"
+}

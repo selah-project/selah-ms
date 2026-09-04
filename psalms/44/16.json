@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sepanjang hari aibku ⟨berada⟩ di hadapanku, dan malu mukaiku telah menutupi aku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "aibku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "dan malu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "telah menutupi aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:18.261903082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan mereka mendapati seorang lelaki Mitsri di padang, dan membawa ⟨את⟩ dia kepada David, dan memberi dia roti, lalu ia makan, dan memberinya minum air.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Dan mendapati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan memberi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "lalu ia makan"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "dan memberinya minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:34.174349768Z",
+  "model": "glm-5.3"
+}

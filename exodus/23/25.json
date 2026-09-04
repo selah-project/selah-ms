@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan kamu akan berkhidmat kepada ⟨את⟩ Yahweh Elohim kamu, dan Ia akan memberkati ⟨את⟩ roti kamu dan ⟨את⟩ air kamu, dan Aku akan menghapuskan penyakit dari tengah-tengah kamu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "dan kamu akan berkhidmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "dan Ia akan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roti kamu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "roti kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "air kamu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "air kamu"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "dan Aku akan menghapuskan"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dari tengah-tengah kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:45.767358655Z",
+  "model": "glm-5.3"
+}

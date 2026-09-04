@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu mereka berkata: Darah ini! Raja-raja sungguh telah binasa, mereka saling memukul, setiap orang ⟨את⟩ temannya; dan sekarang, Moab, kepada rompakan!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lalu mereka berkata"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Darah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sungguh binasa"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "telah binasa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mereka saling memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temannya"
+    },
+    {
+      "surface": "רעהuo",
+      "gloss": "temannya"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kepada rompakan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:32.588340342Z",
+  "model": "glm-5.3"
+}

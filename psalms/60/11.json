@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Siapakah akan membawa saya ke bandar berkubu? Siapakah akan menunjuki saya sampai ke Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "akan membawa saya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "akan menunjuki saya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:39.978716475Z",
+  "model": "glm-5.3"
+}

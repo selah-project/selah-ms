@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu bangkitlah mereka dan melarikan diri pada waktu senja, dan meninggalkan ⟨את⟩ kemah mereka dan ⟨את⟩ kuda mereka dan ⟨את⟩ keldai mereka — kem itu sebagaimana adanya — dan melarikan diri demi nyawa mereka.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Lalu bangkitlah mereka"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "dan melarikan diri"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah mereka"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "kemah mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kuda mereka"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kuda mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "keldai mereka"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keldai mereka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kem itu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "adanya"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan melarikan diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "demi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:50.944486139Z",
+  "model": "glm-5.3"
+}

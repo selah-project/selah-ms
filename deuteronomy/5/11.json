@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Jangan menyebut ⟨את⟩ nama Yahweh Elohimmu dengan sia-sia, sebab Yahweh tidak akan membiarkan tanpa hukuman ⟨את⟩ orang yang menyebut ⟨את⟩ nama-Nya dengan sia-sia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "menyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "dengan sia-sia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "akan membiarkan tanpa hukuman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang menyebut nama-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "menyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-Nya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "dengan sia-sia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:19.314412954Z",
+  "model": "glm-5.3"
+}

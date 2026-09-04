@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Demikianlah Yahweh menyelamatkan ⟨את⟩ Hizkiyahu dan ⟨את⟩ penduduk Yerusalem dari tangan Sanherib, raja Asyur, dan dari tangan semua ⟨musuh⟩, dan membimbing mereka ke aman di sekeliling.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Demikianlah ... menyelamatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penduduk Yerusalem"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "dan membimbing mereka"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "di sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T15:13:19.895039621Z",
+  "model": "glm-5.3"
+}

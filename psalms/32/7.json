@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Engkaulah persembunyian bagiku; dari kesusahan Engkau akan menjagaku; dengan sorak-sorai kelepasan Engkau akan mengelilingiku. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "persembunyian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari kesusahan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Engkau akan menjagaku"
+    },
+    {
+      "surface": "רני",
+      "gloss": "sorak-sorai"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "kelepasan"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "Engkau akan mengelilingiku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:35.039153114Z",
+  "model": "glm-5.3"
+}

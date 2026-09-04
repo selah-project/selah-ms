@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan engkau menghampirkan ⟨את⟩ bani Lewi ke hadapan Yahweh, dan bani Israel menyokong ⟨את⟩ tangan mereka ke atas bani Lewi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "dan engkau menghampirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "bani Lewi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "dan mereka menyokong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "bani Lewi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:14.980137185Z",
+  "model": "glm-5.3"
+}

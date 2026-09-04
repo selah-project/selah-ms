@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Sebelum gunung-gunung dilahirkan, dan sebelum Engkau membentuk bumi dan tebel, dan dari selama-lamanya sampai selama-lamanya Engkau ⟨ialah⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Sebelum"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "dan sebelum Engkau membentuk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "dan tebel"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "dan dari selama-lamanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:06.186009592Z",
+  "model": "glm-5.3"
+}

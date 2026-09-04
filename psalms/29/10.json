@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Yahweh ⟨duduk bertakhta⟩ pada air bah; dan Yahweh ⟨duduk sebagai⟩ Raja untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "pada air bah"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨duduk bertakhta⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan ⟨Ia⟩ duduk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:01.801370057Z",
+  "model": "glm-5.3"
+}

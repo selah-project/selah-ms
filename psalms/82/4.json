@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 82,
+  "translation": "Lepaskanlah yang lemah dan yang papa; dari tangan orang-orang fasik selamatkanlah ⟨mereka⟩.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "lepaskanlah"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan yang papa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "selamatkanlah ⟨mereka⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:12.904132005Z",
+  "model": "glm-5.3"
+}

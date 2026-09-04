@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Orang yang memandang rendah sesamanya berdosa, tetapi orang yang menunjukkan belas kasihan kepada orang miskin, berbahagialah dia.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "memandang rendah"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "tetapi menunjukkan belas kasihan"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "berbahagialah dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:40.653825435Z",
+  "model": "glm-5.3"
+}

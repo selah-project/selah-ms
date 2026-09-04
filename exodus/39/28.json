@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "dan ⟨את⟩ serban daripada linen halus, dan ⟨את⟩ hiasan kepala daripada linen halus bagi serban-serban kecil, dan ⟨את⟩ seluar daripada kain linen, linen halus dipintal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "serban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "serban"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen halus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hiasan kepala"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "hiasan kepala"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "bagi serban-serban kecil"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen halus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluar"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "seluar"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "kain linen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen halus"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dipintal"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:59.884364125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ satu domba jantan itu engkau akan mengambil, dan Aharon serta anak-anaknya akan meletakkan ⟨את⟩ tangan mereka ke atas kepala domba itu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "satu domba jantan itu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan itu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau akan mengambil"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "dan mereka akan meletakkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "serta anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:01.872827197Z",
+  "model": "glm-5.3"
+}

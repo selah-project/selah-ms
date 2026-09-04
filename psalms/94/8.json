@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Mengertilah, hai yang bebal di antara umat, dan hai orang-orang bodoh — bilakah kamu akan berakal?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "mengertilah"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "hai yang bebal"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "di antara umat"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "dan hai orang-orang bodoh"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilakah"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "kamu akan berakal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:43.338312388Z",
+  "model": "glm-5.3"
+}

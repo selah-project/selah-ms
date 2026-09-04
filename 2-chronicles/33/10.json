@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan Yahweh berfirman kepada Menashye dan kepada umatnya, tetapi mereka tidak menujuhkan telinga.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "menujuhkan telinga"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:54.152710840Z",
+  "model": "glm-5.3"
+}

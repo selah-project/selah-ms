@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Tidak mengumpat dengan lidahnya, tidak berbuat kejahatan kepada sesamanya, dan tidak mengangkat celaan terhadap orang dekatnya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "mengumpat"
+    },
+    {
+      "surface": "על",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lidahnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "kepada sesamanya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "dan celaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "orang dekatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:44.884584673Z",
+  "model": "glm-5.3"
+}

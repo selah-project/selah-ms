@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Lindungilah aku, Yahweh, dari tangan orang jahat; dari seorang lelaki keganasan peliharalah aku — mereka yang merancang untuk menggeser langkah-langkahku.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Lindungilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari seorang lelaki"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "peliharalah aku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "mereka merancang"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "untuk menggeser"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "langkah-langkahku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:31.989551549Z",
+  "model": "glm-5.3"
+}

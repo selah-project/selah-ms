@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Siapakah akan memberikan aku di padang gurun satu tempat penginapan pengembara, supaya aku meninggalkan ⟨את⟩ umatku dan pergi dari ⟨את⟩ mereka? Sebab semua mereka ⟨ialah⟩ penzina, suatu himpunan pengkhianat.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "akan memberikan aku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "tempat penginapan"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "pengembara"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "dan aku akan meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umatku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dan aku akan pergi"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari ⟨את⟩ mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "semua mereka"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "penzina"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "himpunan"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pengkhianat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:35.744622428Z",
+  "model": "glm-5.3"
+}

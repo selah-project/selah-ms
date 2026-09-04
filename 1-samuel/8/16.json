@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ⟨את⟩ hamba-hamba lelaki kamu, dan ⟨את⟩ hamba-hamba perempuan kamu, dan ⟨את⟩ anak-anak muda kamu yang terbaik, dan ⟨את⟩ keldai-keldai kamu, ia akan mengambil, dan membawanya untuk pekerjaannya sendiri.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hamba-hamba lelaki kamu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "hamba-hamba lelaki kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hamba-hamba perempuan kamu"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "hamba-hamba perempuan kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak muda kamu"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "anak-anak muda kamu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "yang terbaik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "keldai-keldai kamu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "keldai-keldai kamu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ia akan mengambil"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "untuk pekerjaannya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:52.825587026Z",
+  "model": "glm-5.3"
+}

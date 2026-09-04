@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 82,
+  "translation": "Bangkitlah, Elohim, hakimilah ⟨את⟩ bumi, sebab Engkaulah yang akan mewarisi segala bangsa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangkitlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "hakimilah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "yang akan mewarisi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:57.248546058Z",
+  "model": "glm-5.3"
+}

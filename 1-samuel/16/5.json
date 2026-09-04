@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan katanya: Syalom; untuk mempersembahkan korban kepada Yahweh aku datang; sucikan dirimu, dan kamu datang bersama ⟨את⟩ aku ke korban itu. Lalu ia menguduskan ⟨את⟩ Yisyai dan ⟨את⟩ anak-anaknya, dan memanggil mereka ke korban itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalom"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "untuk mempersembahkan korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku datang"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "sucikan dirimu"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "dan kamu datang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bersama ⟨את⟩ aku"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ke korban itu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "lalu ia menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisyai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisyai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan memanggil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ke korban itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:45.575700816Z",
+  "model": "glm-5.3"
+}

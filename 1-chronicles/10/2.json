@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Orang-orang Pelisyt memburu Syaul dan memburu anak-anaknya, lalu orang-orang Pelisyt memukul ⟨את⟩ Yonatan dan ⟨את⟩ Avinadav dan ⟨את⟩ Malki-Syua, anak-anak Syaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "memburu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelisyt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dan di belakang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lalu memukul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelisyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Malki-Syua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Syua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:07.232741182Z",
+  "model": "glm-5.3"
+}

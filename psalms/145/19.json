@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Kerelaan orang-orang yang takut akan Dia akan dilakukan-Nya, dan ⟨את⟩ seruan mereka didengar-Nya, dan diselamatkan-Nya mereka.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Kerelaan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "orang-orang yang takut akan Dia"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan dilakukan-Nya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seruan mereka"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "seruan mereka"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "didengar-Nya"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "dan diselamatkan-Nya mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:31.313541746Z",
+  "model": "glm-5.3"
+}

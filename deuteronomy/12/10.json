@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan kamu akan melintasi ⟨את⟩ Yarden, dan kamu akan diam di negeri yang Yahweh Elohim kamu memberikan ⟨את⟩ kepadamu sebagai pusaka, dan ⟨Dia⟩ memberi kamu perhentian daripada semua musuh kamu di sekeliling, dan kamu akan diam dengan selamat.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "Dan kamu akan melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dan kamu akan diam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "memberikan sebagai pusaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kepadamu"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "dan ⟨Dia⟩ memberi perhentian"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada semua"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh kamu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "di sekeliling"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dan kamu akan diam"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "dengan selamat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:01.163129420Z",
+  "model": "glm-5.3"
+}

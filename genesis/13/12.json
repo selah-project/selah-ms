@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Avram diam di tanah Kenaan, dan Lot diam di kota-kota Lembangan itu, dan berkemahlah ia sampai ke Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "dan Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di kota-kota"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "Lembangan itu"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "dan berkemahlah ia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:16.330116310Z",
+  "model": "glm-5.3"
+}

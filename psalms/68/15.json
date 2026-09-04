@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Ketika Syadai mencerai-beraikan raja-raja di dalamnya, bersaljulah di Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "ketika mencerai-beraikan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Syadai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "bersaljulah"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "di Tsalmon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:54.528874747Z",
+  "model": "glm-5.3"
+}

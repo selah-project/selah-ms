@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 20:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Ben-Hadad menghantar orang kepadanya, katanya: \"Beginilah kiranya tuhan-tuhan (Elohim bangsa-bangsa) berbuat kepadaku, dan begitulah kiranya mereka tambahkan, jika debu Someron mencukupi untuk segenggam bagi seluruh rakyat yang mengikut kakiku.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu... menghantar orang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "dan begitulah"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "mereka tambahkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ישפק",
+      "gloss": "mencukupi untuk segenggam"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Someron"
+    },
+    {
+      "surface": "לשעלים",
+      "gloss": "segenggam-segenggam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "mengikut kakiku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:07.866154616Z",
+  "model": "glm-5.3"
+}

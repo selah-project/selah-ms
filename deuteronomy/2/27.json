@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Biarlah aku melalui negerimu; di jalan, di jalan aku berjalan; aku tidak akan berpaling ke kanan dan ke kiri.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "biarlah aku melalui"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "negerimu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "aku akan berpaling"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ke kanan"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "dan ke kiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:25.280433757Z",
+  "model": "glm-5.3"
+}

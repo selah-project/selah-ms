@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim Tsebaot, siapakah seperti Engkau? Engkaulah ⟨yang⟩ perkasa, Yah, dan kesetiaan-Mu mengelilingi Engkau.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seperti Engkau"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "perkasa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "dan kesetiaan-Mu"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "mengelilingi Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:52.946146950Z",
+  "model": "glm-5.3"
+}

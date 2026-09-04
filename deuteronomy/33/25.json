@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Besi dan tembaga segala palangmu, dan seperti hari-harimu demikianlah ketahananmu.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Besi"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "dan tembaga"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "palang-palangmu"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "dan seperti hari-harimu"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "ketahananmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:50.412103273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Aku akan datang menyerangnya ketika dia penat dan lemah tangan, dan aku akan menggetarkan ⟨את⟩nya, maka seluruh umat yang ⟨את⟩ bersamanya akan lari, dan aku akan memukul ⟨את⟩ raja itu seorang sahaja.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "dan aku akan datang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "menyerangnya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ketika dia"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "penat"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "dan lemah"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "dan aku akan menggetarkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Dawid)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "maka akan lari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "dan aku akan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seorang sahaja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:22.942761474Z",
+  "model": "glm-5.3"
+}

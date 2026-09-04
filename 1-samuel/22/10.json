@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "dan bertanya baginya kepada Yahweh, dan memberikannya bekalan, dan ⟨את⟩ pedang Goliat orang Pelishti diberikannya kepadanya.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dan bertanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "dan bekalan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pedang Goliat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Pelishti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:06.515967138Z",
+  "model": "glm-5.3"
+}

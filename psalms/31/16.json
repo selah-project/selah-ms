@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dalam tangan-Mu waktu-waktu aku; selamatkanlah aku dari tangan musuh-musuh aku dan dari pemburu-pemburu aku.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Dalam tangan-Mu"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "waktu-waktu aku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuh aku"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "dan dari pemburu-pemburu aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:18.296148936Z",
+  "model": "glm-5.3"
+}

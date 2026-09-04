@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ia akan menyembelih ⟨את⟩ burung yang satu itu ke dalam bekas tanah liat, di atas air yang hidup.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "dan ia akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung yang satu itu"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "burung itu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bekas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tanah liat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:24.012896744Z",
+  "model": "glm-5.3"
+}

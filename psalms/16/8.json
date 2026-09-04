@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Aku telah menetapkan Yahweh sentiasa di hadapanku; kerana dari sebelah kananku ⟨Dia berdiri⟩ — aku tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Aku telah menetapkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "dari sebelah kananku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "akan goyah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:25.536995553Z",
+  "model": "glm-5.3"
+}

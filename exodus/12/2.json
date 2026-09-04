@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Bulan yang ini bagi kamu kepala bulan-bulan; yang pertama ia bagi kamu, bagi bulan-bulan tahun itu.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Bulan itu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan-bulan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "bagi bulan-bulan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:01.114301508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "dan Akhimaats memperanakkan ⟨את⟩ Azarjah, dan Azarjah memperanakkan ⟨את⟩ Yokhanan;",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "dan Akhimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "dan Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokhanan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:41.575293801Z",
+  "model": "glm-5.3"
+}

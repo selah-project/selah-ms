@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Mereka memancarkan, mereka bercakap keterlaluan; semua pekerja kejahatan meninggikan diri.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "memancarkan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bercakap"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "keterlaluan"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "meninggikan diri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:07.615679287Z",
+  "model": "glm-5.3"
+}

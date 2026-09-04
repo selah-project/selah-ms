@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Aku akan menjadikan kanak-kanak sebagai pemimpin mereka, dan orang-orang sembrono akan memerintah atas mereka.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Dan Aku akan menjadikan"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "kanak-kanak"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "sebagai pemimpin mereka"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "dan orang-orang sembrono"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "atas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:30.888903988Z",
+  "model": "glm-5.3"
+}

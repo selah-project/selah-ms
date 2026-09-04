@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Yang menghantar mata air di lembah-lembah; di antara gunung-gunung mereka mengalir.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Yang menghantar"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "di wadi-wadi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "mereka berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:49.684763967Z",
+  "model": "glm-5.3"
+}

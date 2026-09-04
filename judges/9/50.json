@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu Avimelekh pergi ke Teves, dan berkhemah menentang Teves, lalu menawannya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu ia pergi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Teves"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "dan ia berkhemah"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "menentang Teves"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "lalu menawannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:29.654857147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Pada waktu pagi ia berbunga dan berlalu; pada waktu petang ia ditebang dan menjadi kering.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ia berbunga"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "dan berlalu"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "ia ditebang"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "dan menjadi kering"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.497931045Z",
+  "model": "glm-5.3"
+}

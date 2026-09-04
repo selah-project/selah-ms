@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan engkau menyerahkan hamba kepada tuannya, yang melarikan diri kepadamu dari tuannya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "engkau menyerahkan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ia melarikan diri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:10.654459101Z",
+  "model": "glm-5.3"
+}

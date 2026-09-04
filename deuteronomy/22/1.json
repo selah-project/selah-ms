@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jangan engkau melihat ⟨את⟩ lembu saudaramu atau ⟨את⟩ kambing dombanya yang sesat, lalu bersembunyi diri daripadanya; mengembalikan engkau pasti mengembalikannya kepada saudaramu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing dombanya"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "kambing dombanya"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "yang sesat"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "lalu bersembunyi diri"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "השב",
+      "gloss": "mengembalikan"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "engkau pasti mengembalikannya"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kepada saudaramu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:28.495736360Z",
+  "model": "glm-5.3"
+}

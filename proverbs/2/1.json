@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Anakku, jika engkau menerima perkataanku, dan perintah-perintahku engkau simpan bersamamu ⟨את⟩ —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau menerima"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dan perintah-perintahku"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "engkau simpan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bersamamu",
+      "marks": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:34.981060192Z",
+  "model": "glm-5.3"
+}

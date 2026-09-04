@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab lihat, musim sejuk telah berlalu, hujan telah lewat, telah pergi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "musim sejuk"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "telah berlalu"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "telah lewat"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "telah pergi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sambil pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:50.880618486Z",
+  "model": "glm-5.3"
+}

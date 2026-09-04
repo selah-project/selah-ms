@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 5:3",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu datanglah segala tua-tua Israel kepada raja, di Hebron, dan raja David mengikat perjanjian dengan mereka di Hebron di hadapan Yahweh; dan mereka mengurapi ⟨את⟩ David menjadi raja atas Israel.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Lalu datanglah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "di Hebron"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dan mengikat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hebron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "dan mengurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:39.545841699Z",
+  "model": "glm-5.3"
+}

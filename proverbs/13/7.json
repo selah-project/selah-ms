@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Ada orang yang mengayakan dirinya padahal tidak memiliki apa-apa; ada yang memiskinkan dirinya padahal kekayaannya berlimpah.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ada orang yang"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "mengayakan dirinya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "padahal tidak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "memiskinkan dirinya"
+    },
+    {
+      "surface": "והון",
+      "gloss": "kekayaannya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "berlimpah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:55.652746315Z",
+  "model": "glm-5.3"
+}

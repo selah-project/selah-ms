@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu berkatalah Shemuel kepada seluruh Israel: Lihat, aku telah mendengar suaramu dalam segala yang kamu katakan kepadaku, dan aku telah mengangkat seorang raja atas kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aku telah mendengar"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kamu katakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "dan aku telah mengangkat raja"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "seorang raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:15.898227469Z",
+  "model": "glm-5.3"
+}

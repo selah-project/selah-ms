@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 127,
+  "translation": "Sia-sia bagi kamu, hai pembangun-pagi yang bangun awal, yang lewat duduk, pemakan roti kesusahan; demikianlah Ia memberi kepada kekasih-Nya tidur.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Sia-sia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "pembangun-pagi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "yang bangun"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "yang lewat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pemakan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ia memberi"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "kepada kekasih-Nya"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "tidur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:47.245750084Z",
+  "model": "glm-5.3"
+}

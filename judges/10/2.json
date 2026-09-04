@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan ia menghakimi ⟨את⟩ Yisrael dua puluh tiga tahun, lalu mati dan dikuburkan di Syamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dan ia menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan dikuburkan"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "di Syamir"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:32.221583370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan berjadilah, apabila raja Hizkiyahu mendengarnya, maka ia mengoyakkan ⟨את⟩ pakaiannya, lalu berselimut kain kasut, dan masuk ke rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berjadilah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengarnya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "maka ia mengoyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "lalu berselimut"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "kain kasut"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:32.551095914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Maka Moshe memerintahkan ⟨את⟩ orang Lewi, pembawa-pembawa peti perjanjian Yahweh, katanya:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maka memerintahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang Lewi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa-pembawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:22.235556945Z",
+  "model": "glm-5.3"
+}

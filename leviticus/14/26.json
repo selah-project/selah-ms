@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan imam mencurahkan sedikit daripada minyak itu ke atas tapak tangan kirinya sendiri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "dan sedikit daripada"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "mencurahkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tapak tangan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "kirinya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:14.032812602Z",
+  "model": "glm-5.3"
+}

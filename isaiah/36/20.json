@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Siapakah antara semua tuhan-tuhan negeri-negeri ini yang melepaskan ⟨את⟩ negeri mereka dari tanganku, sehingga Yahweh akan melepaskan ⟨את⟩ Yerusalem dari tanganku?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "antara semua"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "negeri-negeri itu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "negeri mereka"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tanganku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "akan melepaskan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:00.167706933Z",
+  "model": "glm-5.3"
+}

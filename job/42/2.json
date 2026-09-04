@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Aku tahu bahawa Engkau sanggup melakukan segala-galanya, dan tiada rancangan yang dapat dibatasi daripada-Mu.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala-galanya"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Engkau sanggup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "dapat dibatasi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripada-Mu"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "rancangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:09.636901505Z",
+  "model": "glm-5.3"
+}

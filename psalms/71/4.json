@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Elohimku, lepaskanlah aku dari tangan orang fasik, dari telapak ⟨tangan⟩ orang yang bengkok dan yang ganas.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "lepaskanlah aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "dari telapak"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "dan yang ganas"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:55.101915142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sebab itu katakanlah kepada bani Israel: Aku ialah Yahweh, dan Aku akan membawa kamu keluar dari bawah beban Mitsrayim, dan Aku akan menyelamatkan kamu dari perhambaan mereka, dan Aku akan menebus kamu dengan lengan terulur dan dengan hukuman-hukuman yang besar.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "dan Aku akan membawa keluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "beban"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "dan Aku akan menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "dari perhambaan mereka"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "dan Aku akan menebus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "dengan lengan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "terulur"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "dan dengan hukuman-hukuman"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:27.125352190Z",
+  "model": "glm-5.3"
+}

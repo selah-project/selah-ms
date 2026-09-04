@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan mereka mempersembahkan korban ⟨את⟩ anak-anak lelaki mereka dan ⟨את⟩ anak-anak perempuan mereka kepada syedim,",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Dan mereka mempersembahkan korban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelaki mereka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak lelaki mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "anak-anak perempuan mereka"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kepada syedim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:58.379215793Z",
+  "model": "glm-5.3"
+}

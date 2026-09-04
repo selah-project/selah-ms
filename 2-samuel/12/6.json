@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan ⟨את⟩ anak biri-biri itu akan dibayarnya empat kali ganda, kerana dia melakukan perkara ini dan kerana dia tidak pernah merasa belas kasihan.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak biri-biri itu"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "anak biri-biri itu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akan dibayarnya"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "empat kali ganda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "merasa belas kasihan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:35.514187552Z",
+  "model": "glm-5.3"
+}

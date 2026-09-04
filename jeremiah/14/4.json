@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Kerana tanah itu retak-patah, kerana tiada hujan di bumi; para petani malu, menudung kepala mereka.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "retak-patah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "malu"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "para petani"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "menudung"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kepala mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:54.703508937Z",
+  "model": "glm-5.3"
+}

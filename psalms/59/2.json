@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Selamatkanlah aku daripada musuh-musuhku, Elohimku; daripada yang bangkit menentangku, tinggikanlah aku ⟨ke tempat selamat⟩.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Selamatkanlah aku"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "daripada musuh-musuhku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "daripada yang bangkit menentangku"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "tinggikanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:16.441539400Z",
+  "model": "glm-5.3"
+}

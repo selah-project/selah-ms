@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "sebab demikian diperintahkan kepadaku ⟨את⟩ oleh firman Yahweh, katanya: jangan engkau makan roti dan jangan engkau minum air, dan jangan engkau berpulang di jalan yang engkau lalui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kepadaku"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "oleh firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "engkau minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "engkau berpulang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "engkau lalui"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:54.389946605Z",
+  "model": "glm-5.3"
+}

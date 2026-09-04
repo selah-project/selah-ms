@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan jika engkau berjalan di jalan-Ku, dengan memelihara ketetapan-Ku dan perintah-perintah-Ku, seperti yang berjalan David ayahmu, maka Aku akan memanjangkan ⟨את⟩ hari-harimu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau berjalan"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di jalan-Ku"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "dengan memelihara"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dan perintah-perintah-Ku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "maka Aku akan memanjangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-harimu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:27.656098807Z",
+  "model": "glm-5.3"
+}

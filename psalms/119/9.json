@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dengan apa seorang pemuda menyucikan ⟨את⟩ jalannya? Dengan menjaganya menurut firman-Mu.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Dengan apa"
+    },
+    {
+      "surface": "יזזכה",
+      "gloss": "menyucikan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "pemuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalannya"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "menurut firman-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:06.979699549Z",
+  "model": "glm-5.3"
+}

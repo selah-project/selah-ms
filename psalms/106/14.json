@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Lalu mereka mengingini keinginan di padang gurun, dan mereka mencuba El di padang belantara.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "lalu mereka mengingini"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan mereka mencuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di padang belantara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:04.156089217Z",
+  "model": "glm-5.3"
+}

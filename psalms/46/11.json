@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Berdiamlah dan ketahuilah bahawa Akulah Elohim; Aku ditinggikan di antara bangsa-bangsa, Aku ditinggikan di bumi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Berdiamlah"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "dan ketahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "Aku ditinggikan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "Aku ditinggikan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:25.712615366Z",
+  "model": "glm-5.3"
+}

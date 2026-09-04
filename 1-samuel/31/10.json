@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Mereka menaruh ⟨את⟩ peralatannya di bait Asytarot, dan ⟨את⟩ mayatnya mereka pasak pada tembok Beit-Syan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "mereka menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peralatannya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "peralatannya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Asytarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mayatnya"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "mayatnya"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mereka pasak"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "pada tembok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Syan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:24.045494524Z",
+  "model": "glm-5.3"
+}

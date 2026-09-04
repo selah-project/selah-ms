@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu bangunlah Yoab dan pergilah ia ke Gesyur, lalu membawa ⟨את⟩ Avsyalom ke Yerusalaim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu bangunlah"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergilah ia"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ke Gesyur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsyalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerusalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:53.042230812Z",
+  "model": "glm-5.3"
+}

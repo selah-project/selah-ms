@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Janganlah engkau memakai sya'atnez, bulu biri-biri dan linen bersama-sama.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "engkau memakai"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "sya'atnez"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "bulu biri-biri"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "dan linen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:30.758669591Z",
+  "model": "glm-5.3"
+}

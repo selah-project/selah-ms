@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan David mendengar di gurun bahawa Nabal sedang menggunting ⟨את⟩ kawanannya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "sedang menggunting"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanannya"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kawanannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:51.596266975Z",
+  "model": "glm-5.3"
+}

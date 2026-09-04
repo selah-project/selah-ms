@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "\"Angkatlah ⟨את⟩ kepala bani Kehat dari tengah-tengah bani Levi, menurut keluarga mereka, menurut rumah bapa mereka:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala bani Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah-tengah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga mereka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:11.983797960Z",
+  "model": "glm-5.3"
+}

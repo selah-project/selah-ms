@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Perkara-perkara kudus-Ku engkau hinakan, dan ⟨את⟩ Sabat-Sabat-Ku engkau najiskan.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Perkara-perkara kudus-Ku"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "engkau hinakan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabat-Sabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabat-Sabat-Ku"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "engkau najiskan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:36.287605131Z",
+  "model": "glm-5.3"
+}

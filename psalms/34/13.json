@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Siapakah ⟨adam⟩ yang menghendaki hayat, yang sayang akan hari-hari yang banyak, untuk melihat kebaikan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manusia yang"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "menghendaki"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hayat"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yang sayang akan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:37.001462921Z",
+  "model": "glm-5.3"
+}

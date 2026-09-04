@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Jadikanlah pemimpin mereka seperti Orev dan seperti Zev, ya, semua pembesar mereka seperti Zevah dan seperti Tsalmona;",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Jadikanlah"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "pemimpin mereka"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "seperti Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "dan seperti Zev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "dan seperti Zevah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "dan seperti Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "pembesar mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:28.772934376Z",
+  "model": "glm-5.3"
+}

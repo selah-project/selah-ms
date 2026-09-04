@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan berdirilah umat itu dari jauh, tetapi Moshe menghampiri ⟨ke⟩ gelap pekat yang di sana ⟨adalah⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Dan berdirilah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "tetapi Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "gelap pekat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:22.111538888Z",
+  "model": "glm-5.3"
+}

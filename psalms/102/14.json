@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Engkau akan bangkit, akan mengasihani Tsiyon, sebab sudah tiba masanya untuk menunjukkan kasih setia kepadanya, sebab waktu yang ditetapkan sudah datang.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "akan bangkit"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "akan mengasihani"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "untuk menunjukkan kasih kepadanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sudah datang"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu yang ditetapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:59.038356472Z",
+  "model": "glm-5.3"
+}

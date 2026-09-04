@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Dan dibawanya aku masuk ke dalam haheikal, lalu diukurnya ⟨את⟩ tiang-tiang itu: enam hasta lebarnya dari sebelah sini, dan enam hasta lebarnya dari sebelah sana — ⟨ialah⟩ lebar kemah itu.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "dan dibawanya aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "haheikal"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "lalu diukurnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang itu"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "dari sebelah sini"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "dari sebelah sana"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:55.161204405Z",
+  "model": "glm-5.3"
+}

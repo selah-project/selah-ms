@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Jika anak-anakmu berdosa kepada-Nya, maka Ia menghantar mereka ke dalam tangan pemberontakan mereka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "maka Ia menghantar mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pemberontakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:34.334208798Z",
+  "model": "glm-5.3"
+}

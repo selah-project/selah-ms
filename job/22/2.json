@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Adakah bagi El (ha-El) seorang lelaki (gever) memberi manfaat? Adakah seorang yang berakal memberi manfaat bagi dirinya sendiri?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "bagi El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "memberi manfaat"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Adakah"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "memberi manfaat"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "bagi dirinya sendiri"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "seorang yang berakal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:13.682924256Z",
+  "model": "glm-5.3"
+}

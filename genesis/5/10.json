@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Enosh hidup selepas memperanakkan ⟨את⟩ Kenan lima belas tahun dan lapan ratus tahun, dan memperanakkan anak-anak lelaki dan anak-anak perempuan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "dan lapan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "dan anak-anak perempuan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:05.399616559Z",
+  "model": "glm-5.3"
+}

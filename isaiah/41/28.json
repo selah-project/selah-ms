@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Dan Aku melihat, tetapi tiada seorang pun, dan dari antara mereka tiada penasihat; dan Aku bertanya kepada mereka, dan mereka membalas perkataan.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Dan Aku melihat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "dan dari antara mereka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "penasihat"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "dan Aku bertanya kepada mereka"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "dan mereka membalas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:39.989925232Z",
+  "model": "glm-5.3"
+}

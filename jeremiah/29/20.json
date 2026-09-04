@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan kamu, dengarlah perkataan Yahweh, hai segala orang buangan yang telah Kuutus dari Yerusalem ke Babel.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Dan kamu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "orang buangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "telah Kuutus"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "dari Yerusalem"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ke Babel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:19:49.046770340Z",
+  "model": "glm-5.3"
+}

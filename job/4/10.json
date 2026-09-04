@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Auman singa, dan suara singa garang, dan gigi anak-anak singa tercabut.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Auman"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa garang"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan gigi"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singa"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "tercabut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:57.794226672Z",
+  "model": "glm-5.3"
+}

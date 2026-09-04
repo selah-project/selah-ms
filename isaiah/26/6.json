@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Kaki akan meng pijaknya — kaki ⟨orang⟩ yang miskin, tapak langkah ⟨orang⟩ yang lemah.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "akan memijaknya"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yang miskin"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "tapak langkah"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "yang lemah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:22.200729213Z",
+  "model": "glm-5.3"
+}

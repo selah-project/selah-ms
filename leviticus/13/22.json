@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Tetapi jika ia meluas pada kulit, maka imam menghukumnya hama ⟨את⟩ itu; ia satu negah.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "meluas"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ia meluas"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "pada kulit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "maka menghukum hama"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "negah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:24.556430272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Kerana pada kali pertama bukan kamu ⟨yang mengangkut⟩, Yahweh Elohim kita telah menghancurkan celah di tengah-tengah kita, kerana kita tidak mencari-Nya menurut peraturan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "למ",
+      "gloss": "pada"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "kali pertama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "menghancurkan celah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "di tengah-tengah kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kita mencari-Nya"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:00.454379339Z",
+  "model": "glm-5.3"
+}

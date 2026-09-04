@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Lapar, malah dahaga, diri mereka hampir tewas di dalam mereka.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "lapar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "dahaga"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "diri mereka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalam mereka"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "hampir tewas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:20.080721521Z",
+  "model": "glm-5.3"
+}

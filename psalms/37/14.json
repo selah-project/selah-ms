@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Orang jahat telah membuka pedang dan telah membengkokkan busur mereka, untuk menjatuhkan orang miskin dan kekurangan, untuk menyembelih ⟨mereka⟩ yang lurus jalannya.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "telah membuka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "dan telah membengkokkan"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "busur mereka"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "untuk menjatuhkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan kekurangan"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "untuk menyembelih"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:44.462220837Z",
+  "model": "glm-5.3"
+}

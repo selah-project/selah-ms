@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Paroh raja Mitsrayim telah naik, dan telah menawan ⟨את⟩ Gezer, dan telah membakarnya dengan api, dan ⟨את⟩ orang Kenaan yang diam di kota itu telah dibunuhnya; dan ia memberikannya sebagai mas kahwin kepada anak perempuannya, isteri Syelomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "telah naik"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dan telah menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "dan telah membakarnya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Kenaan yang diam di kota itu"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kenaan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "telah dibunuh"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "dan ia memberikannya"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "sebagai mas kahwin"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "kepada anak perempuannya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:11.425866943Z",
+  "model": "glm-5.3"
+}

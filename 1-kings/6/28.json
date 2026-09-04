@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan disalutnya ⟨את⟩ kerub-kerub itu dengan emas.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Dan disalutnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub-kerub itu"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerub-kerub itu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:00.111746233Z",
+  "model": "glm-5.3"
+}

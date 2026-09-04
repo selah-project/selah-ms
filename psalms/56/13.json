@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Atas aku, Elohim, nazar-mu ⟨bersumpahku⟩; aku akan membayar persembahan syukur kepadamu.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Atas aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazar-mu"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "aku akan membayar"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "persembahan syukur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:17.525988866Z",
+  "model": "glm-5.3"
+}

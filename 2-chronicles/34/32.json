@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dan didirikannya ⟨את⟩ semua yang dijumpai di Yerushalaim dan Binyamin berdiri ⟨sedia⟩; maka penduduk Yerushalaim berbuat menurut perjanjian Elohim, Elohim nenek moyang mereka.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Dan didirikannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua yang dijumpai di Yerushalaim dan Binyamin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yang dijumpai"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dan Binyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "maka berbuat"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "menurut perjanjian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nenek moyang mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:02.036816360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Demi saudara-saudaraku dan sahabat-sahabatku, biarlah aku berkata: syalom ke atasmu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Demi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "dan sahabat-sahabatku"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "biarlah aku berkata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨bahasa lembut⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ke atasmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:08.953358153Z",
+  "model": "glm-5.3"
+}

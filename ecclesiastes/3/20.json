@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Semuanya menuju ke satu tempat; semuanya ⟨adalah⟩ dari debu, dan semuanya kembali kepada debu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Semuanya"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "menuju ke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "satu tempat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨adalah⟩ dari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "dan semuanya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "debu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:32.288349323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Maka masuklah segala orang bijaksana raja, tetapi mereka tidak mampu membaca tulisan itu, mahupun memberitahukan takwilannya kepada raja.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "orang bijaksana"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "tulisan itu"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "membaca"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "dan takwilannya"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "kepada raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:45:43.009602446Z",
+  "model": "glm-5.3"
+}

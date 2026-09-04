@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan terbit matahari, dan matahari terbenam, dan ⟨ke⟩ tempatnya ia mengahuntelah — terbit ⟨ia⟩ di sana.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "Dan terbit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dan terbenam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatnya"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "mengahuntelah"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "terbit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:54.374642855Z",
+  "model": "glm-5.3"
+}

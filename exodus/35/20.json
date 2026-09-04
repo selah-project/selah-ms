@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Lalu keluarlah seluruh jemaah Bani-Israel dari hadapan Mosye",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Lalu keluarlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosye"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:21.729510712Z",
+  "model": "glm-5.3"
+}

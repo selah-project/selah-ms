@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Dan aku akan meremukkan para lawannya dari hadapannya, dan para pembencinya akan kutimpa.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "dan aku akan meremukkan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "para lawannya"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "dan para pembencinya"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "akan kutimpa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.493144285Z",
+  "model": "glm-5.3"
+}

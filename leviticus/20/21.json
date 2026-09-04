@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan seorang lelaki yang mengambil ⟨את⟩ isteri saudaranya — niddah ⟨itu⟩; aurat saudaranya telah didedahkannya; tanpa zuriah mereka akan menjadi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang lelaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri saudaranya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "niddah (ketidakczian)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "aurat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah didedahkan"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "tanpa zuriah"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mereka akan menjadi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:15.729504637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan mereka akan mengambil batu-batu lain dan membawanya ke tempat batu-batu itu, dan debu lain akan diambilnya dan dilapiskan ⟨את⟩ rumah itu.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "dan mereka akan mengambil"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "lain"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bawah\/tempat"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu itu"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "dan debu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan diambilnya"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "dan dilapiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:06.641495294Z",
+  "model": "glm-5.3"
+}

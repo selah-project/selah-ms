@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Singkirkanlah hantaman-Mu daripadaku; dari pergumulan tangan-Mu aku telah lesap.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Singkirkanlah"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "hantaman-Mu"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "dari pergumulan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "telah lesap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:34.798527241Z",
+  "model": "glm-5.3"
+}

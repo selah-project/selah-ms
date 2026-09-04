@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Beginilah firman Yahweh, yang memberi jalan di laut, dan laluan di air yang hebat —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "yang memberi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan di air"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "yang hebat"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "laluan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:14.781425305Z",
+  "model": "glm-5.3"
+}

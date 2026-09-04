@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 126,
+  "translation": "Yahweh telah melakukan perkara besar bersama kami; kami menjadi orang yang bersukaria.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "telah membesar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kami"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kami menjadi"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "orang yang bersukaria"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:31.512366853Z",
+  "model": "glm-5.3"
+}

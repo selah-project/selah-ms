@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Lalu berkatalah Yisrael kepada Yosef: Lihat, aku ini akan mati, tetapi Elohim akan bersama kamu, dan Ia akan mengembalikan ⟨את⟩ kamu ke tanah bapa-bapa kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "tetapi akan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "dan Ia akan mengembalikan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapa-bapa kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:02.931734260Z",
+  "model": "glm-5.3"
+}

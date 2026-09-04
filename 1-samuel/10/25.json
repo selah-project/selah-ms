@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu Syemuel berbicara kepada umat itu tentang ⟨את⟩ hukum kerajaan, dan ia menulisnya dalam sebuah kitab, dan meletakkannya di hadapan Yahweh; lalu Syemuel menyuruh pergi ⟨את⟩ seluruh umat itu, setiap orang ke rumahnya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lalu berbicara"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukum kerajaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "dan menulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dalam sebuah kitab"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "dan meletakkan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lalu menyuruh pergi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh umat itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ke rumahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:21.015876587Z",
+  "model": "glm-5.3"
+}

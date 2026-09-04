@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan aku memerintah ⟨את⟩ kamu pada waktu itu, katanya: Yahweh Elohim kamu telah memberi kepada kamu ⟨את⟩ tanah ini untuk mendudukinya; bersenjata kamu melintas di hadapan saudara-saudara kamu, bani Israel, semua bani gagah.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "dan aku memerintah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah memberi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "untuk mendudukinya"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "bersenjata"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "kamu melintas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara-saudara kamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gagah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:03.632170078Z",
+  "model": "glm-5.3"
+}

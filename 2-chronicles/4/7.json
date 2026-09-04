@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ia membuat ⟨את⟩ sepuluh kandil emas menurut peraturan mereka, dan meletakkannya di dalam heikal, lima di kanan dan lima di kiri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepuluh kandil emas"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "menurut peraturan mereka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan meletakkannya"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "di dalam heikal"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "di kanan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "di kiri"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:41.003056958Z",
+  "model": "glm-5.3"
+}

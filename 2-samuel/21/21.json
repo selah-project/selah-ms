@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan ia mencaci ⟨את⟩ Israel, lalu memukulnya Yehonatan bin Syimi, saudara Daud.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Dan ia mencaci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "lalu memukulnya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Syimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:21.888394453Z",
+  "model": "glm-5.3"
+}

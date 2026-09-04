@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "anak-anak kamu, isteri-isteri kamu, dan orang asing kamu yang di tengah kemah-kemah kamu, dari penebang kayu kamu sampai penimba air kamu —",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anak kamu"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "isteri-isteri kamu"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "dan orang asing kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "kemah-kemah kamu"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "dari penebang"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "kayu kamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "penimba"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "air kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:30.301294024Z",
+  "model": "glm-5.3"
+}

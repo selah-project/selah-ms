@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Diberkatilah kamu oleh Yahweh, Pembuat langit dan bumi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "diberkatilah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "oleh Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Pembuat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:23.343979351Z",
+  "model": "glm-5.3"
+}

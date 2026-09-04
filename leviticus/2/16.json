@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan imam akan membakar sebagai iqor ⟨את⟩ bahagiannya yang digiling dan minyaknya, bersama segala lobanahnya — persembahan api bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "dan imam akan membakar sebagai iqor"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahagiannya yang digiling"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "bahagiannya yang digiling"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "daripada bijirinnya yang digiling"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "dan minyaknya"
+    },
+    {
+      "surface": "על",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "lobanahnya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:04.992521574Z",
+  "model": "glm-5.3"
+}

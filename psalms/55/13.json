@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Sebab bukan musuh yang menghina aku — maka ⟨kupikul⟩; bukan pembenciku yang membesarkan diri terhadap aku — maka ⟨kusembunyikan diri⟩ daripadanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "yang menghina aku"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "dan kupikul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "pembenciku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "membesarkan diri"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "dan kusembunyikan diri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:44.720728846Z",
+  "model": "glm-5.3"
+}

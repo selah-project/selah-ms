@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu orang-orang Kasdim berkata kepada raja dalam bahasa Aram: Hai raja, hiduplah sampai selama-lamanya! Katakanlah mimpi itu kepada hamba-hambamu, maka kami akan menunjukkan maknanya.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "orang-orang Kasdim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "dalam bahasa Aram"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Hai raja"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hiduplah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "mimpi itu"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "kepada hamba-hambamu"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "maka maknanya"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "kami akan menunjukkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:44:13.778071979Z",
+  "model": "glm-5.3"
+}

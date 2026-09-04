@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Nyanyian Ascent. Ingatlah, Yahweh, bagi Dawid, ⟨את⟩ segala kesusahannya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Ascent"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kesusahannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "kesusahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:34.566644397Z",
+  "model": "glm-5.3"
+}

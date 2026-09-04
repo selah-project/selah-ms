@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "orang yang menyentuhnya menjadi najis sehingga matahari terbenam, dan tidak boleh makan daripada benda-benda kudus, melainkan dia membasuh badannya dengan air.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nya"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "matahari terbenam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh makan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "benda-benda kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "membasuh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "badannya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:14.074073808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Sebab segala hari kami berpaling di dalam kegeraman-Mu; kami menghabiskan tahun kami seperti ⟨satu⟩ keluhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hari kami"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "di dalam kegeraman-Mu"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "kami menghabiskan"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "tahun kami"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "keluhan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:38.060087237Z",
+  "model": "glm-5.3"
+}

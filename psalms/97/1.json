@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Yahweh memerintah — biarlah bersorak ⟨bumi⟩, biarlah bergembira pulau-pulau yang ramai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "bersorak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bergembira"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:17.350496460Z",
+  "model": "glm-5.3"
+}

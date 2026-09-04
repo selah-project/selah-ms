@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 31:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Kerana Aku akan membawa mereka ke tanah yang Aku telah bersumpah kepada bapa-bapa mereka — yang mengalir susu dan madu — dan mereka akan makan dan kenyang dan menjadi gemuk, lalu berpaling kepada tuhan-tuhan yang lain dan menyembah mereka, dan menghina Aku, dan membatalkan ⟨את⟩ perjanjian-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "Aku akan membawa mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku telah bersumpah"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "kepada bapa-bapa mereka"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mengalir"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan mereka akan makan"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dan kenyang"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "dan menjadi gemuk"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "dan menyembah mereka"
+    },
+    {
+      "surface": "ונאצוני",
+      "gloss": "dan menghina Aku"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "dan membatalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:26.188684725Z",
+  "model": "glm-5.3"
+}

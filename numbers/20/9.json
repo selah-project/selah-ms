@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Moshe mengambil ⟨את⟩ tongkat itu dari hadapan Yahweh, seperti yang diperintahkan-Nya kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat itu"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tongkat itu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan-Nya kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:31.974565542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Apa yang telah ada — sudah lama namanya dipanggil, dan diketahui bahawa ⟨dialah⟩ manusia; dan dia tidak mampu berhukum dengan ⟨Yang⟩ lebih kuat daripadanya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sudah lama"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "dipanggil"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "dan diketahui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "berhukum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "Yang lebih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:47.125429674Z",
+  "model": "glm-5.3"
+}

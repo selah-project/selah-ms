@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika dari binatang yang haram, maka ditebus menurut penilaianmu dan ditambah seperlimanya kepadanya; dan jika tidak ditebus, maka dijual menurut penilaianmu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "dari binatang"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "yang haram"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "maka ditebus"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "menurut penilaianmu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dan ditambah"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "seperlimanya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ditebus"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "maka dijual"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "menurut penilaianmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:16.447490443Z",
+  "model": "glm-5.3"
+}

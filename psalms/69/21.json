@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Aib telah memecahkan hatiku, dan aku ⟨san⟩ lesu, dan aku menanti ⟨pada⟩ pengasih, namun tiada, dan bagi penghibur — namun tidak aku jumpa.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "telah memecahkan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "dan aku lesu"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "dan aku menanti"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "⟨pada⟩ pengasih"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "namun tiada"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "dan bagi penghibur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "namun tidak"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "aku jumpa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:22.798770994Z",
+  "model": "glm-5.3"
+}

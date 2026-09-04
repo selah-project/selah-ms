@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Hikmah ⟨itu⟩ memberi kekuatan kepada orang bijak, lebih daripada sepuluh pemerintah-pemerintah yang ada di dalam kota.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Hikmah ⟨itu⟩"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "memberi kekuatan"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kepada orang bijak"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "lebih daripada sepuluh"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "pemerintah-pemerintah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di dalam kota"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:52.782618452Z",
+  "model": "glm-5.3"
+}

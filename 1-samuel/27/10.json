@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan Akish berkata, \"Tidakkah kamu telah menyerbu hari ini?\" Dan David berkata, \"Terhadap Negeb Yehuda, dan terhadap Negeb orang Yerahmeel, dan terhadap Negeb orang Keni.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "kamu telah menyerbu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "orang Yerahmeel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "orang Keni"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:49.600287043Z",
+  "model": "glm-5.3"
+}

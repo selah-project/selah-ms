@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 17:4",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Maka dipulangkannya ⟨את⟩ perak itu kepada ibunya, dan ibunya mengambil dua ratus perak dan memberikannya kepada tukang pelebur, lalu dibuatnya patung pahatan dan tuangan; dan semuanya berada di rumah Mikhayehu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maka dipulangkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kepada ibunya"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dan diambilnya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ותתנהו",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לצורף",
+      "gloss": "kepada tukang pelebur"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "lalu dibuatnya"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung pahatan"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "dan tuangan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan berada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayehu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:11:00.093615280Z",
+  "model": "glm-5.3"
+}

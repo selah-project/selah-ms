@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan apabila goel ha-dam (penebus darah) menemui ⟨את⟩ dia di luar sempadan bandar perlindungannya, lalu goel ha-dam membunuh ⟨את⟩ si pembunuh — tiada darah baginya.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Dan apabila menemui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "goel ha-dam (penebus darah)"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel (penebus)"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ha-dam (darah)"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "sempadan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "perlindungannya"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "lalu membunuh"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ha-dam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si pembunuh"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "si pembunuh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:27.336687618Z",
+  "model": "glm-5.3"
+}

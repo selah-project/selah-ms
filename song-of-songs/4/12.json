@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Taman terkunci saudariku, pengantinku; mata air terkurung, punca ⟨yang⟩ dimeterai.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "terkunci"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudariku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantinku"
+    },
+    {
+      "surface": "גל",
+      "gloss": "mata air terkurung"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "terkurung"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "punca"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "dimeterai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:52.679728273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan jiwaku terkejut sangat; dan Engkau, Yahweh — sampai bila?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Dan jiwaku"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "terkejut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:04.791646573Z",
+  "model": "glm-5.3"
+}

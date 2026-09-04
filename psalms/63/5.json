@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Demikian aku memberkati-Mu sepanjang hidupku; dalam nama-Mu aku mengangkat telapak tanganku.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Demikian"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "aku memberkati-Mu"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sepanjang hidupku"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "dalam nama-Mu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:21.786469298Z",
+  "model": "glm-5.3"
+}

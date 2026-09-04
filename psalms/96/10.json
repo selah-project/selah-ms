@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Katakanlah di antara bangsa-bangsa: \"Yahweh memerintah!\" Bahkan, ⟨dunia⟩ tegak, tidak akan bergoyang; ⟨Ia⟩ menghakimi umat-umat dalam keadilan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨dunia⟩"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak akan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bergoyang"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "⟨Ia⟩ menghakimi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dalam keadilan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:41.902554465Z",
+  "model": "glm-5.3"
+}

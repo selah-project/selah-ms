@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan segala bangsa itu melihat ⟨את⟩ petir-petir itu dan ⟨את⟩ suluh-suluh api itu dan ⟨את⟩ bunyi syofar itu dan ⟨את⟩ gunung yang berasap itu; dan bangsa itu melihatnya, lalu mereka gemetar, dan mereka berdiri dari jauh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petir-petir itu"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "petir-petir itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "suluh-suluh api itu"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "suluh-suluh api itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bunyi syofar itu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "syofar itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "gunung itu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "yang berasap"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihatnya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "lalu mereka gemetar"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dan mereka berdiri"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:29.825246162Z",
+  "model": "glm-5.3"
+}

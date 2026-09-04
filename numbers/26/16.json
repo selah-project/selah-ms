@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Bagi Azni, keluarga orang Azni; bagi Eri, keluarga orang Eri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "Bagi Azni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "orang Azni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "bagi Eri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "orang Eri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:00.177531537Z",
+  "model": "glm-5.3"
+}

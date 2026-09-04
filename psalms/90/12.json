@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Untuk membilang hari kami dengan betul, berilah tahu ⟨kami⟩; dan kami membawa hati kepada hikmat.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "Untuk membilang"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hari kami"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dengan betul"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "berilah tahu"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "dan kami membawa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kepada hikmat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:38.060621428Z",
+  "model": "glm-5.3"
+}

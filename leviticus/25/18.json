@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan kamu akan melakukan ⟨את⟩ ketetapan-Ku, dan ⟨את⟩ peraturan-Ku kamu akan mematuhi, dan kamu akan melakukannya; dan kamu akan diam di atas bumi dengan selamat.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan kamu akan melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-Ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "peraturan-Ku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "peraturan-Ku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamu akan mematuhi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan kamu akan melakukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nya (peraturan itu)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dan kamu akan diam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dengan selamat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:24.332300220Z",
+  "model": "glm-5.3"
+}

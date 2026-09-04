@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan bersungutlah seluruh jemaah Bani Israel terhadap Moshe dan terhadap Aharon di gurun itu.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "bersungutlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:28.186956705Z",
+  "model": "glm-5.3"
+}

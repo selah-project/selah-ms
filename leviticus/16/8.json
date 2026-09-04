@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan Aharon akan memberikan undi atas kedua-dua kambing jantan itu: satu undi bagi Yahweh, dan satu undi bagi Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dan ia akan memberikan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "undi"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "satu undi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "dan satu undi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "bagi Azazel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:14.297049115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan bani Reuben membina ⟨את⟩ Hesybon dan ⟨את⟩ Elale dan ⟨את⟩ Kiryatayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Dan bani"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hesybon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hesybon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kiryatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryatayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:56.608804883Z",
+  "model": "glm-5.3"
+}

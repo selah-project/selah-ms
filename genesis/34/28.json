@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "⟨את⟩ Kambing-bebiri mereka dan ⟨את⟩ lembu mereka dan ⟨את⟩ keldai mereka, dan ⟨את⟩ segala yang ada di bandar itu dan ⟨את⟩ segala yang ada di padang, mereka ambil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kambing-bebiri mereka"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Kambing-bebiri mereka"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lembu mereka"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "lembu mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "keldai mereka"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keldai mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada di bandar itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "segala yang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di bandar itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada di padang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "segala yang"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mereka ambil"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:50.363085854Z",
+  "model": "glm-5.3"
+}

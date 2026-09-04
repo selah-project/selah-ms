@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan engkau mengenakan riba kepada saudara lelakimu: riba wang perak, riba makanan, riba segala barang yang dikenakan riba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "engkau mengenakan riba"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kepada saudara lelakimu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang perak"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "barang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dikenakan riba"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:27.401624069Z",
+  "model": "glm-5.3"
+}

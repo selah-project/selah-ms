@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Bebanan Moav: kerana pada malam Ar Moab dibinasakan, dibungkamkan; kerana pada malam Kir Moab dibinasakan, dibungkamkan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Bebanan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dibinasakan"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "dibungkamkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dibinasakan"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "dibungkamkan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:14.384127664Z",
+  "model": "glm-5.3"
+}

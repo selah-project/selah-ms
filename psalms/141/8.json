@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 141,
+  "translation": "Sebab kepada-Mu, Yahweh, Adonai, mataku ⟨tertuju⟩; pada-Mu aku berlindung; jangan Kautelanjangkan nyawaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תער",
+      "gloss": "Kautelanjangkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:38.890199953Z",
+  "model": "glm-5.3"
+}

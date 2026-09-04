@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 120,
+  "translation": "Apakah akan diberikan kepadamu, dan apakah ditambah kepadamu, wahai lidah yang curang?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan diberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apakah"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ditambah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "yang curang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:23.490638405Z",
+  "model": "glm-5.3"
+}

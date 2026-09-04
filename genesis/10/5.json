@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Daripada merekalah terpisah kepulauan bangsa-bangsa di tanah mereka, setiap orang menurut bahasanya, menurut kaum keluarga mereka, dalam bangsa mereka.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "daripada mereka"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "terpisah"
+    },
+    {
+      "surface": "איי",
+      "gloss": "kepulauan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di tanah mereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "menurut bahasanya"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut kaum keluarga mereka"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "dalam bangsa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:38.082237470Z",
+  "model": "glm-5.3"
+}

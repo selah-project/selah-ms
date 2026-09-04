@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Kepada pemimpin ⟨paduan⟩, dengan alat petikan; mizmor bagi Asaf, nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan alat petikan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:52.726358771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Bulan-baru kamu dan perayaan kamu dibenci jiwa-Ku; ⟨mereka⟩ telah menjadi atas-Ku menjadi beban; aku sudah penat memikul.",
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "bulan-baru kamu"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "dan perayaan kamu"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "dibenci"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas-Ku"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "menjadi beban"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "aku sudah penat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "memikul"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:13.567139473Z",
+  "model": "glm-5.3"
+}

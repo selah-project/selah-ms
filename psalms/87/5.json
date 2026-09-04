@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 87,
+  "translation": "Dan kepada Tsiyon akan dikatakan: seorang dan lagi seorang dilahirkan di dalamnya; dan Dia sendiri, Elyon (Yang Mahatinggi), menegakkannya.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "dan kepada Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akan dikatakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan lagi seorang"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dia sendiri"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "menegakkannya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (Yang Mahatinggi)"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:39.259535076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu kata batu Paroh kepadanya: \"Pergilah.\" Maka pergilah gadis itu, dan dipanggilnya ⟨את⟩ ibu kanak-kanak itu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu kata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "batu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "maka pergilah"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan dipanggilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibu kanak-kanak itu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "kanak-kanak itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:05.105042755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu matilah Elimelekh, suami Naomi, dan tertinggalah dia beserta dua anak lelakinya.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "matilah"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "suami"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "tertinggalah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "beserta dua"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak lelakinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:14.213097265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "dan ⟨ia⟩ pergi serta beribadah kepada tuhan-tuhan lain, dan sujud kepada mereka, dan kepada matahari, atau kepada bulan, atau kepada segenap tentera langit, yang tidak pernah Aku perintahkan —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "serta beribadah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "dan kepada matahari"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "kepada bulan"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segenap"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "pernah Aku perintahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:06.043164482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu baginda memalingkan ⟨את⟩ mukanya ke arah dinding, dan berdoa kepada Yahweh, katanya:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Lalu memalingkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukanya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "dan berdoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:07.801129068Z",
+  "model": "glm-5.3"
+}

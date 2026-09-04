@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Kerana aku akan mati di bumi ini; aku tidak akan melintasi ⟨את⟩ Yarden, tetapi kamu akan melintasinya dan menduduki ⟨את⟩ bumi yang baik ini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akan mati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "tidak akan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tetapi kamu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "akan melintasinya"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "dan menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi yang baik ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:31.425199565Z",
+  "model": "glm-5.3"
+}

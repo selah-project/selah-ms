@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Elohim membuat ⟨את⟩ kedua-dua benda bercahaya yang besar: ⟨את⟩ benda bercahaya yang besar untuk memerintah siang, dan ⟨את⟩ benda bercahaya yang kecil untuk memerintah malam — juga ⟨את⟩ bintang-bintang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu membuat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedua-dua benda bercahaya yang besar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "benda bercahaya"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benda bercahaya yang besar"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "benda bercahaya"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "benda bercahaya yang kecil"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "benda bercahaya"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yang kecil"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "juga ⟨את⟩",
+      "marks": "bintang-bintang"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "bintang-bintang"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:31.850208620Z",
+  "model": "glm-5.3"
+}

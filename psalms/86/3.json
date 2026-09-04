@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Berkasihanlah kepadaku, Adonai, sebab kepada-Mu aku berseru sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Berkasihanlah kepadaku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:17.658372616Z",
+  "model": "glm-5.3"
+}

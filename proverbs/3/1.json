@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Anakku, Tora-Ku janganlah kau lupakan, dan perintah-perintah-Ku biarlah hatimu menjaganya.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakku"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-Ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kau lupakan"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "dan perintah-perintah-Ku"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "menjaganya"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:30.631393822Z",
+  "model": "glm-5.3"
+}

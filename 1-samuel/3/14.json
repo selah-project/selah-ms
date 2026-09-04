@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka sebab itu Aku telah bersumpah kepada keluarga Eli: jikalau kesalahan keluarga Eli akan ditebus dengan korban dan dengan persembahan, sampai selama-lamanya ⟨tidak⟩.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Maka sebab itu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku telah bersumpah"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada keluarga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jikalau"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "akan ditebus"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "dengan korban"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "dan dengan persembahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:50.273107926Z",
+  "model": "glm-5.3"
+}

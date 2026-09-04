@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Setelah perkara-perkara ini, apabila reda kepanasan amarah raja Ahasyweros, baginda teringat ⟨את⟩ Wasti, dan ⟨את⟩ apa yang telah dilakukannya, dan ⟨את⟩ apa yang telah diputuskan terhadapnya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Setelah"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "apabila reda"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kepanasan amarah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyweros"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "baginda teringat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wasti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "apa yang telah dilakukannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "telah dilakukannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "apa yang telah diputuskan terhadapnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "telah diputuskan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "terhadapnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:17.320869126Z",
+  "model": "glm-5.3"
+}

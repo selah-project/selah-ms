@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu ia menjawab, \"Berpikanlah aku suatu berkat, kerana engkau telah memberiku tanah Negev; maka berikanlah juga kepadaku mata air.\" Maka ia memberinya ⟨את⟩ mata air yang di atas dan ⟨את⟩ mata air yang di bawah.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu ia menjawab"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "suatu berkat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "engkau telah memberiku"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "maka berikanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maka ia memberi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata air yang di atas"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "yang di atas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mata air yang di bawah"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "yang di bawah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:02:15.646125723Z",
+  "model": "glm-5.3"
+}

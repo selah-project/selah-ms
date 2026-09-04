@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Lalu dimakan oleh lembu-lembu itu, yang kurus dan yang buruk, ⟨את⟩ tujuh ekor lembu itu, yang pertama, yang gemuk itu.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "Lalu dimakan"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "oleh lembu-lembu itu"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "yang kurus"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "dan yang buruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh ekor lembu itu, yang pertama, yang gemuk itu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ekor lembu itu"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "yang gemuk itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:50.559282185Z",
+  "model": "glm-5.3"
+}

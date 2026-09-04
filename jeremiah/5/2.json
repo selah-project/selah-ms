@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan sungguhpun mereka berkata, 'Demikianlah hidup Yahweh', namun kepada dusta mereka bersumpah.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan sungguhpun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sungguhpun begitu"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "kepada dusta"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mereka bersumpah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:11:55.898666788Z",
+  "model": "glm-5.3"
+}

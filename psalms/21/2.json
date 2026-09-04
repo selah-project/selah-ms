@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Yahweh, dalam kekuatan-Mu bersukacita ⟨si⟩ raja, dan dalam keselamatan-Mu betapa bersorak-sorai ⟨ia⟩ sangat!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "dalam kekuatan-Mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "dan dalam keselamatan-Mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "bersorak-sorai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:38.079949354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu Moshe mengajak Yisrael berjalan dari laut Suf, dan mereka keluar ke padang gurun Syur; mereka berjalan tiga hari di padang gurun itu dan tidak menemui air.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "lalu mengajak berjalan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dari laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "dan keluarlah mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Syur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan berjalanlah mereka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "mereka menemui"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:31.798677443Z",
+  "model": "glm-5.3"
+}

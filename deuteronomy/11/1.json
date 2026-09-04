@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka engkau mengasihi ⟨את⟩ Yahweh, Elohim kamu, dan engkau menjaga penjagaan-Nya, serta ketetapan-Nya, hukum-Hukum-Nya dan perintah-perintah-Nya, segala hari.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "maka engkau mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "dan engkau menjaga"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "penjagaan-Nya"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "serta ketetapan-Nya"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "hukum-hukum-Nya"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "dan perintah-perintah-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:30.192796438Z",
+  "model": "glm-5.3"
+}

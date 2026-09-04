@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu dibawa dekat ⟨את⟩ keluarga Yehuda, dan ditangkap ⟨את⟩ keluarga Zarhi; lalu dibawa dekat ⟨את⟩ keluarga Zarhi itu kepada lelaki-lelaki, dan Zabdi ditangkap.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "dibawa dekat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga Yehuda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ditangkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga Zarhi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zarhi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "dibawa dekat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga Zarhi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zarhi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "kepada lelaki-lelaki"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ditangkap"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:23.193313515Z",
+  "model": "glm-5.3"
+}

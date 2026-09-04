@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan kepada Zebulun ia berkata: Bersukacitalah, Zebulun, dalam keluarmu, dan Yisaskar, dalam khemah-khemahmu.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "Dan kepada Zebulun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "Bersukacitalah"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "dalam keluarmu"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "dan Yisaskar"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "dalam khemah-khemahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:36.130140019Z",
+  "model": "glm-5.3"
+}

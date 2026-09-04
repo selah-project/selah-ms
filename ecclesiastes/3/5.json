@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Masa untuk membaling batu-batu, dan masa untuk mengumpul batu-batu; masa untuk berpeluk dan masa untuk menjauhkan diri daripada berpeluk.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "untuk membaling"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "untuk mengumpul"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "untuk berpeluk"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "untuk menjauhkan diri"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "daripada berpeluk"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:10.453907050Z",
+  "model": "glm-5.3"
+}

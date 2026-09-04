@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Seperti tanda keajaiban aku telah menjadi bagi ramai, tetapi engkaulah tempat perlindunganku, dan kekuatanku.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "Seperti tanda keajaiban"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "bagi ramai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tetapi engkau"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tempat perlindunganku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:33.860877510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan inilah ketidakmutakkannya dalam lelehannya: sama ada tubuhnya mengalirkan ⟨את⟩ lelehannya, atau tubuhnya tersekat daripada lelehannya — itulah ketidakmutakkannya.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "dan ini"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ketidakmutakkannya"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "dalam lelehannya"
+    },
+    {
+      "surface": "רר",
+      "gloss": "mengalirkan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelehannya"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "lelehannya"
+    },
+    {
+      "surface": "או",
+      "gloss": "sama ada… atau"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "tersekat"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "daripada lelehannya"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ketidakmutakkannya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah… -nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:39.613279693Z",
+  "model": "glm-5.3"
+}

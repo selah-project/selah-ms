@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 87,
+  "translation": "Perkara-perkara mulia telah dikatakan tentang engkau, hai kota Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "perkara-perkara mulia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "telah dikatakan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tentang engkau"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "hai kota"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.799062115Z",
+  "model": "glm-5.3"
+}

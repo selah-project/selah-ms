@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "dan ⟨את⟩ anak burung unta, dan ⟨את⟩ burung tahmas, dan ⟨את⟩ burung syahaf, dan ⟨את⟩ elang menurut jenisnya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak burung unta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "burung unta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "burung tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung syahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "burung syahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "elang"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:47.646829566Z",
+  "model": "glm-5.3"
+}

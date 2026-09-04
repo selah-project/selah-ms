@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Bangsa yang membangkitkan kemarahan ⟨את⟩ Aku, di hadapan wajah-Ku sentiasa; yang berkorban di taman-taman, dan membakar kemenyan di atas batu-bata.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "yang membangkitkan kemarahan"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah-Ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "yang berkorban"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "di taman-taman"
+    },
+    {
+      "surface": "וומקטרים",
+      "gloss": "dan membakar kemenyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "batu-bata"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:40.734993506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lebih baik suapan kering dan ketenteraman bersamanya daripada rumah penuh korban perbalahan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "פת",
+      "gloss": "suapan"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "kering"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "dan ketenteraman"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "daripada rumah"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "perbalahan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:22.295207345Z",
+  "model": "glm-5.3"
+}

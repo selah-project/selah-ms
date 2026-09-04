@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Sesuai dengan kenajisan mereka dan sesuai dengan pemberontakan mereka Kulakukan ⟨את⟩ demikian kepada mereka, dan Aku menyembunyikan wajah-Ku daripada mereka.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sesuai dengan kenajisan mereka"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "dan sesuai dengan pemberontakan mereka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Kulakukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "dan Aku menyembunyikan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah-Ku"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daripada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:09.052668530Z",
+  "model": "glm-5.3"
+}

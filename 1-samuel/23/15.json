@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu dilihat David bahawa Syaul telah keluar untuk mencari ⟨את⟩ nyawanya; dan David ⟨ada⟩ di gurun Zif, di Horesya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu dilihat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "telah keluar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawanya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "di Horesya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:57.630825787Z",
+  "model": "glm-5.3"
+}

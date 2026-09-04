@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Ditinggikanlah diri-Mu di atas langit, hai Elohim, dan di atas seluruh bumi kemuliaan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Ditinggikanlah diri-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:03.155657959Z",
+  "model": "glm-5.3"
+}

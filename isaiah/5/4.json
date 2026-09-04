@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Apakah lagi untuk dibuat bagi kebun anggurku yang tidak aku buat kepadanya? Mengapakah aku menanti untuk menghasilkan anggur, tetapi ia menghasilkan buah busuk?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apakah lagi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk dibuat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "bagi kebun anggurku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yang tidak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku buat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "aku menanti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk menghasilkan"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "tetapi ia menghasilkan"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "buah busuk"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:53.674281710Z",
+  "model": "glm-5.3"
+}

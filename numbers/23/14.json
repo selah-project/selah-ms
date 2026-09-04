@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 23:14",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu dibawanya dia ke Padang Tsofim (padang pengintai), ke puncak Pisga, dan dibinanya tujuh mezbah, dan dipersembahkannya seekor lembu dan seekor domba jantan di atas mezbah.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "lalu dibawanya dia"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "Padang"
+    },
+    {
+      "surface": "צפים",
+      "gloss": "Tsofim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan dibinanya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan dipersembahkannya"
+    },
+    {
+      "surface": "פר",
+      "gloss": "seekor lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor domba jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "di atas mezbah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:43.393988476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kesusahan dan kesempitan telah mendapatiku; titah-Mu ialah kesukaanku.",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "kesempitan"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "dan kesusahan"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "telah mendapatiku"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "titah-Mu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kesukaanku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:15.846189197Z",
+  "model": "glm-5.3"
+}

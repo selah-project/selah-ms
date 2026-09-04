@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 8:31",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu berkatalah Moshe kepada Aharon dan kepada anak-anaknya: \"Rebuslah ⟨את⟩ daging itu di pintu khemah pertemuan, dan di sanalah kamu memakannya ⟨את⟩ bersama ⟨את⟩ roti yang ada dalam bakul pentahbisan itu, seperti yang telah kuperintahkan, katakan: Aharon dan anak-anaknya akan memakannya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "Rebuslah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging itu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu memakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "dalam bakul"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pentahbisan itu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "telah kuperintahkan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "dan anak-anaknya"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "akan memakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:40.280494868Z",
+  "model": "glm-5.3"
+}

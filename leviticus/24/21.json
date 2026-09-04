@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan sesiapa yang memukul haiwan hendaklah menggantikannya, dan sesiapa yang memukul manusia akan dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Dan sesiapa yang memukul"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "haiwan"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "hendaklah menggantikannya"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "dan sesiapa yang memukul"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:51.733765305Z",
+  "model": "glm-5.3"
+}

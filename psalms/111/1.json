@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Pujilah Yah! Aku akan bersyukur kepada Yahweh dengan segenap hati, dalam majelis ⟨orang-orang⟩ yang lurus dan dalam jemaah.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan bersyukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "dalam majelis"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "dan jemaah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:12.743478795Z",
+  "model": "glm-5.3"
+}

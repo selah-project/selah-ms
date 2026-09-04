@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu berkatalah raja: Cepatkanlah ⟨את⟩ Haman untuk melakukan ⟨את⟩ perkataan Ester. Maka datanglah raja dan Haman ke jamuan yang dibuat oleh Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Cepatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Maka datanglah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dan Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "oleh Ester"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:56.370256148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Dia menundukkan langit lalu turun, dan kegelapan gelap di bawah kaki-Nya.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "lalu menundukkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan turun"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dan kabut gelap"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:58.780720056Z",
+  "model": "glm-5.3"
+}

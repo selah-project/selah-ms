@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Kerana tidak akan berhenti si miskin dari tengah bumi; sebab itu Aku memerintahkan engkau, berkata: Membuka, bukalah ⟨את⟩ tanganmu kepada saudaramu, kepada orang papa dan kepada si miskin, di negerimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "akan berhenti"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "dari tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu (sebab itu)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "memerintahkan engkau"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Membuka"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bukalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "kepada saudaramu"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "kepada orang papamu"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "dan kepada si miskinmu"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di negerimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:39.754984353Z",
+  "model": "glm-5.3"
+}

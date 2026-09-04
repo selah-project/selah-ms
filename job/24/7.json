@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Telanjang mereka bermalam tanpa pakaian, dan tiada selimut pada kesejukan.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "mereka bermalam"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "selimut"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "pada kesejukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:45.807022575Z",
+  "model": "glm-5.3"
+}

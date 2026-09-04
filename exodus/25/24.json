@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan engkau balut ⟨את⟩ ia dengan emas tulen, dan engkau buat baginya bingkai emas sekeliling.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "dan engkau balut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ia"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau buat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bingkai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:50.681960448Z",
+  "model": "glm-5.3"
+}

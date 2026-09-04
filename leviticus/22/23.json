@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan lembu atau kambing biri-biri yang beranggota berlebihan atau berkekurangan — sebagai persembahan sukarela boleh kamu membuatnya ⟨את⟩, tetapi untuk nazar ia tidak akan diterima.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Dan lembu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "atau kambing biri-biri"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "beranggota berlebihan"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "atau berkekurangan"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "persembahan sukarela"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kamu membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ia (lembu atau kambing biri-biri)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "tetapi untuk nazar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ia akan diterima"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:45.994778793Z",
+  "model": "glm-5.3"
+}

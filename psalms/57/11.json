@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Sebab besar sampai ke langit hesed-Mu, dan sampai ke awan-awan kesetiaan-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "besar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai ke"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:43.651084398Z",
+  "model": "glm-5.3"
+}

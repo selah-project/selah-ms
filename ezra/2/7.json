@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Bani Eilam, seribu dua ratus lima puluh empat ⟨orang⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eilam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "empat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:48:48.016685665Z",
+  "model": "glm-5.3"
+}

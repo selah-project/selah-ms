@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "supaya engkau takut akan ⟨את⟩ Yahweh, Elohim mu, untuk memelihara ⟨את⟩ segala ketetapan-Nya dan perintah-perintah-Nya yang aku memerintah kepadamu — engkau, dan anak mu, dan anak daripada anak mu — sepanjang hari-hari hidup mu, dan supaya diperpanjang hari-hari mu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "engkau takut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala ketetapan-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ketetapan-Nya"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "dan perintah-perintah-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "memerintah engkau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "dan anak mu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anak mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hidup mu"
+    },
+    {
+      "surface": "ויארכן",
+      "gloss": "dan supaya diperpanjang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-hari mu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:34.323558098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab Yahweh mengunjungi ⟨את⟩ Hana, maka dia mengandung dan melahirkan tiga anak lelaki dan dua anak perempuan; dan anak muda itu, Shemuel, membesar bersama Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mengunjungi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "maka dia mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "dan dua"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "dan membesar"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak muda itu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:20.490328861Z",
+  "model": "glm-5.3"
+}

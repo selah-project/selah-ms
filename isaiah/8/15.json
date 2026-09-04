@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan mereka yang ramai akan tersandung padanya, dan jatuh, dan patah, dan terjerat, dan tertangkap.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "dan akan tersandung"
+    },
+    {
+      "surface": "בם",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang ramai"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "dan patah"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "dan terjerat"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "dan tertangkap"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:05.290453257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu ia melihat, dan lihatlah, di sebelah kepalanya sekeping roti bakar batu panas dan sebuah tembikar air; lalu ia makan dan minum, lalu berbaring semula.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Lalu ia melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di sebelah kepalanya"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "sekeping roti bakar"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "batu panas"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "dan sebuah tembikar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "lalu ia makan"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu kembali"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dan berbaring semula"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:54.371743769Z",
+  "model": "glm-5.3"
+}

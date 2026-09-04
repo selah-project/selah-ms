@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Sebab engkau menetapkan mereka ⟨sebagai⟩ punggung; dengan tali busurmu engkau mengarahkan terus terhadap muka mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "engkau menetapkan mereka"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "punggung"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "dengan tali busurmu"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "engkau mengarahkan terus"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "muka mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:48.098074041Z",
+  "model": "glm-5.3"
+}

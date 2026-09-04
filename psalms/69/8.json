@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Sebab kerana Engkau aku menanggung cela; kehinaan menutupi muka ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kerana Engkau"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aku menanggung"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "kehinaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:39.794135060Z",
+  "model": "glm-5.3"
+}

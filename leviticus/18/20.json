@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan dengan isteri sejawatanmu jangan kauberikan persetubuhanmu, untuk menajiskan diri dengannya.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "sejawatanmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kauberikan"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "persetubuhanmu"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "untuk menyerahkan"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "untuk menajiskan diri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:21.270948516Z",
+  "model": "glm-5.3"
+}

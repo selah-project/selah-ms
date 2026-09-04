@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu datang Yosef kepada mereka pada waktu pagi, dan ia melihat ⟨את⟩ mereka, dan sesungguhnya mereka muram.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "muram"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:17.896265388Z",
+  "model": "glm-5.3"
+}

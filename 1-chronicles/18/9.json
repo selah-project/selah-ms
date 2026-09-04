@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu To'u (Tou), raja Hamat, mendengar bahawa Dawid telah memukul ⟨את⟩ seluruh tentara Hadadezer raja Tsova,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu ... mendengar"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "To'u (Tou)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "telah memukul"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh tentara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tentara"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:02.734575667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 20:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka terjadilah, apabila Elohim membuat aku mengembara ⟨את⟩ dari rumah ayahku, aku berkata kepadanya: Inilah hesed-mu yang engkau akan lakukan bersamaku — di setiap tempat yang kita masuki, katakanlah tentang aku: Dia saudaraku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "membuat mengembara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku (objek dari Elohim yang membuat mengembara)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תעשי",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "kita masuki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tentang aku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:14.048255035Z",
+  "model": "glm-5.3"
+}

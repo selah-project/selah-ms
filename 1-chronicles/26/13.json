@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan mereka menjatuhkan undi, seperti yang kecil begitu juga yang besar, menurut rumah bapa mereka, bagi pintu demi pintu.",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "dan mereka menjatuhkan"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "undi"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "seperti yang kecil"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "begitu juga yang besar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut rumah"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "bagi pintu"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "demi pintu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:32.663637917Z",
+  "model": "glm-5.3"
+}

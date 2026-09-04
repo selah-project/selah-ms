@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Pujilah, hai bangsa-bangsa, Elohim kita, dan perdengarkanlah suara puji-pujian-Nya.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "hai bangsa-bangsa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "dan perdengarkanlah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-pujian-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:10.451239117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan pada hari esoknya, datanglah orang Plisytim untuk menjarah ⟨את⟩ orang-orang yang terbunuh itu, lalu mereka mendapati ⟨את⟩ Syaul dan ⟨את⟩ anak-anaknya tergolek di gunung Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada hari esoknya"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Plisytim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "untuk menjarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang terbunuh itu"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "orang-orang yang terbunuh itu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "lalu mereka mendapati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "tergolek"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:04.880379987Z",
+  "model": "glm-5.3"
+}

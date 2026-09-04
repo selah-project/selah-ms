@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Yoav menjawab dan berkata, \"Jauh sekali, jauh sekali bagiku, jika aku menelan atau membinasakan.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Jauh sekali"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "jauh sekali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "aku menelan"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "membinasakan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:34.523063254Z",
+  "model": "glm-5.3"
+}

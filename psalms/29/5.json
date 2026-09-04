@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Suara Yahweh memecahkan arazim; ya, Yahweh memecahkan ⟨את⟩ arazim Lebanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "memecahkan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arazim"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ya, memecahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arazim Lebanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arazim"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:09.046612729Z",
+  "model": "glm-5.3"
+}

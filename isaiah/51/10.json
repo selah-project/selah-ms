@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Bukankah engkaulah yang mengeringkan laut, air tehom yang besar, yang menjadikan kedalaman laut sebuah jalan untuk dilalui oleh yang ditebus?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dia-yang"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "yang mengeringkan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מי",
+      "gloss": "air"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "yang menjadikan"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "kedalaman-kedalaman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sebuah jalan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "untuk dilalui"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "oleh yang ditebus"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:19.426670646Z",
+  "model": "glm-5.3"
+}

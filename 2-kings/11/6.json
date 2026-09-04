@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan sepertiga di pintu gerbang Sur, dan sepertiga di pintu gerbang di belakang para pengawal; dan kamu akan menjaga kawalan rumah itu sebagai pagar.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "dan sepertiga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "dan sepertiga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "para pengawal"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "dan kamu akan menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawalan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "kawalan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "sebagai pagar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:39.371760499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dengan kutukan kamu dikutuk, dan ⟨את⟩ Aku kamu tipu — ⟨bahkan⟩ segala bangsa itu seluruhnya.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "dengan kutukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "dikutuk"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "dan ⟨את⟩ Aku",
+      "marks": "kamu (objek: Aku)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "menipu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "seluruhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:07.004768828Z",
+  "model": "glm-5.3"
+}

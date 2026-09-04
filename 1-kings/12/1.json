@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu pergilah Rehavam ke Sykem, kerana ke Sykemlah seluruh Israel datang untuk mengangkat dia menjadi raja ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ke Sykem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ke Sykem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "untuk mengangkat menjadi raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:26.473949513Z",
+  "model": "glm-5.3"
+}

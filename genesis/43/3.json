@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Berkatalah Yehuda kepadanya, katanya: \"Memperingatkan sungguh-sungguh orang itu terhadap kami, katanya: Tidak kamu akan melihat muka-Ku, hanya jika saudara kamu bersama kamu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "העד",
+      "gloss": "Memperingatkan"
+    },
+    {
+      "surface": "העד",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kamu akan melihat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hanya jika"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara kamu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bersama kamu",
+      "marks": "saudara kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:39.133190866Z",
+  "model": "glm-5.3"
+}

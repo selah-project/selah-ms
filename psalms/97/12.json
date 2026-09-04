@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Bersukacitalah, hai orang benar, di dalam Yahweh, dan bersyukurlah kepada peringatan kesucian-Nya.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Bersukacitalah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "hai orang benar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di dalam Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "dan bersyukurlah"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "kepada peringatan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesucian-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:45.049022145Z",
+  "model": "glm-5.3"
+}

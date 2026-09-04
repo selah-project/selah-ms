@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu orang-orang Lewi dihitung dari umur tiga puluh tahun ke atas, dan bilangan mereka menurut kepala mereka, setiap orang, tiga puluh lapan ribu.",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "Lalu dihitung"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "dari umur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "bilangan mereka"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "menurut kepala mereka"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "dan lapan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:19.400040448Z",
+  "model": "glm-5.3"
+}

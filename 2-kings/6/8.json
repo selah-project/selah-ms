@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Raja Aram berperang melawan Israel, lalu ia bermesyuarat dengan hamba-hambanya, katanya: Di tempat si-anu dan si-anu kedudukan ⟨kemahku⟩.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sedang"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "melawan Israel"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "lalu ia bermesyuarat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "si-anu"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "dan si-anu"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "kedudukan ⟨kemahku⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:29.779289073Z",
+  "model": "glm-5.3"
+}

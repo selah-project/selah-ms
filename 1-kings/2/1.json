@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka hampirlah hari-hari David untuk mati, dan ia memberi perintah kepada ⟨את⟩ Syelomo anaknya, katanya:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Maka hampirlah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "untuk mati"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "dan ia memberi perintah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya:"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:04.511817555Z",
+  "model": "glm-5.3"
+}

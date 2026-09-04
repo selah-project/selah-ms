@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 138,
+  "translation": "Dan mereka akan menyanyi tentang jalan-jalan Yahweh, sebab besar kemuliaan Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "dan mereka akan menyanyi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "tentang jalan-jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:30.564470190Z",
+  "model": "glm-5.3"
+}

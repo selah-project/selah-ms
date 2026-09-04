@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan pada tahun lapan belas raja Yarovam bin Nevat, Aviyam memerintah atas Yehuda.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Dan pada tahun"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:12.360929849Z",
+  "model": "glm-5.3"
+}

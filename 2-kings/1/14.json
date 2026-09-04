@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sesungguhnya, turunlah api dari langit dan memakan ⟨את⟩ kedua-dua panglima lima puluh yang terdahulu dan ⟨את⟩ lima puluh orang mereka; maka sekarang kiranya berharga nyawaku di mata mu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedua-dua panglima lima puluh yang terdahulu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yang terdahulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lima puluh orang mereka"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "lima puluh orang mereka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maka sekarang"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "kiranya berharga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "di mata mu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:19.536169610Z",
+  "model": "glm-5.3"
+}

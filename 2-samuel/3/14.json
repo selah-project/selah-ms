@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu David menghantar utusan kepada Isy-Bosyet bin Syaul, katanya: Pulangkan ⟨את⟩ isteriku, ⟨את⟩ Mikal, yang aku pertunangkan denganku dengan seratus kulup Pelisytim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menghantar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Isy"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosyet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Pulangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteriku"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "isteriku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "aku pertunangkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "denganku"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "dengan seratus"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "kulup"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisytim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:01.839538582Z",
+  "model": "glm-5.3"
+}

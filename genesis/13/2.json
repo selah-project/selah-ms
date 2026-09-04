@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan Avram sangat kaya dengan ternakan, dengan perak dan dengan emas.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Dan Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "dengan ternakan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "dan dengan emas"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:29.716390811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Keadilan, keadilan engkau kejar, supaya engkau hidup dan engkau menduduki ⟨את⟩ tanah itu, yang Yahweh Elohimmu berikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "keadilan,"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "engkau kejar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "engkau hidup"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "dan engkau menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:21.352673235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan lidahku akan mengumandangkan kebenaran-Mu, puji-Mu sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Dan lidahku"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "akan mengumandangkan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaran-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "puji-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:36.651329004Z",
+  "model": "glm-5.3"
+}

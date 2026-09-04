@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Orang Mitsrayim berlaku jahat kepada kami ⟨את⟩-kami dan menindas kami, dan mereka menimpakan ke atas kami kerja paksa yang berat.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "berlaku jahat"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "dan menindas kami"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dan menimpakan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ke atas kami"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "kerja paksa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yang berat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:23.767315698Z",
+  "model": "glm-5.3"
+}

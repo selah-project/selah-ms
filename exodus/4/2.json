@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu berkatalah Yahweh kepadanya, \"Apakah ⟨ini⟩ di tanganmu?\" Dan ia berkata, \"Sebatang tongkat.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "apakah ⟨ini⟩"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di tanganmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:01.357435398Z",
+  "model": "glm-5.3"
+}

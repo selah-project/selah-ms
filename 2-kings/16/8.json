@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan Ahaz mengambil ⟨את⟩ perak dan ⟨את⟩ emas yang terdapat di rumah Yahweh dan di perbendaharaan rumah raja itu, lalu menghantarnya kepada raja Asyur sebagai suap.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yang terdapat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dan di perbendaharaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lalu menghantarnya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sebagai suap"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:43.322422907Z",
+  "model": "glm-5.3"
+}

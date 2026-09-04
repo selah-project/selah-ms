@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yahweh Elohim kamu telah memperbanyak ⟨את⟩ kamu, dan lihatlah, kamu pada hari ini seperti bintang-bintang langit bagi banyaknya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "telah memperbanyak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "dan lihatlah kamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "seperti bintang-bintang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bagi banyaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:57.981715423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan kamu akan mengejar ⟨את⟩ musuh-musuh kamu, dan mereka akan rebah di depan kamu oleh pedang.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "dan kamu akan mengejar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh kamu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh kamu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan mereka akan rebah"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di depan kamu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "oleh pedang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:30.630991026Z",
+  "model": "glm-5.3"
+}

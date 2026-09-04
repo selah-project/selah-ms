@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan sekarang, bukankah Boaz, kenalan kita, yang bersama ⟨את⟩ gadis-gadisnya engkau dahulu berada — sesungguhnya dia menampi ⟨את⟩ lantai pengirikan jelaiang itu malam ini.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "kenalan kita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היית",
+      "gloss": "engkau dahulu berada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gadis-gadisnya"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "gadis-gadisnya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "menampi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantai pengirikan jelai"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "lantai pengirikan"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "jelai"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam ini"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:00.252981780Z",
+  "model": "glm-5.3"
+}

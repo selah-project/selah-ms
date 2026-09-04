@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Dan mereka berkata: Ampun, tuanku, sungguh-sungguh kami turun pada kali pertama untuk membeli makanan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ampun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "kami turun"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "pada kali pertama"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "untuk membeli"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:31.927143496Z",
+  "model": "glm-5.3"
+}

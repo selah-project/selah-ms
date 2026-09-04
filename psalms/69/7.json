@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Janganlah dipermalukan kerana aku mereka yang menanti-Mu, Adonai Yahweh Tsebaot; janganlah mendapat malu kerana aku mereka yang mencari-Mu, Elohim Israel.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "dipermalukan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kerana aku"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "yang menanti-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "mendapat malu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kerana aku"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "yang mencari-Mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:39.794009056Z",
+  "model": "glm-5.3"
+}

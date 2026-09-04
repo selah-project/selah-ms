@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Bangunlah, wahai Elohim, bantahlah bantahan-Mu; ingatlah celaan-Mu dari orang bebal sepanjang hari.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "bantahlah"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "bantahan-Mu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "celaan-Mu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "orang bebal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:47.156186897Z",
+  "model": "glm-5.3"
+}

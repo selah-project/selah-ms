@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Akulah, Akulah dia yang menghibur kamu; siapakah engkau, sehingga engkau takut akan manusia yang akan mati, dan akan anak manusia yang dijadikan seperti rumput?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "yang menghibur kamu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "sehingga engkau takut"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "akan manusia"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "yang akan mati"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "dan akan anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "yang dijadikan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:19.427072616Z",
+  "model": "glm-5.3"
+}

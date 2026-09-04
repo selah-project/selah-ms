@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Bersorak-sorailah, hai orang benar, dalam Yahweh; bagi orang-orang tulus layaklah puji-pujian.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "bersorak-sorailah"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dalam Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "bagi orang-orang tulus"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layaklah"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:30.878610010Z",
+  "model": "glm-5.3"
+}

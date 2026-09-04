@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan perintahkanlah ⟨את⟩ Yehosyua, dan kuatkanlah dia serta teguhkanlah dia, sebab dia akan menyeberang di depan umat ini, dan dialah yang akan membuat ⟨את⟩ mereka mewarisi ⟨את⟩ negeri yang akan engkau lihat.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "Dan perintahkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "dan kuatkanlah dia"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "serta teguhkanlah dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yang akan menyeberang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dialah"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "yang akan membuat mewarisi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau lihat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:23.368027988Z",
+  "model": "glm-5.3"
+}

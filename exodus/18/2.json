@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu Yitro, bapa mentua Moshe, mengambil ⟨את⟩ Tsipora, isteri Moshe, selepas pemulangannya —",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "bapa mentua"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "pemulangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:31.202738033Z",
+  "model": "glm-5.3"
+}

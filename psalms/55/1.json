@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Kepada pemimpin ⟨pujian⟩, dengan alat gesek, maskil, bagi Daud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin ⟨pujian⟩"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan alat gesek"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:00.385442231Z",
+  "model": "glm-5.3"
+}

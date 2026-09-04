@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu memberontaklah Moab terhadap Israel selepas kematian Ahav.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "Lalu memberontaklah"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "terhadap Israel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:29.140667945Z",
+  "model": "glm-5.3"
+}

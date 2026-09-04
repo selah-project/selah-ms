@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Saul takut terhadap David, kerana Yahweh menyertai dia dan telah berpaling daripada Saul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan takut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "terhadap ke hadapan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "menyertai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "dan daripada"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "telah berpaling"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:37.100280568Z",
+  "model": "glm-5.3"
+}

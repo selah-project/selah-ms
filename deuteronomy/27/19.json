@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Terkutuklah orang yang membelitkan keadilan bagi pendatang, anak yatim dan balu, dan segala bangsa itu akan berkata: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "terkutuk"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "yang membelitkan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dan balu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:54.955035180Z",
+  "model": "glm-5.3"
+}

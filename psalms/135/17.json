@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Telinga ada pada mereka, tetapi mereka tidak mendengar; juga tiada nafas dalam mulut mereka.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ada pada mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "dalam mulut mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:31.558907357Z",
+  "model": "glm-5.3"
+}

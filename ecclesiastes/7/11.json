@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Baik hikmah bersama pusaka, dan kelebihan bagi mereka yang melihat matahari.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "pusaka"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dan kelebihan"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "bagi mereka yang melihat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:13.546792534Z",
+  "model": "glm-5.3"
+}

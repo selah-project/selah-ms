@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Masih akan berbuah pada masa tua, gemuk ⟨dan⟩ segar-hijau mereka akan berada.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "akan berbuah"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "pada masa tua"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "gemuk"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "⟨dan⟩ segar-hijau"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mereka akan berada"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.101683463Z",
+  "model": "glm-5.3"
+}

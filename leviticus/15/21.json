@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan sesiapa yang menyentuh tempat tidurnya akan membasuh pakaiannya dan mandi dalam air, dan dia tana sampai waktu petang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan sesiapa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "tempat tidurnya"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "akan membasuh"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan mandi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan dia tana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu petang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:57.269211731Z",
+  "model": "glm-5.3"
+}

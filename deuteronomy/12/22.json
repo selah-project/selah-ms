@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Hanya, sebagaimana ⟨את⟩ kijang dan ⟨את⟩ rusa jelantar dimakan, demikianlah engkau memakannya; yang cemar dan yang bersih sama-sama boleh memakannya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kijang"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "kijang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rusa jelantar"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rusa jelantar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "engkau memakannya"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yang cemar"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "dan yang bersih"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sama-sama"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "boleh memakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:55.613954026Z",
+  "model": "glm-5.3"
+}

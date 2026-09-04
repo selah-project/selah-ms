@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu aku sampai ke Yerushalaim dan aku tinggal di sana tiga hari.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Lalu aku sampai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku tinggal"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:04.394544808Z",
+  "model": "glm-5.3"
+}

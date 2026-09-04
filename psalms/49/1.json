@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Untuk pemimpin puji-pujian; bagi anak-anak Korach, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin puji-pujian"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:01.391213766Z",
+  "model": "glm-5.3"
+}

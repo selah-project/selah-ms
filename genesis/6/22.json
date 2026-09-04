@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu Noach melakukan segala yang diperintahkan ⟨את⟩-nya oleh Elohim; demikianlah dilakukannya.",
+  "tokens": [
+    {
+      "surface": "ועש",
+      "gloss": "Lalu melakukan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "Noach — objek perintah Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "oleh Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:43.785531102Z",
+  "model": "glm-5.3"
+}

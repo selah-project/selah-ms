@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu turunlah Moshe dari gunung itu kepada umat itu, dan ia menguduskan ⟨את⟩ umat itu, dan mereka membasuh pakaian mereka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Lalu turunlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dan ia menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "dan mereka membasuh"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "pakaian mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:01.576142940Z",
+  "model": "glm-5.3"
+}

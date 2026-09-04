@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Bukan atas korban sembelihanmu aku mempersalahkan kamu, dan korban bakaranmu ⟨berada⟩ sentiasa di hadapan-Ku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "korban sembelihanmu"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "aku mempersalahkan kamu"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "dan korban bakaranmu"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "di hadapan-Ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:49.363736645Z",
+  "model": "glm-5.3"
+}

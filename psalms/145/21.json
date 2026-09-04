@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Puji-pujian Yahweh akan mulutku ucapkan, dan biarlah segala daging memberkati nama kudus-Nya, untuk selama-lamanya dan selamanya.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akan ucapkan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kudus-Nya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan selamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:02.621858277Z",
+  "model": "glm-5.3"
+}

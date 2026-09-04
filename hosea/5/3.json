@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Aku mengenal Efrayim, dan Yisrael tidak tersembunyi daripada-Ku; sebab sekarang engkau, Efrayim, telah berzina, Yisrael telah menjadi najis.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan-Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "tersembunyi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "engkau-telah-berzina"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "telah-menjadi-najis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:54.968016777Z",
+  "model": "glm-5.3"
+}

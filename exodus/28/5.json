@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan mereka akan mengambil ⟨את⟩ ⟨emas⟩ dan ⟨את⟩ ⟨biru⟩ dan ⟨את⟩ ⟨ungu⟩ dan ⟨את⟩ merah kirmizi dan ⟨את⟩ linen halus.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "⟨emas⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "biru"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "⟨biru⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ungu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "⟨ungu⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "merah kirmizi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "merah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kirmizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "linen halus"
+    },
+    {
+      "surface": "השש",
+      "gloss": "⟨linen halus⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:27.537844019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan lemah bangkai dan lemah haiwan yang disambar, boleh dipakai bagi sebarang pekerjaan; tetapi memakannya jangan kamu memakannya.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Dan lemah"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "dan lemah"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yang disambar"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "boleh dipakai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi sebarang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "tetapi memakannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "kamu memakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:48.957468589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Kerana mereka telah melakukan ⟨את⟩ kejahatan di mata-Ku, dan mereka menjadi pembangkit kegeraman ⟨את⟩-Ku, sejak hari bapa-bapa mereka keluar dari Mitsrayim dan sehingga hari ini.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka telah melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata-Ku"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "pembangkit kegeraman"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-Ku",
+      "marks": "Aku (objek)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sejak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sehingga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:43.774074172Z",
+  "model": "glm-5.3"
+}

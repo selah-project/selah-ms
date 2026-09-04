@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu diberitahukan kepada raja Mitsrayim bahawa bangsa itu telah lari, maka terbaliklah hati Paroh dan hamba-hambanya terhadap bangsa itu, dan mereka berkata: \"Apakah ini yang kita buat, bahawa kita telah melepaskan ⟨את⟩ Yisrael dari perhambaan kita?\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "diberitahukan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "telah lari"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "maka terbaliklah"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "dan hamba-hambanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan mereka berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "yang kita buat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "kita telah melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "dari perhambaan kita"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:37.164081288Z",
+  "model": "glm-5.3"
+}

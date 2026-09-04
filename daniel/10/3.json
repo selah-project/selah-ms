@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Roti lazat tidak aku makan, dan daging dan anggur tidak masuk ke mulutku, dan minyak tidak aku balur, sampai genap tiga minggu hari.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Roti"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "lazat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "aku makan"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "dan minyak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "aku balur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "genap"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "minggu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:52.130727343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Maka jadilah segala hari Set dua belas tahun sembilan ratus tahun, lalu mati.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Maka jadilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "sembilan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lalu mati"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:23.745442841Z",
+  "model": "glm-5.3"
+}

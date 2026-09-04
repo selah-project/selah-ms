@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "\"Marilah kita naik menyerang Yehuda, dan mengganggunya, dan merobeknya bagi kita, dan menjadikan seorang raja berkuasa di tengah-tengahnya, ⟨את⟩ anak Tabeel.\"",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "Marilah kita naik"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "menyerang Yehuda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "dan mengganggunya"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "dan merobeknya"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "dan menjadikan raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "seorang raja"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak Tabeel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tabeel"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:48.710844723Z",
+  "model": "glm-5.3"
+}

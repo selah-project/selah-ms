@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "yang membawa kamu keluar dari tanah Mitsrayim untuk menjadi Elohim bagi kamu — Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "yang membawa keluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamu",
+      "marks": "kamu (objek: kamu sendiri)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:05.025111074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu mengelilingi sepuluh orang pemuda pembawa senjata Yoav, lalu memukul ⟨את⟩ Avsyalom dan membunuh dia.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "lalu mengelilingi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "orang pemuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "senjata"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lalu memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsyalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "dan membunuh dia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:00.360133554Z",
+  "model": "glm-5.3"
+}

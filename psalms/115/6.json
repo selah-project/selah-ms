@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Telinga ada pada mereka, tetapi mereka tidak mendengar; hidung ada pada mereka, tetapi mereka tidak menghidu.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ada pada mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ada pada mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "mereka menghidu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:11.907960725Z",
+  "model": "glm-5.3"
+}

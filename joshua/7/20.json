@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu menjawab Akan ⟨את⟩ Yehosyua dan berkata: Sungguh, aku telah berdosa kepada Yahweh, Elohim Israel, dan beginilah dan beginilah yang aku lakukan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "telah berdosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:23.193846588Z",
+  "model": "glm-5.3"
+}

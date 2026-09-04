@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 17:13",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Harapan orang Israel ⟨ialah⟩ Yahweh; semua yang meninggalkan Engkau akan mendapat malu; pengundur-pengundur di bumi akan ditulis, sebab mereka telah meninggalkan sumber air hidup, ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "מקוה",
+      "gloss": "Harapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "orang Israel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עזביך",
+      "gloss": "yang meninggalkan Engkau"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "akan mendapat malu"
+    },
+    {
+      "surface": "יסורי",
+      "gloss": "pengundur-pengundur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "akan ditulis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "mereka telah meninggalkan"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:15:30.416631175Z",
+  "model": "glm-5.3"
+}

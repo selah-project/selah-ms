@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Engkau telah memerintah ⟨supaya⟩ piagam-piagam-Mu dijaga dengan sungguh-sungguh.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "telah memerintah"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "piagam-piagam-Mu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "dijaga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sungguh-sungguh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:56.396358808Z",
+  "model": "glm-5.3"
+}

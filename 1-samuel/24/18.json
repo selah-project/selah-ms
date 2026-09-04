@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu berkatalah ia kepada Daud: Engkaulah ⟨yang⟩ lebih adil daripada aku, kerana engkau telah membalasku dengan kebaikan, sedangkan aku telah membalasmu dengan kejahatan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lebih adil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "telah membalasku"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dengan kebaikan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sedangkan aku"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "telah membalasmu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "dengan kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:19.136696370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Biarkan semua musuhku mendapat malu dan terkejut benderang; biarkan mereka berpaling, mendapat malu sekelip mata.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mendapat malu"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "dan terkejut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "benderang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mendapat malu"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sekelip mata"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:16.790905522Z",
+  "model": "glm-5.3"
+}

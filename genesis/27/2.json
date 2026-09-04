@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan katanya: lihatlah, aku telah tua; aku tidak tahu hari matiku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "aku telah tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "matiku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:58.037154427Z",
+  "model": "glm-5.3"
+}

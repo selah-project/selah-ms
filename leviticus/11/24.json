@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan oleh benda-benda ini kamu menjadi najis; setiap orang yang menyentuh bangkai mereka menjadi najis sehingga waktu petang.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Dan oleh benda-benda ini"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kamu menjadi najis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangkai mereka"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "waktu petang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:25.121137938Z",
+  "model": "glm-5.3"
+}

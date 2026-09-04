@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Mikal, anak perempuan Syaul, mencintai ⟨את⟩ David; lalu diberitahukannya hal itu kepada Syaul, dan perkara itu dipandang baik di matanya.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "mencintai"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "lalu diberitahukannya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "dipandang baik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara itu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:08.981128589Z",
+  "model": "glm-5.3"
+}

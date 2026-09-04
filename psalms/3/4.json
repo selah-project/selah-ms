@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Tetapi Engkau, Yahweh, ⟨ialah⟩ perisai bagiku, kemuliaanku, dan Yang mengangkat kepala aku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "perisai"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "dan Yang mengangkat"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.209589149Z",
+  "model": "glm-5.3"
+}

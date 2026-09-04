@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Aku mengenal segala burung gunung-gunung, dan yang bergerak di padang ⟨ada⟩ bersama-Ku.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku mengenal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "dan yang bergerak"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersama-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:35.424327237Z",
+  "model": "glm-5.3"
+}

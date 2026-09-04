@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Jalan orang-orang fasik seperti kegelapan; mereka tidak tahu apa yang membuat mereka tersandung.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "seperti kegelapan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mereka tahu"
+    },
+    {
+      "surface": "במה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "membuat mereka tersandung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:34.654053161Z",
+  "model": "glm-5.3"
+}

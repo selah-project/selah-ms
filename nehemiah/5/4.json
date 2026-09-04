@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan ada yang berkata: \"Kami telah meminjam wang perak untuk cukai raja ⟨atas⟩ padang kami dan kebun anggur kami.\"",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "Dan ada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "kami telah meminjam"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang perak"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "untuk cukai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨raja⟩"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "padang kami"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "dan kebun anggur kami"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:31.111357109Z",
+  "model": "glm-5.3"
+}

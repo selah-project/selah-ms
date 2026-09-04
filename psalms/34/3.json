@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dalam Yahweh bermegah napasku; biarlah yang rendah hati mendengar dan bersukacita.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Dalam Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bermegah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napasku"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "yang rendah hati"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "dan bersukacita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.499085391Z",
+  "model": "glm-5.3"
+}

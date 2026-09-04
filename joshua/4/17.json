@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu Yehosyua memerintahkan ⟨את⟩ para imam, katanya: \"Naiklah keluar dari Yarden.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintahkan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keluar dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:06.866725852Z",
+  "model": "glm-5.3"
+}

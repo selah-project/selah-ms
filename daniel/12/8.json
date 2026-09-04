@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Maka aku mendengar, tetapi tidak memahami; lalu aku berkata: tuanku, apakah kesudahan semua ini?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maka aku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "lalu aku berkata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "kesudahan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "semua ini"
+    }
+  ],
+  "timestamp": "2026-09-04T14:49:22.866195542Z",
+  "model": "glm-5.3"
+}

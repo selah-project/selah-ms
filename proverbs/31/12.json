@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Ia berbuat kebaikan kepadanya, bukan kejahatan, segala hari hayatnya.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "Ia berbuat kebaikan kepadanya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "hayatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:43.304514780Z",
+  "model": "glm-5.3"
+}

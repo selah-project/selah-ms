@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Sekiranya tentera berkhemah menentang ku, tidak akan takut hati ku; sekiranya peperangan bangkit menentang ku — dalam hal ini aku percaya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sekiranya"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "berkhemah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menentang ku"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hati ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sekiranya"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menentang ku"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "dalam hal ini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "percaya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:46.630073340Z",
+  "model": "glm-5.3"
+}

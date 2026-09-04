@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Yang memukul anak-anak sulung Mitsrayim, dari manusia sampai binatang.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Yang memukul"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "anak-anak sulung"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "dari manusia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:44.087724701Z",
+  "model": "glm-5.3"
+}

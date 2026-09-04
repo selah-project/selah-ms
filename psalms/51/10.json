@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Buatlah aku mendengar kegembiraan dan kesukacitaan; biarlah bersorak tulang-tulang yang telah Kauremukkan.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Buatlah aku mendengar"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "dan kesukacitaan"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "biarlah bersorak"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "yang telah Kauremukkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:21.993393700Z",
+  "model": "glm-5.3"
+}

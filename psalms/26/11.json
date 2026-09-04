@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Tetapi aku, dalam ketulusanku aku berjalan; tebuslah aku dan kasihanilah aku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dalam ketulusanku"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "tebuslah aku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dan kasihanilah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:48.129429953Z",
+  "model": "glm-5.3"
+}

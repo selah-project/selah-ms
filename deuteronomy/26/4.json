@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan imam itu akan mengambil bakul dari tanganmu dan meletakkannya di hadapan mezbah Yahweh Elohimmu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Dan imam itu akan mengambil"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "bakul"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "dari tanganmu"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "dan meletakkannya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:09.568497961Z",
+  "model": "glm-5.3"
+}

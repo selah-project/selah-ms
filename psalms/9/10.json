@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan menjadi Yahweh kubu bagi yang tertindas, kubu pada waktu-waktu kesesakan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan menjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "bagi yang tertindas"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pada waktu-waktu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kesesakan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:53.786629705Z",
+  "model": "glm-5.3"
+}

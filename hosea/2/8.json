@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab itu, sesungguhnya aku akan memagari ⟨את⟩ jalanmu dengan semak duri, dan aku akan membina ⟨את⟩ pagarannya, dan lorong-lorongnya tidak akan ditemuinya.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sesungguhnya aku"
+    },
+    {
+      "surface": "שך",
+      "gloss": "akan memagari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalanmu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalanmu"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "dengan semak duri"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "dan aku akan membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagarannya"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "pagarannya"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "dan lorong-lorongnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "akan ditemuinya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:17.093523656Z",
+  "model": "glm-5.3"
+}

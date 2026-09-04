@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Lalu kata Yosef kepada saudara-saudaranya, \"Marilah dekat kepada aku.\" Maka mereka pun menghampiri. Dan katanya, \"Akulah Yosef, saudaramu, yang kamu jualkan ⟨את⟩-ku ke Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Marilah dekat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sihir (sila)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada aku"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Maka mereka menghampiri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "kamu jualkan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ku",
+      "marks": "aku — yang dijual ke Mitsrayim"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ke Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:50.992499039Z",
+  "model": "glm-5.3"
+}

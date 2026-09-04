@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Hatiku tersesat; kegerunan mengejutkan aku; ⟨את⟩ senja yang kuimpikan telah dijadikan bagi aku kegentaran.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "tersesat"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kegerunan"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mengejutkan aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senja"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "senja"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "yang kuimpikan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dijadikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi aku"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "kegentaran"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:20.685635867Z",
+  "model": "glm-5.3"
+}

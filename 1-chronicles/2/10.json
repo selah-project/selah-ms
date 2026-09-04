@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Ram memperanakkan ⟨את⟩ Aminadab, dan Aminadab memperanakkan ⟨את⟩ Nahsyon, pembesar bani Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Dan Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "dan Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahsyon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahsyon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pembesar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:30.216779004Z",
+  "model": "glm-5.3"
+}

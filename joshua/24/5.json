@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Aku menghantar ⟨את⟩ Moshe dan ⟨את⟩ Aharon, dan Aku memukul ⟨את⟩ Mitsrayim seperti yang Kulakukan di tengah-tengahnya, dan sesudah itu Aku membawa ⟨את⟩ kamu keluar.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "lalu Aku menghantar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "dan Aku memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Aku lakukan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah itu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Aku membawa keluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:54.043991046Z",
+  "model": "glm-5.3"
+}

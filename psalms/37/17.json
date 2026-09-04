@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Sebab lengan orang-orang fasik akan dipatahkan, tetapi Yahweh ⟨⟨ialah⟩⟩ yang menopang orang-orang benar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "akan dipatahkan"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "tetapi menopang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:15.463639444Z",
+  "model": "glm-5.3"
+}

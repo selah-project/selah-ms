@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Pengutuk bapanya dan ibunya — pelitanya akan padam dalam kegelapan pekat.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "pengutuk"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "dan ibunya"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "akan padam"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "pelitanya"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "dalam kegelapan pekat"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:49.382362022Z",
+  "model": "glm-5.3"
+}

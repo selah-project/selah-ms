@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Enosh hidup sembilan puluh tahun, dan memperanakkan ⟨את⟩ Kenan (Kenan).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh (Enos)"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "sembilan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:05.399187558Z",
+  "model": "glm-5.3"
+}

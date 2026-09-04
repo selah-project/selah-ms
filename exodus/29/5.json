@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau akan mengambil ⟨את⟩ pakaian-pakaian itu, dan memakaikan Aharon ⟨את⟩ kuttonet, dan ⟨את⟩ jubah efod, dan ⟨את⟩ efod, dan ⟨את⟩ hosen, dan engkau akan mengikat baginya dengan ikatan tenun efod itu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaian"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "pakaian-pakaian"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "dan engkau akan memakaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuttonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kuttonet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jubah efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hosen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "dan engkau akan mengikat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "dengan ikatan tenun"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:51.147145508Z",
+  "model": "glm-5.3"
+}

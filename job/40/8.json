@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Adakah engkau juga akan membatalkan hukuman-Ku, menghukum-Ku bersalah supaya engkau menjadi benar?",
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "adakah juga"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "engkau akan membatalkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukuman-Ku"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "menghukum-Ku bersalah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "engkau menjadi benar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:44.987206045Z",
+  "model": "glm-5.3"
+}

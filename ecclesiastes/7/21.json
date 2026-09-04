@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Juga kepada segala perkataan yang dituturkan jangan engkau berikan hatimu, supaya engkau tidak mendengar ⟨את⟩ hambamu mengutuki engkau.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dituturkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambamu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "mengutuki engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:17.019098720Z",
+  "model": "glm-5.3"
+}

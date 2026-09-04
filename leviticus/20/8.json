@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan kamu akan memelihara ⟨את⟩ ketetapan-Ku dan kamu akan melakukannya ⟨את⟩; Aku ⟨ialah⟩ Yahweh yang menguduskan kamu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "kamu akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-Ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "kamu akan melakukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-Ku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "yang menguduskan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:42.179778165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu kami menumpas mereka ⟨את⟩ mereka, sepertimana kami lakukan kepada Sihon raja Hesybon: kami tumpas setiap kota — orang-orang, para wanita, dan kanak-kanak.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "lalu kami menumpas"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (kota-kota Argob)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sepertimana"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "kami lakukan"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "kepada Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hesybon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "kami tumpas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para wanita"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "dan kanak-kanak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:22.456030727Z",
+  "model": "glm-5.3"
+}

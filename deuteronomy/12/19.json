@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Berjaga-jagalah bagimu, supaya jangan engkau meninggalkan ⟨את⟩ orang Lewi sepanjang hari-harimu di atas tanahmu.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Berjaga-jagalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya-jangan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "engkau-meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Lewi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "orang-Lewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di-atas"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tanahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:33.497114476Z",
+  "model": "glm-5.3"
+}

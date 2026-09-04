@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan anaknya sulung ⟨ialah⟩ Avdon, dan Tsur, dan Kisy, dan Baal, dan Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "dan anaknya"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "sulung"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dan Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "dan Kisy"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "dan Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "dan Nadav"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:48.928021038Z",
+  "model": "glm-5.3"
+}

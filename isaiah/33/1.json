@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Wahai engkau yang merampas, padahal engkau tidak dirampas; yang berkhianat, padahal tidak dikhianati terhadapmu! Apabila engkau selesai merampas, engkau akan dirampas; apabila engkau selesai berkhianat, mereka akan berkhianat terhadapmu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wahai"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "yang merampas"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "dirampas"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "dan yang berkhianat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "dikhianati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "apabila engkau selesai"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "engkau akan dirampas"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "apabila engkau selesai"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "berkhianat"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "mereka akan berkhianat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadapmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:00.926116942Z",
+  "model": "glm-5.3"
+}

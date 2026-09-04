@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Dalam kebenaran-Mu selamatkan aku dan bebaskan aku; condongkan telinga-Mu kepadaku dan tolong selamatkan aku.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "selamatkan aku"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "dan bebaskan aku"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telinga-Mu"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "dan tolong selamatkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:41.693545237Z",
+  "model": "glm-5.3"
+}

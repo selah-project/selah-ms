@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Segala sesuatu yang dikhususkan sebagai herem, yang dikhususkan daripada manusia, tidak akan ditebus; maut ia akan dibunuh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "herem (sesuatu yang dikhususkan)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "dikhususkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "akan ditebus"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ia akan dibunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:13.563086859Z",
+  "model": "glm-5.3"
+}

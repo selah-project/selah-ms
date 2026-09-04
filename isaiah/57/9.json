@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Engkau pergi kepada raja dengan minyak, engkau memperbanyak wangian-wangianmu, dan engkau menghantar utusanmu sampai jauh, dan engkau merendahkan diri sampai Syeol.",
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "engkau pergi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "engkau memperbanyak"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "wangian-wangianmu"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "dan engkau menghantar"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "utusanmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "dan engkau merendahkan diri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:14.425785804Z",
+  "model": "glm-5.3"
+}

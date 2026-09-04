@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Yahweh mengenal hari-hari orang-orang yang tidak bercela, dan milik pusaka mereka akan kekal selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "orang-orang yang tidak bercela"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "dan milik pusaka mereka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan kekal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:15.463944606Z",
+  "model": "glm-5.3"
+}

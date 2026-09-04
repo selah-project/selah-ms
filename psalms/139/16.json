@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Kejadianku yang belum berbentuk telah dilihat mata-Mu, dan pada kitab-Mu semuanya tertulis — hari-hari pun dibentuk, padahal belum ada satu pun antara mereka.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "kejadianku yang belum berbentuk"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-Mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan pada"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitab-Mu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "tertulis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "dibentuk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "padahal belum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu pun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "antara mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:28.355436151Z",
+  "model": "glm-5.3"
+}

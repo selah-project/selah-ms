@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu mereka berangkat dari Sukot, dan berkhemah di Etam, di tepi padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויסעu",
+      "gloss": "Lalu mereka berangkat"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "dari Sukot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "dan berkhemah"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "di Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:18.335952751Z",
+  "model": "glm-5.3"
+}

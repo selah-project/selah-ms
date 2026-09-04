@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Elohimku, atasku jiwaku tertekan; sebab itu aku mengingat Engkau, dari negeri Yarden, dan Hermonim, dari gunung Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "tertekan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "aku mengingat Engkau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari negeri"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "dan Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dari gunung"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:04.240997052Z",
+  "model": "glm-5.3"
+}

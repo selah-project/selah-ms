@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan imam itu akan mengambil ⟨את⟩ anak bebiri korban asyam dan ⟨את⟩ satu log minyak, lalu imam itu akan mengunyahkan ⟨את⟩ mereka sebagai persembahan tenufah di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan akan mengambil"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak bebiri korban asyam"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "anak bebiri"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "korban asyam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "satu log minyak"
+    },
+    {
+      "surface": "לג",
+      "gloss": "satu log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "lalu akan mengunyahkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (anak bebiri dan log minyak)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "persembahan tenufah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:43.751830578Z",
+  "model": "glm-5.3"
+}

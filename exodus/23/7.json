@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Daripada perkataan dusta engkau menjauh, dan yang tidak bersalah serta yang benar jangan engkau bunuh, sebab Aku tidak membenarkan orang fasik.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "daripada perkataan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "engkau menjauh"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "dan yang tidak bersalah"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "serta yang benar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "engkau bunuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "Aku membenarkan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:14.783490592Z",
+  "model": "glm-5.3"
+}

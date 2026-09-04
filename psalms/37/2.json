@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Sebab seperti rumput segaja mereka akan dituai, dan seperti tumbuhan hijau mereka akan layu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "segera"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "mereka akan dituai"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "dan seperti tumbuhan hijau"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "yang segar"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "mereka akan layu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:49.162967581Z",
+  "model": "glm-5.3"
+}

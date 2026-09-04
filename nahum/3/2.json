@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bunyi cemeti dan bunyi gemuruh roda, serta kuda yang meluru dan kereta perang yang melompat-lompat;",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Bunyi"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "cemeti"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan bunyi"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "gemuruh"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "roda"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "serta kuda"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "yang meluru"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "dan kereta perang"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "yang melompat-lompat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:34.058221587Z",
+  "model": "glm-5.3"
+}

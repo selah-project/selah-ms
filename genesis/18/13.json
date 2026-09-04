@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan berkatalah Yahweh kepada Avraham: mengapakah ini Sarah ketawa, kata: sungguhkah aku akan melahirkan, padahal aku telah tua?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "ketawa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "האף",
+      "gloss": "sungguhkah"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "aku akan melahirkan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padahal aku"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "telah tua"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:19.474627844Z",
+  "model": "glm-5.3"
+}

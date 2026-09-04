@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan lihatlah, dan buatlah menurut corak mereka, yang ditunjukkan kepadamu di atas gunung itu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "menurut corak mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ditunjukkan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di atas gunung itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:41.980963642Z",
+  "model": "glm-5.3"
+}

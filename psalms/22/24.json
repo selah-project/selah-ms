@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Hai kamu yang takut akan Yahweh, pujilah Dia; semua keturunan Yaakov, muliakanlah Dia; dan gentarlah terhadap-Nya, semua keturunan Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "muliakanlah Dia"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "dan gentarlah"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "terhadap-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:19.279277271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan ia menulis dalam surat-surat itu, katanya: Serukanlah puasa, dan tempatkanlah ⟨את⟩ Navot di kepala umat itu.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "dan ia menulis"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "dalam surat-surat itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "serukanlah"
+    },
+    {
+      "surface": "צום",
+      "gloss": "puasa"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "dan tempatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di kepala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:04.402280142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka Elohim memberi ⟨את⟩ Daniel untuk hesed dan untuk rachamim di hadapan penghulu orang-orang sara.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Maka memberi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "untuk hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "dan untuk rachamim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "penghulu"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "orang-orang sara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:58.375085945Z",
+  "model": "glm-5.3"
+}

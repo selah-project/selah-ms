@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan Yahweh menghantar engkau di jalan dan berfirman: Pergilah dan tumpaslah orang-orang berdosa itu, ⟨את⟩ Amalek, dan berperanglah melawan mereka sehingga habis memusnahkan mereka.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Dan menghantar engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "dan tumpaslah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang berdosa itu"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "orang-orang berdosa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "dan berperanglah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "melawan mereka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "habis memusnahkan mereka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:55.117128234Z",
+  "model": "glm-5.3"
+}

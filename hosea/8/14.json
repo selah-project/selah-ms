@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Yisrael (Israel) melupakan ⟨את⟩ Pembuatnya, dan membina istana-istana; dan Yehuda memperbanyak kota-kota berkubu; tetapi Aku akan menghantar api ke atas kota-kotanya, dan ia akan memakan segala istananya.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "Dan melupakan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pembuatnya"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Pembuatnya"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan membina"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "istana-istana"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "memperbanyak"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "tetapi Aku akan menghantar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ke atas kota-kotanya"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dan ia akan memakan"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "segala istananya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:06.667381768Z",
+  "model": "glm-5.3"
+}

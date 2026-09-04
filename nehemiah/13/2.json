@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "kerana mereka tidak menyambut ⟨את⟩ bani Israel dengan roti dan dengan air, dan ia mengupah atas mereka ⟨את⟩ Bilam untuk mengutuk mereka; maka Elohim kami membalikkan ⟨את⟩ kutuk itu menjadi berkat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "mereka menyambut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "dengan roti"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan dengan air"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "dan ia mengupah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "untuk mengutuk mereka"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "maka membalikkan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kutuk itu"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "menjadi berkat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:00.656738513Z",
+  "model": "glm-5.3"
+}

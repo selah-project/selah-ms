@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Lalu dibakarnya ⟨את⟩ korban bakarannya dan ⟨את⟩ korban sujinya, ditumpahkannya ⟨את⟩ persembahan curahannya, dan dipercikkannya ⟨את⟩ darah korban keselamatan yang miliknya itu ke atas mezbah itu.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "dibakarnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakarannya"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "korban bakarannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban sujinya"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "korban sujinya"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ditumpahkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan curahannya"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "persembahan curahannya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "dipercikkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "korban keselamatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "miliknya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:27.063620704Z",
+  "model": "glm-5.3"
+}

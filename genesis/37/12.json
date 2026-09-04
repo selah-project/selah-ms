@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Kemudian saudara-saudaranya pergi untuk menjaga ⟨את⟩ kambing biri-biri bapa mereka di Sykhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Kemudian ... pergi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing biri-biri"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Sykhem"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:46.782854518Z",
+  "model": "glm-5.3"
+}

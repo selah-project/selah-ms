@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Demi nama-Mu, Yahweh, hidupkanlah aku; demi kebenaran-Mu, keluarkanlah jiwa-ku daripada kesesakan.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "hidupkanlah aku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "demi kebenaran-Mu"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "keluarkanlah"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "daripada kesesakan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:14.087918266Z",
+  "model": "glm-5.3"
+}

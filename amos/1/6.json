@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Beginilah firman Yahweh: Atas tiga pemberontakan Aza, bahkan atas empat, Aku tidak akan membatalkannya — kerana mereka membawa pergi tawanan sepenuhnya, untuk menyerahkan mereka kepada Edom.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pemberontakan"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "bahkan atas"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "Aku akan membatalkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana atas"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "mereka membawa pergi tawanan"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "sepenuhnya"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "untuk menyerahkan"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "kepada Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:30.001909471Z",
+  "model": "glm-5.3"
+}

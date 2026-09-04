@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Engkau membuatku tahu jalan kehidupan; kepuasan sukacita bersama ⟨את⟩ wajah-Mu, kenikmatan di tangan kanan-Mu selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Engkau membuatku tahu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kepuasan"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "sukacita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "kenikmatan"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "di tangan kanan-Mu"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:55.568434367Z",
+  "model": "glm-5.3"
+}

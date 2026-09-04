@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Doa bagi Daud. Dengarlah ⟨keadilan⟩, wahai Yahweh, pasanglah telinga kepada jeritanku, bendarikan telinga kepada doaku — bukan dari bibir tipu daya.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨keadilan⟩"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "kepada jeritan-ku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "bendarikan telinga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "kepada doa-ku"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dari bibir"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu daya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:37.260021080Z",
+  "model": "glm-5.3"
+}

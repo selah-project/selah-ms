@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu berkatalah Eliyahu kepada Ahab: \"Naiklah, makan dan minum, sebab ⟨ada⟩ bunyi gemuruh hujan yang banyak.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kepada Ahab"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gemuruh"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan yang banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:47.199411007Z",
+  "model": "glm-5.3"
+}

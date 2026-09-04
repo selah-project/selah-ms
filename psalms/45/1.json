@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Kepada pemimpin puji-pujian, mengenai Syosyanim, bagi anak-anak Korah, maskil, nyanyian kekasih-kekasih.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin puji-pujian"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Syosyanim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi anak-anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "kekasih-kekasih"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:56.346782038Z",
+  "model": "glm-5.3"
+}

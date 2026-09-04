@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan Mitsrayim memperanakkan ⟨את⟩ orang-orang Lud, dan ⟨את⟩ orang-orang Anam, dan ⟨את⟩ orang-orang Lehab, dan ⟨את⟩ orang-orang Naphtuh;",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Dan Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Lud"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "orang-orang Lud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang Anam"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "orang-orang Anam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang Lehab"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "orang-orang Lehab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang Naphtuh"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "orang-orang Naphtuh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:28.470292379Z",
+  "model": "glm-5.3"
+}

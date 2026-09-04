@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Davíd mengumpulkan ⟨את⟩ segala orang itu, dan pergi ke Rabá, dan berperang terhadapnya, lalu menawannya.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "lalu mengumpulkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala orang itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "ke Rabá"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "dan berperang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "lalu menawannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:55.285569831Z",
+  "model": "glm-5.3"
+}

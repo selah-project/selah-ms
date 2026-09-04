@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 2:10",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Bukankah satu bapa bagi kita semua? Bukankah satu El yang mencipta kita? Mengapakah kita berkhianat, seorang terhadap saudaranya, untuk menajiskan perjanjian bapa-bapa kita?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "bagi kita semua"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "בראנו",
+      "gloss": "mencipta kita"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "נבגד",
+      "gloss": "kita berkhianat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "terhadap saudaranya"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "untuk menajiskan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bapa-bapa kita"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:20.562134646Z",
+  "model": "glm-5.3"
+}

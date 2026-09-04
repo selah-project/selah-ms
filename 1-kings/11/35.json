@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan akan kuambil kerajaan itu dari tangan anak dia, dan akan ku berikan ⟨את⟩ dia kepadamu, yakni sepuluh suku itu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "dan akan kuambil"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak dia"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "dan akan ku berikan dia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sepuluh suku"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "suku-suku itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:55.041301953Z",
+  "model": "glm-5.3"
+}

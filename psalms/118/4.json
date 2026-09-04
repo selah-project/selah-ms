@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Biarlah mereka yang takut akan Yahweh berkata: bahawa untuk selama-lamanya ⟨ialah⟩ hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "biarlah berkata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mereka yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:14.207756437Z",
+  "model": "glm-5.3"
+}

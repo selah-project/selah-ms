@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Aku akan melemparkan ⟨את⟩ engkau dan ⟨את⟩ ibu engkau yang melahirkan engkau, ke bumi yang lain yang tidaklah engkau dilahirkan di sana; dan di sanalah engkau akan mati.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "Aku akan melemparkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibu engkau"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibu engkau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "melahirkan engkau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidaklah"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "engkau dilahirkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "engkau akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T13:15:49.060968985Z",
+  "model": "glm-5.3"
+}

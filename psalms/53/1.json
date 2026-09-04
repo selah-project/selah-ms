@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Kepada pemimpin muzik, mengikut Mahalat, masykil bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muzik"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "masykil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:53.526037285Z",
+  "model": "glm-5.3"
+}

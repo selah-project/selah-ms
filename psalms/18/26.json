@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dengan yang berhesed Engkau menunjukkan diri berhesed; dengan lelaki yang tamlah Engkau menunjukkan diri tamlah.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Dengan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "yang berhesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Engkau menunjukkan diri berhesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yang tamlah"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "Engkau menunjukkan diri tamlah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:19.649005850Z",
+  "model": "glm-5.3"
+}

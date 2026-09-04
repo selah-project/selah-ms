@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu kata Syemuel kepada Syaul: Berhentilah, dan aku akan memberitahumu ⟨את⟩ apa yang telah difirmankan Yahweh kepadaku malam ini. Lalu berkatalah Syaul kepadanya: Berkatalah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Berhentilah"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "dan akan kuberitahu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam ini"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Berkatalah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:20.303730389Z",
+  "model": "glm-5.3"
+}

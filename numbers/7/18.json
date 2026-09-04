@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Pada hari kedua Netanel bin Tsuar, nasi suku Yisaskhar, menghampirkan ⟨korban⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "menghampirkan"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskhar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:50.932321861Z",
+  "model": "glm-5.3"
+}

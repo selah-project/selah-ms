@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan mentuanya, ayah gadis itu, menahannya, dan tinggallah ia dengan ⟨את⟩-nya tiga hari; mereka makan dan minum, dan bermalam di sana.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "menahannya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mentuanya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "gadis itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan tinggallah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "dengan ⟨את⟩-nya",
+      "marks": "dia (menantu lelakinya)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "dan mereka makan"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "dan mereka minum"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "dan mereka bermalam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:11:54.853997352Z",
+  "model": "glm-5.3"
+}

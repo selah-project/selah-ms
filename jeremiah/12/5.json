@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Sebab dengan orang yang berjalan kaki ⟨את⟩ engkau telah berlumba berlari, dan mereka membuat engkau letih — maka bagaimanakah engkau akan bersaing dengan kuda-kuda? Dan di tanah syalom engkau berasa yakin — maka bagaimanakah engkau akan bertindak di kembangan gaung Yarden?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang berjalan kaki"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "orang yang berjalan kaki"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "engkau telah berlumba berlari"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "dan mereka membuat engkau letih"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "maka bagaimanakah"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "engkau akan bersaing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda-kuda"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dan di tanah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "berasa yakin"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "maka bagaimanakah"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau akan bertindak"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "di kembangan gaung"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:33.715214450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Apabila musuh-musuhku berpaling ke belakang, mereka tersandung dan binasa dari hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Apabila berpaling"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "mereka tersandung"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "dan binasa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:27.847375462Z",
+  "model": "glm-5.3"
+}

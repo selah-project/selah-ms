@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Memikat telah memikat aku seperti burung musuhku, tanpa sebab.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "memikat"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "telah memikat aku"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "seperti burung"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:25.634769371Z",
+  "model": "glm-5.3"
+}

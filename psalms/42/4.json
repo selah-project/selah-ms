@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Air mataku telah menjadi bagiku roti siang dan malam, sementara mereka berkata kepadaku sepanjang hari: \"Di mana Elohimmu?\"",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "air mataku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "sementara berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:30.757304826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan Arpaksyad memperanakkan ⟨את⟩ Syelach, dan Syelach memperanakkan ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Dan Arpaksyad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Syelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dan Syelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:04.677052995Z",
+  "model": "glm-5.3"
+}

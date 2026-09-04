@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Moshe dan Aharon mengambil ⟨את⟩ orang-orang ini, yang ditetapkan dengan nama-nama,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang ini"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ditetapkan"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "dengan nama-nama"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:33.803296001Z",
+  "model": "glm-5.3"
+}

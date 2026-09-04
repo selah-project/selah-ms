@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Orang-orang rendah hati melihat ⟨ini⟩ dan bersukacita; pencari-pencari Elohim — dan hati kamu akan hidup.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang rendah hati"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "pencari-pencari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "dan akan hidup"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hati kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:35.672095533Z",
+  "model": "glm-5.3"
+}

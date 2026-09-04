@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Antara-Ku dan antara bani Yisrael ⟨ialah⟩ tanda selama-lamanya, kerana enam hari membuat Yahweh ⟨את⟩ langit dan ⟨את⟩ bumi, dan pada hari ketujuh Ia berhenti dan Ia berehat-segar.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "Antara-Ku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "dan Ia berehat-segar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:06.840632721Z",
+  "model": "glm-5.3"
+}

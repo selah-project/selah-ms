@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Di hadapan Yahweh, sebab ⟨Ia⟩ datang untuk menghakimi ⟨את⟩ bumi; ⟨Ia⟩ akan menghakimi tebel dengan kebenaran, dan bangsa-bangsa dengan kemesraan-keadilan ⟨yang lurus⟩.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨Ia⟩ datang"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "untuk menghakimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "⟨Ia⟩ akan menghakimi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dengan kebenaran"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "dan bangsa-bangsa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dengan kelurusan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:34.766391451Z",
+  "model": "glm-5.3"
+}

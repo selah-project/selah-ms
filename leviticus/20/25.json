@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka kamu hendaklah memisahkan antara binatang yang suci dengan yang najis, dan antara burung yang najis dengan yang suci; dan jangan kamu menjadikan keji diri kamu dengan binatang atau burung atau dengan segala yang merayap di atas tanah, yang telah Kupisahkan bagi kamu sebagai najis.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "maka kamu hendaklah memisahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "yang suci"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "dengan yang najis"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "yang najis"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "dengan yang suci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kamu menjadikan keji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri kamu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "diri kamu"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "dengan binatang"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "atau burung"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "atau dengan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "merayap"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "di atas tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "telah Kupisahkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "sebagai najis"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:23.992415552Z",
+  "model": "glm-5.3"
+}

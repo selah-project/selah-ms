@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Pergilah kepada rumah orang Rekab, dan katakanlah kepada ⟨את⟩ mereka, dan bawalah mereka ke rumah Yahweh, ke satu daripada bilik-bilik, dan berilah ⟨את⟩ mereka minum anggur.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "orang Rekab"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "dan katakanlah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (orang Rekab)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "dan bawalah mereka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "daripada bilik-bilik"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "dan berilah minum"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (orang Rekab)"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:47.671421509Z",
+  "model": "glm-5.3"
+}

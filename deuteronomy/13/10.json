@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Kerana membunuh engkau akan membunuh dia; tanganmu akan ⟨ada⟩ padanya pada yang pertama untuk mematikannya, dan tangan segala umat kemudian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "engkau akan membunuh dia"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan ⟨ada⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "pada yang pertama"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuk mematikannya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "dan tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "kemudian"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:02.879964378Z",
+  "model": "glm-5.3"
+}

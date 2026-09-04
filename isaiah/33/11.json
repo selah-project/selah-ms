@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Kamu mengandung ⟨hamil⟩ jerami kering, kamu melahirkan sekam; napasmu ⟨ialah⟩ api — ia akan memakan kamu habis.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "kamu mengandung"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "jerami kering"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "kamu melahirkan"
+    },
+    {
+      "surface": "קש",
+      "gloss": "sekam"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "napasmu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ia akan memakan kamu habis"
+    }
+  ],
+  "timestamp": "2026-09-04T15:24:00.767756234Z",
+  "model": "glm-5.3"
+}

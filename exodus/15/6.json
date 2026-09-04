@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Tangan kanan-Mu, Yahweh, mulia dalam kekuatan; tangan kanan-Mu, Yahweh, menghancurkan musuh.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "mulia"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "dalam kekuatan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "menghancurkan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:19.308507145Z",
+  "model": "glm-5.3"
+}

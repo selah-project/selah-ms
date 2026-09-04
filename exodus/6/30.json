@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan berkata Moshe di hadapan Yahweh: \"Sungguh, aku ini bersisi kelentong bibir, dan bagaimanakah Paroh akan mendengar aku?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "bersisi kelentong"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "dan bagaimanakah"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:25.499557109Z",
+  "model": "glm-5.3"
+}

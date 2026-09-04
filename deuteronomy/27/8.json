@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan engkau menulis ke atas batu-batu itu ⟨את⟩ segala perkataan Tora ini, terukir dengan jelas.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "dan engkau menulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "terukir (dijelaskan)"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "dengan jelas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:19.294474361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Mataku lesu oleh sebab sengsaraku; kepada-Mu aku berseru, wahai Yahweh, sepanjang hari; ke arah-Mu aku membentangkan tapak tanganku.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "lesu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sengsaraku"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "aku berseru kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "aku membentangkan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ke arah-Mu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tapak tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:38.792084326Z",
+  "model": "glm-5.3"
+}

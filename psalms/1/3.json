@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ia akan seperti pohon yang ditanam pada aliran-aliran air, yang buahnya diberikan pada musimnya, dan daunnya tidak akan layu, dan segala yang dilakukannya akan berjaya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "seperti pohon"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "yang ditanam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "aliran-aliran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pada musimnya"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "dan daunnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "akan layu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukannya"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "akan berjaya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:26.174154531Z",
+  "model": "glm-5.3"
+}

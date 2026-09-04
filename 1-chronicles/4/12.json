@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Esyton memperanakkan ⟨את⟩ Beit-Rafa, dan ⟨את⟩ Paseah, dan ⟨את⟩ Tehina, bapa Ir-Nahas; inilah orang-orang Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Dan Esyton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Paseah"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tehina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tehina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:41.105015791Z",
+  "model": "glm-5.3"
+}

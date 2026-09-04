@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan pemakannya akan memikul kesalahannya, kerana ⟨את⟩ kesucian Yahweh ia telah menajiskan; dan orang itu akan dilenyapkan dari antara umatnya.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Dan pemakannya"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan memikul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesucian"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "telah menajiskan"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "dan akan dilenyapkan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dari antara umatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:50.341827629Z",
+  "model": "glm-5.3"
+}

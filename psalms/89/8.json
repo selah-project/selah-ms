@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "El yang ditakuti dalam majelis rahsia orang-orang kudus yang besar, dan yang menggerunkan atas semua yang di sekeliling-Nya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "yang ditakuti"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "dalam majelis rahsia"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "orang-orang kudus"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dan yang menggerunkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "yang di sekeliling-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:50.983950307Z",
+  "model": "glm-5.3"
+}

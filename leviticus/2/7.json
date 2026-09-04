@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan jika mincha dari kuali ialah korbanmu, ia akan dibuat daripada solet dengan minyak.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "dari kuali"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korbanmu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solet"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ia akan dibuat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:20.086374525Z",
+  "model": "glm-5.3"
+}

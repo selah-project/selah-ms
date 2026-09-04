@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "Sebab Yang Membuat engkau ialah suamimu — Yahweh Tsebaot nama-Nya — dan Penebusmu ialah Yang Kudus dari Israel, Elohim seluruh bumi akan dinamakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "suamimu"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "Yang Membuat engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "dan Penebusmu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yang Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akan dinamakan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:36.797720903Z",
+  "model": "glm-5.3"
+}

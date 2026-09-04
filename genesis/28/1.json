@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lalu Yitshak memanggil Yaakov, memberkatinya, menyuruhnya, dan berkata kepadanya: Jangan kauambil isteri dari antara anak-anak perempuan Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu memanggil"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Yaakov)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "menyuruh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kauambil"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "dari anak-anak perempuan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:06.374920687Z",
+  "model": "glm-5.3"
+}

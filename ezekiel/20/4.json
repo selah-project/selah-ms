@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Adakah engkau menghakimi ⟨את⟩ mereka? Adakah engkau menghakimi, anak manusia? Perlihatkanlah kepada mereka ⟨את⟩ kekejian nenek moyang mereka.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Adakah engkau menghakimi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Adakah engkau menghakimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekejian nenek moyang mereka"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nenek moyang mereka"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Perlihatkanlah kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:26.883388810Z",
+  "model": "glm-5.3"
+}

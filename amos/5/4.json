@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab beginilah firman Yahweh kepada keluarga Yisrael: Carilah Aku, maka kamu akan hidup.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada keluarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "Carilah Aku"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "maka kamu akan hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:34.461289616Z",
+  "model": "glm-5.3"
+}

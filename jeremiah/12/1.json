@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 12:1",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Engkau adil ⟨⟨adalah⟩⟩, wahai Yahweh, ketika aku berhujah dengan-Mu; namun hakim-hakim akan aku katakan ⟨את⟩ kepada-Mu: mengapa jalan orang-orang jahat makmur, mengapa semua pengkhianat berkecai ⟨berada⟩ dalam sentosa?",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "aku berhujah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dengan-Mu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "namun"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "hakim-hakim"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "akan aku katakan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kepada-Mu",
+      "marks": "עם second-person (pronomina, bukan DOM) — lihat nota"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "צלחה",
+      "gloss": "makmur"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "dalam sentosa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pengkhianat berkecai"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "kecurangan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:41.276034184Z",
+  "model": "glm-5.3"
+}

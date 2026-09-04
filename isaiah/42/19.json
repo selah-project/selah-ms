@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 42:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Siapa yang buta melainkan hamba-Ku? Dan pekak seperti utusan-Ku yang Aku hantar? Siapa yang buta seperti yang damaikan, dan buta seperti hamba Yahweh?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "buta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "dan pekak"
+    },
+    {
+      "surface": "כמלאכי",
+      "gloss": "seperti utusan-Ku"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "yang Aku hantar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "buta"
+    },
+    {
+      "surface": "כמשלם",
+      "gloss": "seperti yang damaikan"
+    },
+    {
+      "surface": "ועור",
+      "gloss": "dan buta"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "seperti hamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:37.596706020Z",
+  "model": "glm-5.3"
+}

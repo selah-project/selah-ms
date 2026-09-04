@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Lalu David menghantar pengintip, dan diketahuinya bahawa Syaul telah datang benar-benar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menghantar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "pengintip"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dan diketahuinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "benar-benar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:41.695661544Z",
+  "model": "glm-5.3"
+}

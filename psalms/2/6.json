@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "\"Dan Aku telah menabalkan raja-Ku di atas Tsiyon, gunung kesucian-Ku.\"",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan Aku"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "telah menabalkan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kesucian-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:03.271842452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Dan biarlah anak-anaknya berkeliaran senantiasa, dan meminta sedekah, serta mencari ⟨roti⟩ dari tempat-tempat ranap mereka.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "senantiasa"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "dan biarlah berkeliaran"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "dan meminta sedekah"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "serta mencari"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "dari tempat-tempat ranap mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:48.812911266Z",
+  "model": "glm-5.3"
+}

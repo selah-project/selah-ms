@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Apabila engkau masuk ke kebun anggur sesamamu, maka engkau boleh makan buah anggur sesuka hatimu sampai kenyang, tetapi ke dalam bekasmu jangan engkau taruh apa-apa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "engkau masuk"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "ke kebun anggur"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "maka engkau boleh makan"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "buah anggur"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "sesuka hatimu"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "sampai kenyang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tetapi ke dalam"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "bekasmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau taruh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:34.747471008Z",
+  "model": "glm-5.3"
+}

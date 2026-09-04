@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Beri kepada orang bijak, dan dia akan bertambah bijak lagi; beritahukan kepada orang benar, dan dia akan bertambah pengajaran.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Beri"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kepada orang bijak"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "dan dia akan bertambah bijak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "beritahukan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kepada orang benar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "dan dia akan bertambah"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pengajaran"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:06.065430110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Dan keganasan perbuatan-perbuatan-Mu yang menakutkan akan mereka katakan, dan kebesaran-Mu akan aku ceritakan.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "dan keganasan"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "perbuatan-perbuatan-Mu yang menakutkan"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "akan mereka katakan"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "dan kebesaran-Mu"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "akan aku ceritakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:16.658206932Z",
+  "model": "glm-5.3"
+}

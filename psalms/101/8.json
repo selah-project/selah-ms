@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Pada pagi hari aku akan melenyapkan segala orang fasik di bumi, untuk memusnahkan dari kota Yahweh segala pekerja kelalatan.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "pada pagi hari"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "aku akan melenyapkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "untuk memusnahkan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dari kota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kelalatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:32.208508363Z",
+  "model": "glm-5.3"
+}

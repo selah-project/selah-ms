@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Pada masa itu raja itu melimpahkan kemajuan atas Shadrakh, Meshakh, dan Abed-Nego di wilayah Babel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "pada masa itu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "melimpahkan kemajuan"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "atas Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dan"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "di wilayah"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:45:11.137448937Z",
+  "model": "glm-5.3"
+}

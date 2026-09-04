@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Lalu raja Mitsrayim memecatnya di Yerusalem dan mendenda ⟨את⟩ negeri itu seratus talenta perak dan satu talenta emas.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "memecatnya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "mendenda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "dan satu talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T15:14:54.984052002Z",
+  "model": "glm-5.3"
+}

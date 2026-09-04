@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Tangan-tanganmu membentukku dan membuatku bersama-sama sekeliling, lalu engkau menelan aku.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-tanganmu"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "membentukku"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "dan membuatku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "lalu engkau menelan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:19.700619443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Kerana aku telah berkata: \"Selama-lamanya hesed akan dibina; di langit Engkau menetapkan kesetiaan-Mu.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku telah berkata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "akan dibina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "Engkau menetapkan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.773427356Z",
+  "model": "glm-5.3"
+}

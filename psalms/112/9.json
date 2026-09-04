@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 112,
+  "translation": "Ia berselerak memberi kepada orang-orang miskin; kebenarannya berdiri untuk selama-lamanya; tanduknya akan terangkat dengan kemuliaan.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "berselerak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "kepada orang-orang miskin"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kebenarannya"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tanduknya"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "akan terangkat"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "dengan kemuliaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:28.107766237Z",
+  "model": "glm-5.3"
+}

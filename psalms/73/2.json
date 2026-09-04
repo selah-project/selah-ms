@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Adapun aku, hampir tergelincir kakiku, seperti tiada, tumpah langkahku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Adapun aku"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hampir"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "tergelincir"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "seperti tiada"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tumpah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkahku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:23.794262189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Terkemulalah semua penyembah patung ukiran, yang bermegah dalam berhala; sujudlah kepada-Nya, semua tuhan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Terkemulalah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "penyembah"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung ukiran"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "yang bermegah"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "dalam berhala"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujudlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:11.336973961Z",
+  "model": "glm-5.3"
+}

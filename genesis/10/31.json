@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Inilah bani Sem, menurut kaum keluarga mereka, menurut bahasa mereka, di negeri mereka, menurut bangsa mereka.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut kaum keluarga mereka"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "menurut bahasa mereka"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "di negeri mereka"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "menurut bangsa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:56.523486186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Tetapi aku sentiasa dengan-Mu; Engkau telah memegang tangan kananku",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dengan-Mu"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "Engkau telah memegang"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "kananku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:32.223227101Z",
+  "model": "glm-5.3"
+}

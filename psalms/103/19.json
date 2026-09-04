@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Yahweh di langit telah menetapkan takhtanya, dan kerajaannya atas segala sesuatu berkuasa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "telah menetapkan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanya"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "dan kerajaannya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "atas segala sesuatu"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "berkuasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.089282821Z",
+  "model": "glm-5.3"
+}

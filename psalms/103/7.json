@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Ia memperkenalkan jalan-jalan-Nya kepada Moshe, kepada bani Yisrael perbuatan-perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Ia memperkenalkan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-jalan-Nya"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kepada Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "perbuatan-perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:49.785616723Z",
+  "model": "glm-5.3"
+}

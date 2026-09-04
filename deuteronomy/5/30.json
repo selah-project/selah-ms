@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Pergilah, katakan kepada mereka: kembalilah kamu kepada khemah-khemah kamu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "kepada khemah-khemah kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:30.949569577Z",
+  "model": "glm-5.3"
+}

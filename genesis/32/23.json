@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu bangunlah ia pada malam itu, dan mengambil ⟨את⟩ dua isterinya, dan ⟨את⟩ dua hamba perempuannya, dan ⟨את⟩ sebelas anaknya, lalu melintasi ⟨את⟩ penyeberangan Yabok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangunlah ia"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua isterinya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dua hamba perempuannya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "hamba perempuannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sebelas anaknya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "lalu melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyeberangan Yabok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "penyeberangan"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabok"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:35.228512712Z",
+  "model": "glm-5.3"
+}

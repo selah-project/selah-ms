@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan ⟨את⟩ bangsa itu perintahkanlah, katanya: Kamu sedang melintasi wilayah saudara-saudaramu, bani Esav, yang diam di Seir; dan mereka akan takut kepadamu — maka berjagalah kamu sangat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "צו",
+      "gloss": "perintahkanlah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "sedang melintasi"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara-saudaramu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "di Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dan mereka akan takut"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "maka berjagalah kamu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:13.124479706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Pasti engkau melepaskan ⟨את⟩ induk itu, dan ⟨את⟩ anak-anak bolehlah engkau ambil untukmu, supaya baik bagimu dan engkau panjang umur.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Pasti"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "engkau melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induk itu"
+    },
+    {
+      "surface": "האם",
+      "gloss": "induk itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "bolehlah engkau ambil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "dan engkau panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:25.493179579Z",
+  "model": "glm-5.3"
+}

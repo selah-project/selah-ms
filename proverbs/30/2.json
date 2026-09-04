@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Sungguh, binatang aku ini lebih daripada seorang lelaki, dan kefahaman manusia tiada padaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "lebih daripada seorang lelaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "kefahaman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "padaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:32.851220250Z",
+  "model": "glm-5.3"
+}

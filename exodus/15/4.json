@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Kereta-kereta Paraoh (Firaun) dan bala tenteranya dilemparkan ke dalam laut; dan pilihan pegawai-pegawainya tenggelam di Laut Teberau.",
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "kereta-kereta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "dan bala tenteranya"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "dilemparkan"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ke dalam laut"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "dan pilihan"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "pegawai-pegawainya"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "tenggelam"
+    },
+    {
+      "surface": "בים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Teberau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:12.200769903Z",
+  "model": "glm-5.3"
+}

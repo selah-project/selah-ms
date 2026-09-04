@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dalam kelaparan Dia menebus engkau daripada maut, dan dalam peperangan daripada tangan pedang.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "dalam kelaparan"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "Dia menebus engkau"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "daripada maut"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "dan dalam peperangan"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "daripada tangan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:37.217662356Z",
+  "model": "glm-5.3"
+}

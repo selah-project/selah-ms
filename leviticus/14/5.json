@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Maka imam memerintah, dan disembelih ⟨את⟩ burung yang satu ke dalam bekas tembikar di atas air yang hidup.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung yang satu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "burung"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bekas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tembikar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:36.743054960Z",
+  "model": "glm-5.3"
+}

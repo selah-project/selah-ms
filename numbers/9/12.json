@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Mereka tidak akan meninggalkan apa-apa daripadanya hingga pagi, dan tulang tidak akan mereka patahkan padanya; menurut segala ketetapan Pesah mereka akan membuat ⟨את⟩nya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "mereka akan meninggalkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "apa-apa daripadanya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "dan tulang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "mereka akan patahkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "menurut segala"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "mereka akan membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "Pesah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:43.435402241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarkan hatiku sempurna dalam ketetapan-ketetapan-Mu, supaya aku tidak mendapat malu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Biarkan ... menjadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sempurna"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dalam ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mendapat malu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:36.073609615Z",
+  "model": "glm-5.3"
+}

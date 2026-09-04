@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Siapakah di antara segala tuhan negeri-negeri itu yang telah menyelamatkan ⟨את⟩ negeri mereka daripada tanganku, sehingga Yahweh akan menyelamatkan ⟨את⟩ Yerushalayim daripada tanganku?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di antara segala"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "negeri-negeri itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "telah menyelamatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "negeri mereka"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "daripada tanganku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "akan menyelamatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "daripada tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:34.511506682Z",
+  "model": "glm-5.3"
+}

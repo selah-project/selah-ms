@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan orang Mitsrayim akan tahu bahawa aku ialah Yahweh, apabila aku dipermuliakan pada Paraoh, pada keretanya dan pada penunggang kudanya.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Dan mereka akan tahu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "apabila aku dipermuliakan"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "pada Paraoh"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "pada keretanya"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "dan pada penunggang kudanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:20.928567050Z",
+  "model": "glm-5.3"
+}

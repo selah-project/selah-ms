@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu menyucikan diri para imam dan orang-orang Lewi, dan mereka menyucikan ⟨את⟩ kaum itu dan ⟨את⟩ pintu-pintu gerbang dan ⟨את⟩ tembok itu.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "lalu menyucikan diri"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dan orang-orang Lewi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "dan mereka menyucikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaum itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tembok itu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tembok itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:55:46.194826679Z",
+  "model": "glm-5.3"
+}

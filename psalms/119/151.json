@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Engkau ⟨adalah⟩ dekat, ya Yahweh, dan segala perintah-Mu ⟨adalah⟩ benar.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "benar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:11.480511827Z",
+  "model": "glm-5.3"
+}

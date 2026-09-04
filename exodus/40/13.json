@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau akan memakaikan ⟨את⟩ Aharon ⟨את⟩ pakaian kekudusan, dan engkau akan mengurapi ⟨את⟩ dia, dan engkau akan menguduskan ⟨את⟩ dia, dan ia akan berkhidmat sebagai imam bagi-Ku.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "dan engkau akan memakaikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian kekudusan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kekudusan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau akan mengurapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Aharon)"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dan engkau akan menguduskan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Aharon)"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "dan ia akan berkhidmat sebagai imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:17.618639713Z",
+  "model": "glm-5.3"
+}

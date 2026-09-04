@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Hesed-Mu, Yahweh, memenuhi bumi; ajarlah aku ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Hesed-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:42.006612707Z",
+  "model": "glm-5.3"
+}

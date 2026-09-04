@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Siapakah antara kamu yang memasang telinga kepada ini, yang menghadapkan ⟨telinganya⟩ dan mendengar untuk masa depan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "antara kamu"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "memasang telinga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kepada ini"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "menghadapkan ⟨telinganya⟩"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "untuk masa depan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:31.885978020Z",
+  "model": "glm-5.3"
+}

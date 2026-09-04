@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Sebab itu segala ketetapan-Ku kuluruskan mengenai segala hal; segala jalan dusta aku benci.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ketetapan-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "kuluruskan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:32.677148499Z",
+  "model": "glm-5.3"
+}

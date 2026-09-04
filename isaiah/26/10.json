@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dikasihani orang fasik, ia tetap tidak belajar kebenaran; di tanah yang lurus ia berlaku curang, dan tidak memandang kemuliaan Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "dikasihani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "למד",
+      "gloss": "belajar"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "berlaku curang"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:16.980976589Z",
+  "model": "glm-5.3"
+}

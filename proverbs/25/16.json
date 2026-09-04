@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Madu kau dapati — makanlah secukupnya, supaya jangan kau kenyang dengannya dan memuntahkannya.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "kau dapati"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanlah"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "secukupnya bagimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "kau kenyang dengannya"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "dan memuntahkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:08.759059233Z",
+  "model": "glm-5.3"
+}

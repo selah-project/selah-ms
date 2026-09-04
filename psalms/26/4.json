@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Aku tidak duduk dengan orang-orang sia-sia, dan dengan orang-orang yang menyembunyikan diri aku tidak akan masuk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aku duduk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "orang-orang yang menyembunyikan diri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku akan masuk"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:24.098058160Z",
+  "model": "glm-5.3"
+}

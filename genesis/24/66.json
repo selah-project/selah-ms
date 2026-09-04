@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu hamba itu meriwayatkan kepada Yitshak ⟨את⟩ segala perkara yang telah dilakukannya.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "Lalu meriwayatkan"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "hamba itu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kepada Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dilakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:59.841576984Z",
+  "model": "glm-5.3"
+}

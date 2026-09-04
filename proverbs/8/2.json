@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Di puncak tempat-tempat tinggi, di tepi jalan, di persimpangan lorong-lorong ⟨ia⟩ berdiri;",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "Di puncak"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "tempat-tempat tinggi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "persimpangan"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "lorong-lorong"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "⟨ia⟩ berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:18.148763927Z",
+  "model": "glm-5.3"
+}

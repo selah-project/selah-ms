@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Ayin, Rimon, dan Eter, dan Asyan — bandar-bandar empat, dan kampung-kampung mereka",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "dan Eter"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "dan Asyan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "dan kampung-kampung mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:02:38.261729715Z",
+  "model": "glm-5.3"
+}

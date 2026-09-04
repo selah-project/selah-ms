@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Yahweh, dengarlah doaku, dan seruanku kepada-Mu biarlah datang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "dan seruanku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:11.253877266Z",
+  "model": "glm-5.3"
+}

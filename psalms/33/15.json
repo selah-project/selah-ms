@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Yang membentuk hati mereka sekalian serentak, yang memahami segala perbuatan mereka.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Yang membentuk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "serentak"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "yang memahami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:19.834820641Z",
+  "model": "glm-5.3"
+}

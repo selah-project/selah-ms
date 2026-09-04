@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Terpujilah Elohim, yang tidak memalingkan doaku dan hesed daripada aku ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "memalingkan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "dan hesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "daripada aku ⟨את⟩",
+      "marks": "daripada aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:49.555107833Z",
+  "model": "glm-5.3"
+}

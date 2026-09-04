@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu dibawanya ⟨את⟩ lembu korban hatat, dan Aharon serta anak-anaknya meletakkan ⟨את⟩ tangan mereka atas kepala lembu hatat itu.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "dibawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu hatat"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hatat"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "meletakkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hatat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:51.754636500Z",
+  "model": "glm-5.3"
+}

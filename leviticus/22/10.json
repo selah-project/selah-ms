@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan setiap orang luar tidak boleh makan barang kudus; penduduk ⟨di rumah⟩ kohen dan orang upahan tidak boleh makan barang kudus.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "זר",
+      "gloss": "orang luar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh makan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "barang kudus"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "dan orang upahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh makan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "barang kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:40.552839303Z",
+  "model": "glm-5.3"
+}

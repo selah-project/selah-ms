@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu kami berkata: marilah kita membuat bagi kita sebuah mazbah, bukan untuk olah dan bukan untuk zabah.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "maka kami berkata"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita membuat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "untuk olah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "untuk zabah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:03:50.207641061Z",
+  "model": "glm-5.3"
+}

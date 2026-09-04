@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu katanya: Angkatlah ⟨untukmu⟩, maka diulurnya tangannya dan ia mengambilnya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨untukmu⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "maka diulurnya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "dan ia mengambilnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:29.778964354Z",
+  "model": "glm-5.3"
+}

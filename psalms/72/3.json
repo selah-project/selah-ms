@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Biarlah gunung-ganang mengangkat syalom bagi umat, dan bukit-bukau dalam kebenaran.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "Biarlah mengangkat"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-ganang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bagi umat"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "dan bukit-bukau"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "dalam kebenaran"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:18.322104791Z",
+  "model": "glm-5.3"
+}

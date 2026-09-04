@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jerat bagi manusia ialah dia melafazkan sesuatu sebagai kudus secara terburu-buru, dan sesudah nazar-nazar barulah dia menyiasat.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "melafazkan secara terburu-buru"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nazar-nazar"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "menyiasat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:57.774554671Z",
+  "model": "glm-5.3"
+}

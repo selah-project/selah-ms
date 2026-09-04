@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Punggung-ku kuberikan kepada pemukul-pemukul, dan pipi-ku kepada pencabut (-rambut); muka-ku tidak kusembunyikan dari penghinaan dan ludahan.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "punggung-ku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuberikan"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "kepada pemukul-pemukul"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "dan pipi-ku"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "kepada pencabut (-rambut)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka-ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "kusembunyikan"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "dari penghinaan"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "dan ludahan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:58.695356073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ⟨את⟩ Aharon dan ⟨את⟩ anak-anaknya engkau akan melantik, dan mereka akan memelihara ⟨את⟩ keimaman mereka; orang awam yang mendekat akan dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "engkau akan melantik"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "dan mereka akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keimaman mereka"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "keimaman mereka"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "dan orang awam"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yang mendekat"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:56.825854266Z",
+  "model": "glm-5.3"
+}

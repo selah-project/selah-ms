@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Mangkuk emas tiga puluh, mangkuk perak kedua-dua susunan empat ratus dan sepuluh, perkakas lain seribu.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Mangkuk"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "Mangkuk"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "kedua-dua susunan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "dan sepuluh"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:48:40.864461010Z",
+  "model": "glm-5.3"
+}

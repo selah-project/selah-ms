@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Bahkan orang damai ku, yang aku percayai, yang memakan rotiku, telah mengangkat tumitnya terhadapku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "damai ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku percayai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "rotiku"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "mengangkat besar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tumitnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:29.055677792Z",
+  "model": "glm-5.3"
+}

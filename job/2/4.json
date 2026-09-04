@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Satan menjawab ⟨את⟩ Yahweh dan berkata: “Kulit ganti kulit — dan segala yang ada pada seseorang akan diberikannya ganti nyawanya sendiri.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu menjawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pada seseorang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ia akan beri"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:48.008941119Z",
+  "model": "glm-5.3"
+}

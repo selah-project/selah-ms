@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Empat segi ia akan menjadi, dilipat dua; sehela jari panjangnya dan sehela jarinya lebar.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Empat segi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dilipat dua"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "sehela jari"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "dan sehela jari"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:25.051023564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Gunung-gunung mencair seperti lilin di hadapan Yahweh, di hadapan Adonai seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Gunung-gunung"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "seperti lilin"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "mencair"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:11.336524216Z",
+  "model": "glm-5.3"
+}

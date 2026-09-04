@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yahweh berfirman kepada hasatan: \"Dari manakah engkau datang?\" Lalu hasatan menjawab ⟨את⟩ Yahweh dan berkata: \"Dari menjelajahi bumi dan dari berjalan-jalan padanya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari mana"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "engkau datang"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "dan menjawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "dari menjelajahi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "dan dari berjalan-jalan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:44.932597613Z",
+  "model": "glm-5.3"
+}

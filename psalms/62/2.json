@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Hanya kepada Elohim ⟨⟩ jiwaku dalam keheningan; daripada-Nya keselamatan aku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "⟨dalam⟩ keheningan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripada-Nya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "keselamatan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:02.300137685Z",
+  "model": "glm-5.3"
+}

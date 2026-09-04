@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Ambillah, aku bermohon, ⟨את⟩ berkatku yang telah dibawa kepadamu, kerana Elohim telah memberi kasih kepadaku, dan kerana ada padaku segala-galanya; lalu ia mendesak dia, dan ia mengambilnya.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "aku bermohon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkatku"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "berkatku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "telah dibawa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Elohim telah memberi kasih kepadaku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan kerana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "padaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala-galanya"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "lalu ia mendesak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan ia mengambilnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:01.920369615Z",
+  "model": "glm-5.3"
+}

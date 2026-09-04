@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Selesai memberinya minum, katanya: untuk unta-unta mu juga aku akan menimba air, sehingga habis mereka minum.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "Selesai"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "memberinya minum"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "katanya:"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "untuk unta-unta mu"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "aku akan menimba air"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jika⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "mereka minum"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:26.672008411Z",
+  "model": "glm-5.3"
+}

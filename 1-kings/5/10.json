@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan bertambah hikmat Syelomo melebihi hikmat semua anak timur, dan semua hikmat Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "dan bertambah"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "melebihi hikmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "timur"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:28.443026755Z",
+  "model": "glm-5.3"
+}

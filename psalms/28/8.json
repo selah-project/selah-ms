@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh ialah kekuatan bagi mereka, dan kubu keselamatan bagi Mashiah-Nya, Dialah itu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "dan kubu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah-Nya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:16.133150250Z",
+  "model": "glm-5.3"
+}

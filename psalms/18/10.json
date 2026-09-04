@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Dia merendahkan langit dan turun, dan kabut gelap di bawah kaki-Nya.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "dan Dia merendahkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan turun"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dan kabut gelap"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:59.770016372Z",
+  "model": "glm-5.3"
+}

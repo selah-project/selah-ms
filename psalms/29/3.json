@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Suara Yahweh di atas air-air; El yang ber kemuliaan mengguntur; Yahweh di atas air-air yang banyak.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yang ber kemuliaan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mengguntur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air-air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:23.503133196Z",
+  "model": "glm-5.3"
+}

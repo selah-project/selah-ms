@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Kebenaran-Mu seperti gunung-gunung El, hukum-Mu Tehom Raya; manusia dan binatang Kau selamatkan, Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaran-Mu"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "seperti gunung-gunung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "hukum-Mu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Raya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "dan binatang"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "Kau selamatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:35.028492245Z",
+  "model": "glm-5.3"
+}

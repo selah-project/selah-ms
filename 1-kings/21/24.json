@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Yang mati bagi Ahab di kota, anjing-anjing akan memakannya; dan yang mati di padang, burung langit akan memakannya.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Yang mati"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "bagi Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan memakan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "anjing-anjing"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "dan yang mati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan memakan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:49.220669145Z",
+  "model": "glm-5.3"
+}

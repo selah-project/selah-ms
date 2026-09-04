@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Berseruilah bagi Yahweh dengan kinor, dengan kinor dan suara zabur.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "berseruilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zabur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:53.733519806Z",
+  "model": "glm-5.3"
+}

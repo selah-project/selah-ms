@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Semua perkara memenatkan; seseorang pun tidak mampu bercakap; mata tidak kenyang dari melihat, dan telinga tidak dipenuhi dari mendengar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Semua"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "memenatkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang pun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bercakap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "dari melihat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "dipenuhi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "dari mendengar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:54.375313455Z",
+  "model": "glm-5.3"
+}

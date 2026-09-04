@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan sekarang, sesungguhnya, seruan bani Israel telah datang kepada-Ku, dan Aku juga telah melihat ⟨את⟩ penindasan yang orang Mitsrayim lakukan terhadap ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "seruan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "באה",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penindasan"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "penindasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "melakukan penindasan terhadap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:44.120635444Z",
+  "model": "glm-5.3"
+}

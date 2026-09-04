@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Lalu Ia berfirman, dan bangkitlah angin badai, dan ombak-ombaknya terangkat tinggi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu Ia berfirman"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dan bangkitlah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "dan terangkat tinggi"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ombak-ombaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:32.636996909Z",
+  "model": "glm-5.3"
+}

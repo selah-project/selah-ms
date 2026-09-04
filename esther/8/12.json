@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Pada satu hari di seluruh wilayah raja Ahasyverosh, pada hari tiga belas bulan kedua belas, iaitu bulan Adar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyverosh"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "pada tiga"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bagi bulan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iaitu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:44:16.410004777Z",
+  "model": "glm-5.3"
+}

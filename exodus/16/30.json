@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Maka berehatlah umat itu pada hari ketujuh.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Maka-berehatlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat-itu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada-hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:13.623547129Z",
+  "model": "glm-5.3"
+}

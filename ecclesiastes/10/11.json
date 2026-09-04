@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Jika ular mematuk tanpa mantra, maka tiada kelebihan bagi sang pemilik lidah.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "mematuk"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "mantra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maka tiada"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "bagi sang pemilik"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "lidah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:12.535063682Z",
+  "model": "glm-5.3"
+}

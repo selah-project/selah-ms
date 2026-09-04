@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Manusia keluar kepada kerjanya dan kepada pekerjaannya sehingga waktu senja.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "kepada kerjanya"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "dan kepada pekerjaannya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "waktu senja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:46.646806343Z",
+  "model": "glm-5.3"
+}

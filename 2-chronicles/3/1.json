@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka Syelomoh (Solomon) mula membina ⟨את⟩ rumah Yahweh di Yerusalem, di bukit ha-Moriah, yang telah dinyatakan kepada David ayahnya, yang telah disediakannya di tempat David, di tempat pengirikan Arnan ha-Yebusi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mula"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di bukit"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "ha-Moriah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "telah dinyatakan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "telah disediakan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "di tempat pengirikan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ha-Yebusi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:06:05.502473988Z",
+  "model": "glm-5.3"
+}

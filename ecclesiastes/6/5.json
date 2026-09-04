@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Juga matahari tidak dilihatnya dan tidak dikenalnya; kelegaan bagi ini lebih daripada itu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dilihatnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dikenalnya"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kelegaan"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "bagi ini"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daripada itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:43.330756399Z",
+  "model": "glm-5.3"
+}

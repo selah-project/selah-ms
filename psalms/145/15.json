@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Mata semua ⟨menantikan⟩ Engkau, dan Engkau memberi kepada mereka ⟨את⟩ makanan mereka pada waktunya.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "⟨menantikan⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan Engkau"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makanan mereka"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "makanan mereka"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pada waktunya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:24.228509321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Adakah aku — sesungguhnya perjanjian-Ku ⟨dengan⟩ engkau, dan engkau akan menjadi bapa bagi sejumlah besar bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "dengan engkau"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "dan engkau akan menjadi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "bapa bagi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sejumlah besar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:05.032900381Z",
+  "model": "glm-5.3"
+}

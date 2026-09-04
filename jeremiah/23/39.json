@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Oleh itu, sesungguhnya aku, aku akan melupakan kamu sama sekali, dan aku akan meninggalkan kamu, dan ⟨את⟩ kota yang kuberikan kepada kamu dan kepada bapa-bapa kamu, dari atas hadapan wajahku.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Oleh itu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sesungguhnya aku"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "dan aku akan melupakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sama sekali"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "dan aku akan meninggalkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kota"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kuberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "dan kepada bapa-bapa kamu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan wajahku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:17:34.625386240Z",
+  "model": "glm-5.3"
+}

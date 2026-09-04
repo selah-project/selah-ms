@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Menindas si miskin untuk menambah baginya, memberi kepada si kaya — hanya untuk kekurangan.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "untuk menambah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "kepada si kaya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "untuk kekurangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:16.645151709Z",
+  "model": "glm-5.3"
+}

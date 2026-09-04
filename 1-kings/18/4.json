@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan berlakulah, ketika Izebel membinasakan ⟨את⟩ nabi-nabi Yahweh, Obadyahu mengambil seratus nabi dan menyembunyikan mereka, lima puluh orang dalam satu gua, serta memberi mereka makan roti dan air.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "ketika membinasakan"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabi Yahweh"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "dan menyembunyikan mereka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "dalam satu gua"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "serta memberi mereka makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:07.932419169Z",
+  "model": "glm-5.3"
+}

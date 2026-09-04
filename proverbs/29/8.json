@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Orang-orang penghina meniupkan ⟨api⟩ ke atas kota, tetapi orang-orang bijaksana memalingkan murka.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "penghina"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "meniupkan ⟨api⟩"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "tetapi orang-orang bijaksana"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "memalingkan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:07.222661230Z",
+  "model": "glm-5.3"
+}

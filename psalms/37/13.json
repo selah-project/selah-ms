@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Adonai akan ketawa terhadapnya, sebab ⟨Dia⟩ telah melihat bahawa harinya akan datang.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "akan ketawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akan datang"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "harinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:44.461881170Z",
+  "model": "glm-5.3"
+}

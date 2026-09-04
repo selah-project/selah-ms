@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan dengan pedangmu engkau akan hidup, dan saudaramu akan engkau layani; dan akan berlaku, apabila engkau merdeka, engkau akan mematahkan kuknya dari tengkukmu.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Dan dengan"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedangmu"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "engkau akan hidup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saudaramu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau akan layani"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan berlaku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "engkau merdeka"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "engkau akan mematahkan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "kuknya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tengkukmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:14.208327516Z",
+  "model": "glm-5.3"
+}

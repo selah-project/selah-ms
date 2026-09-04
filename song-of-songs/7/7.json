@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Betapa indahnya engkau dan betapa manisnya engkau, kasih, dalam kenikmatan!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "indahnya engkau"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan betapa"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "manisnya engkau"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "kasih"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "dalam kenikmatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:12.968276679Z",
+  "model": "glm-5.3"
+}

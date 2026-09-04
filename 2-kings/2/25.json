@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu pergi ia dari sana ke Gunung Karmel, dan dari sana ia kembali ke Syomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Gunung"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "dan dari sana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ia kembali"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ke Syomeron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:04.939037928Z",
+  "model": "glm-5.3"
+}

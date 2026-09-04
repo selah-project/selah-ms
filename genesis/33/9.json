@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Lalu kata Esav: Ada padaku banyak, saudaraku; biarlah menjadi milikmu apa yang ada padamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "padaku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "biharlah menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "milikmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:01.919852887Z",
+  "model": "glm-5.3"
+}

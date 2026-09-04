@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Tangan para saksi akan menjadi di atasnya yang pertama untuk membunuhnya, dan tangan segala bangsa yang kemudian; maka engkau akan membuang kejahatan itu dari tengah-tengahmu.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "para saksi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "untuk membunuhnya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "dan tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "yang kemudian"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "maka engkau akan membuang"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan itu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dari tengah-tengahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:08.701929072Z",
+  "model": "glm-5.3"
+}

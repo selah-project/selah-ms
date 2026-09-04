@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Yahweh berfirman kepada Moshe, katanya:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ... berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:43.525384677Z",
+  "model": "glm-5.3"
+}

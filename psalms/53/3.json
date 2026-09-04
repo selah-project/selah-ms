@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Elohim dari langit menjenguk ke bawah ke atas anak-anak Adam, untuk melihat adakah ada yang berakal, yang mencari ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "menjenguk ke bawah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "היש",
+      "gloss": "adakah ada"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yang berakal"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yang mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:53.526430035Z",
+  "model": "glm-5.3"
+}

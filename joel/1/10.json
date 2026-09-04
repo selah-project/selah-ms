@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dirampas ⟨ialah⟩ padang, berkabung tanah, sebab dirampas gandum, keringlah anggur baru, layu minyak.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "dirampas"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "berkabung"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dirampas"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "keringlah"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "anggur baru"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "layu"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "minyak"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:52.355940862Z",
+  "model": "glm-5.3"
+}

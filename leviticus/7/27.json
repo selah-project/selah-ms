@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Setiap nyawa yang memakan segala darah, maka nyawa itu akan dipotong dari antara kaumnya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Setiap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "maka akan dipotong"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nyawa itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "dari antara kaumnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:49.781419812Z",
+  "model": "glm-5.3"
+}

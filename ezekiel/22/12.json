@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 22:12",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Sogokan diambil di dalam engkau demi menumpahkan darah; riba dan tambahan engkau ambil, dan engkau memutus ⟨את⟩ sesamemu dengan pemerasan, dan Aku engkau lupakan — nauman Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "Sogokan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "בך",
+      "gloss": "di dalam engkau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "menumpahkan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "riba"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "dan tambahan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "ותבצעי",
+      "gloss": "dan engkau memutus"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sesamemu"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "dengan pemerasan"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "dan ⟨את⟩ Aku",
+      "marks": "Aku (objek dilupakan)"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "engkau lupakan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nauman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:49.687193412Z",
+  "model": "glm-5.3"
+}

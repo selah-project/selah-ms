@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Ia berfirman: Pergilah dan katakanlah kepada umat ini: Dengarlah terus-menerus tetapi jangan mengerti; lihatlah terus-menerus tetapi jangan mengetahui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan Ia berfirman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "dan katakanlah"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "terus-menerus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tetapi jangan"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "mengerti"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "terus-menerus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tetapi jangan"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "mengetahui"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:39.380155382Z",
+  "model": "glm-5.3"
+}

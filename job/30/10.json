@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Mereka merasa jijik terhadapku, menjauhi diri dariku, dan dari hadapanku mereka tidak menahan peludah.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Mereka merasa jijik terhadapku"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "menjauhi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dariku"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "dan dari hadapanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "mereka menahan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "peludah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:45.973951976Z",
+  "model": "glm-5.3"
+}

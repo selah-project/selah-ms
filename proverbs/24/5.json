@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lelaki yang bijak ⟨adalah⟩ kuat dalam kekuatan, dan seorang berpengetahuan menguatkan tenaga.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "dalam kekuatan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan seorang"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "berpengetahuan"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "menguatkan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "tenaga"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:48.369858487Z",
+  "model": "glm-5.3"
+}

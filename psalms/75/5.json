@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Aku berkata kepada para pendebak: jangan berdebat; dan kepada orang-orang fasik: jangan angkat tanduk;",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "kepada para pendebak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "berdebat"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "dan kepada orang-orang fasik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduk"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:09.490806833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Berbahagialah manusia yang mendapat hikmat, dan manusia yang mengeluarkan kepandaian.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "mendapat"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "dan manusia"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "kepandaian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:22.525183718Z",
+  "model": "glm-5.3"
+}

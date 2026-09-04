@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Aku akan berseru kepada Elohim Elyon (El Yang Maha Tinggi), kepada El yang menyempurnakan bagi-Ku.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Aku akan berseru"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yang menyempurnakan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bagi-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:24.049467847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Sebagaimana Yahweh memerintahkan ⟨את⟩ Moshe, demikianlah dilakukan anak-anak perempuan Tselofhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sebagaimana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofhad"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:56.371711678Z",
+  "model": "glm-5.3"
+}

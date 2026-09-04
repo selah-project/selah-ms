@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Yahweh menggagalkan rancangan bangsa-bangsa, Ia mematahkan pertimbangan puak-puak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "menggagalkan"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "mematahkan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "pertimbangan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "puak-puak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:07.311072785Z",
+  "model": "glm-5.3"
+}

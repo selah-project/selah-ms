@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan engkau akan memakan habis ⟨את⟩ segala bangsa yang Yahweh, Elohim engkau, berikan kepadamu; jangan matamu merasa belas kasihan terhadap mereka, dan jangan engkau berbakti kepada ⟨את⟩ tuhan mereka, kerana ia perangkap bagimu.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "dan engkau akan memakan habis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim engkau"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "merasa belas kasihan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mataimu"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau berbakti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan mereka"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:24.200827739Z",
+  "model": "glm-5.3"
+}

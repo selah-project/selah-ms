@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 138,
+  "translation": "Segala raja bumi bersyukur kepada-Mu, ya Yahweh, sebab mereka telah mendengar perkataan-perkataan mulut-Mu.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "mereka bersyukur kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka telah mendengar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulut-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:56.413029523Z",
+  "model": "glm-5.3"
+}

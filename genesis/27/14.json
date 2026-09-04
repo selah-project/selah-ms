@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Lalu pergilah dia, dan mengambilnya, dan membawanya kepada ibunya; maka ibunya membuat masakan sedap, seperti yang dikasihi ayahnya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergilah dia"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambilnya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kepada ibunya"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "maka membuatlah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "masakan sedap"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dikasihi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:03:05.873192255Z",
+  "model": "glm-5.3"
+}

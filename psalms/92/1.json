@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Mazmur, nyanyian, untuk hari Sabat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuk hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:01.280619307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu datanglah Moshe dan menceritakan kepada bangsa itu ⟨את⟩ segala perkataan Yahweh dan ⟨את⟩ segala hukum-hukum; maka seluruh bangsa itu menjawab dengan satu suara dan berkata: Segala perkataan yang difirmankan Yahweh, akan kami lakukan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lalu datanglah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "dan menceritakan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala hukum-hukum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "maka menjawab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "akan kami lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:54.410609103Z",
+  "model": "glm-5.3"
+}

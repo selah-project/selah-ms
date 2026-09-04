@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Daud berjalan, terus berjalan dan makin besar, dan Yahweh Elohim Tsebaot besertanya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dan berjalan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "terus berjalan"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "dan makin besar"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "besertanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:40.874618094Z",
+  "model": "glm-5.3"
+}

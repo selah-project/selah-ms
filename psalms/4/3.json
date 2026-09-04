@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Hai anak-anak lelaki, sampai bila kemuliaanku dijadikan aib, kamu mengasihi ⟨kekosongan⟩, dan mencari kebohongan? Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hai anak-anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kemuliaanku"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "dijadikan aib"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "kamu mengasihi"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "dan mencari"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:00.837490151Z",
+  "model": "glm-5.3"
+}

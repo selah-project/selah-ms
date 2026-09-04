@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan Aku akan menjadikan engkau bangsa yang besar, dan Aku akan memberkati engkau, dan Aku akan membesarkan namamu; dan jadilah engkau berkat.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "dan Aku akan menjadikan engkau"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "dan Aku akan memberkati engkau"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "dan Aku akan membesarkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:47.767102659Z",
+  "model": "glm-5.3"
+}

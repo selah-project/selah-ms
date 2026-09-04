@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Semua yang melihat aku memperolok-olokkan aku; mereka menghembus bibir, mereka menggoyangkan kepala,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Semua"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "yang melihat"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "memperolok-olokkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "mereka menghembus"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "mereka menggoyangkan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.424823806Z",
+  "model": "glm-5.3"
+}

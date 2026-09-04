@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Marilah, dan biarlah kita kembali kepada Yahweh, kerana dia telah mencabik, dan dia akan menyembuhkan kita; dia telah memukul, dan dia akan membalut kita.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "dan biarlah kita kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "telah mencabik"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "dan akan menyembuhkan kita"
+    },
+    {
+      "surface": "יך",
+      "gloss": "telah memukul"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "dan akan membalut kita"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:27.183412582Z",
+  "model": "glm-5.3"
+}

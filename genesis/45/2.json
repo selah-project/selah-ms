@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Lalu ia memperdengarkan ⟨את⟩ suaranya dalam tangisan, sehingga Mitsrayim mendengarnya, dan keluarga Paroh pun mendengarnya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Lalu ia memperdengarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaranya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "dalam tangisan"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "sehingga mendengar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:50.992206170Z",
+  "model": "glm-5.3"
+}

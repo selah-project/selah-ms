@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Kebinasaanmu, hai Israel — bahawa pertolonganmu ⟨berada⟩ pada-Ku.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "kebinasaanmu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hai Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pada-Ku"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "pertolonganmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:32.922562296Z",
+  "model": "glm-5.3"
+}

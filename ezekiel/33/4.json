@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "maka orang yang mendengar itu — jika ia mendengar ⟨את⟩ bunyi sangkakala itu tetapi tidak mengambil peringatan, dan pedang itu datang serta mengambilnya, darahnya sendiri ke atas kepalanya akan ditanggungnya.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "maka mendengar"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "orang yang mendengar itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sangkakala itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mengambil peringatan"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "serta mengambilnya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ke atas kepalanya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ditanggungnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:37:28.768655536Z",
+  "model": "glm-5.3"
+}

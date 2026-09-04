@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan jika ia orang miskin, jangan engkau berbaring dengan gadaianya.",
+  "tokens": [
+    {
+      "surface": "ו אם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "engkau berbaring"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "dengan gadaianya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:36.379644287Z",
+  "model": "glm-5.3"
+}

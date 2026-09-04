@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Demikianlah kebenaran ⟨membawa⟩ kepada kehidupan, tetapi orang yang mengejar kejahatan, ke arah kematiannya sendiri.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "kepada kehidupan"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "tetapi orang yang mengejar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "ke arah kematiannya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:10.372238142Z",
+  "model": "glm-5.3"
+}

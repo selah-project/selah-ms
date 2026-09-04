@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Besarlah Adonai kami, dan rupa ⟨dengan⟩ kekuatan; kepada tevunat-Nya tiada ⟨ada⟩ bilangan.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Besar"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai kami"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan rupa ⟨dengan⟩"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "kepada tevunat-Nya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada ⟨ada⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:32.741631481Z",
+  "model": "glm-5.3"
+}

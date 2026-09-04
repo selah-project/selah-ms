@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan korban makanan mereka: tepung gandum yang terbaik, dicampur dengan minyak, tiga suku sepuluh bagi lembu itu, dua suku sepuluh bagi biri-biri jantan itu.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Dan korban makanan mereka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung gandum yang terbaik"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "dicampur"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "suku sepuluh"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "bagi lembu itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "suku sepuluh"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "bagi biri-biri jantan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:09.936603715Z",
+  "model": "glm-5.3"
+}

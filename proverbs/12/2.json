@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Orang baik memperoleh perkenan dari Yahweh, tetapi orang ⟨yang penuh⟩ rancangan jahat ⟨Ia⟩ menghukum.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "orang baik"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "memperoleh"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "perkenan"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "dari Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tetapi orang"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "rancangan jahat"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "menghukum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:19.185469489Z",
+  "model": "glm-5.3"
+}

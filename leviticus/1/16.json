@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan diambilnya ⟨את⟩ temboloknya dengan isinya, dan dibuangnya ⟨את⟩ itu di sisi mezbah, di sebelah timur, ke tempat abu.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "Dan diambilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temboloknya"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "temboloknya"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "dengan isinya"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "dan dibuangnya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "itu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "di sebelah timur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:33.392116135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Sebab Yahweh mengasihi keadilan, dan tidak meninggalkan ⟨את⟩ orang-orang kesetiaan-Nya; selama-lamanya mereka dijaga, tetapi zuriat orang-orang fasik akan dilenyapkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang kesetiaan-Nya"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "orang-orang kesetiaan-Nya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "mereka dijaga"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "tetapi zuriat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "akan dilenyapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:14.681060529Z",
+  "model": "glm-5.3"
+}

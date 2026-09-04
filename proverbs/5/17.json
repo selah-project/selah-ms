@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Biarlah mereka menjadi bagimu, bagi dirimu sahaja, dan tiada bagi orang-orang asing ⟨את⟩ bersamamu.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biarlah mereka menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "bagi dirimu sahaja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "bagi orang-orang asing"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bersamamu",
+      "marks": "orang-orang asing"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:38.840692197Z",
+  "model": "glm-5.3"
+}

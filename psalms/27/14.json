@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Berharaplah kepada Yahweh; kuatkan dan teguhkanlah hatimu, ya, berharaplah kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Berharaplah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuatkanlah"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "dan teguhkanlah"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ya, berharaplah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:40.264558168Z",
+  "model": "glm-5.3"
+}

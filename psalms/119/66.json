@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kebaikan pertimbangan dan pengetahuan ajarkanlah aku, sebab dalam perintah-perintah-Mu aku telah percaya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kebaikan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "pertimbangan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dan pengetahuan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkanlah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "dalam perintah-perintah-Mu"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "aku telah percaya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:50.678496577Z",
+  "model": "glm-5.3"
+}

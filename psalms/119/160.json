@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kepala firman-Mu ⟨ialah⟩ kebenaran, dan sampai selama-lamanya setiap hukum keadilan-Mu.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "dan sampai selama-lamanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "keadilan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:48.408456681Z",
+  "model": "glm-5.3"
+}

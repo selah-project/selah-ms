@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Pada ketiadaan kayu, api padam; dan pada tiadanya penfitnah, pertengkaran reda.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "pada ketiadaan"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "padam"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "dan pada tiadanya"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "penfitnah"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "reda"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pertengkaran"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:24.918569434Z",
+  "model": "glm-5.3"
+}

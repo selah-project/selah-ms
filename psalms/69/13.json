@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Yang duduk di pintu gerbang bercakap tentang aku, dan ⟨aku menjadi⟩ lagu bagi peminum minuman keras.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "bercakap"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tentang aku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yang duduk"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "dan ⟨sebagai⟩ lagu"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "peminum"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman keras"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:56.246675795Z",
+  "model": "glm-5.3"
+}

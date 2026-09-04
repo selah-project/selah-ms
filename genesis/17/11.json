@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Kamu akan bersunat ⟨את⟩ kulit zarafah kamu, dan itu menjadi tanda perjanjian antara-Ku dan antara kamu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "kamu akan bersunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulit zarafah kamu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "zarafah kamu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara-Ku"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "dan antara kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:17.188535393Z",
+  "model": "glm-5.3"
+}

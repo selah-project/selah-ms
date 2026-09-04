@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku mengharapkan keselamatan-Mu, wahai Yahweh, dan perintah-perintah-Mu aku lakukan.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "aku mengharapkan"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "keselamatan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "dan perintah-perintah-Mu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:19.981684306Z",
+  "model": "glm-5.3"
+}

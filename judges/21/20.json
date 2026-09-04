@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan mereka memerintahkan ⟨את⟩ bani Binyamin, katanya: \"Pergilah dan berambuslah kamu di dalam kebun-kebun anggur.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dan mereka memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "dan berambuslah kamu"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "di dalam kebun-kebun anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T12:12:29.060264247Z",
+  "model": "glm-5.3"
+}

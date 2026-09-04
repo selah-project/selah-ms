@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 20:41",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Datanglah si kecil itu, lalu Dawid bangkit dari sebelah selatan, dan tersungkur ke mukanya, ke bumi, dan sujud tiga kali; dan mencium ⟨ia⟩ ⟨את⟩ temannya, dan menangis ⟨ia⟩ ⟨את⟩ temannya, sehingga Dawid melebihi.",
+  "tokens": [
+    {
+      "surface": "הנער",
+      "gloss": "si kecil itu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lalu Dawid"
+    },
+    {
+      "surface": "קם",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "dari sebelah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "selatan"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan tersungkur"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ke mukanya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "וישקו",
+      "gloss": "dan mencium"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temannya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "temannya"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temannya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "temannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "melebihi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:31.846862948Z",
+  "model": "glm-5.3"
+}

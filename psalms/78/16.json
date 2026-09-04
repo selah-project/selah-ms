@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan Ia mengeluarkan aliran dari batu karang, dan menurunkan air seperti sungai-sungai.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dan mengeluarkan"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "aliran"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "dari batu karang"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "dan menurunkan"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "seperti sungai-sungai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:13.017466700Z",
+  "model": "glm-5.3"
+}

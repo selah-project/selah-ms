@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 129,
+  "translation": "Biarlah mereka mendapat ke malu dan berundur ke belakang, semua pembenci Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mendapat ke malu"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "dan berundur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "pembenci"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:30.175334010Z",
+  "model": "glm-5.3"
+}

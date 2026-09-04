@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan seorang perempuan yang menghampiri apa-apa binatang untuk menjimak dengannya ⟨את⟩ — maka engkau akan membunuh ⟨את⟩ perempuan itu dan ⟨את⟩ binatang itu; pastilah mati dibunuh mereka; darah mereka ⟨atas⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Dan seorang perempuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "untuk menjimak dengannya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "binatang itu"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "maka engkau akan membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan itu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "binatang itu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang itu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "atas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:14.183744365Z",
+  "model": "glm-5.3"
+}

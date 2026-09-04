@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab kamu akan menjadi seperti pohon teringin yang layu daunnya, dan seperti taman yang tiada air baginya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kamu akan menjadi"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "seperti pohon teringin"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "yang layu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "daunnya"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "dan seperti taman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:11.952088493Z",
+  "model": "glm-5.3"
+}

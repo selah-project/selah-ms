@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan akan jadilah demikian: dari sungai itu engkau akan minum, dan ⟨את⟩ gagak-gagak itu telah Aku perintah untuk menanggung makananmu di sana.\"",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan akan jadilah demikian"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "dari sungai itu"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "engkau akan minum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gagak-gagak itu"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "gagak-gagak itu"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "telah Aku perintah"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "untuk menanggung makananmu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:45.926612918Z",
+  "model": "glm-5.3"
+}

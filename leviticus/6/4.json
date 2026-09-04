@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ditanggalkannya ⟨את⟩ pakaiannya, dan memakai pakaian lain, dan dikeluarkannya ⟨את⟩ abu itu ke luar kemah, ke tempat yang tahir.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "ditanggalkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "memakai"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "dikeluarkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "yang tahir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:57.641813877Z",
+  "model": "glm-5.3"
+}

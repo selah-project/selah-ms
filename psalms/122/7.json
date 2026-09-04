@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Jadilah syalom dalam tembokmu, ketenangan dalam puri-purimu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "dalam tembokmu"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "ketenangan"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "dalam puri-purimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:08.953205397Z",
+  "model": "glm-5.3"
+}

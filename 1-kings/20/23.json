@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu hamba-hamba raja Aram berkata kepadanya: Tuhan-tuhan gunung ialah tuhan mereka; sebab itu mereka lebih kuat daripada kita; tetapi baiklah kita berperang ⟨את⟩ mereka di tanah rata — tentu kita lebih kuat daripada mereka.",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "Lalu hamba-hamba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Tuhan-tuhan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "mereka lebih kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripada kita"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kita berperang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "di tanah rata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tentu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "kita lebih kuat"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daripada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:13.685693906Z",
+  "model": "glm-5.3"
+}

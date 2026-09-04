@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan bumi itu ⟨adalah⟩ tandas dan kosong, dan kegelapan di atas muka air laut dalam; dan ruach Elohim mengeram di atas muka air.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Dan bumi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tandas"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "dan kosong"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "dan kegelapan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "air laut dalam"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "dan ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "mengeram"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:33.718812552Z",
+  "model": "glm-5.3"
+}

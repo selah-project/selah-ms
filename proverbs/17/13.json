@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Yang membalas kejahatan sebagai ganti kebaikan — kejahatan tidak akan beralih dari rumahnya.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Yang membalas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "akan beralih"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "dari rumahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:20.402743845Z",
+  "model": "glm-5.3"
+}

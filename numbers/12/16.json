@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan selepas itu berangkatlah bangsa itu dari Hetserot, lalu mereka berkhemah di gurun Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "dan selepas itu"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "berangkatlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "dari Hetserot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "lalu mereka berkhemah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di gurun"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:17.513518423Z",
+  "model": "glm-5.3"
+}

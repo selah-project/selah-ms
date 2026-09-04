@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Maka dibaliknya ⟨את⟩ kota-kota itu, dan ⟨את⟩ seluruh lembah itu, dan ⟨את⟩ semua penduduk kota-kota itu, dan tumbuhan tanah itu.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "dibaliknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota itu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "האל",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh lembah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "lembah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua penduduk kota-kota itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota itu"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "dan tumbuhan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:48.400898398Z",
+  "model": "glm-5.3"
+}

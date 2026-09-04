@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan Ia menaikkan aku dari perigi gempar, dari lumpur lanun, lalu Ia mendirikan kakiku di atas batu karang, menetapkan langkahku.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Dan Ia menaikkan aku"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "dari perigi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gempar"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "dari lumpur"
+    },
+    {
+      "surface": "היון",
+      "gloss": "lanun"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lalu Ia mendirikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "menetapkan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkahku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:46.499142444Z",
+  "model": "glm-5.3"
+}

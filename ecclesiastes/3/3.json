@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Masa untuk membunuh, dan masa untuk menyembuhkan; masa untuk meruntuhkan, dan masa untuk membina.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "untuk membunuh"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "untuk menyembuhkan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "untuk meruntuhkan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "untuk membina"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:23.543377484Z",
+  "model": "glm-5.3"
+}

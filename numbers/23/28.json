@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Balak membawa ⟨את⟩ Bilam ke puncak Peor yang menghadap ke permukaan padang belantara.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu membawa"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "yang menghadap"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "padang belantara"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:19.638298563Z",
+  "model": "glm-5.3"
+}

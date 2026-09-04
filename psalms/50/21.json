@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Perkara-perkara ini engkau lakukan dan aku berdiam diri; engkau menyangka bahawa Aku ⟨adalah⟩ serupa dengan engkau; Aku akan menghukum engkau dan menyusunkannya di hadapan matamu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "perkara-perkara ini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "dan aku berdiam diri"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "engkau menyangka"
+    },
+    {
+      "surface": "היות",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Aku ⟨adalah⟩"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "serupa dengan engkau"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Aku akan menghukum engkau"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "dan menyusunkannya"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "di hadapan matamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:36.075942055Z",
+  "model": "glm-5.3"
+}

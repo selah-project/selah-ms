@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Pintu berpaling pada engselnya, dan orang pemalas pada tempat tidurnya.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "engselnya"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "dan orang pemalas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "tempat tidurnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:12.652529701Z",
+  "model": "glm-5.3"
+}

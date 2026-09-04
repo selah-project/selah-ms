@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "yang membenci kebaikan dan mengasihi kejahatan; yang merampas kulit mereka dari atas mereka, dan daging mereka dari atas tulang-tulang mereka —",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "yang membenci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "dan mengasihi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "yang merampas"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "kulit mereka"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "dari atas mereka"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "dan daging mereka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "tulang-tulang mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:27.143312188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Biarlah mereka memberikan kemuliaan kepada Yahweh, dan umumkan pujian-Nya di pulau-pulau.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "biarlah memberikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "dan pujian-Nya"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "di pulau-pulau"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "umumkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:00.858183252Z",
+  "model": "glm-5.3"
+}

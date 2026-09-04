@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan sekarang, berdirilah kamu, dan saya akan menghakimi ⟨את⟩ kamu di hadapan Yahweh mengenai ⟨את⟩ segala perbuatan benar Yahweh yang dilakukan-Nya kepada ⟨את⟩ kamu dan kepada ⟨את⟩ bapa-bapa kamu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "berdirilah kamu"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "dan saya akan menghakimi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perbuatan benar Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "perbuatan benar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "kepada ⟨את⟩ kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan kepada ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:50.844058645Z",
+  "model": "glm-5.3"
+}

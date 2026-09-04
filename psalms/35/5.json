@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Biarlah mereka seperti sekam di depan angin, dan malaikat Yahweh mendorong mereka.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Biarlah mereka"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "seperti sekam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "dan malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "mendorong mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:40.546382830Z",
+  "model": "glm-5.3"
+}

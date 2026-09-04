@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Tetapi mata-Ku mengasihani mereka daripada memusnahkan mereka, dan Aku tidak membuat ⟨את⟩ mereka habis binasa di padang gurun.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "Tetapi mata-Ku mengasihani"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata-Ku"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "daripada memusnahkan mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Aku membuat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "habis binasa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:23.797684162Z",
+  "model": "glm-5.3"
+}

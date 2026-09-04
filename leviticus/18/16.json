@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Keterlanjangan isteri saudara lelakimu janganlah kaudedahkan; keterlanjangan saudara lelakimu ⟨ialah⟩ ia.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "keterlanjangan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara lelakimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kaudedahkan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "keterlanjangan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara lelakimu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:01.775939282Z",
+  "model": "glm-5.3"
+}

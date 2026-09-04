@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Aku tumpul dan ditumbuk habis-habisan; aku mengaum kerana geruh hatiku.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "aku tumpul"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "dan ditumbuk habis-habisan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "aku mengaum"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "kerana geruh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:26.387554687Z",
+  "model": "glm-5.3"
+}

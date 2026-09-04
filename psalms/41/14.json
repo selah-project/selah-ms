@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Terpujilah Yahweh, Elohim Israel, dari selama-lama sampai selama-lamanya. Amin dan amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "dari selama-lama"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "dan amin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:08.196022084Z",
+  "model": "glm-5.3"
+}

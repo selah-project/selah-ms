@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Janganlah tergesa-gesa pergi dari hadapannya; pergilah; janganlah berdiri dalam perkara jahat, sebab segala yang dikehendakinya dilakukannya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "tergesa-gesa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "dari hadapannya"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dalam perkara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "dikehendakinya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:34.981777154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan lembu betina dan beruang akan meragut rumput bersama-sama, anak-anak mereka akan berbaring bersama, dan singa seperti lembu akan makan jerami.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "dan lembu betina"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "dan beruang"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "akan meragut rumput"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "akan berbaring"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "dan singa"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "seperti lembu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akan makan"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "jerami"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:47.839989959Z",
+  "model": "glm-5.3"
+}

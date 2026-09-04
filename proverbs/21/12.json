@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Yang Benar memerhatikan rumah orang fasik; ⟨Ia⟩ menjatuhkan orang-orang fasik ke dalam keburukan.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "memerhatikan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Yang Benar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "menjatuhkan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ke dalam keburukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:47.346850437Z",
+  "model": "glm-5.3"
+}

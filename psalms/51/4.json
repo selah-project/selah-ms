@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Berbilang-bilanglah membasuh aku daripada kesalahan aku, dan daripada dosa aku bersihkanlah aku.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Berbilang-bilanglah"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "membasuh aku"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "daripada kesalahan aku"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "dan daripada dosa aku"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "bersihkanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:20.161177447Z",
+  "model": "glm-5.3"
+}

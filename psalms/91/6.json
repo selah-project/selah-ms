@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "wabak yang berjalan dalam kegelapan, mahupan kemusnahan yang menghuru-harakan tengah hari.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "wabak"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "mahupan kemusnahan"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "yang menghuru-harakan"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "tengah hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:55.263727295Z",
+  "model": "glm-5.3"
+}

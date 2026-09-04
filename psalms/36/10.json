@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Sebab dengan-Mu ⟨adalah⟩ matair kehidupan; dalam terang-Mu kami melihat terang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dengan-Mu"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "matair"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "dalam terang-Mu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "⟨kami⟩ melihat"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:10.967185358Z",
+  "model": "glm-5.3"
+}

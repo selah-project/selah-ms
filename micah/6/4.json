@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sebab Aku telah mengangkat engkau dari bumi Mitsrayim, dan dari rumah hamba Aku telah menebus engkau, dan Aku mengutus di hadapanmu ⟨את⟩ Moshe, Aharon, dan Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "Aku telah mengangkat engkau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "dan dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "Aku telah menebus engkau"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "dan Aku mengutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "dan Miryam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:36.384020206Z",
+  "model": "glm-5.3"
+}

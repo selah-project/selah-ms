@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 23:32",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia melakukan yang jahat di mata Yahweh, sungguh segala yang dilakukan oleh bapa-bapanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia melakukan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sungguh segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oleh bapa-bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:39.135622665Z",
+  "model": "glm-5.3"
+}

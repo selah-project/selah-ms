@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Kerana mereka tidak tidur jika mereka tidak berbuat jahat, dan tidur mereka dirampas jika mereka tidak menyebabkan orang tersandung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "mereka tidur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "mereka berbuat jahat"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "dan dirampas"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "tidur mereka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "mereka menyebabkan orang tersandung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:37.285923135Z",
+  "model": "glm-5.3"
+}

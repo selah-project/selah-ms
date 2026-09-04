@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Dan di sana didudukkan-Nya orang-orang yang lapar, dan mereka mendirikan sebuah bandar untuk diduduki.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Dan didudukkan-Nya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "orang-orang yang lapar"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "dan mereka mendirikan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sebuah bandar"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "untuk diduduki"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:33.140184965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Orang-orang fasik memasang jerat untukku, tetapi dari pikudim-Mu aku tidak menyimpang.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "memasang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "tetapi dari pikudim-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "aku menyimpang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:24.486612734Z",
+  "model": "glm-5.3"
+}

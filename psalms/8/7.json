@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Engkau memberinya kuasa memerintah atas perbuatan tangan-Mu; segalanya Engkau taruh di bawah kakinya:",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Engkau memberinya kuasa memerintah"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "atas perbuatan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "Engkau taruh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kakinya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:44.617866468Z",
+  "model": "glm-5.3"
+}

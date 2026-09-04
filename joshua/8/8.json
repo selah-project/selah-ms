@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan akan terjadilah, apabila kamu telah menawan ⟨את⟩ kota itu, kamu akan membakar ⟨את⟩ kota itu dengan api; menurut firman Yahweh kamu akan lakukan. Lihatlah, aku telah memerintah ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan akan terjadi"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "apabila kamu telah menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "kamu akan membakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu akan lakukan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "aku telah memerintah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (para tentera)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:59:39.792120962Z",
+  "model": "glm-5.3"
+}

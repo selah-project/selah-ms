@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh akan melekatkan padamu ⟨את⟩ penyakit sampar, sampai habis memusnahkan engkau dari atas tanah yang engkau datang ke sana untuk mendudukinya.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "akan melekatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyakit sampar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "penyakit sampar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "habis memusnahkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "untuk mendudukinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:23.488059849Z",
+  "model": "glm-5.3"
+}

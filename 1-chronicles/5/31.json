@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Avisyua memperanakkan ⟨את⟩ Buki, dan Buki memperanakkan ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Dan Avisyua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Buki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Buki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "dan Buki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:42.058445871Z",
+  "model": "glm-5.3"
+}

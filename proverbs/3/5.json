@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Berserahlah kepada Yahweh dengan segala hatimu, dan kepada kepintaranmu sendiri jangan bersandar.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "berserahlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "kepintaranmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "bersandar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:19.305199346Z",
+  "model": "glm-5.3"
+}

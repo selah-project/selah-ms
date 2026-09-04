@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Kami telah berdosa, dan berbuat kecurangan, dan berbuat kejahatan, dan kami telah menderhaka, dan berpaling daripada perintah-perintah-Mu dan daripada hukum-hukum-Mu —",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berdosa"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "dan berbuat kecurangan"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "dan berbuat kejahatan"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "dan kami telah menderhaka"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "daripada perintah-perintah-Mu"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "dan daripada hukum-hukum-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:28.098466004Z",
+  "model": "glm-5.3"
+}

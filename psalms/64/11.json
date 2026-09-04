@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Bersukacita orang benar di dalam Yahweh, dan berlindung di dalam-Nya; dan bermegah semua yang lurus hati.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "di dalam Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "dan berlindung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam-Nya"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "dan bermegah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:33.204482341Z",
+  "model": "glm-5.3"
+}

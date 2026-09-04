@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan ia membahagikan kepada setiap orang Yisrael, dari lelaki sampai perempuan: kepada setiap orang satu keping roti, satu bahagian daging, dan satu kek kismis.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "Dan ia membahagikan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada setiap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari lelaki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada setiap orang"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "satu keping"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "dan satu bahagian daging"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "dan satu kek kismis"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:15.007352286Z",
+  "model": "glm-5.3"
+}

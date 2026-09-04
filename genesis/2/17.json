@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "tetapi daripada pokok pengetahuan tentang baik dan jahat, jangan engkau makan darinya, kerana pada hari engkau memakannya, mati pasti engkau mati.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "tetapi daripada pokok"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "dan jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau makan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "darinya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "engkau memakannya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "darinya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "pasti engkau mati"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:58.504010628Z",
+  "model": "glm-5.3"
+}

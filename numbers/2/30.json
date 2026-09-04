@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "dan bala tenteranya, dan bilangan mereka yang didaftarkan: tiga dan lima puluh ribu, dan empat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan bala tenteranya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan bilangan mereka yang didaftarkan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dan lima puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:49.867271164Z",
+  "model": "glm-5.3"
+}

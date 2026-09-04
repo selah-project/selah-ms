@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab itu seorang lelaki akan meninggalkan ⟨את⟩ bapanya dan ⟨את⟩ ibunya, dan akan melekat pada isterinya, dan mereka akan menjadi satu daging.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "akan meninggalkan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapanya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "dan akan melekat"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "pada isterinya"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan mereka akan menjadi"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "satu daging"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:50.772478446Z",
+  "model": "glm-5.3"
+}

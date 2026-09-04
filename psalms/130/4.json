@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 130,
+  "translation": "Sebab bersama-Mu ⟨ada⟩ pengampunan, supaya ⟨Engkau⟩ ⟨gerun⟩ dihormati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersama-Mu"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "pengampunan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "⟨Engkau⟩ ⟨gerun⟩ dihormati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:21.265792920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Orang bercakap jahat tidak akan tetap berdiri di bumi; orang keganasan — kejahatan akan memburunya sehingga dihumbankan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "bercakap jahat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "akan tetap berdiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "akan memburunya"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "sehingga dihumbankan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:06.779571696Z",
+  "model": "glm-5.3"
+}

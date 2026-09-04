@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Yahweh berkenan demi keadilannya-Nya; ⟨dia⟩ membesarkan Tora dan memuliakannya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "keadilannya-Nya"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "membesarkan"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "dan memuliakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:31.885570253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu berkatalah Daud kepada Syaul: Mengapa engkau mendengar ⟨את⟩ perkataan orang, katanya: Lihat, Daud mencari kejahatanmu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "kejahatanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:29.436609454Z",
+  "model": "glm-5.3"
+}

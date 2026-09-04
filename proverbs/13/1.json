@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Anak yang bijak — didikan seorang bader, tetapi seorang penghina tidak mendengar hardikan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "אב",
+      "gloss": "seorang bader"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "tetapi seorang penghina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "hardikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:31.005113169Z",
+  "model": "glm-5.3"
+}

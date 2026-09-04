@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Rotan yang remuk tidak akan dipatahkannya, dan sumbu yang pudar tidak akan dipadamkannya; demi kebenaran dia membawa keluar keadilan.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "rotan"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "yang remuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "dia mematahkan"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "dan sumbu flaks"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "yang pudar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "dia memadamkannya"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "demi kebenaran"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "dia membawa keluar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:00.923616768Z",
+  "model": "glm-5.3"
+}

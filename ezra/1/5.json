@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu bangkitlah kepala-kepala keluarga Yehuda dan Binyamin, serta para imam dan orang-orang Lewi — setiap orang yang Elohim telah membangkitkan ⟨את⟩ rohnya — untuk naik membina ⟨את⟩ rumah Yahweh yang di Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "lalu bangkitlah"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "dan Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "serta para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "dan orang-orang Lewi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "telah membangkitkan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rohnya"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rohnya"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "untuk naik"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T14:49:22.396293742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan engkau akan melenyapkan darah ⟨yang⟩ bersih dari tengah-tengahmu, apabila engkau melakukan yang betul di mata Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "akan melenyapkan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "dari tengah-tengahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau melakukan"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "yang betul"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:45.939034723Z",
+  "model": "glm-5.3"
+}

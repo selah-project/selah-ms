@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 70,
+  "translation": "Biarlah mereka berbalik karena akibat malu mereka, yang berkata: \"Aha, aha!\"",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Biarlah mereka berbalik"
+    },
+    {
+      "surface": "על",
+      "gloss": "karena"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "akibat"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "malu mereka"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "האח",
+      "gloss": "\"Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha!\""
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:46.208046357Z",
+  "model": "glm-5.3"
+}

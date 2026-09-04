@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika benar-benar menolak ayahnya memberikannya kepadanya, perak akan ia timbang menurut mahar anak-anak dara.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "benar-benar menolak"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "(dia) menolak"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "memberikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "akan ia timbang"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "menurut mahar"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "anak-anak dara"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:38.244601392Z",
+  "model": "glm-5.3"
+}

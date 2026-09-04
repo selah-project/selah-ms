@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Doa bagi si tertindas, apabila ia berselubung, dan di hadapan Yahweh ia mencurahkan renungannya.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Doa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi si tertindas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ia berselubung"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ia mencurahkan"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "renungannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:11.253517274Z",
+  "model": "glm-5.3"
+}

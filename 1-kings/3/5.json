@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Di Givon Yahweh menampakkan diri kepada Syelomo dalam mimpi pada waktu malam, dan Elohim berfirman: \"Mintalah apa yang hendak Kuberikan kepadamu.\"",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Di Givon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "menampakkan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "dalam mimpi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mintalah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "hendak Kuberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:35.355650851Z",
+  "model": "glm-5.3"
+}

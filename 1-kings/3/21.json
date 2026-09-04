@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu aku bangun pada waktu pagi untuk menyusukan ⟨את⟩ anakku, dan lihatlah, ia mati; dan aku menelitinya pada waktu pagi, dan lihatlah, bukan anakku ia, yang aku lahirkan.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "Lalu aku bangun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "untuk menyusukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ia mati"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "dan aku menelitinya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "aku lahirkan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:31.399278838Z",
+  "model": "glm-5.3"
+}

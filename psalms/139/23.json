@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Selamilah aku, El, dan kenallah hatiku; ujilah aku dan kenallah renunganku.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Selamilah aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "dan kenallah"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ujilah aku"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "dan kenallah"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "renunganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.722583182Z",
+  "model": "glm-5.3"
+}

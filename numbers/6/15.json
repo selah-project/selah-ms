@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "dan bakul roti tiada beragi, tepung halus — lempeng beruli dengan minyak, dan kerupuk roti tiada beragi dilumur dengan minyak — serta persembahan bijian mereka dan persembahan curahan mereka.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "dan bakul"
+    },
+    {
+      "surface": "мצות",
+      "gloss": "roti tiada beragi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung halus"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "lempeng"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "beruli dengan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "dan kerupuk"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tiada beragi"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "dilumur"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dengan minyak"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "serta persembahan bijian mereka"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "dan persembahan curahan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:21.664774104Z",
+  "model": "glm-5.3"
+}

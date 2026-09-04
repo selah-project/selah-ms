@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Uttusan pemberontakan kepada orang fasik di tengah hatiku: tiada gerun terhadap Elohim di depan matainya.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Uttusan"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pemberontakan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kepada orang fasik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "gerun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "terhadap Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matainya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:32.338839314Z",
+  "model": "glm-5.3"
+}

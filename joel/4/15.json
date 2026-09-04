@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Matahari dan bulan menjadi gelap, dan bintang-bintang menahan sinar mereka.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "menjadi gelap"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "sinar mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:26:28.989083049Z",
+  "model": "glm-5.3"
+}

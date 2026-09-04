@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Bangkitlah, wahai Yahweh, ke tempat perhentian-Mu, Engkau dan tabut kekuatan-Mu!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangkitlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ke tempat perhentian-Mu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "dan tabut"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:17.678506327Z",
+  "model": "glm-5.3"
+}

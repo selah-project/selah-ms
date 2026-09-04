@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Moshe membawa keluar ⟨את⟩ bangsa itu untuk menemui Elohim dari kem itu, dan mereka berdiri di kaki gunung itu.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "membawa keluar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuk menemui"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kem itu"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "di kaki"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:51.758293156Z",
+  "model": "glm-5.3"
+}

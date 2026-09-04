@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Berpalinglah ke arahku dan kasilahkan aku, sebab kesepian dan sengsara aku.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Berpalinglah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke arahku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dan kasilahkan aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "kesepian"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dan sengsara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:01.556377584Z",
+  "model": "glm-5.3"
+}

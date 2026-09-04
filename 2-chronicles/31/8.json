@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu datanglah Hizkiyahu dan para pembesar, dan mereka melihat ⟨את⟩ timbun-timbun itu, lalu mereka memberkati ⟨את⟩ Yahweh dan ⟨את⟩ umat-Nya Israel.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu datanglah"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "dan para pembesar"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "dan mereka melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timbun-timbun itu"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "timbun-timbun itu"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "lalu mereka memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "umat-Nya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:57.361967319Z",
+  "model": "glm-5.3"
+}

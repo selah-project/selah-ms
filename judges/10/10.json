@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu bani Israel berseru kepada Yahweh, katanya: Kami telah berdosa kepada-Mu, kerana kami telah meninggalkan ⟨את⟩ Elohim kami dan menyembah ⟨את⟩ para Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Lalu berseru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Kami telah berdosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami telah meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim kami"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "dan menyembah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:19.967934620Z",
+  "model": "glm-5.3"
+}

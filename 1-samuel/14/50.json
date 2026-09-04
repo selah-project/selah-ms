@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 14:50",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan nama isteri Shaul ialah Ahinoam, anak perempuan Ahimaats; dan nama panglima tenteranya ialah Avner, anak Ner, paman Shaul.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Dan nama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaats"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tenteranya"
+    },
+    {
+      "surface": "אבינר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "paman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:31.026510467Z",
+  "model": "glm-5.3"
+}

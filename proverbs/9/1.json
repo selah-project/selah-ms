@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Hikmah telah membina rumahnya, ia telah memahat tiang-tiangnya — tujuh.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Hikmah"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "telah membina"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "ia telah memahat"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:34.680149459Z",
+  "model": "glm-5.3"
+}

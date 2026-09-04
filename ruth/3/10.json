@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan katanya, \"Diberkati engkau oleh Yahweh, anakku; engkau telah memperelokkan hesedmu yang kemudian melebihi yang pertama, kerana engkau tidak mengikut pemuda-pemuda, baik yang miskin mahupun yang kaya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "Diberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau",
+      "marks": "Diberkati engkau"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "oleh Yahweh"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "engkau telah memperelokkan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedmu"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "yang kemudian"
+    },
+    {
+      "surface": "מן",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kerana tidak"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "pemuda-pemuda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yang miskin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mahupun"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "yang kaya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:49.104845583Z",
+  "model": "glm-5.3"
+}

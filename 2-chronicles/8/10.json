@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan inilah pembesar-pembesar pengawas-pengawas yang bagi raja Syelomoh: lima puluh dan dua ratus, yang memerintah atas rakyat.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "pengawas-pengawas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "yang memerintah"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "atas rakyat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:02.934757136Z",
+  "model": "glm-5.3"
+}

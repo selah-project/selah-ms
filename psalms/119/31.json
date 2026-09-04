@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku melekat pada peraturan-peraturan kesaksian-Mu; Yahweh, janganlah kaulakukan aku malu.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "aku melekat"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "pada peraturan-peraturan kesaksian-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "kaulakukan aku malu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:57.807722297Z",
+  "model": "glm-5.3"
+}

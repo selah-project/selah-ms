@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan Moshe berkata-kata ⟨את⟩ moedim-moedim Yahweh kepada bani Israel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan dia berkata-kata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moedim-moedim Yahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "moedim-moedim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:40.179011015Z",
+  "model": "glm-5.3"
+}

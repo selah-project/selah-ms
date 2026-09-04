@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Pada hari raja kita, para pembesar menjadi panas ⟨dengan⟩ kemarahan arak; ia menghulurkan tangannya bersama para pencemooh ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "raja kita"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "menjadi panas"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kemarahan"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "arak"
+    },
+    {
+      "surface": "משך",
+      "gloss": "menghulurkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pencemooh"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "para pencemooh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:57.857988723Z",
+  "model": "glm-5.3"
+}

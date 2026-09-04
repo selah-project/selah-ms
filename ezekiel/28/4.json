@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dengan hikmatmu dan dengan kepintaranmu engkau membuat kekayaan bagi dirimu, dan engkau mengumpul emas dan perak dalam perbendaharaanmu.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Dengan hikmatmu"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "dan dengan kepintaranmu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau membuat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi dirimu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "dan engkau mengumpul"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "dalam perbendaharaanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:36:52.521092440Z",
+  "model": "glm-5.3"
+}

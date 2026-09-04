@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim membentuk ⟨את⟩ manusia itu — debu dari tanah — dan meniup ke dalam hidungnya nafas kehidupan, dan manusia itu menjadi nefesy yang hidup.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Lalu membentuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia itu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "dan meniup"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "ke dalam hidungnya"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:55.499023030Z",
+  "model": "glm-5.3"
+}

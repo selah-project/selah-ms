@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "dan engkau mengampuni umatmu yang telah berdosa kepadamu, dan segala pemberontakan mereka yang mereka lakukan terhadapmu, dan engkau memberi mereka rahmat di hadapan penawar mereka, dan mereka mengasihani mereka;",
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "dan engkau mengampuni"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "telah berdosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "pemberontakan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "mereka lakukan pemberontakan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dan engkau memberi mereka"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "rahmat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "penawar mereka"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "dan mereka mengasihani mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:52.458804386Z",
+  "model": "glm-5.3"
+}

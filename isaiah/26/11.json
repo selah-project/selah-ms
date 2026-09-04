@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Yahweh, tangan-Mu terangkat, mereka tidak melihatnya; biarlah mereka melihat dan mendapat malu — cemburu terhadap umat itu; ya, api memakan lawan-lawan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "terangkat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "mereka melihatnya"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "biarlah mereka melihat"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dan mendapat malu"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "cemburu terhadap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "lawan-lawan-Mu"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "memakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:16.981111673Z",
+  "model": "glm-5.3"
+}

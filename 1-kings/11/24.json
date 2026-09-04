@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan ia mengumpulkan orang-orang kepada dirinya, dan ia menjadi panglima gerombolan ketika Dawid membunuh ⟨את⟩ mereka; dan mereka pergi ke Damsek dan diam di sana, dan mereka memerintah di Damsek.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Dan ia mengumpulkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kepada dirinya"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia menjadi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gerombolan"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "ketika membunuh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka pergi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan mereka diam"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dan mereka memerintah"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "di Damsek"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:53.033194801Z",
+  "model": "glm-5.3"
+}

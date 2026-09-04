@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Keinginan orang-orang yang rendah hati telah Kaudengar, Yahweh; Engkau menetapkan hati mereka, Engkau mencungapkan telinga-Mu ⟨untuk mendengar⟩.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang yang rendah hati"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "telah Kaudengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Engkau menetapkan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "Engkau mencungapkan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telinga-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:42.235436168Z",
+  "model": "glm-5.3"
+}

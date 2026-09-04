@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Daud melarikan diri dari Nawot di Ramah, dan datang serta berkata di hadapan Yehonatan: Apakah yang telah kulakukan? Apakah kesalahanku, dan apakah dosaku terhadap ayahmu, sehingga ia mencari ⟨את⟩ nyawaku?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Lalu melarikan diri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "dari Nawot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Ramah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "serta berkata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yang telah kulakukan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kesalahanku"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apakah"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ia mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:20.815987098Z",
+  "model": "glm-5.3"
+}

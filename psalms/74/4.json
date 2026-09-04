@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Mengaum para penekan-Mu di tengah tempat perjumpaan-Mu; mereka memasang tanda-tanda mereka sebagai tanda-tanda.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Mengaum"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "para penekan-Mu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "tempat perjumpaan-Mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka memasang"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "tanda-tanda mereka"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "sebagai tanda-tanda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:15.715390792Z",
+  "model": "glm-5.3"
+}

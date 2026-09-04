@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau akan mengambil ⟨את⟩ minyak urapan, dan menuangkannya di atas kepalanya, dan mengurapinya.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dan engkau akan menuang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau akan mengurapi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Aharon)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:51.147519469Z",
+  "model": "glm-5.3"
+}

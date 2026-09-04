@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Habis lesu mataku bagi janji-Mu, sambil berkata, \"Bila Engkau akan menghibur aku?\"",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "habis lesu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "bagi janji-Mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "Engkau akan menghibur aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:30.260768007Z",
+  "model": "glm-5.3"
+}

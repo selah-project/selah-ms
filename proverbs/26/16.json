@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Orang pemalas lebih bijak dalam matanya sendiri daripada tujuh orang yang menjawab dengan akal.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "lebih bijak"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "orang pemalas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dalam matanya sendiri"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "daripada tujuh"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "orang yang menjawab"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "dengan akal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:12.652904637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Hadapkanlah diri-Mu kepadaku dan kurniakanlah aku; berikanlah kuasa-Mu kepada hamba-Mu, dan selamatkanlah anak pembantu perempuan-Mu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Hadapkanlah diri-Mu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dan kurniakanlah aku"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kuasa-Mu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kepada hamba-Mu"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "dan selamatkanlah"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "pembantu perempuan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:49.169491344Z",
+  "model": "glm-5.3"
+}

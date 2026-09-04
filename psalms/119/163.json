@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kedustaan aku benci dan aku loathing-i ⟨ia⟩; Tora-Mu aku kasih.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Kedustaan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "dan aku loathing-i ⟨ia⟩"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku kasih"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:19.979263336Z",
+  "model": "glm-5.3"
+}

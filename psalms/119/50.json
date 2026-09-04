@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Ini ⟨ialah⟩ penghiburanku dalam kesesakanku, sebab firman-Mu telah menghidupkan aku.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "penghiburanku"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "dalam kesesakanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "telah menghidupkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:02.119918277Z",
+  "model": "glm-5.3"
+}

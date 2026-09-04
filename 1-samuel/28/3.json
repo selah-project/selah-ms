@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan Syemuel telah mati, dan seluruh Israel telah meratapinya, dan mereka menguburkan dia di Rama, di kotanya. Dan Syaul telah menghapuskan pemanggil arwah dan ⟨את⟩ para peramal dari bumi itu.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Dan Syemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "telah meratapinya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "dan menguburkan dia"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "di kotanya"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Dan Syaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "telah menghapuskan"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "pemanggil arwah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "para peramal"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "para peramal"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "dari bumi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:17.282036780Z",
+  "model": "glm-5.3"
+}

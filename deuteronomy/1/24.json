@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu mereka berpaling dan naik ke pegunungan, dan sampai ke lembah Eskol, lalu mengintainya.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Lalu mereka berpaling"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan naik"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ke pegunungan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eskol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "lalu mereka mengintai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:10.815096586Z",
+  "model": "glm-5.3"
+}

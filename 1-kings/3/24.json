@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu berkata raja: Ambillah bagiku sebilah pedang; dan mereka membawa pedang itu ke hadapan raja.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sebilah pedang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka membawa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:31.399911792Z",
+  "model": "glm-5.3"
+}

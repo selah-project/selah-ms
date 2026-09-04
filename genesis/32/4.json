@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu Yakob menghantar utusan-utusan sebelum dirinya kepada Esav, abangnya, ke negeri Seir, padang Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menghantar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sebelum dirinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abangnya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke negeri"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:14.978369667Z",
+  "model": "glm-5.3"
+}

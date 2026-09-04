@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan semua berkat ini akan datang atasmu dan menyusul engkau, kerana engkau mendengar kepada suara Yahweh Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Dan ... akan datang"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "dan menyusul engkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kepada suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:11.457494615Z",
+  "model": "glm-5.3"
+}

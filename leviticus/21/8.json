@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan engkau akan menguduskan dia, sebab ⟨את⟩ makanan Elohim engkau ⟨ialah⟩ dia yang menghampirkan; kuduslah dia bagimu, sebab kudus Aku, Yahweh, yang menguduskan kamu.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "dan engkau akan menguduskan dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makanan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim engkau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "yang menghampirkan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dia akan menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "yang menguduskan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:06.308303672Z",
+  "model": "glm-5.3"
+}

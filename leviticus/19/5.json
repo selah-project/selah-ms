@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan apabila kamu menyembelih korban syelamim kepada Yahweh, menurut kerelaan kamu kamu menyembelihnya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kamu menyembelih"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "syelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "menurut kerelaan kamu"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "kamu menyembelihnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:50.341342680Z",
+  "model": "glm-5.3"
+}

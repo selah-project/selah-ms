@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu Yahweh membangkitkan seorang lawan bagi Syelomo: ⟨את⟩ Hadad si Edomi, dari keturunan raja — dialah yang di Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu ... membangkitkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "seorang lawan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "bagi Syelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad si Edomi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "si Edomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "dari keturunan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "di Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:50.014408848Z",
+  "model": "glm-5.3"
+}

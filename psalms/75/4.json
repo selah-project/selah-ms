@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Merataplah bumi dan segala penduduknya; Akulah yang menegakkan tiang-tiangnya. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Merataplah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Akulah yang"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "menegakkan"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:06.288559001Z",
+  "model": "glm-5.3"
+}

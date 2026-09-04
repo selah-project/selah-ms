@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Yang menjubit mata memberi kesakitan, dan si bebal bibir akan tumbang.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "yang menjubit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "kesakihan"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "dan si bebal"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "akan tumbang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:41.565343675Z",
+  "model": "glm-5.3"
+}

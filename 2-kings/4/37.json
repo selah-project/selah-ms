@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu masuklah dia, dan jatuh di kakinya, dan bersujud ke bumi, lalu diangkatnya ⟨את⟩ anaknya dan keluar.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "lalu masuklah dia"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "dan bersujud"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "lalu diangkatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "dan keluar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:14.200352167Z",
+  "model": "glm-5.3"
+}

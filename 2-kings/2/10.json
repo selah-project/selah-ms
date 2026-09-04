@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan katanya: \"Engkau meminta perkara yang sukar; namun jika engkau melihat ⟨את⟩ aku ketika aku diambil daripadamu, jadilah begitu untukmu; tetapi jika tidak, tidak akan jadi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Engkau meminta perkara yang sukar"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "meminta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ daripadamu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan jadi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:38.347347394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Segala Yahweh lakukan untuk tujuan-Nya sendiri, juga orang fasik untuk hari bencana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "lakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "untuk tujuan-Nya sendiri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "untuk hari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bencana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:05.228696961Z",
+  "model": "glm-5.3"
+}

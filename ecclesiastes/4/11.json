@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Juga jika dua orang berbaring, hangat bagi mereka; tetapi bagi satu orang, bagaimanakah dia akan berhangat?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua orang"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "hangat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "tetapi bagi satu orang"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimanakah"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "dia akan berhangat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:12.028120537Z",
+  "model": "glm-5.3"
+}

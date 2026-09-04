@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Mizmor bagi David, ketika ia lari dari hadapan Avsyalom anaknya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ketika ia lari"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.209058241Z",
+  "model": "glm-5.3"
+}

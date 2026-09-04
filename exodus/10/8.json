@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu dibawa kembali ⟨את⟩ Moshe dan ⟨את⟩ Aharon kepada Paroh, dan ia berkata kepada mereka, \"Pergilah, beribadahlah kepada ⟨את⟩ Yahweh, Elohim kamu — siapa dan siapa yang akan pergi?\"",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Lalu dibawa kembali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "beribadahlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yang akan pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:46.765610816Z",
+  "model": "glm-5.3"
+}

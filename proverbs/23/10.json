@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan geser batas sempadan yang lampau, dan padang anak-anak yatim jangan engkau masuki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "geser"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "batas sempadan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yang lampau"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "dan padang"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "anak-anak yatim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "engkau masuki"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:32.102354621Z",
+  "model": "glm-5.3"
+}

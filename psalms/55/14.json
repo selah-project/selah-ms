@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Tetapi engkaulah — manusia yang setaraf denganku, kawan karibku, dan kenalku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi engkaulah"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "yang setaraf denganku"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kawan karibku"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "dan kenalku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:44.721006837Z",
+  "model": "glm-5.3"
+}

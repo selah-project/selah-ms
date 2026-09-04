@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Bukan di langit ⟨ia⟩ — untuk berkata: Siapa akan naik ke langit bagi kita, dan mengambilnya bagi kita, dan memperdengarkannya kepada kita ⟨את⟩-nya, supaya kami melakukannya?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "untuk berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "akan naik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ke langit"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "dan mengambilnya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "dan memperdengarkannya kepada kita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "-nya (perintah itu)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "supaya kami melakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:31.602529269Z",
+  "model": "glm-5.3"
+}

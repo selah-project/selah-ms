@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Telanjang mereka berjalan tanpa pakaian, dan orang yang lapar memikul berkas.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "dan orang yang lapar"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "mereka memikul"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "berkas"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:55.078254222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim mengambil ⟨את⟩ manusia itu dan menempatkannya di taman Eden, untuk mengusahakannya dan menjaganya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia itu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "dan menempatkannya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "untuk mengusahakannya"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "dan menjaganya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:00.494197412Z",
+  "model": "glm-5.3"
+}

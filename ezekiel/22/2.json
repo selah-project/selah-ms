@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan engkau, anak adam, mahukah engkau menghakimi, mahukah engkau menghakimi ⟨את⟩ bandar darah itu, dan beritahulah dia ⟨את⟩ segala kekejinya?",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "mahukah engkau menghakimi"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "mahukah engkau menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar darah itu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "darah-darah"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "dan beritahulah dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kekejinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "kekejinya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:55.018552156Z",
+  "model": "glm-5.3"
+}

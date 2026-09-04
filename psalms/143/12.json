@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Dan demi hesed-Mu, binasakanlah musuh-musuhku, dan musnahkanlah semua yang menyesakkan jiwa-ku, kerana aku hamba-Mu.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Dan demi hesed-Mu"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "binasakanlah"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "dan musnahkanlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "yang menyesakkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:14.088075073Z",
+  "model": "glm-5.3"
+}

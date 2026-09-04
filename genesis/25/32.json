@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Esaw berkata: \"Lihat, aku ini akan mati — maka apa gunanya hak anak sulung ini kepadaku?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "akan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "maka apa gunanya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "hak anak sulung"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:11.210767496Z",
+  "model": "glm-5.3"
+}

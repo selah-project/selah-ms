@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan kepada sesuatu nyawa yang mati pun tidak boleh dia datangi; bagi bapanya dan bagi ibunya pun tidak boleh dia menjadi tuma'.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Dan kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sesuatu pun"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "dia datangi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "bagi bapanya"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "dan bagi ibunya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dia menjadi tuma'"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:47.612330203Z",
+  "model": "glm-5.3"
+}

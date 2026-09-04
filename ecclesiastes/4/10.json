@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sebab jika mereka jatuh, yang satu akan mengangkat ⟨את⟩ temannya; tetapi celakalah yang satu yang jatuh tanpa ada yang kedua untuk mengangkatnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mereka jatuh"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "akan mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temannya"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "temannya"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "tetapi celakalah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "yang jatuh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tanpa ada"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "untuk mengangkatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:12.027949901Z",
+  "model": "glm-5.3"
+}

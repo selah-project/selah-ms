@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan mereka memukul ⟨את⟩ setiap orang yang ada di dalamnya menurut mata pedang — dibinasakan sampai musnah; tidak ditinggalkan satu nafas pun; dan ⟨את⟩ Hatsor dia bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setiap orang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "dibinasakan sampai musnah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ditinggalkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "satu"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:05.535595059Z",
+  "model": "glm-5.3"
+}

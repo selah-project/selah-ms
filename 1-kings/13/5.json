@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan mazbah itu pun terbelah, dan abu tertumpah dari mazbah itu, seperti tanda yang diberikan oleh orang Elohim itu dengan firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "Dan mazbah itu"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "terbelah"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "dan tertumpah"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "seperti tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "oleh orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dengan firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:32.333413784Z",
+  "model": "glm-5.3"
+}

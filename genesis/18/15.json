@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Tetapi Sarah menafikan, kata: aku tidak ketawa, kerana ia takut; dan berkatalah ⟨dia⟩: tidak, tetapi engkau memang ketawa.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "tetapi menafikan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "aku ketawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ia takut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "engkau ketawa"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:19.475002083Z",
+  "model": "glm-5.3"
+}

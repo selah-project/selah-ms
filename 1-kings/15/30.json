@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "disebabkan dosa-dosa Yaravam yang ia berdosa dan yang ia menyebabkan ⟨את⟩ Yisrael berdosa, dengan kemarahannya yang membangkitkan murka ⟨את⟩ Yahweh, Elohim bagi Yisrael.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "disebabkan"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ia berdosa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ia menyebabkan berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "dengan kemarahannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "membangkitkan murka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bagi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:49.357920492Z",
+  "model": "glm-5.3"
+}

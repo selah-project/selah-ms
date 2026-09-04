@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Ketika Arnan berpaling, dilihatnya ⟨את⟩ malaikat itu, dan keempat-empat anaknya bersamanya bersembunyi; sementara Arnan mengirik gandum.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dilihatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaikat itu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikat itu"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "dan keempat-empat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "bersembunyi"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "sementara Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "mengirik"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:15.678561302Z",
+  "model": "glm-5.3"
+}

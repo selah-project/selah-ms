@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Ia membunuh dengan batu ais pokok anggur mereka, dan pokok sykomor mereka dengan beku.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Ia membunuh"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "dengan batu ais"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "pokok anggur mereka"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "dan pokok sykomor mereka"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "dengan beku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:50.813508375Z",
+  "model": "glm-5.3"
+}

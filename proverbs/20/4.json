@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Kerana musim sejuk orang pemalas tidak membajak; dia meminta pada musim menuai, tetapi tiada apa-apa.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Kerana musim sejuk"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "orang pemalas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "membajak"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "dia meminta"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pada musim menuai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada apa-apa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:08.342770311Z",
+  "model": "glm-5.3"
+}

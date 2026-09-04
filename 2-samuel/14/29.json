@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 14:29",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Maka Avsyalom mengutus orang kepada Yoav untuk mengutus ⟨את⟩ dia kepada raja, tetapi ia tidak mahu datang kepadanya; lalu ia mengutus lagi, kali kedua, tetapi ia tidak mahu datang.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka mengutus"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk mengutus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Yoav)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lalu ia mengutus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kali kedua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "datang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:22.124404227Z",
+  "model": "glm-5.3"
+}

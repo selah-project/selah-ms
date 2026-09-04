@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu Yoav bin Tseruyah mengetahui bahawa hati raja itu tertuju kepada Avshalom (Absalom).",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "lalu mengetahui"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "tertuju kepada"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom (Absalom)"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:27.363069192Z",
+  "model": "glm-5.3"
+}

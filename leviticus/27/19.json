@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika sungguh-sungguh menebus ⟨ia⟩ menebus ⟨את⟩ padi yang dikuduskannya, maka ia akan menambah satu per lima wang taksiranmu ke atasnya, dan ia akan tetap baginya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "sungguh-sungguh menebus"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padi"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "yang dikuduskannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "padi (objek dikuduskan)"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "maka ia akan menambah"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "satu per lima"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "taksiranmu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "dan ia akan tetap"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:17.478003291Z",
+  "model": "glm-5.3"
+}

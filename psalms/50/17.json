@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Dan engkau membenci pengajaran, dan mencampakkan kata-kataku ke belakangmu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dan engkau"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pengajaran"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "dan mencampakkan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kata-kataku"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ke belakangmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:55.017789456Z",
+  "model": "glm-5.3"
+}

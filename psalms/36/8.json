@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Betapa berharganya hesed-Mu, Elohim, sehingga anak-anak manusia berlindung di naungan sayap-Mu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "berharganya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "di naungan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayap-Mu"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "berlindung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:35.028604768Z",
+  "model": "glm-5.3"
+}

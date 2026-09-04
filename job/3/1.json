@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Selepas itu Iyob membuka ⟨את⟩ mulutnya dan mengutuki ⟨את⟩ harinya.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Selepas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "membuka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutnya"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "dan mengutuki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harinya"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "harinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:08.277563958Z",
+  "model": "glm-5.3"
+}

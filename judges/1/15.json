@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan dia berkata kepadanya, \"Berilah aku berkat, kerana engkau telah memberi aku tanah negeri selatan; berilah juga aku mata air.\" Maka Kalev memberi kepadanya ⟨את⟩ mata air hulu dan ⟨את⟩ mata air hilir.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan dia berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "berilah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "negeri selatan"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "engkau telah memberi aku"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "berilah juga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maka memberi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata air hulu"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mata air hilir"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "hilir"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:57.919601746Z",
+  "model": "glm-5.3"
+}

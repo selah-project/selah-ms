@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Perhatikanlah orang yang tulus, dan lihatlah orang yang lurus, sebab bagi orang damai ⟨ada⟩ masa depan.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Perhatikanlah"
+    },
+    {
+      "surface": "תם",
+      "gloss": "orang yang tulus"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "orang yang lurus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "masa depan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bagi orang"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:21.536005451Z",
+  "model": "glm-5.3"
+}

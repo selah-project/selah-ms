@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Yahweh memberikan ⟨את⟩ kasih-karunia kaum itu di mata orang Mitsrayim; juga lelaki Moshe itu sangat besar di tanah Mitsrayim, di mata hamba-hamba Paroh dan di mata kaum itu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasih-karunia kaum itu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih-karunia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum itu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "dan di mata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:45.810470258Z",
+  "model": "glm-5.3"
+}

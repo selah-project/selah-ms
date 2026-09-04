@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dan sungai-sungainya berubah menjadi damar, dan debunya menjadi belerang, dan tanahnya menjadi damar yang menyala-nyala.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "dan berubah"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "sungai-sungainya"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "menjadi damar"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "dan debunya"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "menjadi belerang"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tanahnya"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "menjadi damar"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "yang menyala-nyala"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:26.239162934Z",
+  "model": "glm-5.3"
+}

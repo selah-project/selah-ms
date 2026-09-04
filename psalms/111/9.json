@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 111,
+  "translation": "Pembebasan Dia utus kepada umat-Nya; Dia perintahkan untuk selama-lamanya perjanjian-Nya; kudus dan dahsyat nama-Nya.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Pembebasan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Dia utus"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kepada umat-Nya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Dia perintahkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dan dahsyat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:38.103451310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ⟨את⟩ kedua-dua buah pinggang, dan ⟨את⟩ lemak yang ada padanya, yang ada pada pinggang, dan ⟨את⟩ tambahan pada hati — pada buah pinggang ia menyingkirkannya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua-dua buah pinggang"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tambahan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tambahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ia menyingkirkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:36.040489957Z",
+  "model": "glm-5.3"
+}

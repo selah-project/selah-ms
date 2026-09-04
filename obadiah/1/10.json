@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Kerana keganasan terhadap saudaramu Yaakov, aib akan menudung engkau, dan engkau akan dipunahkan selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "kerana keganasan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "akan menudung engkau"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "dan dipunahkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:04.084822269Z",
+  "model": "glm-5.3"
+}

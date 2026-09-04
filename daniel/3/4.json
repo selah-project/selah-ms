@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan juru seru itu menyeru dengan kuat: \"Kepada kamu diperintahkan, hai bangsa-bangsa, kaum-kaum, dan bahasa-bahasa:",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Dan juru seru itu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "menyeru"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "dengan kuat"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "hai bangsa-bangsa"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "dan bahasa-bahasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:45:08.076161561Z",
+  "model": "glm-5.3"
+}

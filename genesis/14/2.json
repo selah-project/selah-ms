@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "mereka berperang terhadap ⟨את⟩ Bera raja Sedom dan ⟨את⟩ Birsya raja Amorah, Syinab raja Admah, dan Syemever raja Tseboim, dan raja Bela — ia ialah Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "mereka berperang"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨perang⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera raja Sedom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Birsya raja Amorah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Syinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "dan Syemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:41.523048276Z",
+  "model": "glm-5.3"
+}

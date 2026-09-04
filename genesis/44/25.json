@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Dan bapa kami berkata, \"Kembalilah, belilah bagi kami sedikit makanan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapa kami"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:08.824899868Z",
+  "model": "glm-5.3"
+}

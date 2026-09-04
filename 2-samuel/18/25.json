@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu penjaga itu berseru dan memberitahu raja, dan raja berkata: \"Jika dia sendirian, ada berita baik di mulutnya.\" Dan orang itu terus berjalan mendekat.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "penjaga itu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "memberitahu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "berita baik"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "di mulutnya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "terus"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "mendekat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:33.161878195Z",
+  "model": "glm-5.3"
+}

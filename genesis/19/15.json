@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan apabila fajar sudah naik, malaikat-malaikat itu mendesak Lot, katanya: Bangun, ambillah ⟨את⟩ isterimu dan ⟨את⟩ dua anak perempuanmu yang ada di sini, supaya engkau tidak binasa dalam kesalahan bandar itu.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sudah naik"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "maka mendesak"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "malaikat-malaikat"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Bangun"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isterimu"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "isterimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dua anak perempuanmu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "anak perempuanmu"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "yang ada di sini"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "engkau binasa"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "dalam kesalahan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:09.826728648Z",
+  "model": "glm-5.3"
+}

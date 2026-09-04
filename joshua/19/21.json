@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "dan Remet, dan En-Ganim, dan En-Hadah, dan Bet-Patsets.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "dan Remet"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "dan En-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganim"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "dan En-"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Hadah"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan Bet-"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Patsets"
+    }
+  ],
+  "timestamp": "2026-09-04T12:02:42.806569409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Mereka menghadang aku pada hari bencanaku, tetapi Yahweh menjadi sandaran bagiku.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "Mereka menghadang aku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "bencanaku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "sebagai sandaran"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.548127830Z",
+  "model": "glm-5.3"
+}

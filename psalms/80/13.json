@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Mengapakah engkau meruntuhkan pagar-pagarnya, sehingga semua yang lalu di jalan mencabut dia?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "engkau meruntuhkan"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "pagar-pagarnya"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "dan mencabut dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "yang lalu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:41.960992911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan inilah keturunan Esav (iaitu Edom): dialah Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan ini"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:10.173429907Z",
+  "model": "glm-5.3"
+}

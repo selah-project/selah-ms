@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Jawapan yang lembut memalingkan kepanasan, tetapi perkataan yang menyakitkan menaikkan hidung ⟨hingga marah⟩.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "jawapan"
+    },
+    {
+      "surface": "רך",
+      "gloss": "yang lembut"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "memalingkan"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "tetapi perkataan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "yang menyakitkan"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung ⟨hingga marah⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:11.046840489Z",
+  "model": "glm-5.3"
+}

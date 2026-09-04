@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Orang yang merancang untuk berbuat jahat — kepadanya orang akan memanggil tuan rancangan jahat.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "merancang"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "untuk berbuat jahat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "rancangan jahat"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "akan memanggil"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:48.370486757Z",
+  "model": "glm-5.3"
+}

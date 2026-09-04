@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lebih baik hidangan sayur-sayuran dan kasih sayang di sana daripada lembu yang digemukkan dan kebencian bersamanya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "hidangan"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "sayur-sayuran"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "dan kasih sayang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "משור",
+      "gloss": "lembu gemuk"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "yang digemukkan"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "dan kebencian"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:07.205359955Z",
+  "model": "glm-5.3"
+}

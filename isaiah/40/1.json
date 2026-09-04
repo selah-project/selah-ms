@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Hiburkanlah, hiburkanlah umat-Ku, berkata Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Hiburkanlah"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "hiburkanlah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:51.111451053Z",
+  "model": "glm-5.3"
+}

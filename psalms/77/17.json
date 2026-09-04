@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Melihat Engkau air, wahai Elohim; melihat Engkau air — mereka terguncang; ya, kedalaman-kedalaman pun bergoncang.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "melihat Engkau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "melihat Engkau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "mereka terguncang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bergoncang"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "kedalaman-kedalaman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:59.453358625Z",
+  "model": "glm-5.3"
+}

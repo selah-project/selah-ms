@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Engkau melemparkan aku ke tempat sedalam-dalam, ke tengah-tengah laut, dan arus mengelilingi aku; segala ombak pecahmu dan gelombangmu atasku berlalulah.",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "Engkau melemparkan aku"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ke tempat sedalam-dalam"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "ke tengah-tengah"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "dan arus"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "mengelilingi aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombak pecahmu"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "dan gelombangmu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "berlalulah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:35.599281837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Tetapi Paraoh membebani ⟨את⟩ hatinya juga pada kali ini, dan ia tidak membenarkan ⟨את⟩ umat itu pergi.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "Tetapi membebani"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatinya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "pada kali"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "membenarkan pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:18.033515761Z",
+  "model": "glm-5.3"
+}

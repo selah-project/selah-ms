@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Untuk selama-lamanya, wahai Yahweh, firman-Mu berdiri tegak di langit.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Untuk selama-lamanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:32.272240317Z",
+  "model": "glm-5.3"
+}

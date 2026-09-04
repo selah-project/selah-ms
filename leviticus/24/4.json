@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Atas kandil ⟨yang⟩ tuli itu ia akan menyusun ⟨את⟩ segala lampu, di hadapan Yahweh, sentiasa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandil"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ia akan menyusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala lampu"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "segala lampu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:04.667537346Z",
+  "model": "glm-5.3"
+}

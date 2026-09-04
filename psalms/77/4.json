@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Aku mengingat Elohim dan aku mengeluh; aku merenung, dan tumpul rohku. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Aku mengingat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "dan aku mengeluh"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku merenung"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "dan tumpul"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:13.648782768Z",
+  "model": "glm-5.3"
+}

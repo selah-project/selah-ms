@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan robohkanlah kamu ⟨את⟩ mezbah mereka, dan hancurkanlah kamu ⟨את⟩ tiang-tiang berhala mereka, dan Ashera mereka bakarlah kamu dengan api, dan patung-patung tuhan mereka tebanglah kamu, dan hapuskanlah kamu ⟨את⟩ nama mereka dari tempat itu.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "dan robohkanlah kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah mereka"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mezbah mereka"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "dan hancurkanlah kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang berhala mereka"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tiang-tiang berhala mereka"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "dan Ashera mereka"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "bakarlah kamu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "dan patung-patung"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "tuhan mereka"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "tebanglah kamu"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "dan hapuskanlah kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama mereka"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nama mereka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:41.645352564Z",
+  "model": "glm-5.3"
+}

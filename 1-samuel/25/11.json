@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan patutkah aku mengambil ⟨את⟩ rotiku dan ⟨את⟩ airku serta ⟨את⟩ sembelihanku yang aku sembelih untuk penuai-penuai kambing dombaku, lalu memberikannya kepada orang yang aku tidak kenal dari mana asal mereka?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rotiku"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "rotiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "airku"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "airku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sembelihanku"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "sembelihanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "aku sembelih"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "untuk penuai-penuai kambing dombaku"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "memberikannya"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku kenal"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dari mana"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "asal"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:33.433402776Z",
+  "model": "glm-5.3"
+}

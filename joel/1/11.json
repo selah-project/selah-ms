@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Mendiamlah, hai petani-petani; merataplah, hai penjaga kebun anggur, atas gandum dan atas barli, sebab binasa tuaian padang.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "mendiamlah"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "petani-petani"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "merataplah"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "penjaga kebun anggur"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "barli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "tuaian"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:52.356092989Z",
+  "model": "glm-5.3"
+}

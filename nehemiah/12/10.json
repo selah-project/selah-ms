@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan Yesyua memperanakkan ⟨את⟩ Yoyakim, dan Yoyakim memperanakkan ⟨את⟩ Elyasyib, dan Elyasyib ⟨memperanakkan⟩ ⟨את⟩ Yoyada",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "dan Yesyua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "dan Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyasyib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyasyib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "dan Elyasyib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-04T14:55:19.624617589Z",
+  "model": "glm-5.3"
+}

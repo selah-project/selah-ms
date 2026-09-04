@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Diberkati bakulmu dan tempat adonanmu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Diberkati"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "bakulmu"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "dan tempat adonanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:58.134246706Z",
+  "model": "glm-5.3"
+}

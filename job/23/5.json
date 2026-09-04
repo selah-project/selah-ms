@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Aku akan mengetahui perkataan yang akan dijawabnya kepadaku, dan aku akan memahami apa yang akan dikatakannya kepadaku.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "aku akan mengetahui"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "dia akan menjawab aku"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "dan aku akan memahami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dia akan berkata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:20.533586626Z",
+  "model": "glm-5.3"
+}

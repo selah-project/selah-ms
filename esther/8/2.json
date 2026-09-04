@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu raja menanggalkan ceterinya yang telah dipindahkan daripada Haman, dan memberikannya kepada Mordekhai; dan Ester menetapkan ⟨את⟩ Mordekhai ke atas rumah Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Lalu menanggalkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceterinya"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ceterinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "telah dipindahkan"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "daripada Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kepada Mordekhai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "dan menetapkan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:27.943008116Z",
+  "model": "glm-5.3"
+}

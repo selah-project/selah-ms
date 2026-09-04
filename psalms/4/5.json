@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Goncanglah dan jangan berdosa; katakanlah dalam hatimu di atas petmu, dan senyaplah. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Goncanglah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "dalam hatimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "petmu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "dan senyaplah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:56.651625907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 21:13",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan ia akan menanggalkan ⟨את⟩ pakaian penawannya dari atasnya, dan ia akan duduk di rumahmu, dan menangisi ⟨את⟩ ayahnya dan ⟨את⟩ ibunya bulan hari lamanya; dan sesudah itu engkau datang kepadanya dan menikahinya, dan ia akan menjadi bagimu sebagai isteri.",
+  "tokens": [
+    {
+      "surface": "והסירה",
+      "gloss": "dan ia akan menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian penawannya"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "penawanan"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "dari atasnya"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "dan ia akan duduk"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "di rumahmu"
+    },
+    {
+      "surface": "ובכתה",
+      "gloss": "dan menangisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayahnya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari(-hari)"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "engkau datang"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ובעלתה",
+      "gloss": "dan menikahinya"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "sebagai isteri"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:34.139018799Z",
+  "model": "glm-5.3"
+}

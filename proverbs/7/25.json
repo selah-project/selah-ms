@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Jangan biarkan hatimu condong kepada jalannya, jangan sesat di lorong-lorongnya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "condong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "sesat"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "di lorong-lorongnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:01.013649808Z",
+  "model": "glm-5.3"
+}

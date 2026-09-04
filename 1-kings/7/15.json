@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu ia membentuk ⟨את⟩ kedua tiang tembaga itu: delapan belas hasta tingginya tiang yang satu, dan tali dua belas hasta mengelilingi ⟨את⟩ tiang yang kedua.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "lalu membentuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedua tiang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "delapan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "dan tali"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang yang kedua"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:35.349343843Z",
+  "model": "glm-5.3"
+}

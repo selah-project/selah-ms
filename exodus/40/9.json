@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau akan mengambil ⟨את⟩ minyak urapan, dan mengurap ⟨את⟩ Mishkan itu dan ⟨את⟩ segala yang ada di dalamnya; dan engkau akan menguduskan ⟨את⟩ dia dan ⟨את⟩ segala kelengkapannya, dan ia akan menjadi kudus.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak urapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "dan mengurap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan itu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada di dalamnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ada di dalamnya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dan engkau akan menguduskan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "Mishkan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kelengkapannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kelengkapannya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:57.535396992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Aharon membentangkan ⟨את⟩ tangannya ke atas air Mitsrayim, maka naiklah katak-katak dan menutupi ⟨את⟩ bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Lalu membentangkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "air"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "maka naiklah"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "katak-katak"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:45.671219908Z",
+  "model": "glm-5.3"
+}

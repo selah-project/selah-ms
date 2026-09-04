@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Apakah aku menganggap suci dengan timbangan kefasikan, dan dengan poket batu-batu penipuan?",
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "apakah aku menganggap suci"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "dengan timbangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kefasikan"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "dan dengan poket"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipuan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:48.547165631Z",
+  "model": "glm-5.3"
+}

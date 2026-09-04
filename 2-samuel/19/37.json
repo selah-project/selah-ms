@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Sedikit sahaja hamba tuan akan menyeberangi ⟨את⟩ Yarden bersama ⟨את⟩ raja, dan mengapakah raja akan membalasku dengan balasan yang sebegini?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sedikit sahaja"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "akan menyeberangi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba tuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapakah"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "akan membalasku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "dengan balasan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "yang sebegini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:45.521583326Z",
+  "model": "glm-5.3"
+}

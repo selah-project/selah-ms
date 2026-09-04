@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Mintalah keselamatan bagi Yerusalayim; sentusalahan pengasih-pengasihmu.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Mintalah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "sentusalahan"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "pengasih-pengasihmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:08.953054038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu menghampirilah orang Palisyt itu pagi dan petang, dan ia berdiri tegak empat puluh hari.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "menghampirilah"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Palisyt itu"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "dan petang"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "berdiri tegak"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:23.135300670Z",
+  "model": "glm-5.3"
+}

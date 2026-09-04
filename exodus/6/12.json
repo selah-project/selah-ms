@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Tetapi Mosheh berbicara di hadapan Yahweh, katanya: \"Sesungguhnya bani Israel tidak mendengar aku, maka bagaimanakah Paroh akan mendengar aku, sedang aku ini bersisih bibir?\"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "maka bagaimanakah"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "akan mendengar aku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sedang aku"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "bersisih"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:24.132535309Z",
+  "model": "glm-5.3"
+}

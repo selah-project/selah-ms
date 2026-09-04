@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan ⟨akan jadilah⟩, apabila kamu menghampiri pertempuran, maka imam itu menghampiri dan bercakap kepada ⟨umur⟩ bangsa itu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan ⟨akan jadilah⟩"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "apabila kamu menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "pertempuran itu"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "maka menghampiri"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "dan bercakap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:56.273842983Z",
+  "model": "glm-5.3"
+}

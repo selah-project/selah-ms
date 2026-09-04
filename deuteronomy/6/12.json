@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "awaslah bagimu, jangan engkau lupa ⟨את⟩ Yahweh yang membawa engkau keluar dari bumi Mitsrayim, dari rumah perhambaan.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "awaslah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "engkau lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "membawa engkau keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perhambaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:27.991203122Z",
+  "model": "glm-5.3"
+}

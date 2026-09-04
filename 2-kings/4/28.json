@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu katanya: Adakah aku meminta anak daripada tuanku? Bukankah aku berkata: Jangan menipu aku?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "adakah aku meminta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daripada ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "menipu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:04.319107144Z",
+  "model": "glm-5.3"
+}

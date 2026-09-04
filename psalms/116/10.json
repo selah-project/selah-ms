@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Aku percaya, sebab aku bercakap — aku, aku sangat tertindas.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "aku bercakap"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "aku tertindas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:22.877997300Z",
+  "model": "glm-5.3"
+}

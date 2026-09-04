@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Lalu bangkitlah Yehoram atas kerajaan ayahnya, dan dikuatkannya dirinya, dan dibunuhnya ⟨את⟩ semua saudara-saudaranya dengan pedang, dan juga sebahagian pembesar-pembesar Israel.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangkitlah"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "dan dikuatkannya dirinya"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "dan dibunuhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua saudara-saudaranya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T15:10:42.123950071Z",
+  "model": "glm-5.3"
+}

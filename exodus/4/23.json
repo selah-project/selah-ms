@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Aku berkata kepadamu: Benarkanlah ⟨את⟩ anak-Ku pergi supaya dia beribadah kepada-Ku — tetapi engkau enggan membenarkannya pergi; lihatlah, Aku akan membunuh ⟨את⟩ anakmu, anak sulungmu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan Aku berkata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Benarkanlah pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-Ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-Ku"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "supaya dia beribadah kepada-Ku"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "tetapi engkau enggan"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "membenarkannya pergi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "akan membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "anak sulungmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:44.509843810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu mereka mengambil ⟨את⟩ Lot dan ⟨את⟩ hartanya, anak saudara Avram, lalu berjalan pergi; dan dia duduk di Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hartanya"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "hartanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu berjalan pergi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "di Sedom"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:11.742911338Z",
+  "model": "glm-5.3"
+}

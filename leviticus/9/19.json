@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ⟨את⟩ lemak-lemak itu daripada lembu itu dan daripada biri-biri jantan itu — ekor berlemak, dan penutup perut, dan buah pinggang, dan cuping hati —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak-lemak itu"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "lemak-lemak itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "השור",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan daripada"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "biri-biri jantan itu"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ekor berlemak"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "dan penutup perut"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "dan buah pinggang"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "dan cuping"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:46.239949321Z",
+  "model": "glm-5.3"
+}

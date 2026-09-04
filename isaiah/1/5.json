@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Atas apa kamu dipukul lagi? Kamu menambah murtad lagi: seluruh kepala ⟨adalah⟩ penyakit, dan seluruh hati ⟨adalah⟩ kesakitan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "kamu dipukul"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "kamu menambah"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "murtad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "kesakitan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:23.261970544Z",
+  "model": "glm-5.3"
+}

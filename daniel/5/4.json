@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Minumlah mereka arak, dan memuji tuhan-tuhan emas dan perak, tembaga, besi, kayu dan batu.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "minumlah mereka"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "arak"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "dan memuji"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "besi"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "dan batu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:45:38.297127182Z",
+  "model": "glm-5.3"
+}

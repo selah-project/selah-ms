@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lihatlah, Yahweh, kerana sesak bagiku; isi perutku bergolak, hatiku terbalik di dalam diriku, kerana kepahitan aku telah menderhaka; di luar pedang merampas anak, di rumah seperti maut.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sesak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "isi perutku"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "bergolak"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "terbalik"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "kepahitan"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "aku telah menderhaka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "merampas anak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "seperti maut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:16.334882211Z",
+  "model": "glm-5.3"
+}

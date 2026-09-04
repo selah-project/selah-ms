@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan Dia menyelamatkan mereka dari tangan pembenci mereka, dan menebus mereka dari tangan musuh.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Dan Dia menyelamatkan mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "pembenci mereka"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "dan menebus mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:58.556120909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Wakeuplah, mengapakah Engkau tidur, Adonai? Bangunlah, jangan usir kami buat selama-lamanya!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Wakeuplah"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "Engkau tidur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "usir"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "buat selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:16.205518332Z",
+  "model": "glm-5.3"
+}

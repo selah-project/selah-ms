@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Andaikan umat-Ku mendengar Aku, Yisrael berjalan di dalam jalan-jalan-Ku!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Andaikan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "di dalam jalan-jalan-Ku"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:46.806465322Z",
+  "model": "glm-5.3"
+}

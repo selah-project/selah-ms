@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Aku benci kepada mereka yang mematuhi kesia-siaan yang berdusta, tetapi aku berserah kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Aku benci"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "kepada mereka yang mematuhi"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yang berdusta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku berserah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:31.326658872Z",
+  "model": "glm-5.3"
+}

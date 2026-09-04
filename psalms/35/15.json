@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Tetapi ketika aku tersandung, mereka bersukacita dan berkumpul; pemukut-pemukut berkumpul terhadapku tanpa pengetahuanku; mereka mencabik dan tidak berhenti.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ketika aku tersandung"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "mereka bersukacita"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "dan berkumpul"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "berkumpul"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "pemukut-pemukut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "pengetahuanku"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "mereka mencabik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "berhenti"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:20.211419696Z",
+  "model": "glm-5.3"
+}

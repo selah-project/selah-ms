@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Ini kami lakukan kepada mereka: biarkan mereka hidup, supaya tidak ada atas kita kepanasan (kemurkaan) disebabkan sumpah yang telah kami ikrarkan kepada mereka.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kami lakukan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "biarkan hidup"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kita"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kepanasan (kemurkaan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "disebabkan"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "telah kami ikrarkan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:59:42.971871731Z",
+  "model": "glm-5.3"
+}

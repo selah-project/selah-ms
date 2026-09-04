@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Akulah ⟨lelaki⟩ itu yang melihat kesengsaraan, di bawah tongkat kemarahannya.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kesengsaraan"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "di bawah tongkat"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "kemarahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:52.570475535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Aku hendak memuji ⟨את⟩ Yahweh pada setiap masa; sentiasa pujian-Nya di dalam mulutku.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Aku hendak memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada setiap"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "di dalam mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.498868725Z",
+  "model": "glm-5.3"
+}

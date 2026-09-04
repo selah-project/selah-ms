@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Syelomo mengusir ⟨את⟩ Ebyatar daripada menjadi imam bagi Yahweh, untuk menggenapi ⟨את⟩ firman Yahweh yang diucapkan terhadap rumah Eli di Syilo.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Lalu … mengusir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebyatar"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "daripada menjadi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "untuk menggenapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diucapkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "di Syilo"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:03.518229508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu Elohim memberkati ⟨את⟩ Noh dan ⟨את⟩ anak-anaknya, dan berfirman kepada mereka: \"Beranak-cucu dan bertambah-tambah, dan penuhilah ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Lalu ... memberkati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Beranak-cucu"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambah-tambah"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:06.399210869Z",
+  "model": "glm-5.3"
+}

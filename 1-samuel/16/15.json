@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan hamba-hamba Shaul berkata kepadanya, \"Sila lihat, ruh jahat daripada Elohim sedang menakutkan tuanku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sila lihat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sila"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "sedang menakutkan tuanku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:58.273095213Z",
+  "model": "glm-5.3"
+}

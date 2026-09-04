@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Maka berlakulah, apabila habis mereka memakan ⟨את⟩ bekalan bijirin yang dibawa mereka dari Mitsrayim, berkatalah ayah mereka kepada mereka: \"Kembalilah, belilah bagi kita sedikit makanan.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bekalan bijirin"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "bekalan bijirin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dibawa mereka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:39.133030288Z",
+  "model": "glm-5.3"
+}

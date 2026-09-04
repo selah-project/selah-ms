@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Bergemilah bergemar bapa orang benar; melahirkan orang bijaksana, dan ia bersukacita kerana ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "bergemilah"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "bergemar"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijaksana"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "dan ia bersukacita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kerana ⟨dia⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:31.934392703Z",
+  "model": "glm-5.3"
+}

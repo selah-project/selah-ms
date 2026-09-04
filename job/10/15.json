@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Jika aku berbuat jahat, celakalah aku; dan jika aku benar, aku tidak akan mengangkat kepalaku — tepung dengan aib, dan lihatlah sengsaraku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "aku berbuat jahat"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "celakalah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "dan jika aku benar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepalaku"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tepu"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "dengan aib"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sengsaraku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:47.543713051Z",
+  "model": "glm-5.3"
+}

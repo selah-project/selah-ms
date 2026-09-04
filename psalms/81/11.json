@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Akulah Yahweh Elohim-mu, ⟨yang⟩ menaikkan engkau dari tanah Mitsrayim (Mesir); lebarkan mulutmu dan aku akan mengisinya.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "⟨yang⟩ menaikkan engkau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Mesir)"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "lebarkan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "dan aku akan mengisinya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:46.641956663Z",
+  "model": "glm-5.3"
+}

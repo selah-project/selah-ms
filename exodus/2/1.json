@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan pergilah seorang lelaki dari keluarga Levi, dan diambilnya ⟨את⟩ seorang anak perempuan Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari keluarga"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "diambilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak perempuan Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:19.506329109Z",
+  "model": "glm-5.3"
+}

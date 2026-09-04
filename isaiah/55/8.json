@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Sebab bukan fikiran-Ku ⟨adalah⟩ fikiran kamu, dan bukan jalan kamu ⟨adalah⟩ jalan-Ku, titah Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "fikiran-Ku"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "fikiran kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jalan kamu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-Ku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "titah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:25.540092483Z",
+  "model": "glm-5.3"
+}

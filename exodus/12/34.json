@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan bangsa itu mengangkat ⟨את⟩ adunannya sebelum ia beragi, bakul-bakul adunan mereka terbungkus dalam pakaian mereka di atas bahu mereka.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adunannya"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "adunannya"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ia beragi"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "bakul-bakul adunan mereka"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "terbungkus"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "dalam pakaian mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "bahu mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:40.616119033Z",
+  "model": "glm-5.3"
+}

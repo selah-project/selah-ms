@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Jangan iri hati kepada orang-orang jahat, dan jangan mengingini untuk berada ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "kepada orang-orang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "untuk berada"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:57.874732290Z",
+  "model": "glm-5.3"
+}

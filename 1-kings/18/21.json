@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 18:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu Eliyahu menghampiri segala umat itu, lalu berkata, \"Sampai bilakah kamu melompat-lompat di atas dua dahan itu? Jika Yahweh ialah ⟨את⟩ El yang benar, ikutilah Dia; tetapi jika Baal, ikutilah dia.\" Tetapi umat itu tidak menjawabnya ⟨את⟩ sepatah pun.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Lalu menghampiri"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bilakah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "פסחים",
+      "gloss": "melompat-lompat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הסעפים",
+      "gloss": "dahan itu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨adalah⟩ El yang benar"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ikutilah"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ikutilah"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sepatah pun (dabar)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sepatah pun"
+    }
+  ],
+  "timestamp": "2026-09-04T15:52:49.835419913Z",
+  "model": "glm-5.3"
+}

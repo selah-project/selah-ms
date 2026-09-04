@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Menyediakan meja, memasang siaran di tempat siaran, makan, minum — bangkitlah, hai para pembesar, urapilah perisai!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "menyediakan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "memasang siaran"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "di tempat siaran"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makan"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "minum"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "hai para pembesar"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "urapilah"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "perisai"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:16.901507994Z",
+  "model": "glm-5.3"
+}

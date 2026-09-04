@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Berongga daripada papan engkau membuatnya ⟨את⟩; seperti yang diperlihatkan kepadamu ⟨את⟩ di atas gunung itu, demikianlah mereka membuatnya.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "berongga"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "daripada papan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau membuat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah itu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "diperlihatkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kepadamu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di atas gunung itu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "mereka membuatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:47.996348361Z",
+  "model": "glm-5.3"
+}

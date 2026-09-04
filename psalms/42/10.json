@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Aku akan berkata kepada El, gunung batu aku: mengapa Engkau lupa akan aku? mengapa aku berjalan murung dalam penindasan musuh?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "aku akan berkata"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "gunung batu aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "Engkau lupa akan aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "murung"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "dalam penindasan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:39.707869950Z",
+  "model": "glm-5.3"
+}

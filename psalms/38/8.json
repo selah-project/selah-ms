@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Sebab pinggangku penuh ⟨dengan⟩ radang, dan tiada kesejahteraan dalam dagingku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "pinggangku"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "radang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kesejahteraan"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dalam dagingku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:23.344208596Z",
+  "model": "glm-5.3"
+}

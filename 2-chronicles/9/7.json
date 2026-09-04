@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "\"Berbahagialah orang-orangmu, dan berbahagialah hamba-hambamu ini, yang berdiri di hadapanmu sentiasa dan mendengar hikmahmu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "orang-orangmu"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "dan berbahagialah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "yang berdiri"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmahmu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikmahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:50.244247954Z",
+  "model": "glm-5.3"
+}

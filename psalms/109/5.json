@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Dan mereka menaruh kejahatan ke atasku ganti kebaikan, dan kebencian ganti kasihku.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "dan mereka menaruh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "dan kebencian"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kasihku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:45.514507224Z",
+  "model": "glm-5.3"
+}

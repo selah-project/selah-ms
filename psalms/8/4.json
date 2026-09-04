@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Ketika aku melihat langit-Mu, hasil kerja jari-jari-Mu — bulan dan bintang-bintang yang Kaubina —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ketika"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit-Mu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "hasil kerja"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "jari-jari-Mu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "dan bintang-bintang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Kaubina"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:21.957916128Z",
+  "model": "glm-5.3"
+}

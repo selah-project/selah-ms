@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Sebab enam hari Yahweh membuat ⟨את⟩ langit dan ⟨את⟩ bumi, ⟨את⟩ laut dan ⟨את⟩ segala yang ada di dalamnya, lalu berhenti pada hari yang ketujuh; itulah sebabnya Yahweh memberkati ⟨את⟩ hari Sabat dan menguduskannya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada di dalamnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ada di dalamnya"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "lalu berhenti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yang ketujuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itulah sebabnya"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari Sabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "dan menguduskannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:33.924733456Z",
+  "model": "glm-5.3"
+}

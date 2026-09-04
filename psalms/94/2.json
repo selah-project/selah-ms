@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Bangkitlah ⟨engkau⟩, hakim bumi; balikkan balasan ke atas orang-orang yang congkak.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "bangkitlah"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "balikkan"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "balasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "orang-orang yang congkak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:07.615309935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Semua yang lalu di jalan telah merampasnya; ia telah menjadi cela bagi jiran-jirannya.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "telah merampasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "yang lalu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "bagi jiran-jirannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:33.886258096Z",
+  "model": "glm-5.3"
+}

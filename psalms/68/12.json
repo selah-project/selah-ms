@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Adonai memberi firman; para pembawa berita itu pasukan yang besar.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "para pembawa berita"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:35.940025039Z",
+  "model": "glm-5.3"
+}

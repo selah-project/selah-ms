@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu ia mengambil ⟨את⟩ anak lembu yang telah mereka buat, dan membakarnya dalam api, dan mengisarnya sehingga halus, lalu menaburkannya ke atas permukaan air, dan memberi anak-anak lelaki Yisrael minum ⟨את⟩nya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka buat"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "dan membakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "dan mengisar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "דק",
+      "gloss": "halus"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "lalu menaburkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "permukaan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dan memberi minum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak lelaki Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:46.662026508Z",
+  "model": "glm-5.3"
+}

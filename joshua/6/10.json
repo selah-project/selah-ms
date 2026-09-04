@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ umat itu disuruh oleh Yehosua, katanya: Jangan kamu bertemaram, dan jangan kamu kedengaran ⟨את⟩ suaramu, dan jangan keluar dari mulutmu satu perkataan pun, sampai hari aku berkata kepada kamu: Bertemaram! — maka kamu bertemaram.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "disuruh"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "kamu bertemaram"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "kamu kedengaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaramu"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "dari mulutmu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "satu perkataan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bertemaram!"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "maka kamu bertemaram"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:26.487601880Z",
+  "model": "glm-5.3"
+}

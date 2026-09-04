@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Maka bilangan yang didaftarkan mereka, mengikut keluarga mereka, tiga ribu dua ratus.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Maka jadilah"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "bilangan yang didaftarkan mereka"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mengikut keluarga mereka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dua ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:31.440307680Z",
+  "model": "glm-5.3"
+}

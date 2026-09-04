@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Tengah malam aku bangun untuk bersyukur kepada-Mu atas hukum-hukum keadilan-Mu.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "tengah"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "aku bangun"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "untuk bersyukur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "keadilan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:42.006114209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Pujian bagi Dawid (David). Aku akan meninggikan Engkau, Elohai (Elohim aku), sang raja, dan aku akan memberkatih nama-Mu untuk selama-lamanya dan seterusnya.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Pujian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Aku akan meninggikan Engkau"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "dan aku akan memberkatih"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan seterusnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:38.920027843Z",
+  "model": "glm-5.3"
+}

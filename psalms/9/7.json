@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Musuh telah tamat, kawasan-kawasan musnah untuk selama-lamanya; dan bandar-bandar telah Engkau robohkan — telah binasa kenangan mereka bersama mereka.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "telah tamat"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "kawasan-kawasan musnah"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "dan bandar-bandar"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "Engkau telah robohkan"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "telah binasa"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "kenangan mereka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:04.754536491Z",
+  "model": "glm-5.3"
+}

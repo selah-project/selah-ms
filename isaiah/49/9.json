@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "dengan berkata kepada orang-orang yang terikat: Keluarlah!, dan kepada mereka yang dalam kegelapan: Tonjolkan dirimu! Mereka akan meragut ⟨di⟩ jalan-jalan, dan di segala bukit tandas gembalaan mereka.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "kepada orang-orang yang terikat"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Keluarlah!"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kepada mereka yang"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Tonjolkan dirimu!"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di⟩"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "mereka akan meragut"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan di segala"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "bukit tandas"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "gembalaan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:47.461087795Z",
+  "model": "glm-5.3"
+}

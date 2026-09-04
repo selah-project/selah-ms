@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Jangan engkau menindas seorang upahan yang miskin dan miskin-langsung, dari sesamamu atau dari pendatangmu yang di bumiimu, di pintu-pintu gerbangmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "engkau menindas"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "seorang upahan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan miskin-langsung"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "dari sesamamu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "dari pendatangmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "di bumiimu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "di pintu-pintu gerbangmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:16.098224780Z",
+  "model": "glm-5.3"
+}

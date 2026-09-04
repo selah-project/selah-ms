@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "dan ⟨את⟩ Hasabya, dan dengannya ⟨את⟩ Yisyah, daripada bani Merari, saudara-saudaranya dan anak-anak mereka, dua puluh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hasabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hasabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "dan ⟨את⟩ dengannya",
+      "marks": "Yisyah"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yisyah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "daripada bani"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "dan anak-anak mereka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:52:17.363128924Z",
+  "model": "glm-5.3"
+}

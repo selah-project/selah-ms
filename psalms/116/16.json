@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Ah, Yahweh, sebab aku hamba-Mu; aku hamba-Mu, anak hamba perempuan-Mu — Engkau telah membuka belenggu-ku.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hamba perempuan-Mu"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "Engkau telah membuka"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "belenggu-ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:43.601855102Z",
+  "model": "glm-5.3"
+}

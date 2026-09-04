@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Tidakkah keagungan-Nya menakutkan ⟨את⟩ kamu, dan kedahsyatan-Nya jatuh ke atas kamu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tidakkah"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "keagungan-Nya"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "menakutkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "dan kedahsyatan-Nya"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "jatuh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ke atas kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:32.932669199Z",
+  "model": "glm-5.3"
+}

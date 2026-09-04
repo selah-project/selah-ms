@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Tidak dibenarkan-Nya seorang manusia pun menindas mereka, dan untuk mereka dihukum-Nya raja-raja.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dibebaskan\/dibiarkan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "menindas mereka"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "dan dihukum"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:02.716257433Z",
+  "model": "glm-5.3"
+}

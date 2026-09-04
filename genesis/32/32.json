@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Matahari terbit baginya ketika dia telah melintasi ⟨את⟩ Penuel, dan ⟨dia⟩ tempang di atas pinggulnya.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "terbit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dia melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "tempang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "pinggulnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:09.549746028Z",
+  "model": "glm-5.3"
+}

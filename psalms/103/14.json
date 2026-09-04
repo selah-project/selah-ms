@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Sebab Dialah yang mengetahui bentuk kita; Ia ingat bahawa kita ⟨adalah⟩ debu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah yang"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "bentuk kita"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Ia ingat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.162832633Z",
+  "model": "glm-5.3"
+}

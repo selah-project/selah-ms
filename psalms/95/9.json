@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "di mana bapa-bapa kamu menguji Aku, menguji Aku, malah mereka telah melihat karya-Ku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "menguji Aku"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "menguji Aku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mereka telah melihat"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "karya-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.829038769Z",
+  "model": "glm-5.3"
+}

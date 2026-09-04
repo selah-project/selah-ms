@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "dan tukang mantera, dan yang bertanya kepada arwah penunggu, dan kepada roh pengetahuan, dan yang meminta kepada orang-orang mati.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "dan tukang mantera"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "mantera"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "dan yang bertanya"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "kepada arwah penunggu"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "dan kepada roh pengetahuan"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "dan yang meminta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "orang-orang mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:25.274038923Z",
+  "model": "glm-5.3"
+}

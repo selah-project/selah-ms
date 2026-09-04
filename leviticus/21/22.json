@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Makanan Elohim-nya, dari ⟨benda⟩ maha kudus dan dari ⟨benda⟩ kudus, boleh dia makan.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "dari maha kudus"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨benda⟩ kudus"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨benda⟩ kudus"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh dia makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:36.204858232Z",
+  "model": "glm-5.3"
+}

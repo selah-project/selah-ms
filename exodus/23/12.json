@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Enam hari engkau melakukan pekerjaanmu, tetapi pada hari ketujuh engkau berhenti, supaya lembumu dan keldaimu berehat, dan anak perempuan hambamu serta orang asing itu segar kembali.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau melakukan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "pekerjaanmu"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tetapi pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh itu"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "engkau berhenti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "berehat"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "lembumu"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "dan keldaimu"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "dan segar kembali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "perempuan hambamu"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "dan orang asing itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:27.438291906Z",
+  "model": "glm-5.3"
+}

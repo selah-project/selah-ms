@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bukankah daripada muluti Elyon keluar perkara jahat dan ⟨juga⟩ perkara baik?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "daripada muluti"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "perkara jahat"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "dan perkara baik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:47.524254602Z",
+  "model": "glm-5.3"
+}

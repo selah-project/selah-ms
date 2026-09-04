@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu masuk, makan dan minum, kemudian berkata: Periksalah ⟨את⟩ perempuan terkutuk ini, dan kuburkanlah dia, sebab anak perempuan raja ialah dia.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu masuk"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "minum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "Periksalah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sekali ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan terkutuk ini"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "perempuan terkutuk"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "dan kuburkanlah dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ialah dia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:49.188107532Z",
+  "model": "glm-5.3"
+}

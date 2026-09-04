@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Naarah melahirkan kepadanya ⟨את⟩ Ahuzam, dan ⟨את⟩ Hefer, dan ⟨את⟩ Temeni, dan ⟨את⟩ Haahsytari. Inilah anak-anak Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Haahsytari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahsytari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:30.551619039Z",
+  "model": "glm-5.3"
+}

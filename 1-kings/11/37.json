@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan engkau akan kuambil ⟨את⟩, dan engkau akan memerintah atas segala yang diingini nefesyk, dan engkau akan menjadi raja atas Israel.",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau (objek אקח)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "akan kuambil"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "dan engkau akan memerintah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "atas segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "diingini"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesyk"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "dan engkau akan menjadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:10.336921768Z",
+  "model": "glm-5.3"
+}

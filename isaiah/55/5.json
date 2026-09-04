@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Lihat, bangsa yang tidak kaukenal akan kau panggil, dan bangsa yang tidak mengenalmu akan berlari kepadamu, demi Yahweh Elohimmu dan demi Yang Kudus ⟨dari⟩ Israel, sebab Ia memperindah kamu.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "kaukenal"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kau panggil"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "dan bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "mengenalmu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "akan berlari"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "dan demi Yang Kudus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "memperindahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:25.539522113Z",
+  "model": "glm-5.3"
+}

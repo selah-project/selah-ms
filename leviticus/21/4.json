@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Tidak boleh menajiskan diri sebagai seorang berkuasa di tengah umatnya, untuk menghina dirinya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menajiskan diri"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sebagai seorang berkuasa"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "di tengah umatnya"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "untuk menghina dirinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:45.738709646Z",
+  "model": "glm-5.3"
+}

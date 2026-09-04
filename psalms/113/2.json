@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 113,
+  "translation": "Berkatlah nama Yahweh, dari sekarang ⟨sampai⟩ selamanya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Berkatlah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "diberkati"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dari sekarang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨sampai⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:22.416471467Z",
+  "model": "glm-5.3"
+}

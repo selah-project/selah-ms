@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu Barak memanggil ⟨את⟩ Zebulun dan ⟨את⟩ Naftali ke Kedesh, dan ia naik dengan sepuluh ribu orang pada kakinya, dan Debora naik bersamanya.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "lalu memanggil"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "ke Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan ia naik"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "pada kakinya"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dan naik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-09-04T12:06:07.673606907Z",
+  "model": "glm-5.3"
+}

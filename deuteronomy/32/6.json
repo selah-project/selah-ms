@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Patutkah kamu membalas begini kepada Yahweh, hai bangsa yang bebal dan tidak bijaksana? Bukankah Dia bapamu, yang memperoleh engkau? Dialah yang membuat engkau dan menegakkan engkau.",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "Patutkah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "kamu membalas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "begini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hai bangsa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "yang bebal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijaksana"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapamu"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "yang memperoleh engkau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "membuat engkau"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "dan menegakkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:55.512068293Z",
+  "model": "glm-5.3"
+}

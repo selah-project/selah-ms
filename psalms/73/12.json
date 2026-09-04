@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Ingatlah, inilah orang-orang fasik, dan yang bersenang-lenang sentiasa, mencapai kekayaan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "dan yang bersenang-lenang"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "mencapai"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekayaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:43.610849682Z",
+  "model": "glm-5.3"
+}

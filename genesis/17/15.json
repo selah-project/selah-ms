@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan berfirmanlah Elohim kepada Avraham: Sarai isterimu — janganlah kau panggil ⟨את⟩ namanya Sarai, kerana Sarah namanya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirmanlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "isterimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kau panggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namanya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:37.484287470Z",
+  "model": "glm-5.3"
+}

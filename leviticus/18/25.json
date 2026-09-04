@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan bumi itu menjadi cemar, maka Aku menghukum kesalahannya atasnya, dan bumi itu memuntahkan penduduknya.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "dan menjadi cemar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "maka Aku menghukum"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kesalahannya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "dan memuntahkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduknya"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:57.571685508Z",
+  "model": "glm-5.3"
+}

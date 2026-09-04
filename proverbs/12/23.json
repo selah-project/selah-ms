@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Orang yang bijak menyembunyikan pengetahuan, tetapi hati orang-orang bodoh berseru kebodohan.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Orang"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "menyembunyikan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "tetapi hati"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:57.464949193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Pada waktu pagi taburkanlah ⟨את⟩ benihmu, dan pada waktu petang janganlah biarkan tanganmu berehat, kerana engkau tidak tahu yang mana akan berjaya, ini atau itu, dan jika kedua-duanya bersama-sama, keduanya baik.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Pada waktu pagi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taburkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benihmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "dan pada waktu petang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "biarkan berehat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "engkau tidak"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "אי",
+      "gloss": "yang mana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "akan berjaya"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "זה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-duanya"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:21.681052332Z",
+  "model": "glm-5.3"
+}

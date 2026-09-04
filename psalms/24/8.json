@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Siapakah Raja kemuliaan ini? Yahweh, yang perkasa dan berani, Yahweh, pahlawan perang.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "yang perkasa"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "dan berani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "pahlawan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:02.996028069Z",
+  "model": "glm-5.3"
+}

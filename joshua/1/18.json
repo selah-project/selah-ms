@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Setiap orang yang mendurhakai ⟨את⟩ mulutmu dan tidak mendengar ⟨את⟩ perkataanmu dalam segala yang kauperintahkan kepadanya, akan dibunuh; hanya, kuatkan diri dan bertenang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "mendurhakai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutmu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataanmu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "perkataanmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "kauperintahkan kepadanya"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan dibunuh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuatkan diri"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "dan bertenang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:59.709797877Z",
+  "model": "glm-5.3"
+}

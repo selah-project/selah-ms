@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab itu aku akan memberikan ⟨את⟩ isteri mereka kepada orang lain, dan ladang mereka kepada orang yang akan mewarisinya; kerana dari yang kecil sampai kepada yang besar, semuanya mengejar keuntungan, dari nabi sampai kepada imam, semuanya berbuat kepalsuan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri mereka"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "isteri mereka"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kepada orang lain"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "ladang mereka"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "kepada orang yang akan mewarisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "dari yang kecil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mengejar"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "keuntungan"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "dari nabi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kepalsuan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:12:27.525745472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu orang Filistea itu memandang dan melihat ⟨את⟩ Dawid, dan ia menghinanya, kerana dia masih seorang pemuda, kemerah-merahan, dan elok rupanya.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Lalu ... memandang"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Filistea itu"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "dan ia menghinanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dia adalah"
+    },
+    {
+      "surface": "נער",
+      "gloss": "seorang pemuda"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "kemerah-merahan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "elok"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rupanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:20.471431072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan musim mengirai kamu akan menjangkau ⟨את⟩ musim memetik anggur, dan musim memetik anggur akan menjangkau ⟨את⟩ musim menabur benih; dan kamu akan makan roti kamu sampai kenyang, dan kamu akan diam dengan tenteram di tanah kamu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "akan menjangkau"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "musim mengirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musim memetik anggur"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "musim memetik anggur"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "dan musim memetik anggur"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "akan menjangkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musim menabur benih"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "musim menabur benih"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan kamu akan makan"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "roti kamu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sampai kenyang"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "dan kamu akan diam"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dengan tenteram"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanah kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:30.630539393Z",
+  "model": "glm-5.3"
+}

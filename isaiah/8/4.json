@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebelum anak itu tahu memanggil 'bapaku' dan 'ibuku', kekayaan Damesyek dan jarahan Syomron akan diangkat di hadapan raja Asyur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebelum — sebab"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapaku"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "dan ibuku"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akan diangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekayaan Damesyek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesyek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jarahan Syomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "jarahan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Syomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:16.307366057Z",
+  "model": "glm-5.3"
+}

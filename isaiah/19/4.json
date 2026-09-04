@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan Aku akan menyerahkan ⟨את⟩ Mitsrayim ke tuan-tuan yang kejam, dan raja yang gagah akan memerintah atas mereka — ucapannya Adonai Yahweh Tsebaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "dan Aku akan menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yang kejam"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "עז",
+      "gloss": "yang gagah"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ucapannya"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:39.938073197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan yang berkhemah di sebelahnya ialah suku Yisyakhar, dan pembesar bagi bani Yisyakhar ialah Netanel bin Tzuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Dan yang berkhemah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di sebelahnya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisyakhar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "dan pembesar"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisyakhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tzuar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:39.432452671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu naiklah Dawid ke sana, juga kedua-dua isterinya: Ahinoam orang Yizreel, dan Avigayil isteri Nabal orang Karmel.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Lalu naiklah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "orang Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "dan Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "orang Karmel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:53.754853486Z",
+  "model": "glm-5.3"
+}

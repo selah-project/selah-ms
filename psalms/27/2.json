@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Apabila orang jahat mendekati ku untuk memakan ⟨את⟩ daging ku — penindas ku dan musuh ku terhadap ku — merekalah tersandung dan jatuh.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "apabila mendekati"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging ku"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging ku"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "penindas ku"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "dan musuh ku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "terhadap ku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "merekalah"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "tersandung"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan jatuh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:46.629902703Z",
+  "model": "glm-5.3"
+}

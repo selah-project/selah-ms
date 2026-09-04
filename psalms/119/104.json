@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dari titah-Mu aku berakal, sebab itu aku membenci setiap jalan dusta.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "dari titah-Mu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aku berakal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨sebab itu⟩"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku membenci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:48.730636518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sebab aku ⟨pernah⟩ menjadi anak kepada bapaku, lemah lembut dan anak tunggal di hadapan ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku menjadi"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kepada bapaku"
+    },
+    {
+      "surface": "רך",
+      "gloss": "lemah lembut"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "dan anak tunggal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:38.732375449Z",
+  "model": "glm-5.3"
+}

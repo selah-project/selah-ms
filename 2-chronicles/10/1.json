@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu pergilah Rehavam ke Syekhem, kerana ke Syekhem datang seluruh Israel untuk menjadikan ⟨את⟩ dia raja.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ke Syekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekhem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "untuk menjadikan raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Rehavam)"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:51.907751664Z",
+  "model": "glm-5.3"
+}

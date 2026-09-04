@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu David naik dari sana dan duduk di kubu-kubu Ein Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Lalu naik"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "di kubu-kubu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:12.523550412Z",
+  "model": "glm-5.3"
+}

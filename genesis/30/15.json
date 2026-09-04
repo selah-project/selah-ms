@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan berkatalah kepadanya: Adakah kecil perkara bahwa engkau mengambil ⟨את⟩ suamiku, dan mengambil juga ⟨את⟩ mandragora anakku? Lalu berkatalah Rachel: Sebab itu biarlah ia baring dengan engkau malam ini ganti mandragora anakmu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "adakah kecil"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "bahwa engkau mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suamiku"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "suamiku"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mandragora"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "mandragora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ia baring"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dengan engkau"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam ini"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "mandragora"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:13.026737326Z",
+  "model": "glm-5.3"
+}

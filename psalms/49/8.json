@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Saudara sama sekali tidak dapat ditebus oleh seseorang; kepada Elohim tidak dapat diberikan tebusan baginya.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "dapat ditebus"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "sama sekali oleh seseorang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dapat diberikan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "tebusan baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:29.009523124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika matahari telah terbit ke atasnya, ada baginya ⟨tuntutan⟩ darah; penuh ia membayar; jika tiada baginya, maka dijuallah ia kerana kecuriannya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "telah terbit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia membayar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "maka dijuallah ia"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "kerana kecuriannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:47.299303049Z",
+  "model": "glm-5.3"
+}

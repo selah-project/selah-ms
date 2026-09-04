@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan imam mengolahnya ⟨את⟩ — yang satu korban dosa dan yang satu korban bakaran — dan imam mengadakan pendamaian atasnya di hadapan Yahweh demikian alirannya.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Dan mengolah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dua burung itu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "dan yang satu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan pendamaian"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "demikian alirannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:18.842672781Z",
+  "model": "glm-5.3"
+}

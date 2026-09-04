@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Melintaslah ke Tarshisy, merataplah, hai penduduk pantai!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "Melintaslah"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "ke Tarshisy"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "merataplah"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "אי",
+      "gloss": "pantai"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:22.606215675Z",
+  "model": "glm-5.3"
+}

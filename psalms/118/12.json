@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Mereka mengelilingi aku seperti lebah; mereka padam seperti api pagar duri; dalam nama Yahweh ⟨sungguh⟩ aku akan melenyapkan mereka.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Mereka mengelilingi aku"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "seperti lebah"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "mereka padam"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "seperti api"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "pagar duri"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨sungguh⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "aku akan melenyapkan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:31.424279243Z",
+  "model": "glm-5.3"
+}

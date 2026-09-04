@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Marilah, anak-anak, dengarkanlah aku; takut akan Yahweh akan aku ajarkan kepada kamu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarkanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "akan aku ajarkan kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:05.118764167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Engkau menjadikan kami perumpamaan di antara bangsa-bangsa, gelengan kepala di antara umat-umat.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Engkau menjadikan kami"
+    },
+    {
+      "surface": "משל",
+      "gloss": "perumpamaan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "gelengan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "בל",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "umat-umat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:18.261775053Z",
+  "model": "glm-5.3"
+}

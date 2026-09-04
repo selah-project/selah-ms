@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Segala yang dikehendaki Yahweh, dibuat-Nya ⟨itu⟩ di langit dan di bumi, di laut dan di segala kedalaman.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dikehendaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat-Nya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dan di bumi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "kedalaman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:44.087371624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Untuk pemimpin muzik. Mizmor bagi Daud. Yahweh, Engkau telah meneliti aku dan Engkau mengenal.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin muzik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "Engkau telah meneliti aku"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "dan Engkau mengenal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:23.838753361Z",
+  "model": "glm-5.3"
+}

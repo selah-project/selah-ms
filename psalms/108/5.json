@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 108,
+  "translation": "Sebab besar melangkauwi langit ⟨ialah⟩ hesed-Mu, dan sampai awan-awan kesetiaan-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "melangkauwi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:03.155410351Z",
+  "model": "glm-5.3"
+}

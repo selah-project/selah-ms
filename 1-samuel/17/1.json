@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu orang-orang Pelishtim mengumpulkan ⟨את⟩ kem-kem mereka untuk berperang, dan mereka berkumpul di Sokho (Syokho), yang termasuk wilayah Yehuda, lalu berkhemah di antara Sokho dan Azeka, di Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "maka mengumpulkan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kem-kem mereka"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kem-kem mereka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan berkumpul"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "di Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "bagi Yehuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "lalu berkhemah"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan di antara"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "di Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:35.039007005Z",
+  "model": "glm-5.3"
+}

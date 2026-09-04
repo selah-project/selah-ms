@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Kepada-Mu, Yahweh, aku berseru, dan kepada Adonai aku memohon kasihan.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "aku memohon kasihan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:56.535566771Z",
+  "model": "glm-5.3"
+}

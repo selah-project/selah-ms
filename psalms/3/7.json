@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Tidak aku takut kepada beribu-ribu rakyat yang sekeliling mendirikan diri terhadapku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "kepada beribu-ribu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mendirikan diri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:55.499116719Z",
+  "model": "glm-5.3"
+}

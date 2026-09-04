@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Apabila anakmu bertanya kepadamu pada masa depan, sambil berkata: Apakah kesaksian, dan ketetapan, dan hukum yang diperintahkan Yahweh Elohim kita ⟨kepada⟩ ⟨את⟩ kamu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "anakmu bertanya kepadamu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "pada masa depan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "dan ketetapan"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "dan hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek penerima perintah)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:39.306851340Z",
+  "model": "glm-5.3"
+}

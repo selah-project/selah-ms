@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Singa telah mengaum — siapa tidak gentar? Adonai Yahweh telah berfirman — siapa tidak bernubuat?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "Singa"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "mengaum"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "gentar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "bernubuat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:25.509777294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 129,
+  "translation": "Nyanyian bagi naikan. Banyak kali mereka menindas aku sejak kemudaanku — biarlah Israel berkata sekarang:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bagi naikan"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Banyak kali"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "mereka menindas aku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sejak kemudaanku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:34.179504337Z",
+  "model": "glm-5.3"
+}

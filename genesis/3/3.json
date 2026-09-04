@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "tetapi tentang buah pokok yang di tengah-tengah taman itu, Elohim berkata: 'Kamu tidak boleh memakan darinya, dan kamu tidak boleh menyentuhnya, supaya kamu tidak mati.'\"",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "tetapi tentang buah"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pokok itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh memakan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "darinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamu boleh menyentuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ia"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kamu mati"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:14.525636098Z",
+  "model": "glm-5.3"
+}

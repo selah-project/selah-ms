@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan jangan kelihatan padamu ragi dalam segala sempadanmu tujuh hari; dan jangan bermalam sesuatu dari daging yang engkau sembelih pada waktu petang pada hari pertama sampai pagi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kelihatan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sempadanmu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sesuatu dari"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "engkau sembelih"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sampai pagi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:53.784264227Z",
+  "model": "glm-5.3"
+}

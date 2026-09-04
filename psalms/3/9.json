@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Milik Yahweh keselamatan itu; atas umat-Mu berkat-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Milik Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "keselamatan itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "berkat-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:13.622712343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Moshe dan Aharon masuk menghadap Feroh dan mereka berbuat demikian, seperti yang diperintahkan Yahweh; maka Aharon mencampakkan ⟨את⟩ tongkatnya ke hadapan Feroh dan ke hadapan hamba-hambanya, dan ia menjadi tanin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu ... masuk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Feroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan mereka berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "maka ... mencampakkan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatnya"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Feroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan ke hadapan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia menjadi"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "tanin"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:42.777738869Z",
+  "model": "glm-5.3"
+}

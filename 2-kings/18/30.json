@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan jangan biarkan Hizkiyahu mempercayakan ⟨את⟩ kamu kepada Yahweh, dengan berkata: Yahweh menyelamatkan, Ia akan menyelamatkan kami, dan bandar ini tidak akan diserahkan ⟨את⟩ bandar ini ke tangan raja Asyur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "mempercayakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "Ia akan menyelamatkan kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "akan diserahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar ini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:32.568864011Z",
+  "model": "glm-5.3"
+}

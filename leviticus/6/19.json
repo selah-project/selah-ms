@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kohen yang mengesahkan ⟨את⟩-nya sebagai korban dosa, dialah yang memakannya; di tempat kudus ia dimakan, di halian kemah perjumpaan.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "yang mengesahkan sebagai korban dosa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "korban dosa (ia)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "memakannya"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "di halian"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "perjumpaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:28.958870505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Marilah, kekasihku, kita keluar ke padang, kita bermalam di kampung-kampung.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "kekasihku"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "kita keluar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ke padang"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "kita bermalam"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "di kampung-kampung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:20.065677653Z",
+  "model": "glm-5.3"
+}

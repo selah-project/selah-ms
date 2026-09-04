@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu mereka mengambil ⟨את⟩ tulang-tulang mereka, dan menanamkannya di bawah pokok tamarisk di Yabes, dan mereka berpuasa tujuh hari.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Lalu mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang mereka"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tulang-tulang mereka"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dan menanamkannya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "pokok tamarisk"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "di Yabes"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "dan mereka berpuasa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T15:48:40.084454141Z",
+  "model": "glm-5.3"
+}

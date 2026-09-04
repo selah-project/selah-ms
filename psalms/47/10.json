@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Pembesar-pembesar bangsa-bangsa telah berkumpul, ⟨bersama⟩ umat Elohim Avraham; sebab bagi Elohim ⟨adalah⟩ perisai-perisai bumi — Ia dinaikkan tinggi sekali.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "telah berkumpul"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "bagi Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "perisai-perisai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tinggi sekali"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "Ia dinaikkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:11.133041416Z",
+  "model": "glm-5.3"
+}

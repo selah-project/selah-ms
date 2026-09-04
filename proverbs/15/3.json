@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Di setiap tempat mata-mata Yahweh memerhati, yang jahat dan yang baik.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "di setiap"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "memerhati"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "dan yang baik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:11.047231769Z",
+  "model": "glm-5.3"
+}

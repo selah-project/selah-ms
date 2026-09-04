@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Maka pemimpin-pemimpin umat ini menyesatkan, dan yang dipimpinnya ditelan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "yang meluruskan (pemimpin)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "menyesatkan"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "dan yang diluruskan (dipimpin)"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ditelan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:38.559632099Z",
+  "model": "glm-5.3"
+}

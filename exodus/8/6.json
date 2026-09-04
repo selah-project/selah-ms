@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu berkata ⟨ia⟩: \"Esok.\" Dan berkata ⟨ia⟩: \"Menurut perkataanmu — supaya engkau tahu bahawa tiada ⟨yang seperti⟩ Yahweh, Elohim kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Esok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "menurut perkataanmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "yang seperti Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:59.771906588Z",
+  "model": "glm-5.3"
+}

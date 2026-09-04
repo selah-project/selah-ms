@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Engkau telah memendekkan hari-hari mudanya; Engkau telah menyelubungi dia dengan aib. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "Engkau telah memendekkan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "mudanya"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "Engkau telah menyelubungi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "dengan aib"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.422985136Z",
+  "model": "glm-5.3"
+}

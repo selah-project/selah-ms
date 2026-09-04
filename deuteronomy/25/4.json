@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Janganlah dikandangkan lembu ketika ia mengirik bijirinnya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "dikandangkan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ketika ia mengirik bijirinnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:51.962294336Z",
+  "model": "glm-5.3"
+}

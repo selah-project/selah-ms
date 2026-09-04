@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Sebagai ganti kasihku mereka menuduhku, tetapi aku ⟨ialah⟩ doa.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Sebagai ganti"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kasihku"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "mereka menuduhku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "doa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:11.246056155Z",
+  "model": "glm-5.3"
+}

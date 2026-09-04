@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika tiada baginya anak perempuan, maka kamu memberikan ⟨את⟩ pusakanya kepada saudara-saudara lelakinya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "kamu memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusakanya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pusakanya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kepada saudara-saudara lelakinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:45.808725342Z",
+  "model": "glm-5.3"
+}

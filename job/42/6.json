@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Oleh itu aku menghina ⟨diriku⟩ dan menyesal di atas debu dan abu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oleh itu"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "aku menghina"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "dan aku menyesal"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "dan abu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:51.897435296Z",
+  "model": "glm-5.3"
+}

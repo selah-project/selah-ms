@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab mereka ⟨ialah⟩ untaian kemurahan bagi kepalamu, dan rantai-rantai bagi lehermu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "untaian"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kemurahan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "bagi kepalamu"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "dan rantai-rantai"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "bagi lehermu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:38.245904596Z",
+  "model": "glm-5.3"
+}

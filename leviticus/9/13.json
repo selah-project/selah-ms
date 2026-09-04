@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ⟨את⟩ korban bakaran itu mereka hidangkan kepadanya menurut bahagiannya, dan ⟨את⟩ kepalanya, lalu ia membakar ⟨dia⟩ di atas mazbah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban bakaran itu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "mereka hidangkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "menurut bahagiannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "lalu ia membakar"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:59.947442917Z",
+  "model": "glm-5.3"
+}

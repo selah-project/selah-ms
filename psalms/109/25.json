@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Dan aku telah menjadi cela bagi mereka; apabila mereka melihat aku, mereka menggelengkan kepala mereka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mereka melihat aku"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "mereka menggelengkan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "kepala mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:48.546820094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Panjang pelataran itu seratus hasta, dan lebarnya lima puluh demi lima puluh, dan tingginya lima hasta, linen putih dipintal, dan tapak mereka tembaga.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran itu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "dalam hasta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan lebar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "demi lima puluh"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "dan tinggi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen putih"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dipintal"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "dan tapak mereka"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:55.785125537Z",
+  "model": "glm-5.3"
+}

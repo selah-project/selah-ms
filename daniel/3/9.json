@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Mereka menjawab dan berkata kepada Nebukadnesar raja: Wahai raja, hiduplah sampai selama-lamanya!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Mereka menjawab"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "kepada Nebukadnesar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Wahai raja"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hiduplah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:45:08.528283746Z",
+  "model": "glm-5.3"
+}

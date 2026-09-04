@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan walaupun ia hidup seribu tahun dua kali, dan kebaikan tidak dilihatnya — bukankah segala sesuatu berjalan ke satu tempat?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "Dan walaupun"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "dan kebaikan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dilihatnya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "satu tempat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segala sesuatu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:43.331086845Z",
+  "model": "glm-5.3"
+}

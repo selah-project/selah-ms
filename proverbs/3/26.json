@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab Yahweh akan menjadi kesanggupanmu, dan ⟨Ia⟩ menjaga kakimu daripada terjerat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "kesanggupanmu"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "dan menjaga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "daripada terjerat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:43.550400467Z",
+  "model": "glm-5.3"
+}

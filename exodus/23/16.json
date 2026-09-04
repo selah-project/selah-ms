@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "dan hari raya menuai, hasil pertama dari usahamu yang engkau taburkan di padang; dan hari raya pengumpulan, pada keluarnya tahun, ketika engkau mengumpulkan ⟨את⟩ hasil usahamu dari padang.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "dan hari raya"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "menuai"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "hasil pertama"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "dari usahamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "engkau taburkan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "dan hari raya"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "pengumpulan"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "pada keluarnya"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "ketika engkau mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasil usahamu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "hasil usahamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:33.979939194Z",
+  "model": "glm-5.3"
+}

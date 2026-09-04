@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Orang Pelishtim berdiri di gunung di sebelah sini, dan Yisrael berdiri di gunung di sebelah sana, dan lembah itu di antara mereka.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "dan orang Pelishtim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di sebelah sini"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "di sebelah sana"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "dan lembah itu"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "di antara mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:35.039366368Z",
+  "model": "glm-5.3"
+}

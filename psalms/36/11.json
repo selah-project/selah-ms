@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Panjangkanlah hesed-Mu kepada orang yang mengenal Engkau, dan kebenaran-Mu kepada yang lurus hati.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "panjangkanlah"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kepada orang yang mengenal Engkau"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "dan kebenaran-Mu"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kepada yang lurus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:10.967305844Z",
+  "model": "glm-5.3"
+}

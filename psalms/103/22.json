@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Pujilah Yahweh, segala hasil karya-Nya, di segala tempat pemerintahan-Nya; pujilah, hai nefesyku, ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hasil karya-Nya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "pemerintahan-Nya"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai nefesyku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:43.248318073Z",
+  "model": "glm-5.3"
+}

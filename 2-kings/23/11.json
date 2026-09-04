@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 23:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia menghentikan ⟨את⟩ kuda-kuda yang diberikan oleh raja-raja Yehuda kepada matahari, dari pintu masuk rumah Yahweh sampai ke bilik Netan-Melekh pegawai istana raja, yang di Paras, dan ⟨את⟩ kereta-kereta matahari dibakarnya dengan api.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "Dan ia menghentikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda-kuda"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kepada matahari"
+    },
+    {
+      "surface": "מבא",
+      "gloss": "dari pintu masuk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netan-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Melekh"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "pegawai istana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בפרורים",
+      "gloss": "di Paras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kereta-kereta matahari"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "kereta-kereta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakarnya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:47.550409522Z",
+  "model": "glm-5.3"
+}

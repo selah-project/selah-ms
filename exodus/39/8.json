@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan ia membuat ⟨את⟩ kesyotan itu — buatan perancang, seperti buatan efod: emas, tekelet, dan argaman, dan tolaaat syani, dan syes muszar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesyotan itu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kesyotan itu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buatan"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "perancang"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "seperti buatan"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan tolaaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "syani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan syes"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "muszar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:19.194552194Z",
+  "model": "glm-5.3"
+}

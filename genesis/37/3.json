@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan Yisrael mengasihi ⟨את⟩ Yosef melebihi semua anaknya, kerana dia anak pada tuanya baginya; maka ia membuat baginya kethoneth berlengan panjang.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi semua"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "pada tuanya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "maka membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kethoneth (jubah)"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "berlengan panjang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:35.758162912Z",
+  "model": "glm-5.3"
+}

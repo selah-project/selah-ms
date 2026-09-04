@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu Paroh memanggil Moshe dan berkata: Pergilah, layanilah ⟨את⟩ Yahweh; hanya kambing-dombamu dan lembumu tetap ditinggalkan; juga anak-anak kecilmu pergi bersama kamu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lalu memanggil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "layanilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kambing-dombamu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "dan lembumu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "tetap ditinggalkan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anak kecilmu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:49.681381920Z",
+  "model": "glm-5.3"
+}

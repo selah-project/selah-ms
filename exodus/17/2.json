@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu bertengkarlah bangsa itu dengan Moshe, dan berkata mereka, \"Berilah kami air supaya kami minum.\" Tetapi berkatalah Moshe kepada mereka, \"Mengapa kamu bertengkar dengan aku? Mengapa kamu mencuba ⟨את⟩ Yahweh?\"",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "bertengkarlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "berkata mereka"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Berilah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "supaya kami minum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "kamu bertengkar"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "dengan aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "kamu mencuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:46.610314430Z",
+  "model": "glm-5.3"
+}

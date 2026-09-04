@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Adakah diberitahukan kepadanya bahawa aku bercakap? Adakah seorang lelaki berkata — bahawa ⟨dia⟩ ditelan?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "adakah diberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "aku bercakap"
+    },
+    {
+      "surface": "אם",
+      "gloss": "adakah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "ditelan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:20.894456752Z",
+  "model": "glm-5.3"
+}

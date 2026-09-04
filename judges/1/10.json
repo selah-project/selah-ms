@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu pergilah Yehuda kepada Kanaani yang diam di Hevron — dan nama Hevron dahulunya Kiryat-Arba — dan mereka memukul ⟨את⟩ Syesyi dan ⟨את⟩ Ahiman dan ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dahulunya"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syesyi"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Syesyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Ahiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:32.611551462Z",
+  "model": "glm-5.3"
+}

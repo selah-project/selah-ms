@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan ia membuat ⟨את⟩ efod — emas, biru tua, ungu, ulat kirmizi, dan linen dipintal halus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru tua"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan ulat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kirmizi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dipintal halus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:33.174694371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Kepada pemimpin puji-pujian; mengenai Syusyan-Edut; miktam bagi David, untuk mengajar.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin puji-pujian"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Syusyan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "untuk mengajar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:48.692195771Z",
+  "model": "glm-5.3"
+}

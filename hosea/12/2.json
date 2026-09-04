@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Efrayim menggembalakan angin, dan mengejar angin timur; sepanjang hari dusta dan kebinasaan ia perbanyak; dan perjanjian dengan Asyur mereka akan potong, dan minyak ke Mitsrayim diangkut.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "menggembalakan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "dan mengejar"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "angin timur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "dan kebinasaan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ia perbanyak"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "dan perjanjian"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "mereka akan potong"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dan minyak"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ke Mitsrayim"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "diangkut"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:05.315189084Z",
+  "model": "glm-5.3"
+}

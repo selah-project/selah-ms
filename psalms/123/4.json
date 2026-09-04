@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 123,
+  "translation": "Terlampau kenyang bagi jiwa kami dengan olok-olokan orang-orang yang senang, dengan penghinaan orang-orang yang congkak.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Terlampau"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "jiwa kami"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "olok-olokan"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "orang-orang yang senang"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "penghinaan"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "orang-orang yang congkak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:46.024959611Z",
+  "model": "glm-5.3"
+}

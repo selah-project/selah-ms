@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Biarlah langit bersukacita dan bumi bersorak; biarlah laut bergemuruh dan segala isinya.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Biarlah ... bersukacita"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "dan bersorak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "biarlah bergemuruh"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan segala isinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:41.902717488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Reaya bin Syobal memperanakkan ⟨את⟩ Yahat, dan Yahat memperanakkan ⟨את⟩ Achumai dan ⟨את⟩ Lahad; inilah kaum-kaum orang Tseraati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Reaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Syobal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "dan Yahat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "orang Tseraati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:59.228115811Z",
+  "model": "glm-5.3"
+}

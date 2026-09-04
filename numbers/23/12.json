@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan ia menjawab serta berkata: \"Bukankah ⟨את⟩ yang Yahweh taruh dalam mulutku — ⟨את⟩ itu aku jaga untuk aku ucapkan?\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dan ia menjawab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "serta berkata"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang Yahweh taruh dalam mulutku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "taruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dalam mulutku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "itu (yang aku jaga untuk aku ucapkan)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "aku jaga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuk aku ucapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:55.843527609Z",
+  "model": "glm-5.3"
+}

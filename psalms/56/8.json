@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Dengan kejahatan mereka lolos? Dalam murka-Mu, turunkanlah bangsa-bangsa, wahai Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "mereka lolos"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dalam murka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "turunkanlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:53.826306002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Sebab hari pembalasan ada dalam hatiku, dan tahun penebusanku telah tiba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dalam hatiku"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "dan tahun"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "penebusanku"
+    },
+    {
+      "surface": "באה",
+      "gloss": "telah tiba"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:53.844584290Z",
+  "model": "glm-5.3"
+}

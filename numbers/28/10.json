@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Korban bakaran sabat pada setiap sabatnya, selain ⟨את⟩ korban bakaran yang tetap dan curahannya",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Korban bakaran"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "pada setiap sabatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "selain"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "yang tetap"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "dan curahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:28.267395398Z",
+  "model": "glm-5.3"
+}

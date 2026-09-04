@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Mereka berpusing-pusing dan terhuyung-huyung seperti orang mabuk, dan segala hikmat mereka tertelan.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "berpusing-pusing"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "dan terhuyung-huyung"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "seperti orang mabuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "hikmat mereka"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "tertelan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:32.637361721Z",
+  "model": "glm-5.3"
+}

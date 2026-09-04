@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Kepada pemimpin muzik; Al-Tasyet (Jangan musnahkan); mizmor bagi Asaf; nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muzik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Tasyet (Jangan musnahkan)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:06.287896012Z",
+  "model": "glm-5.3"
+}

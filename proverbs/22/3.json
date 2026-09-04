@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Orang berakal melihat bencana dan bersembunyi; tetapi orang-orang lalai terus melintas dan dihukum.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "orang berakal"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "dan bersembunyi"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "dan orang-orang lalai"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "melintas"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "dan dihukum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:27.253314463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu seluruh bangsa itu naik mengikutinya, dan bangsa itu bermain seruling dan bersukaria dengan sukacita yang besar, sehingga bumi itu terbelah dengan suara mereka.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Lalu naik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mengikutinya"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "dan bangsa itu"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "bermain seruling"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "dengan seruling"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "dan bersukaria"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "dengan sukacita"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "sehingga terbelah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "dengan suara mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:01.398803659Z",
+  "model": "glm-5.3"
+}

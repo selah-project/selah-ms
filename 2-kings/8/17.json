@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Berumur tiga puluh dua tahun ⟨ia⟩ pada waktu baginda menjadi raja, dan lapan tahun baginda memerintah di Yerusalem.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pada waktu baginda menjadi raja"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:18.565308449Z",
+  "model": "glm-5.3"
+}

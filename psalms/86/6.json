@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Berilah telinga, Yahweh, kepada doaku, dan tariklah pandang-Mu kepada suara permohonanku.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Berilah telinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "dan tariklah pandang-Mu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kepada suara"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "permohonanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:49.428317874Z",
+  "model": "glm-5.3"
+}

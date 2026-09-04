@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Aku tahu bahawa Yahweh akan melaksanakan keadilan bagi yang tertindas, hak bagi orang-orang miskin.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan melaksanakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bagi yang tertindas"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hak"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "bagi orang-orang miskin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:00.984607227Z",
+  "model": "glm-5.3"
+}

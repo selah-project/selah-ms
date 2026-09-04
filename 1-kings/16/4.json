@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Yang mati bagi Baasa di kota akan dimakan oleh anjing-anjing, dan yang mati baginya di padang akan dimakan oleh burung-burung langit.”",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Yang mati"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "bagi Baasa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan dimakan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "oleh anjing-anjing"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "dan yang mati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan dimakan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "oleh burung-burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:25.531462185Z",
+  "model": "glm-5.3"
+}

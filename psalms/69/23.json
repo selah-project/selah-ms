@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Biarlah jadinya meja mereka di hadapan mereka menjadi perangkap, dan bagi yang damai — menjadi jerat.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biarlah jadinya"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "meja mereka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "di hadapan mereka"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "perangkap"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "dan bagi yang damai"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jerat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:22.799151241Z",
+  "model": "glm-5.3"
+}

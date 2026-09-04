@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Hai! hai semua yang dahaga, marilah kepada air, dan hai yang tiada wang baginya — marilah, belilah dan makanlah; ya marilah, belilah tanpa wang dan tanpa harga, wain dan susu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hai!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "yang dahaga"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "למים",
+      "gloss": "kepada air"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan hai yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dan makanlah"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ya marilah"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "belilah"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "dan tanpa"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "harga"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wain"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "dan susu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:33.797216163Z",
+  "model": "glm-5.3"
+}

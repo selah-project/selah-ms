@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Janganlah berada di antara peminum arak, di antara pelahap daging.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "berada"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "di antara peminum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "arak"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "di antara pelahap"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:58.039587759Z",
+  "model": "glm-5.3"
+}

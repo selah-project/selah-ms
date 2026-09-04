@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 127,
+  "translation": "Betapa bahagia lelaki yang mengisi ⟨את⟩ sarung anak panahnya dengan mereka; mereka tidak akan mendapat malu, kerana mereka akan berbicara ⟨את⟩ musuh-musuh di pintu gerbang.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Betapa bahagia"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mengisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarung anak panahnya"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sarung anak panahnya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "akan mendapat malu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mereka akan berbicara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "musuh-musuh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:01.367999773Z",
+  "model": "glm-5.3"
+}

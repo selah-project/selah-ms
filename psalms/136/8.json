@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "⟨את⟩ matahari untuk memerintah pada waktu siang, ki selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matahari"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada waktu siang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:58.795454593Z",
+  "model": "glm-5.3"
+}

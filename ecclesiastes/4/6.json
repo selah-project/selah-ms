@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lebih baik penuh segenggam ketenangan daripada penuh dua genggam penat lelah dan penderitaan angin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "כף",
+      "gloss": "segenggam"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ketenangan"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "daripada penuh"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "dua genggam"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "penat lelah"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "dan penderitaan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:53.446350086Z",
+  "model": "glm-5.3"
+}

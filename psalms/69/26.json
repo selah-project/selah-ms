@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Jadilah kubu mereka sunyi sepi, dan di dalam kemah mereka jangan ada penghuni.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "kubu mereka"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "sunyi sepi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "di dalam kemah mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "penghuni"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:57.861486228Z",
+  "model": "glm-5.3"
+}

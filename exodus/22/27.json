@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Elohim jangan engkau kutuki, dan pemimpin dalam kaummu jangan engkau laknat.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "engkau kutuki"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "dan pemimpin"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "dalam kaummu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "engkau laknat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:15.404346875Z",
+  "model": "glm-5.3"
+}

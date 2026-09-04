@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu ia mengukur ⟨את⟩ beranda gerbang itu dari rumah, satu rod rotan.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Lalu ia mengukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beranda"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "beranda"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gerbang itu"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "satu rod rotan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:31.094680499Z",
+  "model": "glm-5.3"
+}

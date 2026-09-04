@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Dengan nafiri dan suara syofar bersoraklah di hadapan Raja, Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "dengan nafiri"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "dan suara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bersoraklah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:53.733733119Z",
+  "model": "glm-5.3"
+}

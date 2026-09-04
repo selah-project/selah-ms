@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu membuat demikianlah para tukang sihir dengan ilmu halus mereka, dan mereka menaikkan ⟨את⟩ katak-katak itu ke atas bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lalu membuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para tukang sihir"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "dengan ilmu halus mereka"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dan mereka menaikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katak-katak itu"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:22.114025065Z",
+  "model": "glm-5.3"
+}

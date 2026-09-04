@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan ia mengukuhkan ⟨את⟩ kubu-kubu itu, dan menetapkan di dalamnya para pembesar, dan gedung simpanan makanan, dan minyak, dan anggur.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dan ia mengukuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubu-kubu itu"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "kubu-kubu itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menetapkan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "dan gedung simpanan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dan minyak"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T15:06:51.242395615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka jadilah pada waktu pagi, dan David menulis surat kepada Yoav, dan mengirimkannya dengan tangan Uria.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka jadilah"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "dan ... menulis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan mengirimkannya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:12.232352128Z",
+  "model": "glm-5.3"
+}

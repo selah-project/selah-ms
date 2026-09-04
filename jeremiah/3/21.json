@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Suara di atas bukit-bukit tandas terdengar, tangisan dan permohonan bani Israel, kerana mereka telah membengkokkan ⟨את⟩ jalan mereka, mereka telah melupakan ⟨את⟩ Yahweh Elohim mereka.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "bukit-bukit tandas"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "terdengar"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangisan"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "mereka telah membengkokkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan mereka"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mereka"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "mereka telah melupakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:50.087265473Z",
+  "model": "glm-5.3"
+}

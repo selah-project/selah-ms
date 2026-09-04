@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Yaakov memberitahu Rahel bahawa dialah saudara ayahnya, dan bahawa dia anak lelaki Ribka; maka ⟨dia⟩ berlari dan memberitahukan kepada ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "memberitahu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahawa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "berlari"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "memberitahukan"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "kepada ayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:52.089178058Z",
+  "model": "glm-5.3"
+}

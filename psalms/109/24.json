@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Lututku goyah kerana berpuasa, dan dagingku menipis kehilangan lemak.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Lututku"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "goyah"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "kerana berpuasa"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "dan dagingku"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "menipis"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kehilangan lemak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:46.797961520Z",
+  "model": "glm-5.3"
+}

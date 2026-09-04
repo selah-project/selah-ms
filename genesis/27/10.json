@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "dan bawalah kepada ayahmu, supaya ia makan, agar ia memberkati engkau sebelum kematiannya.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "dan bawalah"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "kepada ayahmu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "supaya ia makan"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ia memberkati engkau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kematiannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:04:48.847971830Z",
+  "model": "glm-5.3"
+}

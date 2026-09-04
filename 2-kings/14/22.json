@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dialah yang membina ⟨את⟩ Eilat dan mengembalikannya kepada Yehuda, setelah raja berbaring bersama-sama bapa-bapanya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "dan mengembalikannya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:04.030905724Z",
+  "model": "glm-5.3"
+}

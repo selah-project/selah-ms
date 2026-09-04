@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Mendekatlah para pengejar niat jahat; dari Tora-Mu mereka menjauh.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "mendekatlah"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "para pengejar"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "niat jahat"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "dari Tora-Mu"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "mereka menjauh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:11.480384495Z",
+  "model": "glm-5.3"
+}

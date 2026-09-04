@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Panas hati aku dalam batin aku; semasa aku termenung, api menyala — aku telah bercakap dengan lidah aku.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Panas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hati aku"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dalam batin aku"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "semasa aku termenung"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku telah bercakap"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "dengan lidah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:41.005938413Z",
+  "model": "glm-5.3"
+}

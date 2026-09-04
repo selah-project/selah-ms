@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Jika engkau melihat pencuri, engkau berlari bersamanya, dan dengan penzina-penzina ⟨adalah⟩ bahagianmu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "pencuri"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "engkau berlari"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan dengan"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "penzina-penzina"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "bahagianmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:55.018039019Z",
+  "model": "glm-5.3"
+}

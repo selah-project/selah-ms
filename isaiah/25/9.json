@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan dikatakan pada hari itu: Lihat, inilah Elohim kami; Dialah yang kita nantikan, dan Dialah yang menyelamatkan kita; inilah Yahweh; Dialah yang kita nantikan; marilah kita bergembira dan bersukacita dalam keselamatan-Nya.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dan dikatakan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "kita nantikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "dan menyelamatkan kita"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "kita nantikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "marilah kita bergembira"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "dalam keselamatan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:35.829372744Z",
+  "model": "glm-5.3"
+}

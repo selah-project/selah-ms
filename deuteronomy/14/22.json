@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Sungguh engkau menyepuluhkan ⟨את⟩ segala hasil benihmu yang keluar dari padang, tahun demi tahun.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sungguh menyepuluhkan"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "engkau menyepuluhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala hasil benihmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "benihmu"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dari padang"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "demi tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:24.070058388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Janganlah engkau menyembelih bersama hamis ⟨את⟩ darah korban-Ku, dan janganlah dibiarkan bermalam sampai pagi korban perayaan Paskah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "engkau menyembelih"
+    },
+    {
+      "surface": "על",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hamis"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban-Ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "dibiarkan bermalam"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sampai pagi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "חג",
+      "gloss": "perayaan"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:34.483688277Z",
+  "model": "glm-5.3"
+}

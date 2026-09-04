@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Inilah moed-moed Yahweh, perhimpunan-perhimpunan kudus, yang kamu maklumkan pada waktu mereka yang ditetapkan:",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "moed-moed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "perhimpunan-perhimpunan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "kamu maklumkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (moed-moed itu)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "pada waktu mereka yang ditetapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:07.126414095Z",
+  "model": "glm-5.3"
+}

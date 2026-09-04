@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Segala jalan seorang manusia betul di matanya sendiri, tetapi Yahweh menimbang hati-hati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang manusia"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "betul"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "tetapi menimbang"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "hati-hati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:15.462547833Z",
+  "model": "glm-5.3"
+}

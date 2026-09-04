@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan berfirmanlah Yahweh kepada Moshe: Satu pembesar bagi satu hari, satu pembesar bagi satu hari, biarlah mereka membawa ⟨את⟩ persembahan mereka bagi pentahbisan mazbah itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pembesar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bagi satu hari"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pembesar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bagi satu hari"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "biarlah mereka membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan mereka"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "persembahan mereka"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "bagi pentahbisan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:36:34.104752977Z",
+  "model": "glm-5.3"
+}

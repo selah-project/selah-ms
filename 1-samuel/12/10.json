@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu mereka berseru kepada Yahweh dan berkata: Kami telah berdosa, kerana kami telah meninggalkan ⟨את⟩ Yahweh dan memperhambakan ⟨את⟩ baal-baal dan ⟨את⟩ Asytarot; dan sekarang, selamatkanlah kami dari tangan musuh kami, dan kami akan berkhidmat kepada Engkau.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Lalu mereka berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Kami telah berdosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami telah meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "dan memperhambakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baal-baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baal-baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Asytarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Asytarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "selamatkanlah kami"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "musuh kami"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "dan kami akan berkhidmat kepada Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:40.736504366Z",
+  "model": "glm-5.3"
+}

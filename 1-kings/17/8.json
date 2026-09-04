@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu datanglah perkataan Yahweh kepadanya, yang berbunyi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lalu berlakulah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berbunyi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:05.858327651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 2:23",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Kedua-dua orang itu berpulang, turun dari gunung, menyeberang, dan sampai kepada Yehosua bin Nun, lalu diceritakan kepada mereka ⟨את⟩ segala yang menimpa mereka.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "berpulang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "מההר",
+      "gloss": "dari gunung"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "menyeberang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "dan diceritakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המצאות",
+      "gloss": "yang menimpa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:31.418588400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Namun Ia melihat kesusahan mereka, ketika Ia mendengar ⟨את⟩ seruan mereka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Namun Ia melihat"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ketika Ia mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seruan mereka"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "seruan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:08.914923597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "maka air itu membanjiri kita, sungai musim melampaui jiwa kita,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "membanjiri kita"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sungai musim"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melampaui"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "jiwa kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:23.027727040Z",
+  "model": "glm-5.3"
+}

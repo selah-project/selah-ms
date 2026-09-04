@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Tetapi ketika mereka sampai ke kem Israel, bangunlah Israel dan memukul ⟨את⟩ Moab, sehingga mereka lari dari hadapan mereka; lalu masuklah Israel ke negerinya dan terus memukul ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Tetapi ketika mereka sampai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan mereka lari"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "dari hadapan mereka"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "lalu masuklah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ke negerinya"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "dan terus memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:32.588474449Z",
+  "model": "glm-5.3"
+}

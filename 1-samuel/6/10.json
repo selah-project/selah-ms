@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan orang-orang itu berbuat demikian: mereka mengambil dua ekor lembu betina yang menyusui, mengikatnya pada kereta itu, dan ⟨את⟩ anak-anaknya mereka kurung dalam rumah.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "dan mereka berbuat"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "וַיִּקְחוּ",
+      "gloss": "mereka mengambil"
+    },
+    {
+      "surface": "שְׁתֵּי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "פָּרוֹת",
+      "gloss": "lembu betina"
+    },
+    {
+      "surface": "עֹלוֹת",
+      "gloss": "yang menyusui"
+    },
+    {
+      "surface": "וַיַּאַסְרוּם",
+      "gloss": "dan mereka mengikatnya"
+    },
+    {
+      "surface": "בָּעֲגָלָה",
+      "gloss": "pada kereta itu"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בְּנֵיהֶם",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "כָּלוּ",
+      "gloss": "mereka kurung"
+    },
+    {
+      "surface": "בַּבַּיִת",
+      "gloss": "dalam rumah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:41.680680064Z",
+  "model": "glm-5.3"
+}

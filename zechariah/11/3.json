@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Suara rintihan para gembala, kerana kemuliaan mereka telah dirampok; suara auman anak-anak singa, kerana kemegahan Yarden telah dirampok.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "rintihan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para gembala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "telah dirampok"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "kemuliaan mereka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "auman"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah dirampok"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kemegahan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:20.720603634Z",
+  "model": "glm-5.3"
+}

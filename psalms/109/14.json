@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Biarlah kesalahan bapa-bapanya diingati di hadapan Yahweh, dan dosa ibunya jangan dipadamkan.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Biarlah diingati"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "dan dosa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "dipadamkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:59.102361031Z",
+  "model": "glm-5.3"
+}

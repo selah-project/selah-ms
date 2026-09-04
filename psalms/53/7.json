@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Siapa ⟨mengharapkan dapat⟩ memberi dari Tsyion keselamatan-keselamatan Israel? Pada masa Elohim memulihkan kebuangan umat-Nya, Yaakov akan bersukaria, Israel akan bersukacita.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsyion"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "keselamatan-keselamatan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "pada masa memulihkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kebuangan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "akan bersukaria"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "akan bersukacita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:15.656518353Z",
+  "model": "glm-5.3"
+}

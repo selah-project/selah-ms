@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ⟨ia⟩ berkata kepadaku: Sampai petang-pagi dua ribu tiga ratus; maka tempat kudus akan dibenarkan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua ribu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "dan akan dibenarkan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tempat kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:03.570646444Z",
+  "model": "glm-5.3"
+}

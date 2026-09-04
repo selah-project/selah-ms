@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Keadilan dan hukum ⟨ialah⟩ tapak takhta-Mu; hesed dan kebenaran mendahului wajah-Mu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Keadilan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan hukum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhta-Mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "mendahului"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:06.518239043Z",
+  "model": "glm-5.3"
+}

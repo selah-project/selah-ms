@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "dan ⟨את⟩ Parmasyta, dan ⟨את⟩ Arisai, dan ⟨את⟩ Aridai, dan ⟨את⟩ Vayazata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Parmasyta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmasyta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Arisai"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aridai"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Vayazata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vayazata"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:13.149796754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Yahweh, aku kasihkan tempat kediaman rumah-Mu, dan tempat kediaman kemuliaan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku kasihkan"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "dan tempat"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemuliaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:09.203326360Z",
+  "model": "glm-5.3"
+}

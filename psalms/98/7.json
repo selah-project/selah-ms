@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Biarkanlah laut bergemuruh dan segala kepenuhannya, dunia dan penduduknya.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "bergemuruh"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan segala kepenuhannya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "dan penduduk"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:53.733880147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Perkataan Belial dituangkan ke atasnya, dan apabila dia berbaring, dia tidak akan bangkit lagi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Perkataan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dituangkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan apabila"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "dia berbaring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "akan (bangkit) lagi"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bangkit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:29.055419148Z",
+  "model": "glm-5.3"
+}

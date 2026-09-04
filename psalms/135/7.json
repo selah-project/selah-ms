@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Yang menaikkan awan dari hujung bumi, kilat untuk hujan dibuat-Nya, mengeluarkan angin dari perbendaharaan-Nya.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "awan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "dari hujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "untuk hujan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat-Nya"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "dari perbendaharaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:44.087559164Z",
+  "model": "glm-5.3"
+}

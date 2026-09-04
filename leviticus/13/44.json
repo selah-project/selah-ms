@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "orang yang terserang tsaraat dia; dia najis; hakim itu pasti menyatakan dia najis; negetnya pada kepalanya.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "yang terserang tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "pasti menyatakan najis"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hakim itu"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "pada kepalanya"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "negetnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:25.422101911Z",
+  "model": "glm-5.3"
+}

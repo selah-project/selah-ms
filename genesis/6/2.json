@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "maka anak-anak lelaki Elohim melihat ⟨את⟩ anak-anak perempuan manusia, bahawa mereka elok, lalu mereka mengambil bagi mereka isteri daripada semua yang mereka pilih.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "maka melihat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak perempuan manusia"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "elok"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu mereka mengambil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "mereka pilih"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:41.951951321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Kemudian Atalya mendengar ⟨את⟩ suara rakyat yang berlari-lari dan memuji-muji ⟨את⟩ raja itu, lalu datanglah dia kepada rakyat itu di rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Kemudian mendengar"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "yang berlari-lari"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "dan memuji-muji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja itu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "lalu datanglah dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:10:29.443352178Z",
+  "model": "glm-5.3"
+}

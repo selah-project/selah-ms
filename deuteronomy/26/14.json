@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 26:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Aku tidak memakannya dalam dukacitaku, dan aku tidak menghabiskannya dalam keadaan najis, dan aku tidak memberikannya kepada orang mati; aku telah mendengar suara Yahweh Elohim-ku, aku telah melakukan segala yang Engkau perintahkan kepadaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "aku memakan"
+    },
+    {
+      "surface": "באני",
+      "gloss": "dalam dukacitaku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "aku menghabiskan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "בטמא",
+      "gloss": "dalam keadaan najis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku memberikan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "למת",
+      "gloss": "kepada orang mati"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aku telah mendengar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku telah melakukan"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "Engkau perintahkan kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:46.366125888Z",
+  "model": "glm-5.3"
+}

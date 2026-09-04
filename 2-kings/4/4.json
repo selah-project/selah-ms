@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Masuklah engkau dan tutuplah pintu di belakangmu dan di belakang anak-anakmu, lalu tuangkanlah ke atas segala bekas ini; dan yang penuh, pindahkanlah engkau.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Masuklah engkau"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "dan tutuplah"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "di belakangmu"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan di belakang"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "lalu tuangkanlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "bekas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "dan yang penuh"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "pindahkanlah engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:09.690661642Z",
+  "model": "glm-5.3"
+}

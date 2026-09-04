@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Gembira Mitsrayim ketika mereka keluar, sebab kegerunan terhadap mereka telah jatuh ke atas mereka.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Gembira"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ketika mereka keluar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "kegerunan terhadap mereka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ke atas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:41.953506290Z",
+  "model": "glm-5.3"
+}

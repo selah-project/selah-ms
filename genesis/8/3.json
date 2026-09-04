@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu air itu berundur dari atas bumi, berjalan dan berundur, dan berkuranglah air itu pada akhir seratus lima puluh hari.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "berundur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "dan berundur"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "berkuranglah"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pada akhir"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:27.325965943Z",
+  "model": "glm-5.3"
+}

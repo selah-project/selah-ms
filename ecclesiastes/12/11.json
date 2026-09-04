@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Perkataan orang-orang bijak seperti duri penghalau, dan seperti paku tertanam oleh tuan-tuan kumpulan; diberikan oleh satu gembala.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijak"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "seperti duri penghalau"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "dan seperti paku"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "tertanam"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tuan-tuan"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "oleh gembala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:50.503238621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan ⟨ia⟩ berfirman: engkau tidak dapat melihat ⟨את⟩ wajah-Ku, kerana manusia tidak dapat melihat Aku dan hidup.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berfirman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "engkau dapat"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah-Ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "melihat Aku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dan hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:02.847772262Z",
+  "model": "glm-5.3"
+}

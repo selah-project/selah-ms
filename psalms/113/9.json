@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 113,
+  "translation": "Yang mendudukkan perempuan mandul rumah ⟨sebagai⟩ ibu kepada anak-anak, bersukaria — pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Yang mendudukkan"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "perempuan mandul"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bersukaria"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:34.240438132Z",
+  "model": "glm-5.3"
+}

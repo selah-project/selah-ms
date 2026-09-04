@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Sebab Dia menguatkan palang-palang pintu gerbangmu, Dia memberkati anak-anakmu di tengah-tengahmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "menguatkan"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "palang-palang"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "pintu gerbangmu"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "di tengah-tengahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.539064930Z",
+  "model": "glm-5.3"
+}

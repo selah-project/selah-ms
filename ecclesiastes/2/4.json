@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Aku memperbesar perbuatan-perbuatanku; aku membina bagi diriku rumah-rumah; aku menanam bagi diriku kebun-kebun anggur.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Aku memperbesar"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "perbuatan-perbuatanku"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "aku membina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi diriku"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "aku menanam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi diriku"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebun-kebun anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:40.438860327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka engkau akan berjalan dengan aman di jalanmu, dan kakimu tidak akan tersandung.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "engkau akan berjalan"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dengan aman"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "di jalanmu"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "dan kakimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "akan tersandung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:03.956948431Z",
+  "model": "glm-5.3"
+}

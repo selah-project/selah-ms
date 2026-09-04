@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka berlakulah selepas kematian Syaul, Daud pulang dari memukul ⟨את⟩ orang Amalek, dan Daud tinggal di Tsiklag dua hari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kematian"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan Daud"
+    },
+    {
+      "surface": "שב",
+      "gloss": "pulang"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "dari memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "orang Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan tinggal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "di Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:13.103795784Z",
+  "model": "glm-5.3"
+}

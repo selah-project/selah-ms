@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Batu yang diabaikan oleh pembina-pembina telah menjadi batu sudut yang utama.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Batu"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "diabaikan"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "oleh pembina-pembina"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "utama (kepala)"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "batu sudut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:32.340615827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Ia memberi kepada haiwan makanannya, kepada anak-anak gagak yang berseru.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kepada haiwan"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "makanannya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "berseru"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:12.018207685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Angkatlah kepala kamu, hai pintu-pintu gerbang, dan terangkatlah kamu, hai pintu-pintu yang kekal, dan masuklah Raja kemuliaan.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "kepala kamu"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "dan terangkatlah"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yang kekal"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "dan masuklah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kemuliaan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:02.995854360Z",
+  "model": "glm-5.3"
+}

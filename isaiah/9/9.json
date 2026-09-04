@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Bata telah jatuh, tetapi dengan batu banjar kami akan membina; sikamor telah ditebang, tetapi araz akan kami ganti.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "bata"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "tetapi dengan batu banjar"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "kami akan membina"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sikamor"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "telah ditebang"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "tetapi araz"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "akan kami ganti"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:14.240009289Z",
+  "model": "glm-5.3"
+}

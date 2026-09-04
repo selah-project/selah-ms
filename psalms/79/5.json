@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Sampai bila, Yahweh? Engkau murka selamanya? Cemburu-Mu menyala seperti api?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Engkau murka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selamanya"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "cemburu-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:16.641796210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Anakku, jangan berjalan di jalan ⟨⟨את⟩⟩ bersama mereka; tahanlah kakimu dari laluan mereka.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bersama mereka",
+      "marks": "mereka (para pendosa)"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "tahanlah"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "dari laluan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:55.062643915Z",
+  "model": "glm-5.3"
+}

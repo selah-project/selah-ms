@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Bukankah dia, Yehizkiyahu, yang menghapuskan ⟨את⟩ bukit-bukit pengorbanannya dan ⟨את⟩ mezbah-mezbahnya, dan berkata kepada Yehuda dan kepada Yerusalem, katanya: Di hadapan satu mezbah kamu sujud, dan ke atasnya kamu membakar ukupan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "menghapuskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukit-bukit pengorbanannya"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "bukit-bukit pengorbanannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah-mezbahnya"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "mezbah-mezbahnya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehuda"
+    },
+    {
+      "surface": "ו לירושלם",
+      "gloss": "dan kepada Yerusalem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya:"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Di hadapan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "kamu sujud"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "dan ke atasnya"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "kamu membakar ukupan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:13:20.196082091Z",
+  "model": "glm-5.3"
+}

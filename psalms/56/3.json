@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Pihak yang memerangi aku menelan aku sepanjang hari, kerana ramai yang berperang melawan aku — hai Yang Mahatinggi.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "menelan"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "pihak yang memerangi aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "yang berperang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "melawan aku"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hai Yang Mahatinggi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:51.617633741Z",
+  "model": "glm-5.3"
+}

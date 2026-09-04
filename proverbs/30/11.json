@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "⟨Ada⟩ generasi yang melaknati bapanya, dan ⟨את⟩ ibunya tidak diberkatinya.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "melaknati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibunya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "diberkatinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:59.243415852Z",
+  "model": "glm-5.3"
+}

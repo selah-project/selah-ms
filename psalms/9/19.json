@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sebab tidak sampai selama-lamanya orang miskin dilupakan; harapan orang-orang lembut tidak akan binasa sampai kekal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "dilupakan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "harapan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang lembut"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "tidak akan binasa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sampai kekal"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:00.947535454Z",
+  "model": "glm-5.3"
+}

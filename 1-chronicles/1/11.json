@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Mitsrayim memperanakkan ⟨את⟩ orang Ludi, dan ⟨את⟩ orang Anam, dan ⟨את⟩ orang Lehav, dan ⟨את⟩ orang Naftuh.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Dan Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Ludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "orang Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Anam"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "orang Anam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Lehav"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "orang Lehav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Naftuh"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "orang Naftuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:15.584428931Z",
+  "model": "glm-5.3"
+}

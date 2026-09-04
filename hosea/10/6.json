@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Bahkan ⟨את⟩ itu akan dibawa kepada Asyur sebagai persembahan bagi Raja Yareb; malu akan menimpa Efrayim, dan Yisrael akan mendapat malu atas rancangannya sendiri.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "itu (patung\/anak lembu)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "kepada Asyur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "akan dibawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi raja"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "malu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan menimpa"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "dan akan mendapat malu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "atas rancangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:08.965624325Z",
+  "model": "glm-5.3"
+}

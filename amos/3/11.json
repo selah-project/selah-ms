@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 3:11",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab itu, beginilah firman Adonai Yahweh: ⟨Ada⟩ lawan, dan sekeliling bumi itu, dan ia akan menurunkan kekuatanmu daripadamu, dan kubu-kubumu akan dirampas.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sebab itu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צר",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "dan sekeliling"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "dan ia akan menurunkan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "ונבזו",
+      "gloss": "dan akan dirampas"
+    },
+    {
+      "surface": "ארמנותיך",
+      "gloss": "kubu-kubumu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:17.476010189Z",
+  "model": "glm-5.3"
+}

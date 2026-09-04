@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Seperti padang rumput mereka, demikian mereka kenyang; setelah kenyang, hati mereka meninggi — sebab itu mereka melupakan Aku.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Seperti padang rumput mereka"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "demikian mereka kenyang"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "setelah kenyang"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "hati mereka meninggi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "mereka melupakan Aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:55.585650518Z",
+  "model": "glm-5.3"
+}

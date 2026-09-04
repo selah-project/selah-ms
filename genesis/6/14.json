@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Buatlah bagimu bahtera daripada kayu gofer; petak-petak engkau buat ⟨את⟩ bahtera itu, dan kau lapik ⟨את⟩-nya dari dalam dan dari luar dengan bubur kapur",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Buatlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "bahtera"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "petak-petak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahtera itu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera itu"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "dan kau lapik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "bahtera (objek dilapik)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari dalam"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "dan dari luar"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "dengan bubur kapur (kofe)"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:26.404099326Z",
+  "model": "glm-5.3"
+}

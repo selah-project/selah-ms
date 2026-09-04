@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Pulangkan kami, Elohim keselamatan kami, dan batalkan kegeraman-Mu terhadap kami.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Pulangkan kami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "keselamatan kami"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "dan batalkan"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "kegeraman-Mu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "terhadap kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:43.686478817Z",
+  "model": "glm-5.3"
+}

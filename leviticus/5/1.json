@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan apabila seseorang berdosa, dan ia mendengar suara sumpah kutuk, dan dia ⟨ialah⟩ saksi, atau telah melihat, atau telah mengetahui — jika ia tidak memberitahukannya, maka ia menanggung kesalahannya sendiri.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Dan seseorang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "dan ia mendengar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sumpah kutuk"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "telah mengetahui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ia memberitahukannya"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "maka ia menanggung"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kesalahannya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:00.131132163Z",
+  "model": "glm-5.3"
+}

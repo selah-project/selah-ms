@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Orang yang berbelah hati aku benci, dan Tora-Mu aku kasihi.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "orang yang berbelah hati"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dan Tora-Mu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku kasihi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:21.838072571Z",
+  "model": "glm-5.3"
+}

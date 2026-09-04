@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Mazmur bagi Daud. Jangan marah kerana orang yang berbuat jahat, jangan iri hati kepada para pembuat kejahatan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "marah (berpana hati)"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "terhadap para penjahat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "iri hati"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "kepada para pembuat"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:49.162682744Z",
+  "model": "glm-5.3"
+}

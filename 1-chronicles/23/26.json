@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan juga bagi orang-orang Lewi: tiada lagi ⟨untuk⟩ memikul ⟨את⟩ kemah sukat dan ⟨את⟩ segala peralatannya bagi perkhidmatannya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "bagi orang-orang Lewi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "memikul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah sukat"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah sukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala peralatannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "peralatannya"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "bagi perkhidmatannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:20.651613441Z",
+  "model": "glm-5.3"
+}

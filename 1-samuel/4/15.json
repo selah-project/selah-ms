@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Eli berumur sembilan puluh lapan tahun, dan kedua-dua matanya telah ⟨kabur⟩, sehingga ia tidak dapat melihat.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "dan Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "sembilan puluh"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "telah kabur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "melihat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:45.460026472Z",
+  "model": "glm-5.3"
+}

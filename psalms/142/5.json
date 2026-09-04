@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 142,
+  "translation": "Perhatikanlah tangan kanan ⟨ku⟩ dan lihatlah, tetapi tiada bagi ⟨ku⟩ yang mengenal; hilanglah tempat lari dari padaku; tiada yang mencari ⟨kehidupanku⟩.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Perhatikanlah"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "yang mengenal"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hilanglah"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "tempat lari"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "yang mencari"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kehidupanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:01.979721565Z",
+  "model": "glm-5.3"
+}

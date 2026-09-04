@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Kepada-Ku mereka menjerit: Elohim kami, kami Israel mengenal-Mu!",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "mereka menjerit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "kami mengenal-Mu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:32.439717804Z",
+  "model": "glm-5.3"
+}

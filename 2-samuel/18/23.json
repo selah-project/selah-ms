@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 18:23",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "\"Jadilah apa jua, biarlah aku berlari.\" Maka berkatalah dia kepadanya: \"Berlarilah.\" Lalu berlarilah Ahimaats melalui jalan ⟨padang⟩ itu dan mendahului ⟨את⟩ Kusi itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadilah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa jua"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "aku berlari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "maka berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "Berlarilah"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "lalu berlarilah"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaats"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "melalui jalan"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "⟨padang⟩ itu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan mendahului"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kusi itu"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Kusi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:45.166905174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Mereka berseru, dan tiada penyelamat; kepada Yahweh, dan ⟨Ia⟩ tidak menjawab mereka.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Mereka berseru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "penyelamat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "⟨Ia⟩ menjawab mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:58.714133596Z",
+  "model": "glm-5.3"
+}

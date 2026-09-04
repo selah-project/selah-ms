@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Sampai bila kamu akan menyerang seorang lelaki, akan membunuh dia — kamu semua — seperti dinding bengkok, pagar yang runtuh?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bila"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "kamu akan menyerang"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "akan membunuh"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kamu semua"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "seperti dinding"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "bengkok"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pagar"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "yang runtuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:02.300410019Z",
+  "model": "glm-5.3"
+}

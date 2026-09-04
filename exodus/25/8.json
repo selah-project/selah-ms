@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan mereka akan membuat bagi-Ku sebuah tempat kudus, dan Aku akan diam di tengah-tengah mereka.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Dan mereka akan membuat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "dan Aku akan diam"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "di tengah-tengah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:23.565417895Z",
+  "model": "glm-5.3"
+}

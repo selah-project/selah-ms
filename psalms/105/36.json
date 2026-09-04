@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dan Ia memukul segala anak sulung di negeri mereka, sulung bagi segala kekuatan mereka.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dan Ia memukul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di negeri mereka"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "sulung"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi segala"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kekuatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:56.519595594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Yahweh menghulurkan tangan-Nya dan menyentuh ⟨את⟩ mulutku; dan Yahweh berkata kepadaku, Lihatlah, Aku menaruh perkataan-Ku dalam mulutmu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "menghulurkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Nya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-Nya"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku menaruh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan-Ku"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "dalam mulutmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:12.759996289Z",
+  "model": "glm-5.3"
+}

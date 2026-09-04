@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Dia menunggang kerub lalu terbang, dan Dia terlihat di atas sayap angin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "lalu menunggang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "dan terbang"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan terlihat"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:58.780832440Z",
+  "model": "glm-5.3"
+}

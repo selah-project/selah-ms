@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Maka Yaakov diam di tanah perantauan bapanya, di tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maka diam"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "perantauan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:35.757470798Z",
+  "model": "glm-5.3"
+}

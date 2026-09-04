@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Terpujilah Yahweh, sebab Dia telah mendengar suara permohonanku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Dia telah mendengar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:16.132741785Z",
+  "model": "glm-5.3"
+}

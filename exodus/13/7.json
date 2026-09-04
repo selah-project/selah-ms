@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Roti tidak beragi akan dimakan selama ⟨את⟩ tujuh hari itu, dan tidak akan kelihatan padamu barang beragi, dan tidak akan kelihatan padamu ragi dalam segala sempadanmu.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Roti tidak beragi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akan dimakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh hari itu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan kelihatan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "barang beragi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan kelihatan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sempadanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:34.240086726Z",
+  "model": "glm-5.3"
+}

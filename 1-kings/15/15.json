@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan dibawanya ⟨את⟩ benda-benda kudus ayahnya dan benda-benda kudusnya sendiri ke rumah Yahweh: perak dan emas dan perkakas.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan dibawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benda-benda kudus ayahnya"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "benda-benda kudus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "dan benda-benda kudusnya sendiri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "dan perkakas"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:31.361241138Z",
+  "model": "glm-5.3"
+}

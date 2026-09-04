@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Enam hari kamu akan mengumpulkannya, tetapi pada hari yang ketujuh ialah sabat — pada hari itu tiada ⟨apa-apa⟩ baginya.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "kamu akan mengumpulkannya"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "tetapi pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yang ketujuh"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨ialah⟩ sabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:44.236825616Z",
+  "model": "glm-5.3"
+}

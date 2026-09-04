@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Apabila engkau berbaring, engkau tidak akan takut; ya, engkau akan berbaring, dan tidurmu akan manis.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "engkau berbaring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "engkau akan takut"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "dan engkau akan berbaring"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "dan akan manis"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "tidurmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:03.957092247Z",
+  "model": "glm-5.3"
+}

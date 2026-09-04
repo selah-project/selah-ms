@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "biarlah musuh memburu nafsku dan menangkapnya, dan menghentak hidupku ke bumi, dan menetapkan kemuliaanku di debu. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "biarlah memburu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsku"
+    },
+    {
+      "surface": "ושישג",
+      "gloss": "dan menangkap"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "dan menghentak"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hidupku"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "dan kemuliaanku"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "di debu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "menetapkan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:10.635842177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Engkau, Yahweh, akan menjaga mereka; Engkau akan memelihara ⟨kami⟩ dari keturunan ini sentiasa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "akan menjaga mereka"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "akan memelihara dia\/kami"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:19.163563144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan roh Mitsrayim akan kosong di tengah-tengahnya, dan nasihatnya akan Aku telan; dan mereka akan mencari kepada berhala-berhala, dan kepada ahli sihir, dan kepada arwah, dan kepada pemanggil roh.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "dan akan kosong"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "dan nasihatnya"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "akan Aku telan"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "dan mereka akan mencari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "berhala-berhala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "ahli sihir"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "arwah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "pemanggil roh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:39.937895855Z",
+  "model": "glm-5.3"
+}

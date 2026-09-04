@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Masa untuk mencari, dan masa untuk membinasakan; masa untuk menyimpan, dan masa untuk membuang.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "untuk menyimpan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "untuk membuang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:10.454254958Z",
+  "model": "glm-5.3"
+}

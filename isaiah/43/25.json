@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Aku, akulah ⟨dia⟩ yang memadam pemberontakanmu demi nama-Ku sendiri, dan dosa-dosamu tidak akan kukenang.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "memadam"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "pemberontakanmu"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "demi nama-Ku sendiri"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "dan dosa-dosamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "akan kukenang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:49.481200155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 125,
+  "translation": "Adapun mereka yang berpaling kepada kebengkokan mereka, Yahweh akan membawa ⟨את⟩ pekerja-pekerja kesalahan ⟨bersama-sama⟩ — damai sejahtera atas Israel.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "dan mereka yang berpaling"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "kebengkokan mereka"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "akan membawa mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekerja-pekerja kesalahan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja-pekerja"
+    },
+    {
+      "surface": "האון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai sejahtera"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:01.188061551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Lalu Yahweh berfirman kepada Moshe di dataran Moab, di tepi sungai Yarden bersebelahan Yeriho, katanya:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "di dataran"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:24.688509891Z",
+  "model": "glm-5.3"
+}

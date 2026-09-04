@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Siapakah akan bangkit bagi saya menghadapi pelaku kejahatan? Siapakah akan berdiri bagi saya menghadapi pekerja kesia-siaan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan bangkit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi saya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "menghadapi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pelaku kejahatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi saya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "menghadapi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:00.487321044Z",
+  "model": "glm-5.3"
+}

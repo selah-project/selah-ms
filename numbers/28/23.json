@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Selain daripada olah pagi yang ⟨ialah⟩ olah tamid, kamu akan membuat ⟨את⟩ semua ini.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "Selain daripada"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olah"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "olah"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "tamid"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "semua ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:48.632330559Z",
+  "model": "glm-5.3"
+}

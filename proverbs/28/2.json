@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Disebabkan pemberontakan ⟨sebuah⟩ negeri, banyaklah pemimpin-pemimpinnya; tetapi ⟨dengan⟩ seorang manusia yang berakal, yang berpengetahuan, demikian ⟨negeri itu⟩ akan berpanjangan.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "disebabkan pemberontakan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "pemimpin-pemimpinnya"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "tetapi dengan seorang manusia"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yang berakal"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yang berpengetahuan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ia akan memanjangkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:09.042559136Z",
+  "model": "glm-5.3"
+}

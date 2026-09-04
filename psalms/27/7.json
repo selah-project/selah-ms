@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dengarlah, Yahweh, suaraku ketika aku berseru; kasihanilah aku dan jawablah aku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "dan kasihanilah aku"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "dan jawablah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:22.465820393Z",
+  "model": "glm-5.3"
+}

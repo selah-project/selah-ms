@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Besarlah Yahweh dan sangat terpuji, dan bagi kebesaran-Nya tiada batas penjelajahan.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Besarlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "dan bagi kebesaran-Nya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "batas penjelajahan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:38.920382247Z",
+  "model": "glm-5.3"
+}

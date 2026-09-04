@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan seluruh bumi mencari ⟨את⟩ hadrat Syelomo, untuk mendengar ⟨את⟩ hikmahnya yang diberikan Elohim dalam hatinya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatrat Syelomo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hatrat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuk mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikmahnya"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "hikmahnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:55.118272942Z",
+  "model": "glm-5.3"
+}

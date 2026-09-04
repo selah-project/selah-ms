@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu orang-orang Pelisyt berperang, dan Israel dipukul kalah, dan mereka lari, setiap orang ke kemahnya sendiri; dan pukulan itu sangat besar, dan terjatuh dari Israel tiga puluh ribu askar pejalan kaki.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Lalu berperang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelisyt"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "dan dipukul kalah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dan mereka lari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ke kemahnya sendiri"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "pukulan itu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "besar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan terjatuh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "dari Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "askar pejalan kaki"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:59.026821637Z",
+  "model": "glm-5.3"
+}

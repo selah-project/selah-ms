@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu ia menyembelih ⟨את⟩ korban bakaran itu, dan anak-anak Aharon membawa kepadanya ⟨את⟩ darah itu, lalu dipercikkannya pada mezbah itu sekeliling.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "lalu menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran itu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah itu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "lalu dipercikkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:30.288068425Z",
+  "model": "glm-5.3"
+}

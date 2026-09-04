@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu tiuplah Yoav sangkakala, maka berbaliklah orang ramai daripada mengejar Yisrael, kerana Yoav menahan ⟨את⟩ orang ramai.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "lalu tiuplah"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka berbaliklah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang ramai"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "daripada mengejar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang ramai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang ramai"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:00.360263749Z",
+  "model": "glm-5.3"
+}

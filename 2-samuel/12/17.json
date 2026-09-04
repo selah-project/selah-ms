@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu bangkitlah tua-tua rumahnya menghampirinya untuk mengangkatnya dari bumi, tetapi ia enggan, dan ia tidak makan ⟨את⟩ roti bersama mereka.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "lalu bangkitlah"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "menghampirinya"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "untuk mengangkatnya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ia enggan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ia makan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:30.298961658Z",
+  "model": "glm-5.3"
+}

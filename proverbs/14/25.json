@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Saksi yang benar menyelamatkan nyawa-nyawa, tetapi yang menghembuskan kebohongan ⟨ialah⟩ penipuan.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa-nyawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yang benar"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "tetapi yang menghembuskan"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:37.716386026Z",
+  "model": "glm-5.3"
+}

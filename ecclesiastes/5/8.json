@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Tetapi kelebihan bumi dalam segala sesuatu ⟨ialah ia⟩: raja bagi ladang yang diusahakan.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Tetapi kelebihan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala sesuatu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ialah ia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "bagi ladang"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "yang diusahakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:57.043436171Z",
+  "model": "glm-5.3"
+}

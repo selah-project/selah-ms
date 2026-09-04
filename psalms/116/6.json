@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Yang menjaga ⟨את⟩ orang yang lugu ialah Yahweh; aku direndahkan, dan bagi aku Dia menyelamatkan.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Yang menjaga"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "orang yang lugu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "aku direndahkan"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dan bagi aku"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "Dia menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:56.561763853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Engkau memecahkan laut dengan kuasamu; Engkau meremukkan kepala-kepala tanin di atas air.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "memecahkan"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "dengan kuasamu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "meremukkan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:37.309533617Z",
+  "model": "glm-5.3"
+}

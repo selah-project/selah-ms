@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "di pegunungan dan di tanah rendah dan di Araba dan di lereng dan di padang gurun dan di Negev — orang Het, orang Emori dan orang Kenaani, orang Perizi, orang Hiwi dan orang Yevusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "dan di tanah rendah"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "dan di Araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "dan di lereng"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "dan di padang gurun"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "dan di Negev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "orang Het"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "dan orang Kenaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "orang Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:32.465616854Z",
+  "model": "glm-5.3"
+}

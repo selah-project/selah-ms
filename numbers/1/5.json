@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan inilah nama-nama orang-orang yang akan berdiri bersama ⟨את⟩ kamu: bagi Reuben, Elitsur bin Syedeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bersama ⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "bagi Reuben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Syedeur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:05.479823867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "Empat puluh tahun ⟨lamanya⟩ Aku muak terhadap angkatan itu, dan Aku berkata: umat yang tersesat hatinya merekalah ⟨iaitu⟩ mereka, dan mereka tidak mengenal jalan-jalan-Ku.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "Aku muak terhadap"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "angkatan itu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan Aku berkata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "yang tersesat"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.829310194Z",
+  "model": "glm-5.3"
+}

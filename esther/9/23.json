@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan orang-orang Yehudi menerima ⟨את⟩ apa yang mereka mulakan untuk dibuat, dan ⟨את⟩ apa yang ditulis oleh Mordekhai kepada mereka.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "dan menerima"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang-orang Yehudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang mereka mulakan untuk dibuat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "mereka mulakan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk dibuat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "apa yang ditulis oleh Mordekhai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ditulis oleh"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:32.206285036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Yahweh akan menjaganya dan menghidupkannya, dia berbahagia di bumi, dan jangan kaulakukan dia ke dalam nafsu musuh-musuhnya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "akan menjaganya"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "dan menghidupkannya"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "berbahagia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "kaulakukan dia"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ke dalam nafsu"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:23.773510648Z",
+  "model": "glm-5.3"
+}

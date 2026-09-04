@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "sebab ketika ia mati, tidak akan dibawanya ⟨את⟩ ⟨segala⟩-galanya; kemuliaannya tidak akan turun mengikutinya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ketika ia mati"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan dibawanya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨segala⟩-galanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "akan turun"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mengikutinya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:42.125640041Z",
+  "model": "glm-5.3"
+}

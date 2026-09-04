@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan pengawas-pengawas anak-anak Yisrael melihat ⟨את⟩ keadaan buruk ⟨bagi mereka⟩, sambil berkata: Jangan kamu kurangkan dari bata kamu, jumlah satu hari pada hari nya.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "pengawas-pengawas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan buruk"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "keadaan buruk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "kamu kurangkan"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "dari bata kamu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jumlah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "satu hari"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "pada hari nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:27.714805989Z",
+  "model": "glm-5.3"
+}

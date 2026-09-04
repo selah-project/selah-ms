@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Bukankah para penentang kita sudah dimusnahkan, dan baki mereka telah dimakan api?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sudah"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "dimusnahkan"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "para penentang kita"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "dan baki mereka"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "telah dimakan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:50.038352028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "dan sesudah gempa itu, api — tidak dalam api itu Yahweh; dan sesudah api itu, suara bisikan yang halus.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "gempa itu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan sesudah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "bisikan"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "yang halus"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:05.218773525Z",
+  "model": "glm-5.3"
+}

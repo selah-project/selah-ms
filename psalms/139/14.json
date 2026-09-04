@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Aku memuji Engkau, sebab dengan dahsyat aku dibezakan; ajaiblah perbuatan-Mu, dan jiwaku mengetahui sungguh.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Aku memuji Engkau"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dengan dahsyat"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "aku dibezakan"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ajaib"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "dan jiwaku"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sungguh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:28.355107381Z",
+  "model": "glm-5.3"
+}

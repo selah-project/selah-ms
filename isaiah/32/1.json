@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lihat, raja akan memerintah demi keadilan, dan para pemimpin demi keputusan akan berkuasa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "demi keadilan"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "dan para pemimpin"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "demi keputusan"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "akan berkuasa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:39.856312812Z",
+  "model": "glm-5.3"
+}

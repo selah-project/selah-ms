@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Yahweh ⟨ialah⟩ Raja untuk selama-lamanya dan selamanya; bangsa-bangsa telah binasa dari negeri-Nya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan selamanya"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "telah binasa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari negeri-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:06.827680818Z",
+  "model": "glm-5.3"
+}

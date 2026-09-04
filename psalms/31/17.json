@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Buatlah wajah-Mu bercahaya atas hamba-Mu; selamatkanlah aku dalam hesed-Mu.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "Buatlah…bercahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "dalam hesed-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:11.706036411Z",
+  "model": "glm-5.3"
+}

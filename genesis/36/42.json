@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "ketua Kenaz, ketua Teman, ketua Mibsar.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibsar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:36.406269251Z",
+  "model": "glm-5.3"
+}

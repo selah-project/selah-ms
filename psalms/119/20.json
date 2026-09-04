@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Hancurlah jiwaku oleh kerinduan kepada hukum-hukum-Mu pada setiap waktu.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Hancurlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "oleh kerinduan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada setiap"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:51.837879378Z",
+  "model": "glm-5.3"
+}

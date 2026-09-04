@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dalam seruanku, jawablah aku, Elohim ⟨kesalehanku⟩; dalam kesempitan Engkau melapangkan bagiku; berilah aku kasih karunia, dan dengarlah doaku.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Dalam seruanku"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kesalehanku"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesempitan"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Engkau melapangkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "berilah aku kasih karunia"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "dan dengarlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:00.837339490Z",
+  "model": "glm-5.3"
+}

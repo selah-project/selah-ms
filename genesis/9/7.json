@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan kamu, berbuah-cambah dan bertambah; berbilang di bumi dan bertambah di dalamnya.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Dan kamu"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "berbuah-cambah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambah"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "berbilang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambah"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:48.772580610Z",
+  "model": "glm-5.3"
+}

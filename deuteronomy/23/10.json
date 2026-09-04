@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Apabila kamu keluar berkhemah menentang musuh-musuhmu, maka jagalah dirimu daripada segala perkara jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kamu keluar"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "berkhemah"
+    },
+    {
+      "surface": "על",
+      "gloss": "menentang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-musuhmu"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "maka jagalah dirimu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada segala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:47.285274144Z",
+  "model": "glm-5.3"
+}

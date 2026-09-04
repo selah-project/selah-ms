@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 131,
+  "translation": "Sesungguhnya aku telah membuat tenang dan mendiamkan diri jiwaku, seperti anak yang disapih pada ibunya; seperti anak yang disapih itulah jiwaku di dalam diriku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak-kah"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "aku telah membuat rata"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "dan mendiamkan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "seperti anak yang disapih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pada"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "seperti anak yang disapih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di dalam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:20.692558596Z",
+  "model": "glm-5.3"
+}

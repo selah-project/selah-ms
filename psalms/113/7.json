@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 113,
+  "translation": "Yang menegakkan ⟨si⟩ dal dari debu, dari timbunan sampah mengangkat ⟨si⟩ ebyon —",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Yang menegakkan"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "dari debu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨si⟩ dal"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "dari timbunan sampah"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "⟨si⟩ ebyon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:45.358134565Z",
+  "model": "glm-5.3"
+}

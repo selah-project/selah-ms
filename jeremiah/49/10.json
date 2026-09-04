@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Sebab Aku telah menelanjangi ⟨את⟩ Esav, Aku telah membongkar ⟨את⟩ persembunyian-persembunyiannya, dan bersembunyi ia tidak akan dapat; telah dijarah benihnya, dan saudara-saudaranya, dan jiran-jirannya, dan ia tiada lagi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "telah menelanjangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "Aku telah membongkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembunyian-persembunyiannya"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "persembunyian-persembunyiannya"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "dan bersembunyi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akan dapat"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "telah dijarah"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "benihnya"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "dan saudara-saudaranya"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "dan jiran-jirannya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan ia tiada lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:25:54.684845864Z",
+  "model": "glm-5.3"
+}

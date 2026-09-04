@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "untuk memindahkan kerajaan itu dari keluarga Syaul dan untuk mendirikan ⟨את⟩ takhta David atas Israel dan atas Yehuda, dari Dan sampai Beer-Syeva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "untuk memindahkan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari keluarga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "dan untuk mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhta"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "dari Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeva"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:30.748328277Z",
+  "model": "glm-5.3"
+}

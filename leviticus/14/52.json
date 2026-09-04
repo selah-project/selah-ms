@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ia akan menghapuskan dosa ⟨את⟩ rumah itu dengan darah burung itu dan dengan air yang hidup dan dengan burung yang hidup itu dan dengan kayu araz dan dengan ezob dan dengan benang kirmizi.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "dan ia akan menghapuskan dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dengan darah"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "burung itu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "dan dengan air"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "dan dengan burung"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "dan dengan kayu"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "araz"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "dan dengan ezob"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "dan dengan benang kirmizi"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "tola"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:24.013240950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "maka keluarlah tua-tuamu dan hakim-hakimmu, dan mereka mengukur ⟨ke⟩ kota-kota yang di sekeliling orang terbunuh itu.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "tua-tuamu"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "dan hakim-hakimmu"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "dan mereka mengukur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "di sekeliling"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "orang terbunuh itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:15.897187815Z",
+  "model": "glm-5.3"
+}

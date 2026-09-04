@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Hai pengasihi Yahweh, bencilah kejahatan; ⟨Dia⟩ menjaga nyawa orang-orang kesihan-Nya, dari tangan orang fasik Dia melepaskan mereka.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "hai pengasihi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "bencilah"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "orang-orang kesihan-Nya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Dia melepaskan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:45.048766854Z",
+  "model": "glm-5.3"
+}

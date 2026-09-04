@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Aku akan memukul mereka dengan wabak, dan melupuskan mereka, dan Aku akan membuat ⟨את⟩ engkau menjadi bangsa yang besar dan kuat, lebih daripada dia.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Aku akan memukul mereka"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dengan wabak"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "dan melupuskan mereka"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "dan Aku akan membuat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau menjadi bangsa besar dan kuat"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "menjadi bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "dan kuat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "lebih daripada dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:45.446321800Z",
+  "model": "glm-5.3"
+}

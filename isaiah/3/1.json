@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab sesungguhnya Adonai, Yahweh Tsebaot, sedang menghapus dari Yerusalem dan dari Yehuda sokongan dan penyokong — segala sokongan roti dan segala sokongan air.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "sedang menghapus"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "dari Yerusalem"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "dan dari Yehuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sokongan"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "dan penyokong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sokongan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sokongan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:30.888368820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Biarlah kelihatan ⟨kepada⟩ hamba-hamba-Mu perbuatan-Mu, dan sembah-Mu ⟨ke atas⟩ anak-anak mereka.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Biarlah kelihatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kepada⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba-Mu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "dan sembah-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ke atas⟩"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:42.575515433Z",
+  "model": "glm-5.3"
+}

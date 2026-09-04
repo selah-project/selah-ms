@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Atas semuanya inikah Engkau menahan diri, Yahweh? ⟨Engkau⟩ berdiam diri dan menyeksa kami bersangat-sangat?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "semuanya ini"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "Engkau menahan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "dan menyeksa kami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bersangat-"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:56.873558216Z",
+  "model": "glm-5.3"
+}

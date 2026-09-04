@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan Aku memberikan kepadamu ⟨את⟩ rumah tuanmu, dan ⟨את⟩ isteri-isteri tuanmu ke pangkuanmu; dan Aku memberikan kepadamu ⟨את⟩ rumah Israel dan Yehudah; dan jika itu sedikit, Aku akan menambah kepadamu begini dan begini.\"",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "dan Aku memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "isteri-isteri"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "isteri-isteri"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "ke pangkuanmu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dan Aku memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "Aku akan menambah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "dan begini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:35.514564935Z",
+  "model": "glm-5.3"
+}

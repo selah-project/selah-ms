@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Kebenaran menjaga jalan orang yang lurus, tetapi kejahatan merosakkan orang berdosa.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "menjaga"
+    },
+    {
+      "surface": "תם",
+      "gloss": "orang yang lurus"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "tetapi kejahatan"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "merosakkan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "orang berdosa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:55.652635468Z",
+  "model": "glm-5.3"
+}

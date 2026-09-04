@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Yahweh Tsebaot telah bersumpah, katanya: Sungguh, seperti yang Kurancang, demikianlah sudah terjadi, dan seperti yang Kurancangkan, itulah yang akan berdiri.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "telah bersumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "Kurancang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sudah terjadi"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "dan seperti yang"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "Kurancangkan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itulah yang"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "akan berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:45.243443853Z",
+  "model": "glm-5.3"
+}

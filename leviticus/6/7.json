@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan inilah Tora korban minhah itu: anak-anak Aharon membawa ⟨את⟩-nya itu ke hadapan Yahweh, ke arah muka mezbah itu.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Dan ini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "korban minhah itu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "membawa dekat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia — korban minhah itu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arah muka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:37.731056054Z",
+  "model": "glm-5.3"
+}

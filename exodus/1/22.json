@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Paroh (Firaun) memerintahkan seluruh umatnya, katanya: Setiap anak lelaki yang lahir, buanglah dia ke sungai; dan setiap anak perempuan, biarkanlah hidup.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintahkan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "yang lahir"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ke sungai"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "buanglah dia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "biarkanlah hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:17.340142305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Mereka melihat perbuatan-perbuatan Yahweh, dan keajaiban-Nya di tempat yang dalam.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan keajaiban-Nya"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "di tempat yang dalam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:56.077697090Z",
+  "model": "glm-5.3"
+}

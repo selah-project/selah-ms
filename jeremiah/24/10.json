@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan Aku akan menghantar ke atas mereka ⟨את⟩ pedang, ⟨את⟩ kelaparan, dan ⟨את⟩ penyakit sampar, sehingga habis mereka dari atas tanah yang Kuberikan kepada mereka dan kepada bapa mereka.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Dan Aku akan menghantar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ke atas mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelaparan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penyakit sampar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "penyakit sampar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "habis mereka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Kuberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "dan kepada bapa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:56.095918242Z",
+  "model": "glm-5.3"
+}

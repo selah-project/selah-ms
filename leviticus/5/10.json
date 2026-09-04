@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "dan ⟨את⟩ yang kedua akan dijadikannya korban bakaran menurut peraturan, dan imam akan membuat penebusan baginya daripada dosanya yang telah ia dosa, dan ia akan diampuni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang kedua"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan dijadikannya"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan akan membuat penebusan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "daripada dosanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "telah ia dosa"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "dan akan diampuni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:44.102736343Z",
+  "model": "glm-5.3"
+}

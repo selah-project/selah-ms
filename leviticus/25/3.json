@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "enam tahun lamanya engkau menabur padangmu, dan enam tahun lamanya engkau memangkas kebun anggurmu, dan engkau mengumpulkan ⟨את⟩ hasilnya.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "engkau menabur"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "padangmu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "engkau memangkas"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kebun anggurmu"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dan engkau mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:15.532087239Z",
+  "model": "glm-5.3"
+}

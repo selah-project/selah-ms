@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan mereka mengambil ⟨את⟩ segala jarahan dan ⟨את⟩ segala rampasan, baik pada manusia mahupun pada binatang.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala jarahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "jarahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala rampasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pada manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mahupun pada binatang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:19.612532704Z",
+  "model": "glm-5.3"
+}

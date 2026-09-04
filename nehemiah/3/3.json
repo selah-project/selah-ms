@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan ⟨את⟩ pintu gerbang ikan-ikan itu dibina oleh bani Hasenaah; merekalah yang memasang balaknya, dan mendirikan pintu-pintunya, palang-palangnya dan skurunya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pintu gerbang ikan-ikan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "ikan-ikan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "dibina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "merekalah"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "yang memasang balaknya"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "dan mendirikan"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "pintu-pintunya"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "skuru-palangnya"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "dan palang-palangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:53:18.933822797Z",
+  "model": "glm-5.3"
+}

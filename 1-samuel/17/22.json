@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan Daud meninggalkan ⟨את⟩ kelengkapan itu dari atasnya ke tangan penjaga kelengkapan itu, dan berlari ke barisan, dan datang, dan bertanya tentang kesejahteraan saudara-saudaranya.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelengkapan itu"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kelengkapan itu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari atasnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kelengkapan itu"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "dan berlari"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ke barisan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "dan bertanya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "tentang saudara-saudaranya"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kesejahteraan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:21.324270329Z",
+  "model": "glm-5.3"
+}

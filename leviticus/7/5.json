@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan imam akan membakar ⟨את⟩ semuanya di atas mezbah sebagai persembahan api bagi Yahweh; itu ⟨ialah⟩ korban pemberian salah.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "dan akan membakar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "semuanya (lemak-lemak dan bahagian korban, objek akhiran -ם)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mezbah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "korban pemberian salah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:38.278484965Z",
+  "model": "glm-5.3"
+}

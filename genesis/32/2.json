@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan Yaakov berjalan menurut jalannya, lalu bertemu dengannya utusan-utusan Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Dan Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "menurut jalannya"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "lalu bertemu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:14.977942622Z",
+  "model": "glm-5.3"
+}

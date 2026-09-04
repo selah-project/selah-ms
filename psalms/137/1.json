@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 137,
+  "translation": "Di tepi sungai-sungai Babel, di sana kami duduk, ya, kami menangis, ketika kami mengingat ⟨את⟩ Tsion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Di tepi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "kami duduk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "kami menangis"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ketika kami mengingat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:40.987783761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu berfirmanlah Yahweh kepada Moshe: hati Paroh berat, ia menolak melepaskan umat itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:19.069680023Z",
+  "model": "glm-5.3"
+}

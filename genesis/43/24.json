@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Dan orang itu membawa masuk ⟨את⟩ orang-orang itu ke rumah Yosef, lalu diberinya air, dan mereka membasuh kaki mereka; dan diberinya makanan haiwan bagi keldai-keldai mereka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dan dibawanya masuk"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang itu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diberinya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "dan mereka membasuh"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diberinya"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "makanan haiwan"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "bagi keldai-keldai mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:51.689067893Z",
+  "model": "glm-5.3"
+}

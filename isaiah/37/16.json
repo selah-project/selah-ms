@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Yahweh Tsebaot, Elohim Israel, yang bersemayam di atas para kerub — Engkaulah ⟨⟩ Elohim, Engkau seorang diri, bagi segala kerajaan bumi; Engkaulah yang membuat ⟨את⟩ langit dan ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bersemayam"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "para kerub"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Engkau seorang diri"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi segala"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yang membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:10.700091921Z",
+  "model": "glm-5.3"
+}

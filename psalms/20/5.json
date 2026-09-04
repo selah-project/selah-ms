@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Semoga Ia memberikan kepadamu seperti hatimu, dan segala rancanganmu dipenuhi.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Semoga Ia memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "seperti hatimu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "rancanganmu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "dipenuhi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:30.277838059Z",
+  "model": "glm-5.3"
+}

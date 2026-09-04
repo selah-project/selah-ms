@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu mereka memuat ⟨את⟩ tabut Elohim di atas sebuah kereta baharu dari rumah Avinadav, dan Uza dan saudaranya mengenderai kereta itu.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "memuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "baharu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "dan Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "dan saudaranya"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "mengenderai"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "kereta itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:20.733523355Z",
+  "model": "glm-5.3"
+}

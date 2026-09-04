@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "supaya darah orang tak bersalah tidak ditumpahkan di tengah-tengah bumi yang Yahweh Elohimmu memberikan kepadamu sebagai pusaka, dan jangan sampai darah menjadi atasmu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ditumpahkan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "orang tak bersalah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "bumimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sebagai pusaka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan jangan sampai terjadi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:28.818280231Z",
+  "model": "glm-5.3"
+}

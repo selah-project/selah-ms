@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Penipuan di dalam hati perancang-perancang kejahatan, tetapi bagi penasihat-penasihat damai ⟨ada⟩ kegembiraan.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "Penipuan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di dalam hati"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "perancang-perancang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "tetapi bagi penasihat-penasihat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kegembiraan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:16.391425597Z",
+  "model": "glm-5.3"
+}

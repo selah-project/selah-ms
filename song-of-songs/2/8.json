@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Suara kekasihku! Lihat,dialah yang datang, melompat atas gunung-gunung, meloncat atas bukit-bukit.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "kekasihku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "melompat"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "meloncat"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit-bukit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:23.514366011Z",
+  "model": "glm-5.3"
+}

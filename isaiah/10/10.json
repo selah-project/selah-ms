@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Sebagaimana didapati oleh tanganku kerajaan-kerajaan berhala, dan patung-patung mereka, dari Yerusalayim dan dari Syomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sebagaimana"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oleh tanganku"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "kerajaan-kerajaan"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "berhala"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "dan patung-patung mereka"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "dari Yerusalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "dan dari Syomeron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:24.123556913Z",
+  "model": "glm-5.3"
+}

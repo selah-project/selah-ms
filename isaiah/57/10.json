@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Dalam kebesaran jalanmu engkau penat, tidak kaukata 'putus asa'; kehidupan tanganmu engkau dapati — sebab itu engkau tidak lemah.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "dalam kebesaran"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalanmu"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "engkau penat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kaukata"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "'putus asa'"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "engkau dapati"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "engkau lemah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:14.426215083Z",
+  "model": "glm-5.3"
+}

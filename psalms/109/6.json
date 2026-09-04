@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Tetapkanlah atasnya orang fasik, dan seorang penuduh berdiri di sebelah kanannya.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "tetapkanlah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "dan penuduh"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sebelah kanannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:45.514762026Z",
+  "model": "glm-5.3"
+}

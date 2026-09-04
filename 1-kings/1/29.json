@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu bersumpah raja itu dan berkata: \"Hiduplah Yahweh, yang telah menebus ⟨את⟩ nyawaku dari segala kesusahan.\"",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Lalu bersumpah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hiduplah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "telah menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesusahan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:14.761244581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "dan orang miskin jangan engkau beri muka dalam perselisihannya.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "dan orang miskin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "engkau beri muka"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dalam perselisihannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:42.487967033Z",
+  "model": "glm-5.3"
+}

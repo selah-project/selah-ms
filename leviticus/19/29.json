@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Jangan kauhina ⟨את⟩ anakmu dengan menjadikannya pelacur, supaya negeri itu tidak jatuh kepada pelacuran dan supaya negeri itu tidak penuh dengan kekejian.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "kauhina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakmu"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "dengan menjadikannya pelacur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "jatuh kepada pelacuran"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "dan supaya ... penuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "dengan kekejian"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:17.163206529Z",
+  "model": "glm-5.3"
+}

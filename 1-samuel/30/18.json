@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan David menyelamatkan ⟨את⟩ segala yang diambil oleh Amalek, dan ⟨את⟩ kedua-dua isterinya diselamatkan David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "dan menyelamatkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang diambil oleh Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua-dua isterinya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "diselamatkan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:11.580044933Z",
+  "model": "glm-5.3"
+}

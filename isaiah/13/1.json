@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Beban Babel yang dilihat oleh Yesyayahu bin Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beban"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dilihat"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "oleh Yesyayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:19.406193835Z",
+  "model": "glm-5.3"
+}

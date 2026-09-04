@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Ia melemparkan ais-Nya seperti ketul-ketul; menghadapi sejuk-Nya, siapakah yang ⟨boleh⟩ berdiri?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "melemparkan"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ais-Nya"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "seperti ketul-ketul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "menghadapi"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sejuk-Nya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:24.855574010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Jangan lupa suara lawan-lawan-Mu; bisingnya orang yang bangkit menentang-Mu naik sentiasa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "lawan-lawan-Mu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "bisingnya"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "orang yang bangkit menentang-Mu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:47.156334973Z",
+  "model": "glm-5.3"
+}

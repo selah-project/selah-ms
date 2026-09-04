@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan engkau ingat bahawa hamba engkau ⟨adalah⟩ di Mitsrayim, dan engkau pelihara dan engkau buat ⟨את⟩ ketetapan-ketetapan ini.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Dan engkau ingat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "היית",
+      "gloss": "engkau ⟨adalah⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "dan engkau pelihara"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau buat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketetapan-ketetapan ini"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:57.504043873Z",
+  "model": "glm-5.3"
+}

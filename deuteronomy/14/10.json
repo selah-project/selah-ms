@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan segala yang tiada sirip dan sisiknya, jangan kamu makan; najis ⟨ia⟩ bagi kamu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sirip"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "dan sisik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:50.260365427Z",
+  "model": "glm-5.3"
+}

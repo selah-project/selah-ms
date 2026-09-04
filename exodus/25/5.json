@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "dan kulit-kulit biri-biri jantan yang dimerahkan, dan kulit-kulit tahasy, dan kayu syitim —",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "dan kulit-kulit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "biri-biri jantan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "yang dimerahkan"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "dan kulit-kulit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahasy"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "dan kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "syitim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:23.564874975Z",
+  "model": "glm-5.3"
+}

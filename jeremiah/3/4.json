@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bukankah sejak sekarang ini engkau berseru kepada-Ku: 'Bapaku, engkaulah sahabat masa mudaku'?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "sejak sekarang ini"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "engkau berseru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bapaku"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "sahabat"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "masa muda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkaulah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:35.050724423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Yahweh, namamu ⟨ialah⟩ untuk selamanya; Yahweh, peringatanmu untuk keturunan demi keturunan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "peringatanmu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuk keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi keturunan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:21.879000306Z",
+  "model": "glm-5.3"
+}

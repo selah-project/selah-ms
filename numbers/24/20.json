@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu dilihatnya ⟨את⟩ Amalek, lalu diangkatnya petanya, dan katanya: Awal bangsa-bangsa ialah Amalek, dan akhirnya kebinasaan selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu dilihatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "lalu diangkatnya"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "petanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "awal"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "dan akhirnya"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kebinasaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:10.328217507Z",
+  "model": "glm-5.3"
+}

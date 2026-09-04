@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan orang-orang yang mengenal nama-Mu berharap pada-Mu, sebab tidak Kautinggalkan mereka yang mencari Engkau, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "berharap"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "orang-orang yang mengenal"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "Kautinggalkan"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "mereka yang mencari Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:53.786765139Z",
+  "model": "glm-5.3"
+}

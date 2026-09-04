@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu berkatalah Yahweh kepada ha-satan: Tambahlah, dia ada di dalam tanganmu; hanya ⟨את⟩ nyawanya peliharalah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Tambahlah"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "di dalam tanganmu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawanya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "peliharalah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:18.536796867Z",
+  "model": "glm-5.3"
+}

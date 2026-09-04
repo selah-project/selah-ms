@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan Aku tetapkan ⟨את⟩ sempadanmu dari laut Suf sampai laut orang Pelisyt, dan dari padang gurun sampai sungai itu, sebab Aku beri ke dalam tangan kamu ⟨את⟩ penduduk tanah itu, dan engkau akan menghalau mereka dari hadapanmu.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Dan Aku tetapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sempadanmu"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "sempadanmu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dari laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelisyt"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "dan dari padang gurun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku beri"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ke dalam tangan kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penduduk tanah itu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "dan engkau akan menghalau mereka"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:04.369922577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan sekarang, Israel, dengarlah kepada hukum-hukum dan kepada peraturan-peraturan yang aku ajarkan ⟨את⟩ kamu untuk dilakukan, supaya kamu hidup, dan kamu masuk serta menduduki ⟨את⟩ negeri yang Yahweh, Elohim bapa-bapa kamu, memberikan kepada kamu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "peraturan-peraturan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "mengajarkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk dilakukan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "kamu hidup"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "dan kamu masuk"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "serta menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:51.011297912Z",
+  "model": "glm-5.3"
+}

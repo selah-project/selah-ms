@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 99,
+  "translation": "Dan kekuatan raja — keadilan dikasihi ⟨olehmu⟩; ⟨engkau⟩ menegakkan ketepatan; keadilan dan kebenaran di Yaakov ⟨olehmu⟩ engkau lakukan.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "dan kekuatan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dikasihi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "olehmu\/engkau"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "⟨engkau⟩ menegakkan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ketepatan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "di Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "engkau lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:10.230480875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Sebab sehingga kenyang dengan kejahatan ⟨ialah⟩ nefesy ⟨aku⟩, dan hidup ⟨aku⟩ telah sampai kepada Syeol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sehingga kenyang"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "dengan kejahatan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesy ⟨aku⟩"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "dan hidup ⟨aku⟩"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syeol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "telah sampai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.219101710Z",
+  "model": "glm-5.3"
+}

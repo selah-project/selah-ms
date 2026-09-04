@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku telah membuat keadilan dan kebenaran; jangan tinggalkan aku kepada penindasku.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "aku telah membuat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "בל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "tinggalkan aku"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "kepada penindasku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:20.732640609Z",
+  "model": "glm-5.3"
+}

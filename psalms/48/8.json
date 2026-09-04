@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Dengan angin timur Engkau memecahkan kapal-kapal Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Dengan angin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "Engkau memecahkan"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kapal-kapal"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:51.413247569Z",
+  "model": "glm-5.3"
+}

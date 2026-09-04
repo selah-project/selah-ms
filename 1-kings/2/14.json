@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu ia berkata, ada perkataan ⟨bagiku⟩ kepadamu; dan baginda berkata, berkatalah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu ia berkata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan baginda berkata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berkatalah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:01.135262662Z",
+  "model": "glm-5.3"
+}

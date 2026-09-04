@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab kekejian bagi Yahweh ialah orang yang berliku, tetapi dengan orang-orang lurus ⟨את⟩ Dia bersekutu rahsia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "orang yang berliku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang-orang lurus",
+      "marks": "orang-orang lurus"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "Dia bersekutu rahsia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:35.038651270Z",
+  "model": "glm-5.3"
+}

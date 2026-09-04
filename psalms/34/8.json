@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Malaikat Yahweh berkhemah mengelilingi orang yang takut akan Dia, dan Dia melepaskan mereka.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "berkhemah"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "orang yang takut akan Dia"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "dan Dia melepaskan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:14.886967356Z",
+  "model": "glm-5.3"
+}

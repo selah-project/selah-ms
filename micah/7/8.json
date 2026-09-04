@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Jangan bersukacita atasku, hai musuhku; kerana aku telah jatuh, aku telah bangkit; kerana aku duduk dalam kegelapan, Yahweh ⟨ialah⟩ cahaya bagiku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "aku telah jatuh"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "aku telah bangkit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "aku duduk"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:19.436406062Z",
+  "model": "glm-5.3"
+}

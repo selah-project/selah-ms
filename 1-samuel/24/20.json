@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Sebab jika seseorang mendapati ⟨את⟩ musuhnya, dan membiarkannya pergi dengan jalan yang baik — maka Yahweh akan membalasmu dengan kebaikan sebagai ganti hari ini, yang engkau lakukan kepadaku.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Sebab jika"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mendapati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuhnya"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "musuhnya"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "dan membiarkannya pergi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dengan jalan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "akan membalasmu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dengan kebaikan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:19.137095755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Licin hati mereka; sekarang mereka akan didapati bersalah; Dia akan meranapkan mazbah-mazbah mereka, akan memusnahkan tugu-tugu sembahan mereka.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "licin"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "mereka akan didapati bersalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "akan meranapkan"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "mazbah-mazbah mereka"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "akan memusnahkan"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "tugu-tugu sembahan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:11.555463516Z",
+  "model": "glm-5.3"
+}

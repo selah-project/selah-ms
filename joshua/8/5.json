@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan aku, serta segala orang ramai yang ⟨את⟩ bersamaku, akan menghampiri kota itu; dan akan terjadilah, apabila mereka keluar menemui kita seperti pada kali pertama, kita akan lari dari hadapan mereka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "serta segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang ramai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersamaku",
+      "marks": "orang ramai yang bersamaku"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "akan menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan akan terjadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "mereka keluar"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "untuk menemui kita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pada kali pertama"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "kita akan lari"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "dari hadapan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:59:39.791624419Z",
+  "model": "glm-5.3"
+}

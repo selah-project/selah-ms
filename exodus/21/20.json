@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan apabila seorang memukul ⟨את⟩ hambanya lelaki atau ⟨את⟩ hambanya perempuan dengan rotan, dan ia mati di bawah tangannya, nescaya ia dihukum.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan apabila"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambanya lelaki"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambanya lelaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hambanya perempuan"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "hambanya perempuan"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "dengan rotan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "dihukum"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "nescaya dihukum"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:57.721110743Z",
+  "model": "glm-5.3"
+}

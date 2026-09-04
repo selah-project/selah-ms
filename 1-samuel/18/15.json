@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Apabila Syaul melihat bahawa ⟨dia⟩ sangat berhati-hati bijaksana, maka takutlah ia terhadapnya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "berhati-hati bijaksana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "maka takutlah"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "terhadapnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:47.125385066Z",
+  "model": "glm-5.3"
+}

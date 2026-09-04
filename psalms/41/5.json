@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Aku, aku berkata: \"Yahweh, kasihanilah aku, sembuhkanlah nefeshku, sebab aku telah berdosa kepada-Mu.\"",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kasihanilah aku"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "sembuhkanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku telah berdosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:50.890403537Z",
+  "model": "glm-5.3"
+}

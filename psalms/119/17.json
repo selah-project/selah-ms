@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Berkelahilah kepada hamba-Mu, supaya aku hidup dan memelihara firman-Mu.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Berkelahilah"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "supaya aku hidup"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "dan aku memelihara"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firman-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:51.837005940Z",
+  "model": "glm-5.3"
+}

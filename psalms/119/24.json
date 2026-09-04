@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Ya, peraturan-peraturan-Mu ialah kesukaanku, orang-orang nasihatku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ya,"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "peraturan-peraturah-Mu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kesukaanku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "nasihatku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:07.296966833Z",
+  "model": "glm-5.3"
+}

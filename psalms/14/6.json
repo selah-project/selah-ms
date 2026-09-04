@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Rancangan si miskin kamu buat malu, sebab Yahweh ⟨ialah⟩ perlindungannya.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Rancangan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "kamu buat malu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "perlindungannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:10.603436639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Pendatang ⟨ialah⟩ aku di bumi; janganlah sembunyikan daripadaku perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Pendatang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sembunyikan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:51.837440250Z",
+  "model": "glm-5.3"
+}

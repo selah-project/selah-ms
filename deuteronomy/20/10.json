@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Apabila engkau menghampiri sebuah kota untuk berperang menentangnya, maka panggillah kepadanya demi damai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "engkau menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sebuah kota"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "untuk berperang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "menentangnya"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "maka panggillah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "demi damai"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:22.320094714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Engkau hendaklah membuat kayu palang bagi mazbah itu, kayu palang daripada kayu syitim, dan engkau menyadurkannya ⟨את⟩ tembaga.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "engkau hendaklah membuat"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "kayu palang"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "bagi mazbah"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "kayu palang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daripada kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "syitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "engkau menyadurkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tembaga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:47.996092372Z",
+  "model": "glm-5.3"
+}

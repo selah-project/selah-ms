@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu ia mengambil kitab perjanjian itu dan membacakannya dalam telinga umat itu, lalu mereka berkata, \"Segala yang difirmankan Yahweh akan kami lakukan dan kami dengarkan.\"",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjanjian itu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan membacakannya"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dalam telinga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu mereka berkata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "akan kami lakukan"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "dan kami dengarkan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:13.245295472Z",
+  "model": "glm-5.3"
+}

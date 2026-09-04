@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Kepada-Mu kesunyian ⟨ialah⟩ pujian, hai Elohim, di Tsiyon, dan kepada-Mu nazar akan dilunaskan.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "kesunyian"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "dan kepada-Mu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akan dilunaskan"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:17.834770092Z",
+  "model": "glm-5.3"
+}

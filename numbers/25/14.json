@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 25:14",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan nama lelaki Yisrael yang dipukul itu, yang memukul ⟨את⟩ perempuan Midian itu: Zimri bin Salu, penghulu keluarga bapa bagi orang Syimeon.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "yang dipukul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan Midian itu"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "perempuan Midian itu"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Salu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "penghulu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "לשמעני",
+      "gloss": "bagi orang Syimeon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:18.837577725Z",
+  "model": "glm-5.3"
+}

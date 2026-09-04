@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Beginilah kata Yahweh: Lihat, Aku membangkitkan terhadap Babel dan terhadap penduduk Leb-Kamai (hati para pembangkit melawan Aku) ⟨sebuah⟩ angin pemusnah,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "Aku membangkitkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Leb (hati)"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Kamai (para pembangkit melawan Aku)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "pemusnah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:24:39.277373840Z",
+  "model": "glm-5.3"
+}

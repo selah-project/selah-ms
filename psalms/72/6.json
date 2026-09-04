@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Biarlah ia turun seperti hujan ke atas rumput yang telah direbut, seperti gerimis yang mencurahi bumi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ia turun"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "seperti hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "גז",
+      "gloss": "rumput yang telah direbut"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "seperti gerimis"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "yang mencurahi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:13.790989458Z",
+  "model": "glm-5.3"
+}

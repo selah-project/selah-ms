@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Boaz memperanakkan ⟨את⟩ Obed, dan Obed memperanakkan ⟨את⟩ Yisyai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Dan Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "dan Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisyai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisyai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:30.217043237Z",
+  "model": "glm-5.3"
+}

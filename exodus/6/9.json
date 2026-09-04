@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu Mosheh berkata demikian kepada bani Israel, tetapi mereka tidak mendengar Mosheh kerana sesak roh dan kerana kerja paksa yang berat.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "kerana sesak"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "dan kerana kerja paksa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "yang berat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:24.131901308Z",
+  "model": "glm-5.3"
+}

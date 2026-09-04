@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan Ia menaruh dalam mulutku nyanyian baru, puji-pujian bagi Elohim kami; banyak orang akan melihat dan berasa gerun, dan berharap kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan Ia menaruh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dalam mulutku"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "bagi Elohim kami"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "akan melihat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak orang"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "dan berasa gerun"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "dan berharap"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:46.499267191Z",
+  "model": "glm-5.3"
+}

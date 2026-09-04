@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 27:26",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Di air yang banyak pendayung-pendayungmu telah membawa ⟨את⟩ engkau; angin timur memecahkan engkau di hati laut-laut.",
+  "tokens": [
+    {
+      "surface": "במים",
+      "gloss": "di air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "הביאוך",
+      "gloss": "mereka membawa engkau"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "pendayung-pendayungmu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "memecahkan engkau"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "di hati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut-laut"
+    }
+  ],
+  "timestamp": "2026-09-04T13:36:19.770992856Z",
+  "model": "glm-5.3"
+}

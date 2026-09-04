@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ambang pintu bergoncang pada suara yang berseru itu, dan rumah itu penuh dengan asap.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "Dan bergoncang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ambang"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "pada suara"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "yang berseru itu"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "dan rumah itu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dengan asap"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:53.060452333Z",
+  "model": "glm-5.3"
+}

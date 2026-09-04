@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku telah bersumpah dan aku menegakkannya, untuk memelihara peraturan-peraturan kebenaran-Mu.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku telah bersumpah"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "dan aku menegakkannya"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk memelihara"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "peraturan-peraturan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaran-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:19.990995829Z",
+  "model": "glm-5.3"
+}

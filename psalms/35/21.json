@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Mereka membuka lebar mulutnya terhadap aku, mereka berkata, Aha, aha, mata kami telah melihat ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "dan mereka membuka lebar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mata kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:13.898932062Z",
+  "model": "glm-5.3"
+}

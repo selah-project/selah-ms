@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Buah orang benar ⟨ialah⟩ pohon kehidupan, dan pengambil nyawa ialah orang bijak.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "Buah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "dan pengambil"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:24.218723622Z",
+  "model": "glm-5.3"
+}

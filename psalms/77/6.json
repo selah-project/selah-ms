@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Aku memikirkan hari-hari dari masa lampau, tahun-tahun zaman purba.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Aku memikirkan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dari masa lampau"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "tahun-tahun"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "zaman purba"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:42.262537027Z",
+  "model": "glm-5.3"
+}

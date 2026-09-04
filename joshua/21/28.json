@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan daripada suku Yissakhar: ⟨את⟩ Kisyon dan ⟨את⟩ tanah lapangnya, ⟨את⟩ Daberat dan ⟨את⟩ tanah lapangnya.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dan daripada suku"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissakhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kisyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kisyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah lapangnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah lapangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:03:34.016967712Z",
+  "model": "glm-5.3"
+}

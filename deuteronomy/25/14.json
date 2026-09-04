@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Tidak akan ada padamu dalam rumahmu efa dan efa, besar dan kecil.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "dalam rumahmu"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "dan efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "besar"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "dan kecil"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:43.883547546Z",
+  "model": "glm-5.3"
+}

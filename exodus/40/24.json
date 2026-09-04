@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan diletakkannya ⟨את⟩ kandil itu dalam Kemah Perjumpaan, berhadapan dengan meja itu, pada sisi Mishkan itu, di sebelah selatan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandil itu"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandil itu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dalam Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Perjumpaan"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "berhadapan dengan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "di sebelah selatan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:49.674264471Z",
+  "model": "glm-5.3"
+}

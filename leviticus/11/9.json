@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "⟨את⟩ ini boleh kamu makan dari segala yang ada dalam air: segala yang ada sirip dan sisik padanya, dalam air, di laut dan di sungai-sungai, ⟨את⟩ mereka kamu boleh makan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "boleh kamu makan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sirip"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "dan sisik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "di laut"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "dan di sungai-sungai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:17.300667211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Langit memberitakan keadilan-Nya, dan segala bangsa melihat kemuliaan-Nya.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "memberitakan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "keadilan-Nya"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:11.336825117Z",
+  "model": "glm-5.3"
+}

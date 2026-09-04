@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 121,
+  "translation": "Yahweh ⟨ialah⟩ penjagamu, Yahweh ⟨ialah⟩ naunganmu di sebelah tangan kananmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "penjagamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "naunganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sebelah tangan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kananmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:05.500922162Z",
+  "model": "glm-5.3"
+}

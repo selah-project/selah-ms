@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu mereka membawa naik ⟨את⟩ tabut itu, dan ⟨את⟩ khemah pertemuan, dan ⟨את⟩ segala perkakas tempat kudus yang ada dalam khemah itu; imam-imam, orang-orang Lewi, membawa naik semuanya.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "lalu mereka membawa naik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut itu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tabut itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "khemah pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakas tempat kudus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dalam khemah itu"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "membawa naik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ semuanya",
+      "marks": "imam-imam, orang-orang Lewi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "orang-orang Lewi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:06:26.590559506Z",
+  "model": "glm-5.3"
+}

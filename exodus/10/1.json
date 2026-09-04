@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu Yahweh berfirman kepada Moshe (Musa): Masuklah menghadap Paroh (Firaun), kerana Akulah yang telah memberatkan hatinya dan ⟨את⟩ hati hamba-hambanya, supaya Aku menaruh tanda-tanda-Ku ini di tengah-tengahnya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "telah memberatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatinya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "Aku menaruh"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tanda-tanda-Ku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "di tengah-tengahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:43.633017848Z",
+  "model": "glm-5.3"
+}

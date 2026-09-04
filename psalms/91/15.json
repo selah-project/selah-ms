@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Ia akan memanggil-Ku dan Aku akan menjawabnya; Aku ⟨bersama⟩-nya, Aku dalam kesesakan; Aku akan meluputkannya dan memuliakannya.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ia akan memanggil-Ku"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "dan Aku akan menjawabnya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨bersama⟩-nya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Aku akan meluputkannya"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "dan memuliakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:53.897682838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 146,
+  "translation": "Yahweh memelihara ⟨את⟩ pendatang; anak yatim dan balu ⟨dia⟩ tegakkan; tetapi jalan orang-orang fasik ⟨dia⟩ belitkan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pendatang"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dan balu"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "tegakkan"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tetapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "belitkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.372119761Z",
+  "model": "glm-5.3"
+}

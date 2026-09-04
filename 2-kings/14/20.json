@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu mereka mengangkat ⟨את⟩ dia ke atas kuda-kuda, dan ia dikuburkan di Yerusalem bersama bapa-bapanya, di kota Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "lalu mereka mengangkat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dan ia dikuburkan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:57.888329601Z",
+  "model": "glm-5.3"
+}

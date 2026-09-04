@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Hanya kepada dosa-dosa Yarovam anak Nevat, yang membuat Yisrael berdosa, ia melekat; ia tidak berpaling daripadanya.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "kepada dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "membuat berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ia melekat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:24.823339734Z",
+  "model": "glm-5.3"
+}

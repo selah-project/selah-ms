@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Hamba-Mu aku; beri aku kefahaman, supaya aku mengenal kesaksian-kesaksian-Mu.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "beri aku kefahaman"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "supaya aku mengenal"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kesaksian-kesaksian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:32.676411402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Berkatalah ⟨mereka yang⟩ ditebus oleh Yahweh, yang ⟨dia⟩ tebus mereka dari tangan musuh,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Berkatalah"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "⟨mereka yang⟩ ditebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "oleh Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "tebus mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:28.440047713Z",
+  "model": "glm-5.3"
+}

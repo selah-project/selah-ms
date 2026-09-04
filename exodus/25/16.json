@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan engkau akan meletakkan ke dalam Peti itu ⟨את⟩ kesaksian yang Aku akan berikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Dan engkau akan meletakkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Peti itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku akan berikan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:37.689533580Z",
+  "model": "glm-5.3"
+}

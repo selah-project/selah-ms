@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 2:23",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Gesyur dan Aram mengambil ⟨את⟩ Havot-Yair daripada mereka, ⟨את⟩ Kenat dan ⟨את⟩ kampung-kampungnya — enam puluh kota. Semua ini bani Makhir, bapa Gilead.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Gesyur"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "dan Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Havot-Yair"
+    },
+    {
+      "surface": "חות",
+      "gloss": "Havot (perkampungan)"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "daripada mereka ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kampung-kampungnya"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampung-kampungnya"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "enam puluh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Semua"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:48.696624842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan engkau akan membuat ⟨את⟩ palang-palang itu daripada kayu syittim, dan engkau akan menyalutnya emas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palang itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "palang-palang itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "syittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dan engkau akan menyalut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:03.402757980Z",
+  "model": "glm-5.3"
+}

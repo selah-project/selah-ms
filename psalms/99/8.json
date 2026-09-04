@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 99,
+  "translation": "Yahweh Elohim kami, Engkaulah yang menjawab mereka; El yang pengampun Engkau bagi mereka, walaupun membalas atas perbuatan-perbuatan mereka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "menjawab mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yang pengampun"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "walaupun membalas"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "perbuatan-perbuatan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:17.507166834Z",
+  "model": "glm-5.3"
+}

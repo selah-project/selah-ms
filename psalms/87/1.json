@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 87,
+  "translation": "Kepada bani Korach, mizmor, sebuah lagu. Dasarnya ⟨ialah⟩ di gunung-gunung kudus.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Kepada bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sebuah lagu"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "dasarnya"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "di gunung-gunung"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.798727338Z",
+  "model": "glm-5.3"
+}

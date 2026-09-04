@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Tiada Syalom, kata Yahweh, bagi orang-orang fasik.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "bagi orang-orang fasik"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:25.611663316Z",
+  "model": "glm-5.3"
+}

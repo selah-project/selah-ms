@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Anggaplah mereka bersalah, ya Elohim; biarlah mereka jatuh kerana rancangan mereka; halaulah mereka kerana banyaknya pemberontakan mereka, sebab mereka telah memberontak terhadap-Mu.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "anggaplah mereka bersalah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "biarlah mereka jatuh"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "kerana rancangan mereka"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kerana banyaknya"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "pemberontakan mereka"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "halaulah mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "mereka telah memberontak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadap-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:31.647356831Z",
+  "model": "glm-5.3"
+}

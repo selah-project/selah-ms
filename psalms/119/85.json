@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Orang-orang congkak menggali bagi ku lubang-lubang perangkap, yang tidak mengikut Tora mu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "menggali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi ku"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "orang-orang congkak"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "lubang-lubang perangkap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "mengikut Tora mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:40.646911966Z",
+  "model": "glm-5.3"
+}

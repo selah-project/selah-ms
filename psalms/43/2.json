@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Sebab Engkaulah Elohim kubahan aku; mengapakah Engkau mencampakkan aku? Mengapakah aku berjalan berduka dalam penindasan musuh?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "kubahan aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "Engkau mencampakkan aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "berduka"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "dalam penindasan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:59.515041372Z",
+  "model": "glm-5.3"
+}

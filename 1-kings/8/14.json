@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu raja itu memalingkan ⟨את⟩ wajahnya dan memberkati ⟨את⟩ seluruh jemaah Yisrael, dan seluruh jemaah Yisrael berdiri.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "lalu memalingkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahnya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh jemaah Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:37:55.510587252Z",
+  "model": "glm-5.3"
+}

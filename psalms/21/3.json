@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Keinginan hatinya telah Kau berikan kepadanya, dan permintaan bibirnya tidak sekali Kau tahan. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "telah Kau berikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "dan permintaan"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "bibirnya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak sekali"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "Kau tahan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:38.080106300Z",
+  "model": "glm-5.3"
+}

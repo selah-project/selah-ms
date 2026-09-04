@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Sesungguhnya, dia memukul batu karang dan mengalir air, dan anak-anak sungai melimpah — apakah juga roti sanggup dia beri, ataukah daging disediakannya bagi umatnya?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "dia memukul"
+    },
+    {
+      "surface": "צור",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "dan mengalir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ויחלים",
+      "gloss": "dan anak-anak sungai"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "melimpah"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "apakah juga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sanggup"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dia beri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "disediakannya"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "bagi umatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:18.026689140Z",
+  "model": "glm-5.3"
+}

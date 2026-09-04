@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Saksi-saksi keganasan bangkit; perkara yang tidak aku kenal mereka tuntut daripadaku.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "Saksi-saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku kenal"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "mereka tuntut daripadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.079960071Z",
+  "model": "glm-5.3"
+}

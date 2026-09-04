@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Aku akan menggoncangkan ⟨את⟩ segala bangsa, lalu datang perbara segala bangsa, dan Aku akan memenuhi ⟨את⟩ rumah ini dengan kemuliaan, kata Yahweh Tsebaot.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "Dan Aku akan menggoncangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "perbara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "dan Aku akan memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah ini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-04T13:51:31.635987780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Yang melihat engkau akan menatap kepadamu, kepadamu mereka merenung: \"Adakah ini orang yang menggemparkan bumi, yang menggoncangkan kerajaan-kerajaan?\"",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "yang melihat engkau"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "akan menatap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "mereka merenung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "adakah ini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "yang menggemparkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "yang menggoncangkan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan-kerajaan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:01.319754626Z",
+  "model": "glm-5.3"
+}

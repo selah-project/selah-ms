@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Aku akan memberikan tanda-tanda ajaib di langit dan di bumi: darah dan api dan tiang-tiang asap.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Dan Aku akan memberikan"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "tanda-tanda ajaib"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "dan di bumi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "dan api"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "dan tiang-tiang"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asap"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:12.160427372Z",
+  "model": "glm-5.3"
+}

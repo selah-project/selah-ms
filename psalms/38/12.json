@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Kekasihku dan sahabatku di hadapan luka diriku berdiri menjauh, dan kerabat dekatku dari jauh berdiri.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "kekasihku"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "dan sahabatku"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "luka diriku"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "dan kerabat dekatku"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "dari jauh"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:26.388098586Z",
+  "model": "glm-5.3"
+}

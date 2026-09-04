@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Yang memasang balok ruang atasnya atas air, yang menjadikan awan tebal keretanya, yang berjalan atas sayap angin.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "yang memasang balok"
+    },
+    {
+      "surface": "במים",
+      "gloss": "atas air"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ruang atasnya"
+    },
+    {
+      "surface": "השם",
+      "gloss": "yang menjadikan"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "awan tebal"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "keretanya"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:23.516685971Z",
+  "model": "glm-5.3"
+}

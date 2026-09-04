@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Dan berkata-kata ⟨את⟩ dia perkara-perkara yang baik, dan menempatkan ⟨את⟩ takhtanya di atas takhta raja-raja yang ⟨את⟩ bersama dia di Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berkata-kata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "perkara-perkara yang baik"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takhtanya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhtanya"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersama dia"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "di Bavel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:27:45.403876974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Melainkan dalam Tora Yahweh kesukaannya, dan dalam Tora-Nya ia merenungkan siang dan malam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "dalam Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "kesukaannya"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "dan dalam Tora-Nya"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ia merenungkan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:26.173989692Z",
+  "model": "glm-5.3"
+}

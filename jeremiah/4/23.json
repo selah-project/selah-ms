@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Aku melihat ⟨את⟩ bumi, dan lihat, kosong dan hampa; dan kepada langit, dan tiada cahaya mereka.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "dan hampa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "cahaya mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:49.061192425Z",
+  "model": "glm-5.3"
+}

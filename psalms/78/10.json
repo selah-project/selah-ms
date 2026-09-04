@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Tidaklah mereka memelihara perjanjian Elohim, dan dalam Tora-Nya mereka menolak berjalan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidaklah"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mereka memelihara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "dan dalam Tora-Nya"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mereka menolak"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:09.890275569Z",
+  "model": "glm-5.3"
+}

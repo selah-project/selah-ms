@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Pada masa itu berkatalah Syelomo: Yahweh berfirman untuk berdiam di dalam kegelapan tebal.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada masa itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "untuk berdiam"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "di dalam kegelapan tebal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:37:38.991299200Z",
+  "model": "glm-5.3"
+}

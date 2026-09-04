@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "dan menyembah ⟨את⟩ patung-patung mereka, dan patung itu menjadi perangkap bagi mereka.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "menyembah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patung mereka"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "patung-patung mereka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "perangkap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:06.164033804Z",
+  "model": "glm-5.3"
+}

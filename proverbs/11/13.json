@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Pengumpat yang berjalan kian ke mari mendedahkan rahsia, tetapi yang setia rohnya menutup perkara.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yang berjalan kian ke mari"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "pengumpat"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "mendedahkan"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "rahsia"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "tetapi yang setia"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "menutup"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:16.997951274Z",
+  "model": "glm-5.3"
+}

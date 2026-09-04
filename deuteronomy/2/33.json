@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu Yahweh Elohim kita menyerahkan dia ke hadapan kita, dan kami memukul dia serta anak-anaknya dan seluruh umatnya.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "lalu menyerahkan dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ke hadapan kita"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "dan kami memukul"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh umatnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:37.427878065Z",
+  "model": "glm-5.3"
+}

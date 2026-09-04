@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Bukankah hikmat berseru, dan kepintaran memperdengarkan suaranya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "dan kepintaran"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "memperdengarkan"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "suaranya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:18.148513455Z",
+  "model": "glm-5.3"
+}

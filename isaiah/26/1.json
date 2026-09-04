@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Pada hari itu akan dinyanyikan nyanyian ini di tanah Yehudah: kota yang kukuh bagi kami; keselamatan dijadikan tembok dan benteng.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "akan dinyanyikan"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "עז",
+      "gloss": "yang kukuh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "dijadikan"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "dan benteng"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:42.930627585Z",
+  "model": "glm-5.3"
+}

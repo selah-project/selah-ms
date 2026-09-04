@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Pujilah Yah! Bersyukurlah kepada Yahweh, sebab ⟨dia⟩ baik, sebab sampai selama-lamanya hesed-nya.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bersyukurlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:17.186580476Z",
+  "model": "glm-5.3"
+}

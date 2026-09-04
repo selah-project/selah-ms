@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Aku memandang, dan lihat, tiada manusia, dan segala burung langit telah terbang lari.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku memandang"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "telah terbang lari"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:42.399725223Z",
+  "model": "glm-5.3"
+}

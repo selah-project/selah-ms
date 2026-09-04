@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Mereka tidak akan tinggal di tanah Yahweh, dan Efrayim akan kembali ke Mitsrayim, dan di Asyur mereka akan makan makanan yang najis.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "akan tinggal mereka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan akan kembali"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "dan di Asyur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "najis"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mereka akan makan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:55.638788695Z",
+  "model": "glm-5.3"
+}

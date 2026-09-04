@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Harta orang kaya ⟨ialah⟩ kubu kekuatannya, kebinasaan orang-orang miskin ialah kemiskinan mereka.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Harta"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kekuatannya"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "orang-orang miskin"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "kemiskinan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:47.186854841Z",
+  "model": "glm-5.3"
+}

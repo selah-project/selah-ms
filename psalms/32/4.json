@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Sebab siang dan malam tanganmu berat atasku; kekuatanku berubah menjadi kering seperti keringnya musim panas. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "berubah menjadi"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "kekuatanku (segarkaniku)"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "seperti keringnya"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "musim panas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:31.351082581Z",
+  "model": "glm-5.3"
+}

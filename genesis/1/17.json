@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Elohim menaruh ⟨את⟩ mereka di dalam raqia langit untuk menyinar atas bumi,",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan menaruh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "dua cahaya besar itu (dan bintang-bintang)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "di dalam raqia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "untuk menyinar"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:29.151930938Z",
+  "model": "glm-5.3"
+}

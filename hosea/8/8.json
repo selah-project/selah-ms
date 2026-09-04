@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Telah ditelan Yisrael; sekarang mereka telah menjadi di antara bangsa-bangsa seperti bekas yang tiada kerelaan padanya.",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "Telah ditelan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "seperti bekas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kerelaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:23.274324858Z",
+  "model": "glm-5.3"
+}

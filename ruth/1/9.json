@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Semoga Yahweh memberi kepada kamu, dan kamu mendapat perhentian, masing-masing di rumah suaminya. Lalu diciumnya mereka, dan mereka mengangkat suaranya lalu menangis.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "dan kamu mendapat"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "perhentian"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "masing-masing (wanita)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "lalu diciumnya"
+    },
+    {
+      "surface": "להן",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "dan mereka mengangkat"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "lalu menangis"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:22.835509923Z",
+  "model": "glm-5.3"
+}

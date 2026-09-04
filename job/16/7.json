@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Sesungguhnya sekarang Ia telah meletihkan aku; Engkau telah memusnahkan segala himpunanku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "Ia telah meletihkan aku"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "Engkau telah memusnahkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "himpunanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:45.281506116Z",
+  "model": "glm-5.3"
+}

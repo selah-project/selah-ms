@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan setiap orang — ⟨את⟩ barang kudusnya baginyalah; apa yang diberikan seseorang kepada imam, baginyalah ia.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan setiap orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang kudusnya"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "barang kudusnya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kepada imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan menjadi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:58.256249316Z",
+  "model": "glm-5.3"
+}

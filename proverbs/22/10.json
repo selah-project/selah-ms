@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Halau si pelempar-muka, maka keluarlah pertengkaran, dan berhentilah perbalahan dan aib.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "halau"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "si pelempar-muka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pertengkaran"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dan berhentilah"
+    },
+    {
+      "surface": "דין",
+      "gloss": "perbalahan"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "dan aib"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:47.182262474Z",
+  "model": "glm-5.3"
+}

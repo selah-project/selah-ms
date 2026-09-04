@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Agungkanlah Yahweh ⟨את⟩ bersama aku, dan marilah kita tinggikan nama-Nya bersama-sama.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Agungkanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersama aku"
+    },
+    {
+      "surface": "וונרוממה",
+      "gloss": "dan marilah kita tinggikan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.499215586Z",
+  "model": "glm-5.3"
+}

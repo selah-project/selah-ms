@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Lalu Moshe menghantar orang mengintip ⟨את⟩ Yaezer, dan mereka menawan kampung-kampungnya, dan menghalau ⟨את⟩ orang Emori yang di sana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu-menghantar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "untuk-mengintip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dan-mereka-menawan"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kampung-kampungnya"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "dan-menghalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang-Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di-sana"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:37.212068073Z",
+  "model": "glm-5.3"
+}

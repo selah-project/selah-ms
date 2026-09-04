@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Engkau tahu ⟨את⟩ Dawid (Daud) ayahku, bahawa tidak mampu ia membina rumah bagi nama Yahweh Elohimnya oleh sebab peperangan yang mengelilinginya, sehingga Yahweh menaruh ⟨את⟩ mereka di bawah tapak kakinya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "membina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "bagi nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "mengelilinginya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "תת",
+      "gloss": "menaruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "kakinya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:21.119553288Z",
+  "model": "glm-5.3"
+}

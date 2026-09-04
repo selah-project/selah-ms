@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Mengapa engkau tertekan, hai jiwaku, dan berdukacita atasku? Berharaplah kepada Elohim, kerana aku masih akan mengaku Dia ⟨⟩, keselamatan wajah-Nya.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "engkau tertekan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai jiwaku"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "dan berdukacita"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Berharaplah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "aku akan mengaku Dia"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajah-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:04.240800014Z",
+  "model": "glm-5.3"
+}

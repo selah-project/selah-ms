@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Pujilah, hai nafasku, ⟨את⟩ Yahweh; Yahweh, Elohim aku, ⟨engkau⟩ sangat besar; engkau berpakaian keagungan dan kemuliaan.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai nafasku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aku"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "⟨engkau⟩ besar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "engkau berpakaian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:23.515943427Z",
+  "model": "glm-5.3"
+}

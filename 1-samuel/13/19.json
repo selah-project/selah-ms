@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Maka tukang besi tidak didapati di seluruh tanah Israel, kerana Filistim berkata, \"Jangan sampai orang Ibrani membuat pedang atau tombak.\"",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "dan tukang besi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan sampai"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang Ibrani"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:53.626075036Z",
+  "model": "glm-5.3"
+}

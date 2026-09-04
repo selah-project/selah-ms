@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 2:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Bahkan sebelum mereka membakarkan ⟨את⟩ lemak itu, datang budak imam itu dan berkata kepada orang yang mempersembahkan korban itu: Berilah daging untuk dipanggang bagi imam itu, sebab ia tidak akan mengambil daripadamu daging yang dimasak, melainkan mentah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "mereka-membakarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak itu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak-itu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "dan-datang"
+    },
+    {
+      "surface": "נער",
+      "gloss": "budak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam-itu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan-berkata"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada-orang"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "yang-mempersembahkan-korban"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "berilah"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לצלות",
+      "gloss": "untuk-dipanggang"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "bagi-imam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan-tidak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan-mengambil"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "yang-dimasak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "חי",
+      "gloss": "mentah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:33.405950185Z",
+  "model": "glm-5.3"
+}

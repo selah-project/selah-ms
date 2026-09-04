@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Bercahaya ⟨engkau⟩, agung daripada gunung-gunung pemangsaan.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Bercahaya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "agung"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "daripada gunung-gunung"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "pemangsaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:01.371758623Z",
+  "model": "glm-5.3"
+}

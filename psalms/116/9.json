@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Aku berjalan di hadapan Yahweh, di negeri-negeri ⟨yang⟩ hidup.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di negeri-negeri"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:22.877346675Z",
+  "model": "glm-5.3"
+}

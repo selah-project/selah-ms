@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "El akan mendengar dan menjawab mereka, Dia yang bersemayam dari purba — selah — yang tiada perubahan bagi mereka, dan tidak takut akan Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "dan menjawab mereka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Dia yang bersemayam"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "dari purba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "perubahan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "akan Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:45.575958310Z",
+  "model": "glm-5.3"
+}

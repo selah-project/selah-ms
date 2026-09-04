@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Hanya mata air dan telaga, tempat pengumpulan air, akan tetap bersih; tetapi yang menyentuh bangkai mereka akan menjadi tumai.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "dan telaga"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "tempat pengumpulan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan tetap"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "dan yang menyentuh"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangkai mereka"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi tumai"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:19.242595556Z",
+  "model": "glm-5.3"
+}

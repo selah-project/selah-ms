@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Dia menghulurkan tangannya terhadap orang yang damai dengannya; dia mencabuli perjanjiannya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "menghulurkan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "terhadap orang yang damai dengannya"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "mencabuli"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjiannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:56.025185560Z",
+  "model": "glm-5.3"
+}

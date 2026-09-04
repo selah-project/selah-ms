@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 146,
+  "translation": "Keluar rohnya, kembalilah dia kepada tanahnya; pada hari itu juga binasalah rancangan-rancangannya.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rohnya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kembalilah dia"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "kepada tanahnya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu juga"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "binasalah"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "rancangan-rancangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:41.683702752Z",
+  "model": "glm-5.3"
+}

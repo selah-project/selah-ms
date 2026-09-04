@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Avraham berangkat, berjalan dan berjalan terus, ke arah selatan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "lalu berangkat"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "dan berjalan terus"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ke arah selatan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:15.325080918Z",
+  "model": "glm-5.3"
+}

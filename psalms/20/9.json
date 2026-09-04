@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Mereka itu telah bertekuk lutut dan telah jatuh, tetapi kami telah bangkit dan kami berdiri tegap.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "mereka itu"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "telah bertekuk lutut"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "dan telah jatuh"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "tetapi kami"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "telah bangkit"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "dan berdiri tegap"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:44.992697094Z",
+  "model": "glm-5.3"
+}

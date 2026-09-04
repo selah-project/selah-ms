@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Maka mereka menghantarkan ⟨את⟩ Rivkah adik mereka, dan ⟨את⟩ inang susuannya, dan ⟨את⟩ hamba Avraham, dan ⟨את⟩ orang-orangnya.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Maka mereka menghantarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah adik mereka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "adik mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "inang susuannya"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "inang susuannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hamba Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orangnya"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "orang-orangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:50.632925865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Kepada-Mu mereka menjerit dan terlepas; dalam-Mu mereka berteduh dan tidak mendapat malu.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "mereka menjerit"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "dan terlepas"
+    },
+    {
+      "surface": "בך",
+      "gloss": "dalam-Mu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mereka berteduh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "mendapat malu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.424534429Z",
+  "model": "glm-5.3"
+}

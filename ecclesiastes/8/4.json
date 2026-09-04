@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dalam hal perkataan raja ⟨ada⟩ kekuasaan, dan siapa yang boleh berkata kepadanya, “apa yang kaubuat?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "dalam hal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kekuasaan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kaubuat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:34.982060315Z",
+  "model": "glm-5.3"
+}

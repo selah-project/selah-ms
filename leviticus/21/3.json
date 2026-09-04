@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "dan bagi saudara perempuannya yang dara, yang dekat dengannya, yang belum pernah ⟨menjadi⟩ milik seorang lelaki — bagi dia ia boleh menajiskan diri.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "dan bagi saudara perempuannya"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "yang dara"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "yang dekat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "belum"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨menjadi⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "milik seorang lelaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bagi dia"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menajiskan diri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:45.738558776Z",
+  "model": "glm-5.3"
+}

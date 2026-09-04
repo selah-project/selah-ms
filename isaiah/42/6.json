@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Akulah Yahweh; Aku telah memanggil engkau dalam kebenaran, dan Aku akan memegang tanganmu, dan Aku akan menjagamu, dan Aku akan memberikan engkau sebagai perjanjian bagi umat, sebagai cahaya bagi bangsa-bangsa,",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Aku telah memanggil engkau"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dalam kebenaran"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "dan Aku akan memegang"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "dan Aku akan menjagamu"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "dan Aku akan memberikan engkau"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "sebagai perjanjian"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bagi umat"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sebagai cahaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bagi bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:50.809109882Z",
+  "model": "glm-5.3"
+}

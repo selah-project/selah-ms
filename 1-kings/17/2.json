@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu jadilah perkataan Yahweh kepadanya, katanya:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lalu jadilah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:45.926250552Z",
+  "model": "glm-5.3"
+}

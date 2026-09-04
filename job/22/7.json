@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Tidak air kepada yang lesu kau beri minum, dan dari yang lapar kau tahan roti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "yang lesu"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "kau beri minum"
+    },
+    {
+      "surface": "ו מרעב",
+      "gloss": "dan dari yang lapar"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "kau tahan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:55.704131348Z",
+  "model": "glm-5.3"
+}

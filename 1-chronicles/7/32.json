@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan Hever memperanakkan ⟨את⟩ Yaflet, dan ⟨את⟩ Syomer, dan ⟨את⟩ Hotam, dan ⟨את⟩ Syua saudara perempuan mereka.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Dan Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Syomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Syua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Syua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "saudara perempuan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:53.009695626Z",
+  "model": "glm-5.3"
+}

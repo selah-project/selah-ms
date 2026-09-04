@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "bumi yang dicari-cari oleh Yahweh, Elohimmu, ⟨את⟩-nya sentiasa; mata Yahweh, Elohimmu, ke atasnya dari permulaan tahun sampai ke penghujung tahun.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "dicari-cari"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "-nya (bumi)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "dari permulaan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "penghujung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:47.107520870Z",
+  "model": "glm-5.3"
+}

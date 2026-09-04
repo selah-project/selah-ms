@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Bagaimanakah aku memikul, sendirian, beban kamu dan tanggungan kamu dan perbantahan kamu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Bagaimanakah"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku memikul"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "beban kamu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "dan tanggungan kamu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "dan perbantahan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:57.982266936Z",
+  "model": "glm-5.3"
+}

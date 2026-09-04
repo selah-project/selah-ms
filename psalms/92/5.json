@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Sebab Engkau telah menggembirakan aku, Yahweh, dengan perbuatan-Mu; aku bersorak-sorai ⟨dalam⟩ perbuatan tangan-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "Engkau telah menggembirakan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "dengan perbuatan-Mu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "⟨dalam⟩ perbuatan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aku bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:05.773665892Z",
+  "model": "glm-5.3"
+}

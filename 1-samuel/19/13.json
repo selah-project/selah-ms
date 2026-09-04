@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Mikal mengambil ⟨את⟩ terafim itu dan meletakkannya di atas katil, dan ⟨את⟩ tilam bulu kambing diletakkannya di bahagian kepala baginda, lalu diliputnya dengan sehelai kain.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim itu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim itu"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "dan meletakkannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "katil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tilam bulu kambing"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "tilam"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bulu kambing"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "di bahagian kepala baginda"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "lalu diliputnya"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "dengan sehelai kain"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:48.441227940Z",
+  "model": "glm-5.3"
+}

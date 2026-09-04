@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "David pada waktu itu berada di kubu pertahanan, dan garison orang Filistin pada waktu itu di Beit-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "pada waktu itu"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "di kubu pertahanan"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "dan garison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Filistin"
+    },
+    {
+      "surface": "אז",
+      "gloss": "pada waktu itu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lehem"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:24.044701282Z",
+  "model": "glm-5.3"
+}

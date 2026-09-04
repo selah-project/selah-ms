@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Berjaga-jagalah kamu, supaya jangan hati kamu terpedaya, dan kamu berpaling dan berkhidmat kepada tuhan-tuhan lain dan sujud menyembah kepada mereka,",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Berjaga-jagalah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "terpedaya"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hati kamu"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "dan kamu berpaling"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "dan kamu berkhidmat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "dan sujud menyembah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:04.487617702Z",
+  "model": "glm-5.3"
+}

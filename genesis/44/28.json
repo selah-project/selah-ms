@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Dan yang satu keluar dari sisi ⟨את⟩-ku, dan aku berkata, \"Pasti dicabik-cabik\", dan aku tidak melihatnya hingga sekarang.\"",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dan keluar"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "dari sisi ⟨את⟩-ku",
+      "marks": "aku (bapa)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "dicabik"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "cabik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "aku melihatnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sekarang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:08.825604764Z",
+  "model": "glm-5.3"
+}

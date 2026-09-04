@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Tidak akan berdiri ⟨orang-orang⟩ yang congkak di hadapan matamu; engkau membenci semua pekerja kejahatan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "akan berdiri"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "yang congkak"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "engkau membenci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "พעลי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:35.633598283Z",
+  "model": "glm-5.3"
+}

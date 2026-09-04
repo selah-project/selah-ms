@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Tidak selaras dengan dosa kita Dia berlaku terhadap kita, dan tidak selaras dengan kesalahan kita Dia membalas ke atas kita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "selaras dengan dosa kita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Dia berlaku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "terhadap kita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "selaras dengan kesalahan kita"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "Dia membalas"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ke atas kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:39.929560939Z",
+  "model": "glm-5.3"
+}

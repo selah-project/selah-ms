@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Aku datang dalam keperkasaan Adonai Yahweh; aku mengingatkan kebenaran-Mu, milik-Mu sahaja.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Aku datang"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "dalam keperkasaan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "aku mengingatkan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaran-Mu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "milik-Mu sahaja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:59.014578958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan sekarang, apa yang kami katakan, wahai Elohim kami, setelah ini? Kerana kami telah meninggalkan perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "kami katakan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "wahai Elohim kami"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kami telah meninggalkan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:51:59.412603676Z",
+  "model": "glm-5.3"
+}

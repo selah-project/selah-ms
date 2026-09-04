@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Sebab dicuri-curikan aku dari bumi orang Ibrani, dan juga di sini aku tidak berbuat apa-apa, sebab mereka menaruh ⟨את⟩ aku di dalam perigi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "dicuri-curikan"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari bumi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang Ibrani"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku berbuat"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka menaruh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "di dalam perigi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:42.626003881Z",
+  "model": "glm-5.3"
+}

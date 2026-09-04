@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Adakah kerana takutmu Dia menghukummu? Adakah Dia datang bersamamu ke dalam penghakiman?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "kerana takutmu"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "Dia menghukummu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Dia datang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ke dalam penghakiman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:13.683169907Z",
+  "model": "glm-5.3"
+}

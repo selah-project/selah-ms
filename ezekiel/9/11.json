@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 9:11",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan lihatlah, lelaki yang berpakaikan kain lenan, yang ada tempat dakwat pada pinggangnya, menjawab perkataan, katanya: Aku telah melakukan seperti yang Engkau perintahkan kepadaku.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Dan lihatlah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "yang berpakaikan"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "kain lenan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הקסת",
+      "gloss": "tempat dakwat"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "pada pinggangnya"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Aku telah melakukan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "Engkau perintahkan kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:29:47.370426725Z",
+  "model": "glm-5.3"
+}

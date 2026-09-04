@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu berkatalah Hagai, utusan Yahweh, dalam utusan-utusan Yahweh, kepada bangsa itu, katanya: Aku ⟨את⟩ dengan kamu, neum Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagai"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "dalam utusan-utusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada bangsa itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dengan kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:51:23.193071918Z",
+  "model": "glm-5.3"
+}

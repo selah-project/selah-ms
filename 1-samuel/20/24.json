@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka bersembunyilah David di padang, dan ketika bulan baru tiba, duduklah raja di tempat makan untuk makan.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "maka bersembunyilah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan baru itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka duduklah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "tempat makan"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "untuk makan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:17.386144076Z",
+  "model": "glm-5.3"
+}

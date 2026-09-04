@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Janganlah kamu naik, sebab Yahweh tiada di tengah-tengah kamu, supaya kamu jangan dipatahkan di hadapan musuh-musuh kamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "kamu naik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "di tengah-tengah kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "kamu dipatahkan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh-musuh kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:07.631494038Z",
+  "model": "glm-5.3"
+}

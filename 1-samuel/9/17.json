@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Syemuel melihat ⟨את⟩ Syaul, dan Yahweh menjawabnya: Lihat, ⟨inilah⟩ orang yang telah aku katakan kepadamu — dia akan memerintah umatku.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Dan Syemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "menjawabnya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "telah aku katakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "akan memerintah"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "umatku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:13.542412844Z",
+  "model": "glm-5.3"
+}

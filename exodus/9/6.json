@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Maka Yahweh melakukan ⟨את⟩ perkara ini pada hari berikutnya, dan segala ternakan Mitsrayim (Mesir) mati; tetapi daripada ternakan Bani Israel tidak seekor pun mati.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Maka melakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada hari berikutnya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ternakan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "tetapi daripada ternakan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seekor pun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:39.446896372Z",
+  "model": "glm-5.3"
+}

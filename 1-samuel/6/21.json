@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu mereka menghantar utusan kepada penduduk Kiryat-Yearim, untuk berkata: \"Orang Felistin telah mengembalikan ⟨את⟩ peti Yahweh; turunlah, bawalah ⟨את⟩-nya naik kepada kamu.\"",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Lalu mereka menghantar"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "untuk berkata"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "telah mengembalikan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Felistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "bawalah naik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia (peti Yahweh)"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:34.711212167Z",
+  "model": "glm-5.3"
+}

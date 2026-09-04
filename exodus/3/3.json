@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu berkatalah Moshe: Biarlah aku menyamping sekarang dan melihat ⟨את⟩ penglihatan besar ini — mengapakah semak itu tidak habis dimakan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Biarlah aku menyamping"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penglihatan besar ini"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "penglihatan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "besar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "habis dimakan"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "semak itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:28.228051575Z",
+  "model": "glm-5.3"
+}

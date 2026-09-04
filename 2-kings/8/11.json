@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu ia menetapkan ⟨את⟩ wajahnya dan memasangkannya sampai malu, lalu menangislah orang Elohim itu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu ia menetapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajahnya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan memasangkannya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בש",
+      "gloss": "malu"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "lalu menangislah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:15.875860490Z",
+  "model": "glm-5.3"
+}

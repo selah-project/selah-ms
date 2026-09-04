@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Cukuplah bagi kamu mengelilingi ⟨את⟩ gunung ini; berbaliklah kamu ke arah utara.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "cukuplah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "סב",
+      "gloss": "mengelilingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung ini"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "berbaliklah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ke arah utara"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:13.124339942Z",
+  "model": "glm-5.3"
+}

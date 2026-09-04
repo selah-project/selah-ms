@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan ⟨את⟩ dada tenufah dan ⟨את⟩ paha teruma kamu makan di tempat tahir, engkau dan anak-anak lelakimu dan anak-anak perempuanmu ⟨את⟩ bersamamu; kerana ketetapanmu dan ketetapan anak-anakmu ia diberikan, dari korban-syelamim bani Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dada tenufah"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dada"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "tenufah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "paha teruma"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "paha"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tahir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "dan anak-anak lelakimu"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "dan anak-anak perempuanmu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bersamamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "ketetapanmu"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "dan ketetapan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ia diberikan"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "dari korban"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "syelamim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:20.680347162Z",
+  "model": "glm-5.3"
+}

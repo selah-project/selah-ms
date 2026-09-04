@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Aku membawa berita kebenaran dalam jemaah yang besar; lihatlah, bibirku tidak kuahakan, Yahweh, Engkaulah yang tahu.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "aku membawa berita"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam jemaah"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "kuahakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "(Engkau) tahu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:41.836525177Z",
+  "model": "glm-5.3"
+}

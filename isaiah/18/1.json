@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Wahai tanah dengungan sayap-sayap, yang di seberang sungai-sungai Kush!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wahai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "dengungan"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayap-sayap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:53.920555123Z",
+  "model": "glm-5.3"
+}

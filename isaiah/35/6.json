@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Pada waktu itu melompatlah orang tempang seperti rusa, dan bernyanyi lidah orang bisu, kerana terbelahlah air di padang gurun dan sungai-sungai di stepa gersang.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada waktu itu"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "melompatlah"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "seperti rusa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "orang tempang"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "dan bernyanyi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "orang bisu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "terbelahlah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "dan sungai-sungai"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di stepa gersang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:24.144816938Z",
+  "model": "glm-5.3"
+}

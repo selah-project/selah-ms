@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 150,
+  "translation": "Pujilah Dia dengan tef dan tarian; pujilah Dia dengan tali petik dan ugab.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "dengan tef"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "dan tarian"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujilah Dia"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "dengan tali petik"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "dan ugab"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:42.710472426Z",
+  "model": "glm-5.3"
+}

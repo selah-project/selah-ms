@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Aku memberi engkau raja dalam Kemarahanku, dan Aku mengambil ⟨dia⟩ dalam Keberangananku.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Aku memberi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "dalam Kemarahanku"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "dan Aku mengambil"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "dalam Keberangananku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:32.923008339Z",
+  "model": "glm-5.3"
+}

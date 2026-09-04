@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Tsiyon mendengar dan bersukacita, dan anak-anak perempuan Yehuda bergembira, oleh sebab penghukuman-penghukuman-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "dan bersukacita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "dan bergembira"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "penghukuman-penghukuman-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:11.337110931Z",
+  "model": "glm-5.3"
+}

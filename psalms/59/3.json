@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Selamatkanlah aku daripada pelaku-pelaku kejahatan, dan daripada orang-orang penumpah darah selamatkanlah aku.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Selamatkanlah aku"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "daripada pelaku-pelaku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "dan daripada orang-orang"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "penumpah darah"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:16.441655836Z",
+  "model": "glm-5.3"
+}

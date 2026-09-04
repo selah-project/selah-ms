@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Bukalah pintu-pintumu, hai Lebanon, dan biar api memakan araz-arazmu.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Bukalah"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "hai Lebanon"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "pintu-pintumu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan biar memakan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "araz-arazmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:20.719969353Z",
+  "model": "glm-5.3"
+}

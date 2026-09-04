@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Bibirku akan mengalir keluar pujian, sebab Engkau mengajarku ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "akan mengalir keluar"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "Engkau mengajarku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:34.139612870Z",
+  "model": "glm-5.3"
+}

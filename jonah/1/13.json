@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu orang-orang itu berdayung untuk kembali ke darat, tetapi mereka tidak mampu, kerana laut itu semakin mengamuk terhadap mereka.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "berdayung"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "untuk kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "darat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mereka mampu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut itu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "semakin"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "mengamuk"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "terhadap mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:29.459474916Z",
+  "model": "glm-5.3"
+}

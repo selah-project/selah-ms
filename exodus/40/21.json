@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu dibawanya ⟨את⟩ tabut itu ke dalam Mishkan, dan diletakkannya ⟨את⟩ tabir penyembunyi itu, lalu diselubungkannya atas tabut kesaksian itu, seperti yang diperintahkan Yahweh kepada ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "dibawanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tabut itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabir penyembunyi itu"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabir"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "penyembunyi"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "diselubungkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:49.673627048Z",
+  "model": "glm-5.3"
+}

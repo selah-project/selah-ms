@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Ehud terlepas semasa mereka berlengah, dan ia melintasi ⟨את⟩ patung-patung itu, lalu terlepas ke Seirah.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "dan Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "terlepas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "semasa"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "mereka berlengah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patung itu"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "patung-patung itu"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "lalu terlepas"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "ke Seirah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:54.166825542Z",
+  "model": "glm-5.3"
+}

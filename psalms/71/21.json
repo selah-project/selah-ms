@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Engkau akan menambah besarku, dan berpaling serta menghiburku.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Engkau akan menambah"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "besarku"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "dan berpaling"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "serta menghiburku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:45.344311823Z",
+  "model": "glm-5.3"
+}

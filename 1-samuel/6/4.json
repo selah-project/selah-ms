@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 6:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kata mereka: Apakah asyam itu yang kami pulangkan kepadanya? Kata mereka: Selaras bilangan saren Pelesytim — lima benjolan emas dan lima tikus emas, sebab satu wabah bagi mereka semua dan bagi saren kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asyam itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "kami pulangkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kata"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "saren"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עפלי",
+      "gloss": "benjolan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "tikus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "bagi mereka semua"
+    },
+    {
+      "surface": "ולסרניכם",
+      "gloss": "dan bagi saren kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:56.784292755Z",
+  "model": "glm-5.3"
+}

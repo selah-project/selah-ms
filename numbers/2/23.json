@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "dan pasukannya, dan bilangan mereka: lima dan tiga puluh ribu dan empat ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan pasukannya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan bilangan mereka"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:43.451912007Z",
+  "model": "glm-5.3"
+}

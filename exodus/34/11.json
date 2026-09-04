@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Jagalah dirimu ⟨את⟩ yang Aku perintahkan kepadamu pada hari ini; lihatlah, Aku ini menghalau dari hadapanmu ⟨את⟩ orang Emori, dan orang Kenaani, dan orang Heti, dan orang Perizi, dan orang Hiwi, dan orang Yevusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Jagalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dirimu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang Aku perintahkan kepadamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "perintahkan kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah, Aku ini"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "menghalau"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "dan orang Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan orang Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dan orang Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yevusi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:49.666489074Z",
+  "model": "glm-5.3"
+}

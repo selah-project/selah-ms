@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan berlakulah, selepas beberapa hari, keringlah sungai itu, kerana tidak ada hujan di bumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "selepas akhir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "keringlah"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:05.858234755Z",
+  "model": "glm-5.3"
+}

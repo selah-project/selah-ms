@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Segala ini datang ke atas kami, dan kami tidak melupakan Engkau, dan kami tidak berkhianat dalam perjanjian-Mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "datang ke atas kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "kami melupakan Engkau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kami berkhianat"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "dalam perjanjian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:20.888850064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Demikian juga El akan meruntuhkan engkau selama-lamanya, akan mengambil engkau dan menghumban engkau daripada khemahmu, dan mencabut akarmu daripada bumi orang hidup. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "demikian juga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "akan meruntuhkan engkau"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "akan mengambil engkau"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "dan menghumban engkau"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "daripada khemah"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "dan akarmu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "daripada bumi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "orang hidup"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:02.457964210Z",
+  "model": "glm-5.3"
+}

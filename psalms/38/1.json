@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Mizmor bagi David, untuk mengingatkan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "untuk mengingatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:37.104549108Z",
+  "model": "glm-5.3"
+}

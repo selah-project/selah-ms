@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Dan perkataan kebencian mengelilingiku, dan mereka memerangiku tanpa sebab.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Dan perkataan"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "kebencian"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mengelilingiku"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "dan mereka memerangiku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:11.245901444Z",
+  "model": "glm-5.3"
+}

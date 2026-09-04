@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan kamu akan memakan daging anak-anak lelaki kamu, dan daging anak-anak perempuan kamu akan kamu makan.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan kamu akan memakan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak lelaki kamu"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anak-anak perempuan kamu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "akan kamu makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:58.657109263Z",
+  "model": "glm-5.3"
+}

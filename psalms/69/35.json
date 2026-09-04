@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Biarlah langit dan bumi memuji Dia, laut-laut dan semua yang bergerak di dalamnya.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "memuji Dia"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut-laut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "yang bergerak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:35.672520902Z",
+  "model": "glm-5.3"
+}

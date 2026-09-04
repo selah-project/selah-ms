@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Berumur tiga puluh tahunlah David ketika ia menjadi raja; empat puluh tahun ia memerintah.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ketika ia menjadi raja"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ia memerintah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:39.545992359Z",
+  "model": "glm-5.3"
+}

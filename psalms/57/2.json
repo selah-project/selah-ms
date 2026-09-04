@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Kasihanilah aku, Elohim, kasihanilah aku, sebab kepada-Mu berlindung nefesyiku, dan dalam naungan sayap-Mu aku akan berlindung, sehingga berlalu ⟨bencana-bencana⟩.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kasihanilah aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kasihanilah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "berlindung"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesyiku"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "dan dalam naungan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sayap-Mu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aku akan berlindung"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "berlalu"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bencana-bencana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:24.049314743Z",
+  "model": "glm-5.3"
+}

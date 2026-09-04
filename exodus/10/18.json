@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu keluarlah ⟨dia⟩ dari hadapan Paroh, dan berdoa ⟨dia⟩ kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "dan berdoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:43.875010833Z",
+  "model": "glm-5.3"
+}

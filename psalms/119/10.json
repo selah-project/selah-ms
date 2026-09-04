@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dengan segenap hatiku aku mencari Engkau; jangan biarkan aku tersesat daripada perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "aku mencari Engkau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "biarkan aku tersesat"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "daripada perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:06.980084267Z",
+  "model": "glm-5.3"
+}

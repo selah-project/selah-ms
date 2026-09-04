@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu awan itu menudungi ⟨את⟩ kemah pertemuan, dan kemuliaan Yahweh memenuhi ⟨את⟩ kemah suci itu.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "lalu menudungi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah suci itu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:05.175566999Z",
+  "model": "glm-5.3"
+}

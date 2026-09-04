@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu berpalinglah Moshe dan turunlah ia dari gunung itu, dan dua loh kesaksian di tangannya — loh yang tertulis pada kedua-dua belah sisinya, dari sebelah sini dan dari sebelah sana tertulislah mereka.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Lalu berpalinglah"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan turunlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan dua"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "loh"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "loh(-loh)"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "yang tertulis"
+    },
+    {
+      "surface": "משני",
+      "gloss": "pada kedua-dua belah"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "sisinya"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sebelah sini"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "dan dari sebelah sana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "tertulislah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:29.544594555Z",
+  "model": "glm-5.3"
+}

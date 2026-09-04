@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Adakah selama-lamanya Engkau murka terhadap kami? Adakah Engkau menghulurkan hidung-Mu dari satu keturunan ke keturunan?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Adakah selama-lamanya"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Engkau murka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Adakah Engkau menghulurkan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hidung-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dari satu keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ke keturunan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:43.686987653Z",
+  "model": "glm-5.3"
+}

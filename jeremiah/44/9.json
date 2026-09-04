@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 44:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sudahkah kamu melupakan ⟨את⟩ kejahatan bapa-bapa kamu, dan ⟨את⟩ kejahatan raja-raja Yehuda, dan ⟨את⟩ kejahatan isteri-isteri mereka, dan ⟨את⟩ kejahatan kamu, dan ⟨את⟩ kejahatan isteri-isteri kamu, yang mereka lakukan di tanah Yehuda dan di lorong-lorong Yerusalem?",
+  "tokens": [
+    {
+      "surface": "השכחתם",
+      "gloss": "Sudahkah kamu melupakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan bapa-bapa kamu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kejahatan raja-raja Yehuda"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kejahatan isteri-isteri mereka"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isteri-isteri mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kejahatan kamu"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "kejahatan kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kejahatan isteri-isteri kamu"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "isteri-isteri kamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka lakukan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "dan di lorong-lorong"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T13:23:56.165997277Z",
+  "model": "glm-5.3"
+}

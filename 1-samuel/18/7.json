@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan berbalas-balasanlah perempuan-perempuan yang bersukaria itu sambil bermain, dan berkata: \"Saul memukul beribu-ribu, dan David berpuluh-puluh ribu.\"",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "Dan berbalas-balasanlah"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "yang bersukaria sambil bermain"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "beribu-ribu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "berpuluh-puluh ribu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:45.788284886Z",
+  "model": "glm-5.3"
+}

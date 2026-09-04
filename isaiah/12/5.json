@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Petiklah talimu bagi Yahweh, sebab Ia telah melakukan keagungan; diketahui hal ini di seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Petiklah talimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah melakukan"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "diketahui"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:08.978297362Z",
+  "model": "glm-5.3"
+}

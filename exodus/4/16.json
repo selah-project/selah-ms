@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan dia berbicara bagimu kepada umat itu, dan terjadilah — dia ⟨ialah⟩ menjadi bagimu mulut, dan engkau menjadi baginya Elohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "dan dia berbicara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:51.844551407Z",
+  "model": "glm-5.3"
+}

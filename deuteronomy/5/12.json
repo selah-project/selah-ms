@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Peliharalah ⟨את⟩ hari Syabat untuk menguduskannya, seperti yang diperintahkan kepadamu oleh Yahweh, Elohimmu.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Peliharalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari Syabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Syabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuk menguduskannya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "diperintahkan kepadamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:19.314568015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan diberitahukan kepada Yoav: Lihat, raja itu menangis dan berkabung atas Avsyalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dan diberitahukan"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kepada Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "dan berkabung"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:55.454994439Z",
+  "model": "glm-5.3"
+}

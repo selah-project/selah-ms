@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Nyanyian segala nyanyian, yang bagi Syelomo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "segala nyanyian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "bagi Syelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:01.725030592Z",
+  "model": "glm-5.3"
+}

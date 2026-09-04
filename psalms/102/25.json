@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Aku berkata: El-ku, jangan Kauangkat aku di tengah-tengah hari-hariku; turut-temurut angkatan-angkatan tahun-tahun-Mu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "Kauangkat aku"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "turut-temurut"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "angkatan-angkatan"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tahun-tahun-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:12.023175503Z",
+  "model": "glm-5.3"
+}

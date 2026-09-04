@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 11:6",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu Yahweh berfirman kepadaku: Serulah ⟨את⟩ segala perkataan ini di kota-kota Yehuda dan di lorong-lorong Yerusalim, katanya: Dengarlah ⟨את⟩ perkataan perjanjian ini dan lakukanlah ⟨את⟩ ia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Serulah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di kota-kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "dan di lorong-lorong"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan perjanjian ini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan lakukanlah"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:28.281743342Z",
+  "model": "glm-5.3"
+}

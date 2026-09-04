@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan bersunatlah kamu ⟨את⟩ kulit kemaluan hatimu, dan tengkukmu jangan kamu keraskan lagi.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Dan bersunatlah kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulit kemaluan hatimu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulit kemaluan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "dan tengkukmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "kamu keraskan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:28.413242546Z",
+  "model": "glm-5.3"
+}

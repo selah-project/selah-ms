@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Api berjalan di hadapan-Nya, dan menjilat sekeliling lawan-lawan-Nya.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Api"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "dan menjilat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "lawan-lawan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:17.350872517Z",
+  "model": "glm-5.3"
+}

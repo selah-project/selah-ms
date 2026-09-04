@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Pujilah Yah, sebab baiklah mazmur bagi Elohim kita, sebab manis, indahlah pujian.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bagi Elohim kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "manis"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "indahlah"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pujian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:34.104613544Z",
+  "model": "glm-5.3"
+}

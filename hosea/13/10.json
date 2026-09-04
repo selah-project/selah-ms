@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Di manakah rajamu sekarang, dan dia menyelamatkan engkau di segala kotamu? Dan hakim-hakimmu, yang kaukatakan: \"Berilah aku raja dan pembesar-pembesar\"?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "di manakah"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "rajamu"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "dan dia menyelamatkan engkau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "kotamu"
+    },
+    {
+      "surface": "ו שפטיך",
+      "gloss": "dan hakim-hakimmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kaukatakan"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "berilah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "dan pembesar-pembesar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:32.922828483Z",
+  "model": "glm-5.3"
+}

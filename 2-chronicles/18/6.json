@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu Yehosafat berkata: Tidakkah ada di sini lagi nabi bagi Yahweh, supaya kita bertanya daripadanya ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Tidakkah ada"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "supaya kita bertanya"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "daripadanya ⟨את⟩",
+      "marks": "dia (nabi itu)"
+    }
+  ],
+  "timestamp": "2026-09-04T15:09:30.829390609Z",
+  "model": "glm-5.3"
+}

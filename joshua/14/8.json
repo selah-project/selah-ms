@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Tetapi saudara-saudaraku yang naik bersamaku telah meleburkan ⟨את⟩ hati orang itu, sedangkan aku mengikuti sepenuh-penuhnya Yahweh, Elohimku.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "tetapi saudara-saudaraku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "telah meleburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "sedangkan aku"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "mengikuti sepenuh-penuhnya"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:55.642656497Z",
+  "model": "glm-5.3"
+}

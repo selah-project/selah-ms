@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Tidakkah semua pekerja kesalahan tahu, pemakan umatku, yang memakan roti, tidak memanggil Yahweh?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pemakan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "memanggil"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:28.324148726Z",
+  "model": "glm-5.3"
+}

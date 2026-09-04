@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Kamu sendiri telah melihat apa yang Kulakukan kepada Mitsrayim, dan Aku mengangkat ⟨את⟩ kamu di atas sayap burung nasar, dan Aku membawa ⟨את⟩ kamu kepada-Ku.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Kamu sendiri"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Kulakukan"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kepada Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "dan Aku mengangkat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu (di atas sayap)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "burung nasar"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "dan Aku membawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu (kepada-Ku)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:59.782134451Z",
+  "model": "glm-5.3"
+}

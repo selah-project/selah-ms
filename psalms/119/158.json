@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku melihat pengkhianat-pengkhianat dan aku terluka dalam batin, kerana perkataan-Mu tidak mereka pelihara.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pengkhianat-pengkhianat"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "dan aku terluka dalam batin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "perkataan-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mereka pelihara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:48.408172543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "kerana panjang bilik-bilik yang pada pelataran luar itu lima puluh hasta, dan sesungguhnya di hadapan ⟨HaMikdash⟩ itu seratus hasta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "bilik-bilik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "pada pelataran"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "luar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "HaMikdash"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:32.503614527Z",
+  "model": "glm-5.3"
+}

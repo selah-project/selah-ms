@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Biarlah ada kelimpahan gandum di bumi, di puncak gunung-gunung ia bergoyang; buahnya seperti Libanon, dan biarlah mereka berbunga dari kota seperti rumput bumi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biarlah ada"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "di puncak"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ia bergoyang"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "seperti Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnya"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "dan biarlah mereka berbunga"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dari kota"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:12.915862703Z",
+  "model": "glm-5.3"
+}

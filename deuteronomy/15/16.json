@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan terjadilah, apabila ia berkata kepadamu, 'Aku tidak akan keluar dari padamu,' kerana ia mengasihi engkau dan ⟨את⟩ rumah tanggamu, kerana kebaikan baginya bersama engkau —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "akan aku keluar"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "dari padamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "ia mengasihi engkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah tanggamu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah tanggamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersama engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:19.224441457Z",
+  "model": "glm-5.3"
+}

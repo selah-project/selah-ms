@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Bangunlah, hai orang mabuk, dan menangislah, dan renyailah, hai semua peminum anggur, atas anggur manis, sebab ia telah dipotong dari mulut kamu.",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "orang mabuk"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "dan menangislah"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "dan renyailah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "peminum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "anggur manis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "telah dipotong"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "dari mulut kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:19.680778798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 22:6",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu Yehosyua memberkati mereka, lalu menyuruh mereka pergi, dan mereka pun pergi ke khemah mereka.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "Lalu memberkati mereka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "lalu menyuruh mereka pergi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dan mereka pun pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "khemah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:03:57.198508843Z",
+  "model": "glm-5.3"
+}

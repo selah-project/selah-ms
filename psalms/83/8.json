@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Gebal, dan Amon, dan Amalek, Pelesyet bersama penduduk Tsor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "dan Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dan Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.860741685Z",
+  "model": "glm-5.3"
+}

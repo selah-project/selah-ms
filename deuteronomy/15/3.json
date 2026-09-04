@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "⟨את⟩ orang asing boleh engkau desak, dan yang ada padamu ⟨את⟩ saudaramu engkau lepaskan tanganmu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang asing"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "boleh engkau desak"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaramu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "engkau lepaskan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:00.071790060Z",
+  "model": "glm-5.3"
+}

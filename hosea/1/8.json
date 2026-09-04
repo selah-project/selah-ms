@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan setelah menyapihkan ⟨את⟩ Lo-Ruhamah, ia mengandung dan melahirkan seorang anak lelaki.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "dan ia menyapihkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lelaki"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:40.133556759Z",
+  "model": "glm-5.3"
+}

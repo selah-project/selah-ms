@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Bukalah mulutmu, hakimilah keadilan, dan berilah keadilan kepada orang miskin dan orang papa.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Bukalah"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakimilah"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "dan berilah keadilan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan orang papa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:43.304062942Z",
+  "model": "glm-5.3"
+}

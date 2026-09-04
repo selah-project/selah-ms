@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Ke atas-Mu aku dibuang sejak dari rahim; dari kandungan ibuku Engkaulah El-ku.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Ke atas-Mu"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "aku dibuang"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "sejak dari rahim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari kandungan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:19.291044622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dan ⟨את⟩ semua harta mereka, dan ⟨את⟩ semua anak-anak kecil mereka, dan ⟨את⟩ isteri-isteri mereka dibawa mereka sebagai tawanan, dan dirampas, serta ⟨את⟩ semua yang ada di dalam rumah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua harta mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "harta mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua anak-anak kecil mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "anak-anak kecil mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "isteri-isteri mereka"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "isteri-isteri mereka"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dibawa sebagai tawanan"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "dan dirampas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "semua yang ada di dalam rumah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di dalam rumah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:01.973174938Z",
+  "model": "glm-5.3"
+}

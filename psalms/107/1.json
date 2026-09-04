@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Bersyukurlah kepada Yahweh, sebab ⟨dia⟩ baik, sekan-akan kesetiaan-Nya ⟨berdiri⟩ untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Bersyukurlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kesetiaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:28.439770071Z",
+  "model": "glm-5.3"
+}

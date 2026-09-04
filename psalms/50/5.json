@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Kumpulkanlah kepada-Ku orang-orang setia-Ku, pengikat perjanjian-Ku atas korban.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Kumpulkanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "orang-orang setia-Ku"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "pengikat"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:49.363318191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab Yahweh mengenal jalan orang-orang tsadik, tetapi jalan orang-orang rasya akan binasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang tsadik"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "tetapi jalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang rasya"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "akan binasa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:26.096601897Z",
+  "model": "glm-5.3"
+}

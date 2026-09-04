@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Lalu Moshe dan tua-tua Yisrael memerintahkan ⟨את⟩ bangsa itu, katanya: Peliharalah ⟨את⟩ segala perintah yang aku perintahkan ⟨את⟩ kepadamu pada hari ini.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintahkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ווזקני",
+      "gloss": "dan tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Peliharalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kepadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:45.092203903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 67,
+  "translation": "Bumi telah memberi hasilnya; Elohim, Elohim kami, memberkati kita.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Bumi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "telah memberi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilnya"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "memberkati kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.867517247Z",
+  "model": "glm-5.3"
+}

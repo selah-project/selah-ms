@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "⟨את⟩ setiap gagak menurut jenisnya;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setiap gagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:18.796543861Z",
+  "model": "glm-5.3"
+}

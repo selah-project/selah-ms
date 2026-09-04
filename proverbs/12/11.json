@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Penggarap tanahnya akan kenyang ⟨dengan⟩ roti, tetapi pengkejar perkara hampa berkekurangan akal.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "penggarap"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnya"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "akan kenyang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "tetapi pengkejar"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "perkara hampa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "berkekurangan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "akal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.493281622Z",
+  "model": "glm-5.3"
+}

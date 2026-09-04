@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Akulah Yahweh; itulah nama-Ku; dan kemuliaan-Ku tidak akan Aku berikan kepada yang lain, tidak juga puji-Ku kepada patung-patung ukiran.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "dan kemuliaan-Ku"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kepada yang lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akan Aku berikan"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "dan puji-Ku"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "kepada patung-patung ukiran"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:50.809445288Z",
+  "model": "glm-5.3"
+}

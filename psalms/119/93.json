@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Selama-lamanya aku tidak akan melupakan titah-titah-Mu, sebab dengan semuanya itu Engkau telah menghidupkan aku.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Selama-lamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "akan aku melupakan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "titah-titah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dengan semuanya itu"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Engkau telah menghidupkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:31.223989732Z",
+  "model": "glm-5.3"
+}

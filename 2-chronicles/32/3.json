@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "lalu baginda berbincang dengan pembesar-pembesarnya dan pahlawan-pahlawannya untuk menyekat ⟨את⟩ air matair yang di luar bandar, dan mereka menolongnya.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "lalu baginda berbincang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pembesar-pembesarnya"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "dan pahlawan-pahlawannya"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "untuk menyekat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "air matair"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "air"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "matair-matair"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "dan mereka menolongnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:13:51.056730630Z",
+  "model": "glm-5.3"
+}

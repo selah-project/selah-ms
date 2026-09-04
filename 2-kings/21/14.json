@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan Aku akan meninggalkan ⟨את⟩ baki warisan-Ku, dan Aku akan menyerahkan mereka ke dalam tangan musuh mereka, dan mereka akan menjadi rompakan dan jarahan bagi semua musuh mereka.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "dan Aku akan meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baki"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "baki"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "warisan-Ku"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "dan Aku akan menyerahkan mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "musuh mereka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan mereka akan menjadi"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "rompakan"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "dan jarahan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "musuh mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:43.773866517Z",
+  "model": "glm-5.3"
+}

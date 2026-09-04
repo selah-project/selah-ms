@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Persembahkan kepada Elohim korban pengucapan syukur, dan bayarlah nazarmu kepada Elyon;",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "persembahkan korban"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pengucapan syukur"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "dan bayarlah"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "kepada Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazarmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:54.619352811Z",
+  "model": "glm-5.3"
+}

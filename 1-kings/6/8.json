@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Pintu bilik sisi yang tengah pada bahu kanan rumah itu; dan dengan tangga berlingkar naik mereka ke yang tengah, dan dari yang tengah ke yang ketiga.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "bilik sisi"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "yang tengah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "bahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "dengan tangga berlingkar"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "naik mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "yang tengah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "yang tengah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "yang ketiga"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:57.853051826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Mizmor Asaf: Ya Elohim, bangsa-bangsa telah masuk ke warisan-Mu, mereka telah menajiskan ⟨את⟩ istana kudus-Mu, mereka telah menjadikan ⟨את⟩ Yerushalaim tonggokan batu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "telah masuk"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ke warisan-Mu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "mereka telah menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "istana kudus-Mu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kudus-Mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka telah menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "tonggokan batu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:14.376653271Z",
+  "model": "glm-5.3"
+}

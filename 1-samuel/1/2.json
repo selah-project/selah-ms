@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan kepadanya ada dua isteri; nama yang satu Hana, dan nama yang kedua Penina; dan bagi Penina ada anak-anak, tetapi bagi Hana tiada anak-anak.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Dan kepadanya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ada"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "bagi Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "tetapi bagi Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "anak-anak"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:25.566497939Z",
+  "model": "glm-5.3"
+}

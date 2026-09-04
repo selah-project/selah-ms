@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan Yahweh memberi ⟨את⟩ kemurahan kepada umat itu di mata orang Mitsrayim, maka orang Mitsrayim meminjamkan kepada mereka, dan mereka merampas ⟨את⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemurahan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kemurahan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "maka mereka meminjamkan kepada mereka"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "dan mereka merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:26.801845266Z",
+  "model": "glm-5.3"
+}

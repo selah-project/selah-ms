@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Di rumah Israel aku melihat perkara mengerikan; di sana perzinaan bagi Efrayim — Israel telah dinajiskan.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "perkara mengerikan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "perzinaan"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "bagi Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "telah dinajiskan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:43.372119723Z",
+  "model": "glm-5.3"
+}

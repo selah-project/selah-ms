@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Seseorang menolong ⟨את⟩ sekerabatnya, dan kepada saudaranya berkata: \"Kuatlah!\"",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekerabatnya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sekerabatnya"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "menolong"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "dan kepada saudaranya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Kuatlah!"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:07.244517265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan man itu seperti biji ketumbar, dan rupanya seperti rupa bedolah.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Dan man itu"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "seperti biji"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ketumbar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "dan rupanya"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "seperti rupa"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:01.609161076Z",
+  "model": "glm-5.3"
+}

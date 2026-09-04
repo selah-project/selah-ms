@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Elohim memerintah atas bangsa-bangsa; Elohim duduk di atas takhta kesucian-Nya.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "takhta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesucian-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:11.132668572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Mereka yang bersandar pada kekuatan mereka, dan dalam kepenuhan harta benda mereka bermegah —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "mereka yang bersandar"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kekuatan mereka"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "dan dalam kepenuhan"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "harta benda mereka"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "mereka bermegah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:29.009386852Z",
+  "model": "glm-5.3"
+}

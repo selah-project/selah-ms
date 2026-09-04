@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan ia menulis di sana, pada batu-batu itu, ⟨את⟩ salinan Tora Moshe, yang ia tulis di hadapan bani Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Dan ia menulis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salinan Tora Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "salinan"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ia tulis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:01.441795139Z",
+  "model": "glm-5.3"
+}

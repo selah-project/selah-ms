@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Perintahkanlah ⟨את⟩ bani Israel, supaya mereka membawa kepadamu minyak zaitun tulen, tumbuk, untuk pelita, untuk menyalakan lampu sentiasa.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Perintahkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "supaya mereka membawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tumbuk"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "untuk pelita"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "untuk menyalakan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:04.667195514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Di antara semua lawan-lawan aku aku telah menjadi cela, malah sangat bagi jiran-jiran aku, dan kedahsyatan bagi kenalan aku; yang melihat aku di luar mundar-mandir menjauhi aku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "di antara semua"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "lawan-lawan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku telah menjadi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "malah bagi jiran-jiran aku"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "dan kedahsyatan"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "bagi kenalan aku"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "yang melihat"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "mundar-mandir menjauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:05.890838303Z",
+  "model": "glm-5.3"
+}

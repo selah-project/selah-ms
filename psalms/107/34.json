@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Tanah berbuah menjadi tanah masin, kerana kejahatan penghuni-penghuninya.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tanah"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "berbuah"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "menjadi tanah masin"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "kerana kejahatan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penghuni-penghuni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:33.139652870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Orang-orang yang menuang emas dari beg, dan menimbang perak dengan timbangan, menyewa tukang pelebur, dan ia membuatnya menjadi tuhan; mereka sujud, malah menyembah.",
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "orang-orang yang menuang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "dari beg"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "dengan timbangan"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "menimbang"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "menyewa"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "tukang pelebur"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "dan ia membuatnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "mereka sujud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "menyembah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:13.851403176Z",
+  "model": "glm-5.3"
+}

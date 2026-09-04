@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Sepuluh hasta panjang papan itu, dan sehasta setengah ⟨hasta⟩ lebar papan yang satu itu.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan itu"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "dan sehasta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebar"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:29.512790325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan ia membesarkan satu dari anak-anaknya, anak singa ia menjadi, dan ia belajar merampas mangsa; manusia ia telan.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "Dan ia membesarkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "dari anak-anaknya"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia menjadi"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "dan ia belajar"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ia telan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:32:47.986320068Z",
+  "model": "glm-5.3"
+}

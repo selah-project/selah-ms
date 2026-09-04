@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Maka Elohim menyelamatkan ternak bapa kamu itu dan memberikannya kepadaku.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ternak bapa kamu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bapa kamu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:00.196720508Z",
+  "model": "glm-5.3"
+}

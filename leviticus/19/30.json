@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "⟨את⟩ hari-hari Sabatku kamu pelihara, dan tempat kudus-Ku kamu geruni; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari-hari Sabatku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "hari-hari Sabatku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamu pelihara"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "dan tempat kudus-Ku"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu geruni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:17.163426897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu ⟨ia⟩ sujud dan berkata: \"Apakah hambamu, bahwa engkau telah berpaling kepada anjing mati yang seperti aku?\"",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "lalu sujud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "engkau telah berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "anjing"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "seperti aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:32.480557540Z",
+  "model": "glm-5.3"
+}

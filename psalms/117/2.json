@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 117,
+  "translation": "Sebab hesed-Nya berenguhi atas kami, dan emet Yahweh ⟨kekal⟩ sampai selama-lamanya; pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "berenguhi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan emet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:21.801831953Z",
+  "model": "glm-5.3"
+}

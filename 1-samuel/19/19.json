@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu diberitahukan kepada Syaul, katanya: \"Sesungguhnya, Dawid ada di Nayot, di Rama.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Lalu diberitahukan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "di Nayot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Rama"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:10.736732834Z",
+  "model": "glm-5.3"
+}

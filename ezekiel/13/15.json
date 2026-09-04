@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan Aku akan menghabiskan ⟨את⟩ kemarahanku ke atas tembok dan ke atas mereka yang menyapunya dengan spec; dan Aku akan berkata kepada kamuorang: Tidak ada tembok, dan tidak ada mereka yang menyapunya.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "Dan Aku akan menghabiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemarahanku"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "kemarahanku"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ke atas tembok"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "dan ke atas mereka yang menyapu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "spec"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "spec"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan Aku akan berkata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamuorang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tidak ada"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tidak ada"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "mereka yang menyapu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ia (tembok)"
+    }
+  ],
+  "timestamp": "2026-09-04T13:30:24.454370750Z",
+  "model": "glm-5.3"
+}

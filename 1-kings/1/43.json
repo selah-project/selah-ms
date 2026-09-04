@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Yonatan menjawab dan berkata kepada Adoniahu: Bahkan, tuan kita raja David telah menjadikan raja ⟨את⟩ Syelomo.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lalu menjawab"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kepada Adoniahu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "tuan kita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "telah menjadikan raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:01.075951728Z",
+  "model": "glm-5.3"
+}

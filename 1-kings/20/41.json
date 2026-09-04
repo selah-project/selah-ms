@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu ia segera menanggalkan ⟨את⟩ serbuk itu dari matanya, dan raja Israel mengenali ⟨את⟩ dia, bahawa ia dari para nabi.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "lalu ia segera"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serbuk itu"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "serbuk itu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "dan mengenali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (nabi itu)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "dari para nabi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:53.245293907Z",
+  "model": "glm-5.3"
+}

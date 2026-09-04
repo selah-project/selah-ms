@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Cepatlah menjawab aku, Yahweh; rohku sudah habis; jangan sembunyikan wajah-Mu daripadaku, supaya aku tidak menjadi seperti mereka yang turun ke liang.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "cepatlah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "menjawab aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "sudah habis"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "supaya aku tidak menjadi seperti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "mereka yang turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ke liang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:44.924108241Z",
+  "model": "glm-5.3"
+}

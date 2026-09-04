@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Di sana mereka ketakutan — ketakutan tiada ada — sebab Elohim telah menyebarkan tulang-tulang ⟨mereka yang⟩ berkhemah menentangmu; engkau telah menghinakan ⟨mereka⟩, sebab Elohim telah menolak mereka.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Di sana"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "mereka ketakutan"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "telah menyebarkan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang-tulang"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "yang berkhemah menentangmu"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "engkau telah menghinakan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "telah menolak mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:15.656374887Z",
+  "model": "glm-5.3"
+}

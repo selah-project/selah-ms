@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Panjang umur ada di tangan kanannya; di tangan kirinya kekayaan dan kemuliaan.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umur"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "di tangan kanannya"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "di tangan kirinya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:22.525745778Z",
+  "model": "glm-5.3"
+}

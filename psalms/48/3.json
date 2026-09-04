@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Indah ketinggiannya, kegembiraan seluruh bumi, gunung Tsion, penjuru-penjuru tsafon (utara), kota Raja yang besar.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Indah"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ketinggiannya"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "penjuru-penjuru"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "tsafon (utara)"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:01.091546145Z",
+  "model": "glm-5.3"
+}

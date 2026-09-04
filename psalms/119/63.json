@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku sekutu bagi semua yang takut akan-Mu, dan bagi yang memelihara perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "sekutu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "takut akan-Mu"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "dan bagi yang memelihara"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:42.006362794Z",
+  "model": "glm-5.3"
+}

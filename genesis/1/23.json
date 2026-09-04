@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka jadilah petang, dan jadilah pagi — hari yang kelima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "yang kelima"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:35.540499159Z",
+  "model": "glm-5.3"
+}

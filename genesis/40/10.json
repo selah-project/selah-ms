@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "dan pada pokok anggur itu tiga sulur paut, dan ⟨ia⟩ seperti berbunga, naiklah kuntumnya, masaklah mayang-mayangnya menjadi anggur.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "dan pada pokok anggur itu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "sulur paut"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dan ⟨ia⟩"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "seperti berbunga"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "naiklah"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "kuntumnya"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "masaklah"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "mayang-mayangnya"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "menjadi anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:10.405798435Z",
+  "model": "glm-5.3"
+}

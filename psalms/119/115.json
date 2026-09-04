@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Menjauhlah daripadaku, kamu pembuat kejahatan, dan aku akan menurut perintah Elohim-ku.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "menjauhlah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kamu pembuat kejahatan"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "dan aku akan menurut"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:21.838481316Z",
+  "model": "glm-5.3"
+}

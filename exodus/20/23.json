@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jangan kamu buat ⟨את⟩-Ku ⟨sebagai⟩ tuhan perak, dan tuhan emas jangan kamu buat bagimu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-Ku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan tuhan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:22.111958529Z",
+  "model": "glm-5.3"
+}

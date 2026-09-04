@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Tetapi kerana kasih Yahweh ⟨את⟩ kamu dan karena Dia menjaga ⟨את⟩ sumpah yang Dia ikrarkan kepada bapa lelaki kamu, Yahweh membawa kamu keluar ⟨את⟩ dengan tangan yang kuat dan menebus kamu dari rumah perhambaan, dari tangan Paroh raja Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tetapi kerana"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "kasih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "dan Dia menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Dia ikrarkan"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kepada bapa lelaki kamu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "membawa keluar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "yang kuat"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "dan menebus kamu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perhambaan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:14.731756266Z",
+  "model": "glm-5.3"
+}

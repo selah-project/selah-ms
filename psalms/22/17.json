@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Sebab anjing-anjing mengelilingi aku; kumpulan orang jahat mengepung aku; seperti singa ⟨di⟩ tanganku dan kakiku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mengelilingi aku"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "anjing-anjing"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "mengepung aku"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "seperti singa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "dan kakiku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:35.152203355Z",
+  "model": "glm-5.3"
+}

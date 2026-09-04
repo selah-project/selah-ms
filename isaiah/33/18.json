@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Hatimu akan merenungkan kegerunan: di mana pencatat? di mana penimbang? di mana pencatat ⟨את⟩ menara-menara?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "Hatimu"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "akan merenungkan"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kegerunan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pencatat"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "penimbang"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "pencatat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menara-menara"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "menara-menara"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:30.271188837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Tidak layak bagi orang bodoh ⟨ialah⟩ kemewahan, apalagi bagi hamba memerintah atas pembesar-pembesar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layak"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "bagi orang bodoh"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "kemewahan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "apalagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bagi hamba"
+    },
+    {
+      "surface": "משל",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "atas pembesar-pembesar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:48.882775437Z",
+  "model": "glm-5.3"
+}

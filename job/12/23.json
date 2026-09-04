@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Membesarkan bangsa-bangsa lalu membinasakan ⟨mereka⟩; merenggangkan bangsa-bangsa lalu menenangkan ⟨mereka⟩.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "membesarkan"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "lalu membinasakan ⟨mereka⟩"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "merenggangkan"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "lalu menenangkan ⟨mereka⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:41.109324035Z",
+  "model": "glm-5.3"
+}

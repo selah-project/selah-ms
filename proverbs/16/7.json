@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Apabila jalan-jalan seorang manusia dikenan oleh Yahweh, maka musuh-musuhnyapun dijadikan-Nya berdamai ⟨את⟩-nya.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "apabila dikenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "oleh Yahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang manusia"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "musuh-musuhnya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "dijadikan damai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:08.328580239Z",
+  "model": "glm-5.3"
+}

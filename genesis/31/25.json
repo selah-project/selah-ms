@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Laban memergoki ⟨את⟩ Yaakov, dan Yaakov telah memacak khemahnya di gunung itu; dan Laban memacak khemah bagi saudara-saudaranya di gunung Gilad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "memergoki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dan Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "memacak khemah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemahnya"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahnya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "dan Laban"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "memacak khemah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:43.494262631Z",
+  "model": "glm-5.3"
+}

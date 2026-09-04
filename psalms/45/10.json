@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Puteri-puteri raja berada di antara ⟨wanita-wanita⟩ muliamu; berdiri di sebelah kananmu ⟨ialah⟩ sang permaisuri berhias emas tulen Opir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "puteri-puteri"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "di antara yang mulia daripadamu"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "sang permaisuri"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "di sebelah kananmu"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "dengan emas tulen"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Opir"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:37.961114788Z",
+  "model": "glm-5.3"
+}

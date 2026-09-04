@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Dengarlah, Elohim, jeritan aku; pasanglah telinga kepada doa aku.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "jeritan aku"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:08.565593629Z",
+  "model": "glm-5.3"
+}

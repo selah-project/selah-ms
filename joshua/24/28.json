@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Yehosyua membebaskan ⟨את⟩ umat itu, setiap orang kepada warisannya sendiri.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "membebaskan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kepada warisannya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:15.905543636Z",
+  "model": "glm-5.3"
+}

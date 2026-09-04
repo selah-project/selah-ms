@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 149,
+  "translation": "Pujilah Yah! Nyanyikanlah bagi Yahweh nyanyian baru, pujian-Nya dalam jemaah orang-orang hesed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baru"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-Nya"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam jemaah"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "orang-orang hesed"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:36.772699449Z",
+  "model": "glm-5.3"
+}

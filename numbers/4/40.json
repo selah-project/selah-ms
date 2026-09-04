@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "maka jadilah bilangan mereka, mengikut keluarga-keluarga mereka, mengikut rumah bapa mereka, dua ribu enam ratus tiga puluh.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "bilangan mereka"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mengikut keluarga-keluarga mereka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mengikut rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tiga puluh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:10.279306466Z",
+  "model": "glm-5.3"
+}

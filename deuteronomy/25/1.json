@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Apabila ada pertikaian antara orang-orang, dan mereka menghampiri pengadilan, dan mereka dihukumkan, maka mereka membenarkan ⟨את⟩ orang yang benar dan menghukum ⟨את⟩ orang yang fasik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pertikaian"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "dan mereka menghampiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pengadilan"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "dan mereka dihukumkan"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "maka mereka membenarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang benar"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "orang yang benar"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "dan menghukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang fasik"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "orang yang fasik"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:51.961793323Z",
+  "model": "glm-5.3"
+}

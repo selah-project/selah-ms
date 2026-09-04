@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Bertangguhlah dan tertegun, butakan dirimu dan jadilah buta; mabuk — dan bukan dengan anggur; terhuyun — dan bukan dengan minuman keras.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "bertangguhlah"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "dan tertegun"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "butakan dirimu"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "dan jadilah buta"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mabuk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "terhuyun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "minuman keras"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:16.610583393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan kedua-dua isteri David telah ditawan: Ahinoam orang Yizreel, dan Abigail isteri Nabal orang Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "dan kedua-dua"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "telah ditawan"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "orang Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "dan Abigail"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "orang Karmel"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:43.153485612Z",
+  "model": "glm-5.3"
+}

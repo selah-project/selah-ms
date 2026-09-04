@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "dan orang Tsidon, dan Amalek, dan Maon menindas ⟨את⟩ kamu, dan kamu berseru kepada-Ku, dan Aku menyelamatkan ⟨את⟩ kamu dari tangan mereka?",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "dan orang Tsidon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "dan Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "dan Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "menindas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek pertama)"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "dan kamu berseru"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "dan Aku menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek kedua)"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "dari tangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:19.968313889Z",
+  "model": "glm-5.3"
+}

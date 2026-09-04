@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan kepada Makir aku berikan ⟨את⟩ Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "dan kepada Makir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku berikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:46.486280229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Kita meraba-raba dinding seperti orang buta, dan seperti tiada bermata kita meraba; kita tersandung di waktu tengah hari seperti waktu senja, di tempat sunyi seperti orang mati.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "kita meraba-raba"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "seperti orang buta"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "dinding"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "dan seperti tiada"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "bermata"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "kita meraba"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "kita tersandung"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "di waktu tengah hari"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "seperti waktu senja"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "di tempat sunyi"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "seperti orang mati"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:44.504098597Z",
+  "model": "glm-5.3"
+}

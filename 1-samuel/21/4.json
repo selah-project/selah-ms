@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan sekarang, apa yang ada di bawah tanganmu? Berikanlah lima roti ke dalam tanganku, atau apa yang terdapat.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yang ada"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ke dalam tanganku"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "apa yang terdapat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:04.317688003Z",
+  "model": "glm-5.3"
+}

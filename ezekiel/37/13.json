@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan kamu akan tahu bahawa akulah Yahweh, apabila aku membuka ⟨את⟩ kubur-kubur kamu dan apabila aku menaikkan ⟨את⟩ kamu daripada kubur-kubur kamu, umat-Ku.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Dan kamu akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "apabila aku membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubur-kubur kamu"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "kubur-kubur kamu"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "dan apabila aku menaikkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu daripada kubur-kubur kamu"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "daripada kubur-kubur kamu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:39:27.868367433Z",
+  "model": "glm-5.3"
+}

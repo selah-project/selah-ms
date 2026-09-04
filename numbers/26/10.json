@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Lalu bumi membuka ⟨את⟩ mulutnya dan menelan ⟨את⟩ mereka serta ⟨את⟩ Korach pada waktu matinya jemaah itu, ketika api itu memakan ⟨את⟩ dua ratus lima puluh orang; dan mereka menjadi tanda.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Lalu membuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutnya"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "dan menelan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "במות",
+      "gloss": "pada waktu matinya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah itu"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "ketika memakan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua ratus lima puluh orang"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "tanda"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:15.477602045Z",
+  "model": "glm-5.3"
+}

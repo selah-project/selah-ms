@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Menurut segala yang aku perlihatkan kepadamu — ⟨את⟩-mu — ⟨את⟩ rancangan mishkan dan ⟨את⟩ rancangan segala peralatannya, demikianlah kamu buat.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "menurut segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "perlihatkan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩-mu",
+      "marks": "kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rancangan mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rancangan segala peralatannya"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "peralatannya"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "dan demikianlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:33.322406192Z",
+  "model": "glm-5.3"
+}

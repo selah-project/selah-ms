@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan mereka menyembuhkan ⟨את⟩ patah umat-Ku secara ringan, sambil berkata: \"Syalom, syalom\", padahal tiada syalom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "Dan mereka menyembuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patah umat-Ku"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "secara"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ringan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "padahal tiada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    }
+  ],
+  "timestamp": "2026-09-04T13:11:28.157055847Z",
+  "model": "glm-5.3"
+}

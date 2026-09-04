@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Maskil (puisi pengajaran) Asaf. Mengapa, Elohim, Engkau membuang kami ⟨selama-lamanya⟩? Mengapa amarah-Mu berasap terhadap kambing domba kawanan gembalaan-Mu?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (puisi pengajaran)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Engkau membuang"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "berasap"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "amarah-Mu"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "terhadap kambing domba"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "kawanan gembalaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:15.714865961Z",
+  "model": "glm-5.3"
+}

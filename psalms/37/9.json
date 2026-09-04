@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Sebab para pembuat kejahatan akan dilenyapkan, tetapi orang-orang yang menanti-nantikan Yahweh, merekalah yang akan mewarisi bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "para pembuat kejahatan"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "akan dilenyapkan"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "tetapi orang-orang yang menanti-nantikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "merekalah"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "yang akan mewarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:33.096529843Z",
+  "model": "glm-5.3"
+}

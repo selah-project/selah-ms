@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Buat pemimpin muzik, mengenai Syeminit, mazmur bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Buat pemimpin muzik"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Syeeminit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:58.044122188Z",
+  "model": "glm-5.3"
+}

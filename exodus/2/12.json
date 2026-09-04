@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu dipandangnya ke sana dan ke sini, dan dilihatnya bahwa tiada seorang pun, lalu dipukulnya ⟨את⟩ orang Mitsri itu dan disembunyikannya dalam pasir.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Lalu dipandangnya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "dan ke sini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan dilihatnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lalu dipukulnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Mitsri itu"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "orang Mitsri itu"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "dan disembunyikannya"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "dalam pasir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:09.563902402Z",
+  "model": "glm-5.3"
+}

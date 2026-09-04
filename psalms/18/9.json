@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Naik asap dari hidung-Nya, dan api dari mulut-Nya memakan; bara menyala dari-Nya.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asap"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dari hidung-Nya"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "dan api"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "dari mulut-Nya"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "bara"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "menyala"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:59.769743899Z",
+  "model": "glm-5.3"
+}

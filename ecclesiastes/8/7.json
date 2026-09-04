@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab ⟨dia⟩ tidak mengetahui apa yang akan jadi, kerana apabila ia akan jadi, siapakah yang akan memberitahukannya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨dia⟩ tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "yang akan jadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan jadi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "akan memberitahukannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:03.543505291Z",
+  "model": "glm-5.3"
+}

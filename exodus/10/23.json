@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Tidak memandang seorang pun ⟨את⟩ saudaranya, dan tidak bangkit seseorang dari tempatnya selama tiga hari; tetapi bagi semua bani Yisrael ada terang di tempat kediaman mereka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "memandang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "dari tempatnya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "tetapi bagi semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "di tempat kediaman mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:49.681221412Z",
+  "model": "glm-5.3"
+}

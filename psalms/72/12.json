@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Sebab ia akan melepaskan ⟨את⟩ orang miskin yang berseru, dan ⟨את⟩ orang papa, dan tiada penolong baginya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ia akan melepaskan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang miskin",
+      "marks": "orang miskin"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "yang berseru"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "dan orang papa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:51.009201805Z",
+  "model": "glm-5.3"
+}

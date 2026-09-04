@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan Dawid mengambil ⟨את⟩ kepala orang Filistin itu dan membawanya ke Yerusalaim, tetapi ⟨את⟩ kelengkapannya diletakkannya dalam kemahnya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala orang Filistin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "orang Filistin itu"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dan membawanya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerusalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kelengkapannya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kelengkapannya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "dalam kemahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:11.319898827Z",
+  "model": "glm-5.3"
+}

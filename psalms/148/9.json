@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Gunung-gunung dan segala bukit, pokok berbuah dan segala araz",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Gunung-gunung"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "berbuah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araz"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:15.158425599Z",
+  "model": "glm-5.3"
+}

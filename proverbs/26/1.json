@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Seperti salji pada musim panas dan seperti hujan pada musim menuai, demikianlah kemuliaan tidaklah patut bagi orang bodoh.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Seperti salji"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pada musim panas"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "dan seperti hujan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pada musim menuai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "patut"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "bagi orang bodoh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:15.787224399Z",
+  "model": "glm-5.3"
+}

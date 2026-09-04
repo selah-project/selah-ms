@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Sebab hukuman akan kembali kepada keadilan, dan selepasnya semua yang lurus hati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuman"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "dan selepasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "yang lurus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:00.487164377Z",
+  "model": "glm-5.3"
+}

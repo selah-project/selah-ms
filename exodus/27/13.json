@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan kelebaran halaman ⟨itu⟩ pada sisi timur, ke arah matahari terbit, lima puluh hasta.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Dan kelebaran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman ⟨itu⟩"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pada sisi"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "timur"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ke arah matahari terbit"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:32.480871522Z",
+  "model": "glm-5.3"
+}

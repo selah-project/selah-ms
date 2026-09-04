@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 141,
+  "translation": "Jangan condongkan hatiku kepada perkara jahat, untuk melakukan perbuatan dalam kejahatan bersama ⟨את⟩ orang yang menjadi pelaku kesia-siaan; dan jangan aku memakan dari keenak-enakan mereka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תט",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kepada perkara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "dalam kejahatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang menjadi pelaku kesia-siaan"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "orang"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pelaku"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "aku memakan"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "dari keenak-enakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:34.037447965Z",
+  "model": "glm-5.3"
+}

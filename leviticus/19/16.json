@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Jangan berjalan sebagai pengadu di antara umatmu; jangan berdiri atas darah sesamamu — aku ⟨ialah⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "pengadu"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "di antara umatmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sesamamu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:31.944849479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Biarlah anak-anaknya menjadi anak yatim, dan isterinya seorang janda.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "biarlah menjadi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan isterinya"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "seorang janda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:48.812416539Z",
+  "model": "glm-5.3"
+}

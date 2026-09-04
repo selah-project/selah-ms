@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Sebab ⟨dia⟩ yang Engkau pukul, mereka mengejar, dan tentang kesakitan ⟨dari⟩ orang-orang yang Kau-tikam mereka bercerita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨yang⟩"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "pukul"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "mereka mengejar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kesakitan"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "orang-orang yang Kau-tikam"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "mereka bercerita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:57.861609788Z",
+  "model": "glm-5.3"
+}

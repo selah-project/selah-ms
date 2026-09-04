@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarlah, aku berdoa, hesed-Mu menjadi penghiburan bagi aku, sesuai dengan janji-Mu kepada hamba-Mu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "biarlah menjadi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "aku berdoa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "menjadi penghiburan bagi aku"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sesuai dengan janji-Mu"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kepada hamba-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:12.557584620Z",
+  "model": "glm-5.3"
+}

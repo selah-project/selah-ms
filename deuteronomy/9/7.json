@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 9:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Ingatlah, jangan lupa ⟨את⟩ apa yang engkau buat memurkakan ⟨את⟩ Yahweh Elohimmu di padang gurun; sejak hari engkau keluar dari tanah Mitsrayim sampai kedatanganmu ke tempat ini, kamu telah menderhaka terhadap Yahweh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הקצפת",
+      "gloss": "engkau buat memurkakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "למן",
+      "gloss": "sejak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "engkau keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "kedatanganmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "kamu telah menderhaka"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu telah menjadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:09.811875286Z",
+  "model": "glm-5.3"
+}

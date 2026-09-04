@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan diletakkannya ⟨את⟩ meja itu dalam Kemah Perjumpaan, pada sisi Mishkan itu, di sebelah utara, di luar tabir itu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dalam Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Perjumpaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "di sebelah utara"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "tabir itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:49.673856705Z",
+  "model": "glm-5.3"
+}

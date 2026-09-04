@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu Dawid berbuat demikian, seperti yang diperintahkan Yahweh kepadanya, dan ia memukul ⟨את⟩ orang Plistim dari Geba sampai engkau sampai ke Gézer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu berbuat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Plistim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Plistim"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "dari Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באך",
+      "gloss": "engkau sampai"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gézer"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:21.152400349Z",
+  "model": "glm-5.3"
+}

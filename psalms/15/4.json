@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Yang keji di matanya dihina, dan ⟨את⟩ orang-orang yang takut akan Yahweh ia hormati; bersumpah untuk menderita kerugian dan tidak ia ubah.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Yang keji"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "dihina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang yang takut akan Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ia hormati"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "bersumpah"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "untuk menderita kerugian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ia ubah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:44.884729746Z",
+  "model": "glm-5.3"
+}

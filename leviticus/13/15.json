@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan hak melihat imam itu ⟨את⟩ daging hidup itu, maka dia mengharamkannya; daging hidup itu tame — tsaraat itulah dia.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging hidup itu"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hidup itu"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "maka mengharamkannya"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hidup itu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tame"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:22.240521687Z",
+  "model": "glm-5.3"
+}

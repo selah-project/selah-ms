@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Lalu seluruh umat Yehuda mengambil ⟨את⟩ Uziyahu — ia berumur enam belas tahun — dan mereka mengjadikan ⟨את⟩-nya raja menggantikan ayahandanya Amasyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Lalu ... mengambil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "mengjadikan raja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "raja menggantikan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahandanya"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amasyahu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:26.905333885Z",
+  "model": "glm-5.3"
+}

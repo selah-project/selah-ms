@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Pujilah Dia, semua malaikat-Nya; pujilah Dia, semua tentera-Nya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaikat-Nya"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Pujilah Dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tentera-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:26.872321693Z",
+  "model": "glm-5.3"
+}

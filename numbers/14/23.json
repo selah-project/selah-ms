@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "jika mereka melihat ⟨את⟩ negeri yang Aku telah bersumpah kepada nenek moyang mereka — maka semua yang menghina Aku tidak akan melihatnya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mereka melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku telah bersumpah"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "kepada nenek moyang mereka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "yang menghina Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "akan melihatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:39:03.277482161Z",
+  "model": "glm-5.3"
+}

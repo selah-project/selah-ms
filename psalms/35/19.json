@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Jangan bersukacita atas-ku musuh-musuhku dengan dusta, pembenci-pembenciku tanpa sebab mengedipkan mata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atas-ku"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan dusta"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "pembenci-pembenciku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "mengedipkan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:35.584775043Z",
+  "model": "glm-5.3"
+}

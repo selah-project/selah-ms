@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 93,
+  "translation": "Yahweh memerintah! Ia berpakaian keagungan; Yahweh berpakaian, berikat pinggang ⟨dengan⟩ kekuatan; ya, bumi didirikan teguh, tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "berikat pinggang"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "didirikan teguh"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "akan goyah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:01.461938763Z",
+  "model": "glm-5.3"
+}

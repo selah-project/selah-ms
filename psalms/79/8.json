@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Janganlah ingat terhadap kami kesalahan-kesalahan terdahulu; segeralah, kasih sayang-Mu mendahului kami, sebab kami sangat hina.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ingat"
+    },
+    {
+      "surface": "לנu",
+      "gloss": "terhadap kami"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "kesalahan-kesalahan"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "terdahulu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "mendahului kami"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kasih sayang-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "kami hina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:16.642355965Z",
+  "model": "glm-5.3"
+}

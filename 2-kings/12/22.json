@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Yozavad bin Syimat dan Yehozavad bin Syomer, para hambanya, memukul dia, dan matilah dia; lalu mereka menguburkan ⟨את⟩ dia bersama bapa-bapanya di kota Daud, dan Amatsyah anaknya memerintah menggantikannya.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Yozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Syimat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "Yehozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Syomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para hambanya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "memukul dia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan matilah dia"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lalu mereka menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Yoas)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan memerintah"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:34.754725992Z",
+  "model": "glm-5.3"
+}

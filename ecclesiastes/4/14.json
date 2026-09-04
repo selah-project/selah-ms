@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sebab dari rumah para tawanan ia keluar untuk memerintah, sebab juga dalam kerajaannya ia dilahirkan miskin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "para tawanan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ia keluar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "untuk memerintah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "dalam kerajaannya"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ia dilahirkan"
+    },
+    {
+      "surface": "רש",
+      "gloss": "miskin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:30.377239810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan ⟨את⟩ orang-orang yang sujud di atas bumbung-bumbung kepada Tsebaot langit, dan ⟨את⟩ orang-orang yang sujud, yang bersumpah kepada Yahweh dan bersumpah demi Malkam (raja mereka).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang yang sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "orang-orang yang sujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "bumbung-bumbung"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kepada Tsebaot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang yang sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "orang-orang yang sujud"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "yang bersumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "dan yang bersumpah"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "demi Malkam (raja mereka)"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:01.568560246Z",
+  "model": "glm-5.3"
+}

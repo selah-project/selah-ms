@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Bukankah sesungguhnya dari sisi Yahweh Tsebaot, ⟨sebab itu⟩ kaum-kaum bersusah payah demi api, dan bangsa-bangsa demi kekosongan menjadi letih?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari sisi ⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "bersusah payah"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "demi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan bangsa-bangsa"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "demi"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "menjadi letih"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:47.132248474Z",
+  "model": "glm-5.3"
+}

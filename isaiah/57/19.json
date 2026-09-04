@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Mencipta buah ⟨את⟩ bibir: syalom, syalom kepada yang jauh dan kepada yang dekat, firman Yahweh, dan Aku akan menyembuhkannya.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "mencipta"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "buah"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "kepada yang jauh"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "dan kepada yang dekat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "dan Aku akan menyembuhkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:38.870219382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Yahweh, Engkau telah menaikkan diriku dari Syeol; Engkau telah menghidupkan aku dari antara yang turun ke liang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "Engkau telah menaikkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Engkau telah menghidupkan aku"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "dari antara yang turun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ke liang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:24.398748940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Siapakah dia yang menyembunyikan rancangan tanpa pengetahuan? Sebab itu aku telah berbicara dan tidak memahami; perkara-perkara yang ajaib melampaui aku, dan aku tidak mengetahuinya.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "menyembunyikan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Sebab itu"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "aku telah berbicara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "perkara-perkara yang ajaib"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "melampaui aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mengetahuinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:09.637124806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Tetapi aku — kepada-Mu aku berserah, Yahweh; aku berkata: \"Engkau Elohim aku.\"",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku berserah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:18.296043607Z",
+  "model": "glm-5.3"
+}

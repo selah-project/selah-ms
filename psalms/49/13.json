@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Namun manusia dalam kemuliaan tidak bermalam; dibandingkan dengan binatang-binatang, dibinasakan.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Namun manusia"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dalam kemuliaan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bermalam"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "dibandingkan"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "dengan binatang-binatang"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "dibinasakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:03.650661838Z",
+  "model": "glm-5.3"
+}

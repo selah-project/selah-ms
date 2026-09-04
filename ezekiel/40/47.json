@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu ia mengukur ⟨את⟩ pelataran itu: panjangnya seratus hasta dan lebar seratus hasta, empat persegi; dan mezbah itu di hadapan rumah itu.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Lalu ia mengukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelataran itu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran itu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan lebar"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "empat persegi"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "dan mezbah itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:55.703498895Z",
+  "model": "glm-5.3"
+}

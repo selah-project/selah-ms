@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Yahweh menghakimi antara aku dan engkau, dan Yahweh membalas dendam aku daripadamu, tetapi tanganku tidak akan ⟨ada⟩ padamu.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "ייהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dan antara engkau"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "dan membalas dendam aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "dan tanganku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:03.964044574Z",
+  "model": "glm-5.3"
+}

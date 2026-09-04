@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Berbuat baiklah dalam kehendak-Mu kepada ⟨את⟩ Tsyion; bangunkanlah tembok-tembok Yerusalaim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "berbuat baiklah"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "dalam kehendak-Mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsyion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsyion"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bangunkanlah"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tembok-tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:22.187047127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Kau telah mencuri hatiku, saudariku, pengantinku; kau telah mencuri hatiku dengan salah satu daripada matamu, dengan satu butir rantai lehermu.",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "kau telah mencuri hatiku"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "saudariku"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantinku"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "kau telah mencuri hatiku"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dengan salah satu"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "daripada matamu"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dengan satu"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "butir rantai"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "lehermu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:52.679135133Z",
+  "model": "glm-5.3"
+}

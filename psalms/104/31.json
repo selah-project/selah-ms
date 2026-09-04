@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Biarlah kemuliaan Yahweh ⟨ada⟩ sampai selama-lamanya; biarlah Yahweh bersukacita dalam perbuatan-perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Biarlah ... ⟨ada⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "dalam perbuatan-perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.632217962Z",
+  "model": "glm-5.3"
+}

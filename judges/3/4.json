@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan mereka tinggal untuk menguji dengan mereka ⟨את⟩ Yisrael, supaya diketahui sama ada mereka mendengar ⟨את⟩ perintah-perintah Yahweh yang diperintahkan-Nya ⟨את⟩ kepada bapa lelaki mereka, dengan tangan Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dan mereka tinggal"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "untuk menguji"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "supaya diketahui"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "sama ada mereka mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa lelaki mereka"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa lelaki mereka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:18.368283548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Seperti rupa kuda-kuda ⟨adalah⟩ rupanya, dan seperti penunggang kuda, begitulah mereka berlari.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "Seperti rupa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "rupanya"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "dan seperti penunggang kuda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "mereka berlari"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:44.226909393Z",
+  "model": "glm-5.3"
+}

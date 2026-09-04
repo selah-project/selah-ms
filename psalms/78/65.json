@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Lalu Adonai terjaga seperti orang yang tidur, seperti pahlawan yang bersorak ⟨kerana⟩ arak.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "lalu terjaga"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "seperti yang tidur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "seperti pahlawan"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "yang bersorak"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dari arak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:11.239550822Z",
+  "model": "glm-5.3"
+}

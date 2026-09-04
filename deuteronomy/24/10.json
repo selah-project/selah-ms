@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Apabila engkau memberi pinjaman barang apa pun kepada sesamamu, jangan masuk ke rumahnya untuk mengambil gadaianya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "engkau memberi pinjaman"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "kepada sesamamu"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "pinjaman"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "barang apa pun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "untuk mengambil gadaian"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "gadaianya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:36.379345760Z",
+  "model": "glm-5.3"
+}

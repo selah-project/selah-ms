@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Dan sekarang, bukan kamu yang mengutus ⟨את⟩ saya ke sini, tetapi Elohim; dan Ia mengangkat saya menjadi bapa bagi Paro, dan tuan bagi seluruh rumahnya, dan pemerintah atas seluruh tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "yang mengutus"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ saya",
+      "marks": "saya (objek orang pertama)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke sini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "dan Ia mengangkat saya"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "menjadi bapa bagi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "dan tuan bagi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "dan pemerintah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "atas seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:48.176544241Z",
+  "model": "glm-5.3"
+}

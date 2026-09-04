@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan bersama Absyalom pergi dua ratus orang dari Yerusalem, yang dipanggil, dan mereka pergi dalam kesederhanaan mereka, dan mereka tidak mengetahui sesuatu apa pun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absyalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "dari Yerusalem"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "yang dipanggil"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "dan mereka pergi"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "dalam kesederhanaan mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mereka mengetahui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sesuatu apa pun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:02.571068795Z",
+  "model": "glm-5.3"
+}

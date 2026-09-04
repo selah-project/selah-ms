@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "dan setiap serangga yang merayap yang bercabang — ia haram bagi kamu; jangan dimakan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "yang bercabang"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "haram"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dimakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:58.675387309Z",
+  "model": "glm-5.3"
+}

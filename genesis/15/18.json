@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Pada hari itu Yahweh memotong ⟨את⟩ perjanjian dengan Avram, dengan berkata: Kepada zuriatmu Aku telah memberi ⟨את⟩ tanah ini, dari sungai Mitsrayim sampai kepada sungai yang besar, sungai Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "memotong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Kepada zuriatmu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku telah memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "dari sungai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:02.260595526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Tinggallah ⟨את⟩ bersamaku, jangan takut, sebab siapa yang mencari ⟨את⟩ nyawaku akan mencari ⟨את⟩ nyawamu juga, kerana dalam penjagaan engkau bersamaku.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "tinggallah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersamaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siapa yang"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "akan mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "dalam penjagaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersamaku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:48.273430858Z",
+  "model": "glm-5.3"
+}

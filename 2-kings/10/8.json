@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu datanglah pembawa berita itu, dan memberitahukan kepadanya, berkata: \"Mereka telah membawa kepala-kepala anak-anak raja itu.\" Dan ia berkata: \"Letakkanlah ⟨את⟩ mereka dua timbunan di muka pintu gerbang itu sampai pagi.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu datanglah"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "pembawa berita itu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "Mereka telah membawa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-kepala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Letakkanlah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (kepala-kepala itu)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "timbunan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di muka"
+    },
+    {
+      "surface": "השער",
+      "gloss": "pintu gerbang itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:19.480623045Z",
+  "model": "glm-5.3"
+}

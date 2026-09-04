@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "dengan tangan yang kuat dan dengan lengan yang teracung, kerana selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "dengan tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "yang kuat"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "dan dengan lengan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "yang teracung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:01.395355668Z",
+  "model": "glm-5.3"
+}

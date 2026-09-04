@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Janganlah engkau mengusahakan syalom mereka dan kebaikan mereka sepanjang hari-harimu, selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "engkau mengusahakan"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "syalom mereka"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "dan kebaikan mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:09.136380210Z",
+  "model": "glm-5.3"
+}

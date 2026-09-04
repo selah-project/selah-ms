@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan jadilah makanan Syelomo bagi satu hari: tiga puluh kor tepung halus, dan enam puluh kor tepung.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan jadilah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bagi hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung halus"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "tepung"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:35.297970378Z",
+  "model": "glm-5.3"
+}

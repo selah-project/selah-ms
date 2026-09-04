@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Janganlah kamu menjadi seperti kuda, seperti bagal yang tiada kefahaman; dengan kekang dan tali kekang sebagai perhiasan baginya, untuk menahannya, supaya ia tidak datang mendekatimu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kamu menjadi"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "seperti kuda"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "seperti bagal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yang tiada"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kefahaman"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "dengan kekang"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "dan tali kekang"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "perhiasan baginya"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "untuk menahannya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "datang mendekati"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:01.017778520Z",
+  "model": "glm-5.3"
+}

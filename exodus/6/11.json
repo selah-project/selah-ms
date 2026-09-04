@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "\"Masuklah, berbicara kepada Paroh raja Mitsrayim, supaya dia membenarkan ⟨את⟩ bani Israel keluar dari negerinya.\"",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "supaya dia membenarkan keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "dari negerinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:24.132380318Z",
+  "model": "glm-5.3"
+}

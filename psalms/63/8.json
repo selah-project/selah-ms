@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Sebab Engkau ⟨telah⟩ menjadi pertolonganku, dan dalam naungan kepak-Mu aku bersorak gembira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Engkau ⟨telah⟩ menjadi"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pertolongan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "dan dalam naungan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kepak-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aku bersorak gembira"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:21.787128934Z",
+  "model": "glm-5.3"
+}

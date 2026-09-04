@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Di seluruh bumi keluarlah talinya, dan pada penghujung dunia perkataan mereka; bagi matahari diletakkan kemah di dalamnya.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "קום",
+      "gloss": "talinya"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "dan pada penghujung"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "perkataan mereka"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "bagi matahari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diletakkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:31.073876600Z",
+  "model": "glm-5.3"
+}

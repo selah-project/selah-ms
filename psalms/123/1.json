@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 123,
+  "translation": "Nyanyian Kenaikan. Kepada-Mu aku mengangkat ⟨את⟩ mataku, hai ⟨Yang⟩ duduk di langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Kenaikan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:46.024386865Z",
+  "model": "glm-5.3"
+}

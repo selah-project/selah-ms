@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 55,
+  "translation": "Keberkunan menimpa mereka; biarlah mereka turun ke Syeol hidup-hidup, sebab kejahatan ⟨ada⟩ di kediaman mereka, di tengah-tengah mereka.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Keberkunan"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "menimpa mereka"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "mereka turun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup-hidup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "di kediaman mereka"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "di tengah-tengah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:44.721285597Z",
+  "model": "glm-5.3"
+}

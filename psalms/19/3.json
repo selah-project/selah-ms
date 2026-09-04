@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Hari kepada hari memancarkan ucapan, dan malam kepada malam memperlihatkan pengetahuan.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Hari"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kepada hari"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "memancarkan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "kepada malam"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "memperlihatkan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:31.065139217Z",
+  "model": "glm-5.3"
+}

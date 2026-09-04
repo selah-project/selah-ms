@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Bahkan dalam hati kejahatan kamu buat; di bumi keganasan tangan-tangan kamu menimbang.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dalam hati"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tangan-tangan kamu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "kamu menimbang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:03.968040913Z",
+  "model": "glm-5.3"
+}

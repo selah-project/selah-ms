@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Syaul menghantar ⟨את⟩ utusan-utusan itu untuk melihat ⟨את⟩ David, dengan pesan: \"Bawakanlah dia bersama katil itu kepadaku, supaya aku membunuhnya.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu menghantar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utusan-utusan itu"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "utusan-utusan itu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan pesan"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "bawakanlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "bersama katil"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "supaya aku membunuhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:48.441609235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Maka pergilah dia dan membuat menurut perkataan Eliahu, lalu makan dia, dan dia, dan isi rumahnya, berhari-hari.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "maka pergilah dia"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "menurut perkataan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "lalu makan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "dan isi rumahnya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "berhari-hari"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:38.430905499Z",
+  "model": "glm-5.3"
+}

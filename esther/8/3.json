@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Ester menambah lagi bicara menghadap raja, dan jatuh di depan kaki baginda, dan menangis, dan memohon kepadanya, supaya dihapuskan ⟨את⟩ kejahatan Haman orang Agagi itu, dan ⟨את⟩ rancangannya yang dirancangnya terhadap orang Yahudi.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "Dan menambah lagi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "dan bicara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di depan"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kaki baginda"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "dan memohon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "supaya dihapuskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kejahatan Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "orang Agagi itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rancangannya"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "rancangannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "dirancangnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang Yahudi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:27.943184200Z",
+  "model": "glm-5.3"
+}

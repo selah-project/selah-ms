@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Janganlah kamu mengikut tuhan-tuhan lain, dari tuhan-tuhan bangsa-bangsa yang di sekeliling kamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kamu mengikut"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mengikuti (di belakang)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "dari tuhan-tuhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "di sekeliling kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:17.925671920Z",
+  "model": "glm-5.3"
+}

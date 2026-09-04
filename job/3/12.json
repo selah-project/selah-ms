@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Mengapa lutut mendahuluiku? Dan mengapa buah dada, kerana aku menyusu?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "mendahuluiku"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "lutut"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "buah dada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "aku menyusu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:55.361327743Z",
+  "model": "glm-5.3"
+}

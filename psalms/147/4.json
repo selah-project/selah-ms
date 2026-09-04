@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yang menghitung bilangan bintang-bintang, kepada sekaliannya nama dipanggil.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Yang menghitung"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kepada sekaliannya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "dipanggil"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:34.105222191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu Moshe melihat ⟨את⟩ bangsa itu, bahawa terbongkar ⟨ia⟩, kerana Aharon membiarkannya terbongkar untuk aib di kalangan pembangkang mereka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu melihat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "terbongkar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "membiarkannya terbongkar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "untuk aib"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "di kalangan pembangkang mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:57.733598631Z",
+  "model": "glm-5.3"
+}

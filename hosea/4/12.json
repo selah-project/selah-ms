@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Umat-Ku bertanya kepada kayunya, dan kayu tongkatnya memberitahu kepadanya; sebab roh zinah telah menyesatkan mereka, dan mereka berzina membelakangkan Elohim mereka.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Umat-Ku"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "kepada kayunya"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "bertanya"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "dan kayu tongkatnya"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "memberitahu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zinah"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "telah menyesatkan"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "dan mereka berzina"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "membelakangkan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:50.291871684Z",
+  "model": "glm-5.3"
+}

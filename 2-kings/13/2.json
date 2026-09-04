@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan ia membuat yang jahat di mata Yahweh, dan ia berjalan mengikut dosa Yarovam bin Nevat yang telah membuat Israel berdosa — ⟨את⟩ Israel; ia tidak berpaling daripadanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia berjalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "telah membuat berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:39.508535181Z",
+  "model": "glm-5.3"
+}

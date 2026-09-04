@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Keganasan orang-orang fasik akan menyapu mereka, sebab mereka menolak melakukan keadilan.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "akan menyapu mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mereka menolak"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:01.246191873Z",
+  "model": "glm-5.3"
+}

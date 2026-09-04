@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan bani Israel hendaklah memelihara ⟨את⟩ syabbat itu, untuk membuat ⟨את⟩ syabbat itu bagi keturunan mereka, perjanjian kekal.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Dan hendaklah memelihara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syabbat itu"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "syabbat itu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syabbat itu"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "syabbat itu"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bagi keturunan mereka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:35.545674638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 37:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu ia bermimpi lagi mimpi yang lain, dan ia menceritakan ⟨את⟩-nya kepada saudara-saudaranya, lalu katanya: Lihat, aku bermimpi mimpi lagi, dan lihat, matahari dan bulan dan sebelas bintang sedang sujud kepadaku.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "Lalu ia bermimpi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "dan ia menceritakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "mimpi itu"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kepada saudara-saudaranya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aku bermimpi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "mimpi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "dan se"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "bintang"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "sedang sujud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:46.782218352Z",
+  "model": "glm-5.3"
+}

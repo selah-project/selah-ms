@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Namun pada zamanmu Aku tidak akan melakukannya, demi Dawid ayahmu; dari tangan anakmulah Aku akan mencabutnya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Namun"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "pada zamanmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "Aku akan melakukannya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "Aku akan mencabutnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:42.466145615Z",
+  "model": "glm-5.3"
+}

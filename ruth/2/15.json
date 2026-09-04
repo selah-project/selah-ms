@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka bangunlah dia untuk memungut jelai, lalu titah Boaz kepada hamba-hambanya, katanya: \"Bahkan di antara berkas-berkas itu biarlah dia memungut, dan jangan kamu memperkecilkan dia.\"",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "maka bangunlah dia"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "untuk memungut jelai"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "lalu titah"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "berkas-berkas itu"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "biarlah dia memungut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "kamu memperkecilkan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:46.174992733Z",
+  "model": "glm-5.3"
+}

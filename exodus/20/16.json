@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jangan menjawab terhadap sesamamu ⟨sebagai⟩ saksi dusta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "terhadap sesamamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:34.961238057Z",
+  "model": "glm-5.3"
+}

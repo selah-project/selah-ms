@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Ia membuat semuanya melompat seperti anak lembu — Lebanon dan Sirion seperti anak lembu liar.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Dan Ia membuat semuanya melompat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "dan Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "lembu liar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:09.046838405Z",
+  "model": "glm-5.3"
+}

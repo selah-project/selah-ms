@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Maka berlakulah pada hari kedua selepas pembunuhan ⟨את⟩ Gedalyahu — dan tiada seorang pun mengetahuinya —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "selepas pembunuhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "dan seorang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahuinya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:22:58.633398212Z",
+  "model": "glm-5.3"
+}

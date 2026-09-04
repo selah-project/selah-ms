@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu berteriaklah Moshe kepada Yahweh, katanya, \"Apakah akan aku perbuat kepada bangsa ini? Lagi sedikit, mereka akan merejam aku!\"",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "berteriaklah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan aku perbuat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kepada bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Lagi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "mereka akan merejam aku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:46.610682314Z",
+  "model": "glm-5.3"
+}

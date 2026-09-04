@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan menghukum ⟨את⟩ Israel sesudahnya Ibtzan dari Beit-Lehem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Dan menghukum"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sesudahnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtzan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lehem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:09:40.970606192Z",
+  "model": "glm-5.3"
+}

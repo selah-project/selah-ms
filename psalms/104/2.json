@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Yang berselimut cahaya seperti selimut, yang membentangkan langit seperti khemah.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "yang berselimut"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "seperti selimut"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "yang membentangkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "seperti khemah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:23.516371170Z",
+  "model": "glm-5.3"
+}

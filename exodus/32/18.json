@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Tetapi ia berkata: \"Bukan suara jeritan kemenangan ⟨gagah⟩, dan bukan suara jeritan kekalahan; suara nyanyian yang aku dengar.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tetapi berkata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kemenangan ⟨gagah⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "kekalahan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:46.661678530Z",
+  "model": "glm-5.3"
+}

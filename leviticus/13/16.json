@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Atau apabila daging hidup itu berpaling semula dan berubah menjadi putih, maka dia datang kepada imam itu.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Atau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "berpaling semula"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging itu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "hidup itu"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "dan berubah"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "menjadi putih"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "maka datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:22.240654186Z",
+  "model": "glm-5.3"
+}

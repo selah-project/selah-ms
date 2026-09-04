@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Akulah Yahweh, dan tiada yang lain; selain daripada-Ku tiada Elohim; Aku memgang pinggangmu, walaupun engkau tidak mengenal-Ku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "selain daripada-Ku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Aku memgang pinggangmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "walaupun tidak"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "engkau mengenal-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:14.430356287Z",
+  "model": "glm-5.3"
+}

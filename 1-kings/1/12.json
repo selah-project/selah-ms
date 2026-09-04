@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan sekarang, marilah, biarlah aku menasihatimu ⟨nasihat⟩, dan selamatkanlah dirimu ⟨את⟩ nyawamu dan ⟨את⟩ nyawa anakmu Syelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "biarlah aku menasihatimu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nasihat⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "dan selamatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "nyawa anakmu Syelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:58.883938702Z",
+  "model": "glm-5.3"
+}

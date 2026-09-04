@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan pada hari itu diberinya suatu tanda ajaib, katanya: Inilah tanda ajaib yang telah difirmankan Yahweh: Lihatlah, mezbah itu akan terbelah, dan abu yang di atasnya akan tertumpah.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dan diberinya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "tanda ajaib"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "tanda ajaib itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "akan terbelah"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "dan akan tertumpah"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "abu itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:32.802840708Z",
+  "model": "glm-5.3"
+}

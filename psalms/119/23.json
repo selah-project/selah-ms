@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Sungguhpun pembesar-pembesar telah duduk bermesyuarat terhadap aku, hamba-Mu pula merenungkan ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sungguhpun"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "telah duduk"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "bermesyuarat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "merenungkan"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:07.296788793Z",
+  "model": "glm-5.3"
+}

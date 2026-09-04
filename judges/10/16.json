@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu mereka membuang ⟨את⟩ tuhan-tuhan asing dari tengah-tengah mereka, dan berbakti kepada ⟨את⟩ Yahweh; dan jiwanya tertekan oleh penderitaan Israel.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Lalu mereka membuang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan asing"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "dari tengah-tengah mereka"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan berbakti kepada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "dan tertekan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwanya"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "oleh penderitaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:51.051376188Z",
+  "model": "glm-5.3"
+}

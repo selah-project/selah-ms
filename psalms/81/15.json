@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Dalam sekejap musuh-musuh mereka Kutundukkan, dan ke atas lawan-lawan mereka Aku memalingkan tangan-Ku.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Dalam sekejap"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuh-musuh mereka"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "Kutundukkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "lawan-lawan mereka"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku memalingkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:46.806578404Z",
+  "model": "glm-5.3"
+}

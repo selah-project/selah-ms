@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "kain kasut kaributku aku jahit di atas kulitku, dan tandukku ku serahkan ke dalam debu.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "kain-karibut"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "aku-jahit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di-atas"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "kulitku"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "dan-ku-serahkan"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ke-dalam-debu"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tandukku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:45.082086101Z",
+  "model": "glm-5.3"
+}

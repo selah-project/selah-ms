@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 29:14",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Aku akan memulihkan ⟨את⟩ keadaan tawanan Mitsrayim, dan Aku akan membawa mereka ⟨את⟩ kembali ke tanah Patros, ke tanah kelahiran mereka, dan mereka akan menjadi di sana kerajaan yang hina.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Aku akan memulihkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawanan Mitsrayim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "dan Aku akan membawa kembali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "tanah Patros"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מכורתם",
+      "gloss": "kelahiran mereka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan mereka akan menjadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "yang hina"
+    }
+  ],
+  "timestamp": "2026-09-04T13:36:28.774700039Z",
+  "model": "glm-5.3"
+}

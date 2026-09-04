@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Jawablah orang bodoh sesuai dengan kebodohannya, supaya jangan ia menjadi bijak di mata sendiri.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Jawablah"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "sesuai dengan kebodohannya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mata sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:20.209246170Z",
+  "model": "glm-5.3"
+}

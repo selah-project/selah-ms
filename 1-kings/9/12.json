@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Hiram keluar dari Tsor untuk melihat ⟨את⟩ bandar-bandar yang diberikan Syelomo kepadanya, tetapi bandar-bandar itu tidak lurus di matanya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "dari Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandar-bandar itu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:54.952795139Z",
+  "model": "glm-5.3"
+}

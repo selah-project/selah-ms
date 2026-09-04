@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 112,
+  "translation": "Terang telah terbit dalam kegelapan bagi orang-orang lurus; pengasih dan penyayang dan adil.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "telah terbit"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Terang"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "bagi orang-orang lurus"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "pengasih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "dan penyayang"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "dan adil"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:59.267959162Z",
+  "model": "glm-5.3"
+}

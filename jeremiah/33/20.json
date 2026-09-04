@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Demikian kata Yahweh: jikalau kamu boleh membatalkan perjanjian-Ku ⟨את⟩ siang dan ⟨את⟩ perjanjian-Ku malam, sehingga tidak ada siang dan malam pada waktunya masing-masing,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Demikian"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jikalau"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "kamu boleh membatalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian-Ku siang"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perjanjian-Ku malam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "sehingga tidak"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ada"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "dan malam"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "pada waktunya masing-masing"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:31.177171804Z",
+  "model": "glm-5.3"
+}

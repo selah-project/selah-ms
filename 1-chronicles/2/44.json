@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Sema memperanakkan ⟨את⟩ Raham, bapa Yorkeam; dan Rekem memperanakkan ⟨את⟩ Syamai.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Dan Sema"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raham"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Raham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Yorkeam"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "dan Rekem"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Syamai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:13.895865483Z",
+  "model": "glm-5.3"
+}

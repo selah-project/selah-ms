@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Tetapi aku, aku akan mewartakan ⟨selama-lamanya⟩; aku akan bermazmur kepada Elohim ⟨ milik ⟩ Yaakov (Yakub)",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "aku akan mewartakan"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku akan bermazmur"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kepada Elohim ⟨milik⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:36.797214988Z",
+  "model": "glm-5.3"
+}

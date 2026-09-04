@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Maka diamlah mereka dan tidak menjawab dia sesuatu perkataan pun, kerana perintah raja ialah ⟨demikian⟩: \"Jangan jawab dia.\"",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "Maka diamlah mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "dia ⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sesuatu perkataan pun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨demikian⟩ katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "jawab dia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:25.556501179Z",
+  "model": "glm-5.3"
+}

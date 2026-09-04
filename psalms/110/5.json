@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 110,
+  "translation": "Adonai di sebelah kananmu meremukkan raja-raja pada hari kemurkaannya.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sebelah kananmu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "meremukkan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kemurkaannya"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:50.244974438Z",
+  "model": "glm-5.3"
+}

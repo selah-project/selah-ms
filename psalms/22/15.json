@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Seperti air aku telah ditumpahkan, dan segala tulangku telah tercerai-berai; hatiku telah menjadi seperti lilin, cair di tengah-tengah perutkusendiri.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "aku telah ditumpahkan"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "dan telah tercerai-berai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulangku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "seperti lilin"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "cair"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "perutkusendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:15.743414419Z",
+  "model": "glm-5.3"
+}

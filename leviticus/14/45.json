@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Maka ia meruntuhkan ⟨את⟩ rumah itu, ⟨את⟩ batu-batunya, dan ⟨את⟩ kayu-kayunya, dan ⟨את⟩ segala debu rumah itu, dan membawa keluar ke luar bandar itu, ke tempat yang najis.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "meruntuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batunya"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "batu-batunya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu-kayunya"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "kayu-kayunya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala debu rumah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "dan membawa keluar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bandar itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "yang najis"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:26.015952668Z",
+  "model": "glm-5.3"
+}

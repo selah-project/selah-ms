@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Orang yang mempersembahkan korban syukur memuliakan Aku, dan orang yang mengatur jalannya, kepadanya Aku akan memperlihatkan keselamatan ⟨dari⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "orang yang mempersembahkan korban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "memuliakan Aku"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan mengatur"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "Aku akan memperlihatkan kepadanya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:36.076299742Z",
+  "model": "glm-5.3"
+}

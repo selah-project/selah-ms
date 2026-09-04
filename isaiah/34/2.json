@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Sebab ⟨bagi⟩ Yahweh ada kegeraman terhadap segala bangsa, dan kehangatan amarah terhadap segala tentera mereka; Ia telah mengherem mereka, Ia telah menyerahkan mereka kepada penyembelihan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kegeraman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "dan kehangatan amarah"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tentera mereka"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "Ia telah mengherem mereka"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "Ia telah menyerahkan mereka"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kepada penyembelihan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:25.740835715Z",
+  "model": "glm-5.3"
+}

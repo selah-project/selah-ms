@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika tiada baginya saudara-saudara lelaki, maka kamu memberikan ⟨את⟩ pusakanya kepada saudara-saudara lelaki bapanya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "saudara-saudara lelaki"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "kamu memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusakanya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pusakanya"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kepada saudara-saudara lelaki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:45.808950529Z",
+  "model": "glm-5.3"
+}

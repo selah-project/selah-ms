@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu berkata raja: Yang ini berkata: Ini anakku yang hidup dan anakmu yang mati; dan yang ini berkata: Tidak, tetapi anakmu yang mati dan anakku yang hidup.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Yang ini"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "dan anakmu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "dan yang ini"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yang mati"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan anakku"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:31.399770212Z",
+  "model": "glm-5.3"
+}

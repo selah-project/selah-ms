@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Akan kembali payahnya di atas kepalanya, dan di atas puncak kepalanya keganasannya akan turun.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "payahnya"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "di atas kepalanya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "puncak kepalanya"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "keganasannya"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "akan turun"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:21.049361853Z",
+  "model": "glm-5.3"
+}

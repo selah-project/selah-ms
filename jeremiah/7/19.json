@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Aku, ⟨את⟩-kah yang mereka bangkitkan amarahnya? demikianlah firman Yahweh; bukankah ⟨את⟩ mereka sendiri, demi malu muka mereka?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩-kah Aku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "yang mereka bangkitkan amarahnya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "demi malu muka mereka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "malu"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "muka mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:12:25.556304417Z",
+  "model": "glm-5.3"
+}

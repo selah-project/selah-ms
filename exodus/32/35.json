@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu Yahweh membinasakan ⟨את⟩ kaum itu, kerana mereka membuat ⟨את⟩ anak lembu itu yang dibuat oleh Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Lalu membinasakan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaum itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu itu"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "anak lembu itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "oleh Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:01.492607923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan dengannya ia membuat ⟨את⟩ tapak petak pintu Kemah Pertemuan, dan ⟨את⟩ mazbah tembaga, dan ⟨את⟩ jeruji tembaganya yang baginya, dan ⟨את⟩ segala perkakas mazbah itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapak petak pintu Kemah Pertemuan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tapak"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "petak pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mazbah tembaga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jeruji tembaga"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "jeruji"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakas mazbah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:53.391311380Z",
+  "model": "glm-5.3"
+}

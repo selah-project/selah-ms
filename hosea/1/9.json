@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ⟨dia⟩ berkata, panggillah namanya Lo-Ami (bukan umat-Ku), kerana kamu bukan umat-Ku, dan Aku tidak akan menjadi bagi kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "panggillah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku (Lo-Ami)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:28.678552573Z",
+  "model": "glm-5.3"
+}

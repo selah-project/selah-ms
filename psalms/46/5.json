@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Sungai dengan anak-anak sungainya menyukakan bandar Elohim, tempat kudus kediaman Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Sungai"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "dengan anak-anak sungainya"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "menyukakan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:42.929922923Z",
+  "model": "glm-5.3"
+}

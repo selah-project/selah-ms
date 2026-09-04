@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 7:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Semuanya ini batu-batu berharga, menurut ukuran batu gazit, digergaji dengan gergaji, dari dalam dan dari luar, dan dari asas sampai kepada pelantar, dan dari luar sampai kepada halaman yang besar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Semuanya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "berharga"
+    },
+    {
+      "surface": "כמדת",
+      "gloss": "menurut ukuran"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "batu gazit"
+    },
+    {
+      "surface": "מגררות",
+      "gloss": "digergaji"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "dengan gergaji"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari dalam"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "dan dari luar"
+    },
+    {
+      "surface": "וממסד",
+      "gloss": "dan dari asas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "הטפחות",
+      "gloss": "pelantar"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "dan dari luar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai kepada"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:20.942970687Z",
+  "model": "glm-5.3"
+}

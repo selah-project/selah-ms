@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Menanti-nanti aku telah menanti Yahweh, lalu Ia condong ke arah aku dan mendengar jeritanku.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Menanti-nanti"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "aku telah menanti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "lalu Ia condong"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke arah aku"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan (Ia) mendengar"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "jeritanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:46.498990806Z",
+  "model": "glm-5.3"
+}

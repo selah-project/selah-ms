@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Dan terjadilah di Syalem sok-Nya, dan kediaman-Nya di Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "di Syalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "sok-Nya"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "dan kediaman-Nya"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:52.727117311Z",
+  "model": "glm-5.3"
+}

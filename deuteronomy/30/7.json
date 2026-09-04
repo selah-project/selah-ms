@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan Yahweh Elohim-mu akan meletakkan ⟨את⟩ segala kutukan ini ke atas musuhmu dan ke atas pembencimu yang telah mengejar engkau.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "dan akan meletakkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kutukan ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "kutukan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuhmu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "pembencimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "telah mengejar engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:59.143263762Z",
+  "model": "glm-5.3"
+}

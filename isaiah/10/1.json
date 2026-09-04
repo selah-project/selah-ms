@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Aduhai bagi para penggubal ketetapan kefasikan, dan para penulis yang menulis kesusahan —",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduhai"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "para penggubal"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "און",
+      "gloss": "kefasikan"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "dan para penulis"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "telah menulis"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:55.983442464Z",
+  "model": "glm-5.3"
+}

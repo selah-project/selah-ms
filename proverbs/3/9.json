@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Muliakanlah ⟨את⟩ Yahweh dengan harta kekayaanmu, dan dengan bawaan pertama segala hasil tanamanmu.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Muliakanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "dengan harta kekayaanmu"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "dan dengan bawaan pertama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "hasil tanamanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:05.924430312Z",
+  "model": "glm-5.3"
+}

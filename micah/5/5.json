@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan mereka akan memusnahkan ⟨את⟩ bumi Asyur dengan pedang, dan ⟨את⟩ bumi Nimrod di pintu-pintunya; dan ia akan menyelamatkan kami daripada Asyur, kerana ia akan masuk ke bumi kami dan kerana ia akan menginjak di sempadan kami.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "dan mereka akan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "di pintu-pintunya"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "dan ia akan menyelamatkan"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "daripada Asyur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ia akan masuk"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ke bumi kami"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan kerana"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ia akan menginjak"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "di sempadan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:37.013361561Z",
+  "model": "glm-5.3"
+}

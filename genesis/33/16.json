@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Maka pada hari itu Esav pun pulang ke jalannya, ke Seir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maka pulang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ke jalannya"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:01.125227606Z",
+  "model": "glm-5.3"
+}

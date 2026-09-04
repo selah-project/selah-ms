@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Elohim mencipta ⟨את⟩ manusia dalam gambar-Nya; dalam gambar Elohim dicipta-Nya ⟨את⟩ dia; lelaki dan perempuan dicipta-Nya ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Lalu mencipta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "dalam gambar-Nya"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam gambar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "dicipta-Nya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (manusia)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "dan perempuan"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "dicipta-Nya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (lelaki dan perempuan)"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:06.240081459Z",
+  "model": "glm-5.3"
+}

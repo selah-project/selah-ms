@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Penuh kasih ⟨ialah⟩ Yahweh, dan adil; ya, Elohim kami mengasihani.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Penuh kasih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "dan adil"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ya, Elohim kami"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mengasihani"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:56.561559690Z",
+  "model": "glm-5.3"
+}

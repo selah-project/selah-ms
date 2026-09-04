@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "\"Biarkanlah kami mencabut ⟨את⟩ belenggu mereka, dan kami campakkan dari kami tali-tali mereka.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "biarkanlah kami mencabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belenggu mereka"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "belenggu mereka"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "dan kami campakkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari kami"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "tali-tali mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:12.566070770Z",
+  "model": "glm-5.3"
+}

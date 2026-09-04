@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Dikenyangkan pokok-pokok Yahweh, araz Libanon yang ditanam-Nya;",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Dikenyangkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "pokok-pokok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "araz"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ditanam-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:19.674245363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Pada siang hari Yahweh akan memerintahkan hesed-⟨Nya⟩, dan pada waktu malam nyanyian bersama-sama dengan aku, suatu doa kepada El kehidupan aku.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "pada siang hari"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "akan memerintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-⟨Nya⟩"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "dan pada waktu malam"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersama-sama dengan aku"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "suatu doa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "kepada El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kehidupan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:39.707610398Z",
+  "model": "glm-5.3"
+}

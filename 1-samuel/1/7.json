@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan demikianlah dilakukannya tahun demi tahun, setiap kali ia naik ke rumah Yahweh, demikianlah ia disakiti hatinya, lalu ia menangis dan tidak mahu makan.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Dan demikianlah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dilakukannya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "demi tahun"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "setiap kali"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ia naik"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ia disakiti hatinya"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "lalu ia menangis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mahu makan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:06.109462089Z",
+  "model": "glm-5.3"
+}

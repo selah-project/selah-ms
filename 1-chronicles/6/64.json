@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "dan ⟨את⟩ Kedemot dan ⟨את⟩ tanah lapangnya, dan ⟨את⟩ Mefaat dan ⟨את⟩ tanah lapangnya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:45.299575861Z",
+  "model": "glm-5.3"
+}

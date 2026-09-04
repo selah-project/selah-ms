@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Tercerailah orang fasik sejak rahim; sesat sejak perut, penutur-penutur dusta.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Tercerailah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "sejak rahim"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "sesat"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "sejak perut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "penutur-penutur"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:03.968154135Z",
+  "model": "glm-5.3"
+}

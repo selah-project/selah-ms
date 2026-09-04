@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Pada hari bulan yang pertama, pada hari pertama bulan itu, engkau akan mendirikan ⟨את⟩ Mishkan, Khemah Perjumpaan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "bulan yang"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pada hari pertama"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "engkau akan mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Perjumpaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:09.721338625Z",
+  "model": "glm-5.3"
+}

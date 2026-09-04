@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Elohim ⟨ialah⟩ hakim yang benar, dan El yang murka pada setiap hari.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yang benar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "yang murka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "pada setiap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:37.000187012Z",
+  "model": "glm-5.3"
+}

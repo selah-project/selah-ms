@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Yahweh melihat bahawa Lea dibenci, maka dibukanya ⟨את⟩ rahimnya; tetapi Rahel mandul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "dibenci"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "maka dibukanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahimnya"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "rahimnya"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "tetapi Rahel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandul"
+    }
+  ],
+  "timestamp": "2026-09-04T11:04:42.101531432Z",
+  "model": "glm-5.3"
+}

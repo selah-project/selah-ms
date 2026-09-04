@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Sepanjang hari kekosongannya ia akan beristirahat ⟨את⟩ apa yang tidak ia rayakan pada sabat-sabat kamu, semasa kamu diam di atasnya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "kekosongannya"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ia akan beristirahat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang tidak ia rayakan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ia beristirahat"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "pada sabat-sabat kamu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "semasa kamu diam"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:56.329813720Z",
+  "model": "glm-5.3"
+}

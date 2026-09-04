@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Merekalah yang mengembara untuk mencari makan; jika mereka tidak kenyang, mereka menggeram.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "mengembara"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "untuk makan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "mereka menggeram"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:38.886647994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dengan teguran atas perversitas Engkau menghukum manusia, dan seperti ngengat Engkau menghancurkan keindahannya; sungguh, kesia-siaanlah setiap manusia. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Dengan teguran"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עון",
+      "gloss": "perversitas"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "Engkau menghukum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "dan Engkau menghancurkan"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "seperti ngengat"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "keindahannya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:34.798682581Z",
+  "model": "glm-5.3"
+}

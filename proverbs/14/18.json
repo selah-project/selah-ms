@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 14:18",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Orang-orang naif mewarisi kebodohan, dan orang-orang licin memahkotai pengetahuan.",
+  "tokens": [
+    {
+      "surface": "נחלו",
+      "gloss": "mewarisi"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "orang-orang naif"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "וערומים",
+      "gloss": "dan orang-orang licin"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "memahkotai"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:32.417440226Z",
+  "model": "glm-5.3"
+}

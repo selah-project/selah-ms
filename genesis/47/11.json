@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Dan Yosef mendudukkan ⟨את⟩ bapanya dan ⟨את⟩ saudara-saudaranya, dan memberi mereka pegangan tanah di tanah Mitsrayim, di sebaik-baik tanah, di tanah Raamses, seperti yang diperintahkan Firaun.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "dan mendudukkan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapanya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan memberi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "pegangan tanah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "di sebaik-baik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:33.528060793Z",
+  "model": "glm-5.3"
+}

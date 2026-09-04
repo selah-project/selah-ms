@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "rusa, dan kijang, dan yakhmor, dan ako, dan dysyon, dan teo, dan zamer —",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "rusa"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "dan kijang"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "dan yakhmor"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "dan ako"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "dan dysyon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "dan teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "dan zamer"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:09.339927092Z",
+  "model": "glm-5.3"
+}

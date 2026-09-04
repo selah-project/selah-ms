@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Baik ⟨adalah⟩ Yahweh kepada semua, dan rahmat-Nya atas segala perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada semua"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "dan rahmat-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.621466905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan imam itu membakarnya sebagai asap di atas mazbah — makanan persembahan api bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "dan membakarnya sebagai asap"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mazbah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:10.549606877Z",
+  "model": "glm-5.3"
+}

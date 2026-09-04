@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "lalu Ia merendahkan dengan penderitaan hati mereka; mereka terhuyung, dan tiada penolong.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "lalu Ia merendahkan"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "dengan penderitaan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "mereka terhuyung"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.008728788Z",
+  "model": "glm-5.3"
+}

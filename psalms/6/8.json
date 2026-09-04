@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kabur mataku kerana geram; ia menua kerana semua musuhku.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Kabur"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "kerana geram"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ia menua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kerana semua"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "musuhku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.472203043Z",
+  "model": "glm-5.3"
+}

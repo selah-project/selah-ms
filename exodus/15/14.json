@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Bangsa-bangsa mendengar, mereka gempar; kekejangan menghantam penduduk Pelesyet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "mereka gempar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kekejangan"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "menghantam"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:49.265463925Z",
+  "model": "glm-5.3"
+}

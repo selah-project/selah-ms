@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Beban terhadap Arab. Di hutan, di Arab, kamu bermalam, hai kafilah orang Dedan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beban"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "terhadap Arab"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "Di hutan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "di Arab"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "kamu bermalam"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "hai kafilah"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "orang Dedan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:54.619920978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Aku telah melihat seorang fasik yang gagah perkasa, ia menghijau subur seperti pokok asli yang segar.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku telah melihat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "seorang fasik"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "yang gagah perkasa"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "menghijau subur"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "seperti pokok asli"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yang segar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:09.254417534Z",
+  "model": "glm-5.3"
+}

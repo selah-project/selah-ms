@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Aku bersumpah ⟨את⟩ kamu, anak-anak perempuan Yerusalaim, demi kijang-kijang atau demi rusa-rusa betina padang: jangan kamu bangunkan dan jangan kamu usik ⟨את⟩ kasih, sampai ia berkehendak.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Aku bersumpah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "anak-anak perempuan Yerusalaim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "demi kijang-kijang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "demi rusa-rusa betina"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "kamu bangunkan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "kamu usik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasih"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "kasih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ia berkehendak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:35.150939826Z",
+  "model": "glm-5.3"
+}

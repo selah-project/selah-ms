@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Yahweh berfirman kepada Samuel: \"Dengarlah suara kaum itu, segala yang mereka katakan kepadamu, kerana bukan ⟨את⟩ engkau mereka menolak, tetapi ⟨את⟩ Aku mereka menolak daripada memerintah atas mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum itu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka katakan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "mereka menolak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Aku"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "mereka menolak"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "daripada memerintah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:23.223581620Z",
+  "model": "glm-5.3"
+}

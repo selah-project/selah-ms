@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Wujudkanlah dan bangunkanlah diri-Mu untuk penghakimanku, Elohimku dan Adonaiku, untuk perkaraku.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "bangunkanlah (diri-Mu)"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "dan wujudkanlah"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "untuk penghakimanku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "dan Adonaiku"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "untuk perkaraku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:13.899412331Z",
+  "model": "glm-5.3"
+}

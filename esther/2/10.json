@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Tidak diberitahu Ester ⟨את⟩ bangsanya dan ⟨את⟩ kelahirannya, kerana Mordekhai memerintahkan atasnya supaya jangan diberitahu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "diberitahu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsanya"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bangsanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kelahirannya"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "kelahirannya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintahkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "diberitahu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:03.366750916Z",
+  "model": "glm-5.3"
+}

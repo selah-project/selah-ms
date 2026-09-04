@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu jawabnya: \"⟨את⟩ saudara-saudaraku aku cari; beritahulah ⟨kiranya⟩ kepadaku di mana mereka menggembalakan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu jawabnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaraku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cari"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "beritahulah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kiranya⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "menggembalakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:28.811871419Z",
+  "model": "glm-5.3"
+}

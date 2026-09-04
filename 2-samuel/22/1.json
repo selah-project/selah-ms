@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu Dawid berkata-kata kepada Yahweh ⟨את⟩ perkataan syair ini, pada hari Yahweh menyelamatkan ⟨dia⟩ daripada telapak tangan semua musuhnya dan daripada telapak tangan Syaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berkata-kata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan syair ini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "syair"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Dawid)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "daripada telapak tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuhnya"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "dan daripada telapak tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:47.603291067Z",
+  "model": "glm-5.3"
+}

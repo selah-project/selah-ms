@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Dengan bulu Sayap-Nya Dia menudung engkau, dan di bawah sayap-Nya engkau berlindung; perisai dan perisai bulat ialah kesetiaan-Nya.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Dengan bulu Sayap-Nya"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "Dia menudung"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sayap-Nya"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "engkau berlindung"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "perisai"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "dan perisai bulat"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kesetiaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:09.580017407Z",
+  "model": "glm-5.3"
+}

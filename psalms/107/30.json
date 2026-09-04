@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Maka bersukacitalah mereka kerana amlah keadaan itu, dan dibawa-Nya mereka ke pelabuhan yang mereka ingini.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "dan bersukacitalah mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "beramlah keadaan itu"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dan dibawa-Nya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "pelabuhan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "yang mereka ingini"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:31.006238075Z",
+  "model": "glm-5.3"
+}

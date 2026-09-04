@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Ingatlah akan aku, wahai Yahweh, dalam kerelaan terhadap umat-Mu; perhatikanlah aku dalam keselamatan-Mu!",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "ingatlah akan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "dalam kerelaan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "terhadap umat-Mu"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "perhatikanlah aku"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dalam keselamatan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:17.187214757Z",
+  "model": "glm-5.3"
+}

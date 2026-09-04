@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Engkau telah menetapkan segala sempadan bumi; musim panas dan musim sejuk — engkau telah membentuknya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "telah menetapkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "sempadan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "musim panas"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "dan musim sejuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "telah membentuknya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:02.909768892Z",
+  "model": "glm-5.3"
+}

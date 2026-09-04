@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sebab penduduk Marot mengharapkan kebaikan, sebab kejahatan telah turun daripada ⟨את⟩ Yahweh, sampai ke gerbang Yerusalem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mengharapkan"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "telah turun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "daripada ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "sampai ke gerbang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:01.176385634Z",
+  "model": "glm-5.3"
+}

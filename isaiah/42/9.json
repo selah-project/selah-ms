@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Sesungguhnya, perkara-perkara terdahulu telah datang, dan perkara baru aku maklumkan; sebelum ia tumbuh aku memperdengarkannya ⟨את⟩ kepada kamu.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "perkara-perkara terdahulu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "באו",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "dan perkara baru"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "maklumkan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "ia tumbuh"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "aku memperdengarkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:00.857677629Z",
+  "model": "glm-5.3"
+}

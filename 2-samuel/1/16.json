@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu berkatalah Dawid kepadanya: \"Darahmu ⟨itu⟩ di atas kepalamu sendiri, sebab mulutmu sendiri telah menyaksi terhadapmu, dengan berkata: Aku membunuh ⟨את⟩ Mashiah Yahweh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "darahmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kepalamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "telah menyaksi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiah Yahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:32.562665619Z",
+  "model": "glm-5.3"
+}

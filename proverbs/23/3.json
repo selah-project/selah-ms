@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan mengingini hidangan lazatnya, kerana itu ⟨ialah⟩ roti dusta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "mengingini"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "hidangan lazatnya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kerana itu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:00.482019116Z",
+  "model": "glm-5.3"
+}

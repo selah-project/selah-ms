@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Pada segala masa pakaianmu hendaklah putih, dan minyak di atas kepalamu janganlah kurang.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "pada segala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hendaklah ⟨ada⟩"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "pakaianmu"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "putih"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "dan minyak"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kepalamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kurang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:04.524433256Z",
+  "model": "glm-5.3"
+}

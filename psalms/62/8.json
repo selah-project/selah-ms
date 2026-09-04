@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Atas Elohim ⟨bersandarlah⟩ keselamatanku dan kemuliaanku; gunung batu kekuatanku, perlindunganku ⟨ada⟩ pada Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Atas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "dan kemuliaanku"
+    },
+    {
+      "surface": "צור",
+      "gloss": "gunung batu"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "perlindunganku"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "pada Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:59.752037916Z",
+  "model": "glm-5.3"
+}

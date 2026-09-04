@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ia memperolok-olokkan raja-raja, dan pembesar-pembesar ⟨menjadi⟩ olok-olok baginya; ia mentertawakan setiap kubu, dan ia menimbukkan debu dan menawannya.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Dan ia"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "memperolok-olokkan"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "dan pembesar-pembesar"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "olok-olok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "mentertawakan"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "dan ia menimbukkan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "dan menawannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:32.116555719Z",
+  "model": "glm-5.3"
+}

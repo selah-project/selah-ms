@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Ketika Yosef masuk ke rumah, mereka membawa kepadanya ⟨את⟩ hadiah yang ada di tangan mereka, ke dalam rumah, lalu sujud kepadanya sampai ke bumi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ketika masuk"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mereka membawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hadiah yang ada di tangan mereka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "hadiah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di tangan mereka"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ke dalam rumah"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "lalu sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sampai ke bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:49.040447655Z",
+  "model": "glm-5.3"
+}

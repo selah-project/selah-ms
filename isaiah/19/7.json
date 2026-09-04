@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Tanah terdedah ⟨di⟩ kanal, ⟨di⟩ muara kanal; dan segala tanaman di tepi kanal akan kering, terserak, dan tiada lagi.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "tanah terdedah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muara"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "tanaman"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "akan kering"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "terserak"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan tiada lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:36.188076156Z",
+  "model": "glm-5.3"
+}

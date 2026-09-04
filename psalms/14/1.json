@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Untuk pemimpin muzik. Mazmur Dawid. Orang bodoh berkata dalam hatinya, \"Tiada Elohim.\" Mereka telah rosak, mereka telah melakukan perbuatan keji; tiada yang berbuat baik.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin muzik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Mazmur Dawid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "mereka telah rosak"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "mereka telah melakukan perbuatan keji"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:28.323576888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Semua mereka memanas seperti ketuhar dan memakan ⟨את⟩ para hakim mereka; semua raja mereka telah jatuh; tiada ⟨yang⟩ berseru kepada-Ku di antara mereka.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "semua mereka"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "memanas"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "seperti ketuhar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para hakim mereka"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "para hakim mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "raja mereka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di antara mereka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:57.858482681Z",
+  "model": "glm-5.3"
+}

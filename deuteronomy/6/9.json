@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan engkau akan menulisnya pada tiang pintu rumahmu dan pada pintu gerbangmu.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Dan engkau akan menulisnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "dan pada pintu gerbangmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:27.990560250Z",
+  "model": "glm-5.3"
+}

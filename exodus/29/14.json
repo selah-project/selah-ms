@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Tetapi ⟨את⟩ daging lembu itu, dan ⟨את⟩ kulitnya, dan ⟨את⟩ najisnya, engkau akan membakar dalam api di luar kem; korban dosa ⟨ia⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "daging lembu itu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kulitnya"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "kulitnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "najisnya"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "najisnya"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "engkau akan membakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:01.872673743Z",
+  "model": "glm-5.3"
+}

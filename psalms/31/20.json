@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Betapa besarnya kebaikan-Mu, yang Engkau simpankan bagi mereka yang takut akan Engkau, yang Engkau kerjakan bagi mereka yang berlindung pada-Mu, di hadapan anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "besarnya"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kebaikan-Mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "Engkau simpankan"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "bagi mereka yang takut akan Engkau"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Engkau kerjakan"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "bagi mereka yang berlindung"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:11.706582964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan perak orang-orang yang dicatat daripada jemaah itu seratus kikar, dan seribu tujuh ratus tujuh puluh lima syekel, menurut syekel tempat kudus.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "Dan perak"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "orang-orang yang dicatat"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah itu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dan seribu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "tujuh puluh"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "menurut syekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:12.151957069Z",
+  "model": "glm-5.3"
+}

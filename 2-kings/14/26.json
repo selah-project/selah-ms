@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Sebab Yahweh melihat ⟨את⟩ kesengsaraan Israel — sangatlah pahit — dan tiada yang terkurung dan tiada yang ditinggalkan, dan tiada penolong bagi Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesengsaraan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kesengsaraan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "sangatlah pahit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "yang terkurung"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "yang ditinggalkan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:01.067620176Z",
+  "model": "glm-5.3"
+}

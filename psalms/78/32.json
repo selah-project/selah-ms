@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dengan segala ini mereka berdosa lagi, dan tidak percaya dalam keajaiban-keajaiban-Nya.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "mereka berdosa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "dalam keajaiban-keajaiban-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:00.235929763Z",
+  "model": "glm-5.3"
+}

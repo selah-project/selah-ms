@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Pedang bagi Yahweh telah penuh darah, dibekalkan lemak, dari darah domba-domba jantan dan kambing-kambing jantan, dari lemak ginjal domba-domba jantan; sebab sembelihan bagi Yahweh di Botserah, dan penyembelihan besar di tanah Edom.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Pedang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "telah penuh"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "dibenamkan lemak"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dari lemak"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "dari darah"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "domba-domba jantan"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "dan kambing-kambing jantan"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dari lemak"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "ginjal"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "domba-domba jantan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sembelihan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "di Botserah"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "dan penyembelihan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:16.612905704Z",
+  "model": "glm-5.3"
+}

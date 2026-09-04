@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu mereka memanggil Lot dan berkata kepadanya: \"Di manakah lelaki-lelaki itu yang datang kepadamu malam ini? Bawalah mereka keluar kepada kami, supaya kami mengenali ⟨את⟩ mereka.\"",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Lalu mereka memanggil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Di manakah"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lelaki-lelaki itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "malam ini"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "Bawalah mereka keluar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "וידעה",
+      "gloss": "supaya kami mengenali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:41.355763362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Atas syahal dan ular tedung selangkah engkau melangkah, anak singa dan ular besar engkau pijak.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "syahal (singa)"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "dan ular tedung"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "engkau melangkah"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "engkau pijak"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "dan ular besar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:53.897361541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Tidak boleh masuk seorang yang remuk buah pelirnya atau yang terpotong zakarnya ke dalam jemaah Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak boleh"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "yang terluka"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "yang remuk (buah pelirnya)"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "atau yang terpotong"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "zakarnya"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ke dalam jemaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:30.386697352Z",
+  "model": "glm-5.3"
+}

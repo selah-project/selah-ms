@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Berundurlah dari padaku, semua yang berbuat kebatilan, sebab Yahweh telah mendengar suara tangisanku.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "berundurlah"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "yang berbuat"
+    },
+    {
+      "surface": "און",
+      "gloss": "kebatilan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "tangisanku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:16.790542946Z",
+  "model": "glm-5.3"
+}

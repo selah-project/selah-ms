@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Jangan ditukarnya, dan jangan digantinya ⟨את⟩-nya — baik dengan yang jahat, atau jahat dengan yang baik; dan jika benar-benar ditukarnya binatang dengan binatang, maka binatang itu dan gantinya akan menjadi kudus.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "ditukarnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "digantinya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dengan yang jahat"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dengan yang baik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "המר",
+      "gloss": "benar-benar ditukar"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ditukarnya"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "dengan binatang"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka akan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "binatang itu"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "dan gantinya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:15.447063440Z",
+  "model": "glm-5.3"
+}

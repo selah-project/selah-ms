@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Tidak dibakar beragi; bahagian mereka telah Kuberikan ⟨את⟩nya daripada persembahan-api-Ku; kudus mahakudah ia, seperti korban dosa dan seperti korban pampasan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "beragi"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "bahagian mereka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "telah Kuberikan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nya (iaitu mazto persembahan itu)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "daripada persembahan-api-Ku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mahakudah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "seperti korban dosa"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "dan seperti korban pampasan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:26.326818579Z",
+  "model": "glm-5.3"
+}

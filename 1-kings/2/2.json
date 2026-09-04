@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Aku ini berjalan di jalan seluruh bumi; maka kuatkanlah dirimu dan jadilah ⟨seorang⟩ lelaki.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku ini"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "maka kuatkanlah dirimu"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨seorang⟩ lelaki"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:04.512052800Z",
+  "model": "glm-5.3"
+}

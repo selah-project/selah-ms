@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Berikan bahagian kepada tujuh, bahkan juga kepada lapan, sebab engkau tidak tahu apa malapetaka yang akan terjadi atas bumi.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Berikan"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahagian"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "kepada tujuh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "bahkan juga"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "kepada lapan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yang akan terjadi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malapetaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:57.741822566Z",
+  "model": "glm-5.3"
+}

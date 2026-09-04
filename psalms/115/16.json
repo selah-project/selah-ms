@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Langit, langit milik Yahweh, tetapi bumi telah diberikan-Nya kepada anak-anak manusia.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "milik Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "telah diberikan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:23.344347515Z",
+  "model": "glm-5.3"
+}

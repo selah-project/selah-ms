@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Pembesar-pembesar di tangan mereka digantung, wajah orang-orang tua tidak dihormati.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "di tangan mereka"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "digantung"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "orang-orang tua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "dihormati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:58.019364347Z",
+  "model": "glm-5.3"
+}

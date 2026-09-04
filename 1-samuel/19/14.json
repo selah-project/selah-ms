@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Syaul menghantar utusan untuk mengambil ⟨את⟩ David, dan katanya: \"⟨Dia⟩ sakit.\"",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "lalu Syaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuk mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "⟨את⟩ David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:48.441481764Z",
+  "model": "glm-5.3"
+}

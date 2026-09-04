@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Anak-anak Merari — menurut keluarga mereka, menurut rumah bapa mereka — engkau akan menghitung ⟨את⟩ mereka.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga mereka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "engkau akan menghitung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:47:15.978615154Z",
+  "model": "glm-5.3"
+}

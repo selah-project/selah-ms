@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Sebab itu aku keluar untuk menjumpai engkau, untuk mencari mukamu, dan aku telah mendapatimu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "aku keluar"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "untuk menjumpai engkau"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "untuk mencari"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mukamu"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "dan aku telah mendapatimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:13.127646329Z",
+  "model": "glm-5.3"
+}

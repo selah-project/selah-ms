@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu ia takut, lalu bangun dan pergi demi nyawanya, lalu sampai ke Be'er-Syeva yang di Yehuda, lalu meninggalkan ⟨את⟩ budaknya di sana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu ia takut"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "demi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lalu sampai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "di Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "lalu meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "budaknya"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "budaknya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:46.785471654Z",
+  "model": "glm-5.3"
+}

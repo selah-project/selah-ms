@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Yehuda dan Yisrael ramai seperti pasir yang di tepi laut, banyak sekali, makan dan minum serta bersukaria.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "seperti pasir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di tepi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "banyak sekali"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "makan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "serta bersukaria"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:17.462908638Z",
+  "model": "glm-5.3"
+}

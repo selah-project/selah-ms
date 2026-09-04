@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kasihanilah aku, Yahweh, sebab aku lesu; pulihkanlah aku, Yahweh, sebab tulangku terkejut.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kasihanilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "lesu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "pulihkanlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "terkejut"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulangku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:04.791536145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan janganlah dia memprofanakan zuriatnya di tengah-tengah umatnya; kerana Akulah Yahweh yang menguduskan dia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "dia memprofanakan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "zuriatnya"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "di tengah-tengah umatnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "yang menguduskan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:31.285387887Z",
+  "model": "glm-5.3"
+}

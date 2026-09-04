@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Bukankah seperti susu Engkau menuangku, dan seperti keju Engkau mengental dagingku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "seperti susu"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "Engkau menuangku"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "dan seperti keju"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "Engkau mengental dagingku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:11.822148144Z",
+  "model": "glm-5.3"
+}

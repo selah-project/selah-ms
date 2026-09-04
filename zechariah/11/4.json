@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Demikian berfirman Yahweh Elohim-ku: Gembalakanlah ⟨את⟩ kawanan yang dibunuh itu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Demikian"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Gembalakanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "yang dibunuh itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:20.720759184Z",
+  "model": "glm-5.3"
+}

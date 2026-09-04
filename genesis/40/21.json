@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan ia mengembalikan ⟨את⟩ ketua pemandu-pemandu minuman itu kepada jabatannya, dan ia memberi piala itu ke atas tapak tangan Paroh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dan ia mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketua pemandu-pemandu minuman"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "pemandu-pemandu minuman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "jabatannya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan ia memberi"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "piala itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tapak tangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:46.281693557Z",
+  "model": "glm-5.3"
+}

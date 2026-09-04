@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Jangan tarik aku bersama orang-orang fasik, dan bersama pekerja-pekerja kejahatan, yang berbicara damai dengan sahabat-sahabat mereka sedang kejahatan ⟨berada⟩ dalam hati mereka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "tarik aku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan bersama"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja-pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "sahabat-sahabat mereka"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "sedang kejahatan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "dalam hati mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:35.665304035Z",
+  "model": "glm-5.3"
+}

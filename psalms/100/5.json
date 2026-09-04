@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 100,
+  "translation": "Sebab baik Yahweh; selama-lamanya hesed-nya, dan sampai keturunan demi keturunan kesetiaan-nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-nya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "דר",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi keturunan"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "kesetiaan-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:33.994644160Z",
+  "model": "glm-5.3"
+}

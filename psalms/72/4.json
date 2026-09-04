@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Biarlah ⟨dia⟩ membela hak orang miskin umat, menyelamatkan anak-anak orang papa, dan meremukkan si penindas.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Biarlah ⟨dia⟩ membela hak"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang papa"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "dan meremukkan"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "si penindas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:18.322242319Z",
+  "model": "glm-5.3"
+}

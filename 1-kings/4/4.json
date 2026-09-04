@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "dan Benayahu bin Yehoyada atas tentera; dan Tsadok dan Evyatar, para imam.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "dan Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "dan Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "dan Evyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "para imam"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:48.841646402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan sekarang, gandum dan jelai, minyak dan anggur yang tuanku katakan, biarlah dikirim kepada hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "dan jelai"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "biarlah dikirim"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "kepada hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:06:30.964776373Z",
+  "model": "glm-5.3"
+}

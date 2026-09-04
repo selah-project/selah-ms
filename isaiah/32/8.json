@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Tetapi si murah hati merancangkan perkara mulia, dan dia atas perkara-perkara mulia akan berdiri.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "tetapi si murah hati"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "perkara mulia"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "merancangkan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "perkara-perkara mulia"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akan berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:11.183300339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Yahweh akan memberkati mereka yang takut akan Dia, kecil bersama besar.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "akan memberkati"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mereka yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "kecil-kecil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "besar-besar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:23.343258110Z",
+  "model": "glm-5.3"
+}

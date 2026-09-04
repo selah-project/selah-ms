@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dan berkata mereka: Adakah patut pelacur itu diperlakukan begini terhadap ⟨את⟩ saudara perempuan kami?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata mereka"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "pelacur itu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "adakah patut diperlakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara perempuan kami"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "saudara perempuan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:01.973604217Z",
+  "model": "glm-5.3"
+}

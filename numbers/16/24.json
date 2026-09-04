@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Katakanlah kepada jemaah, katanya: Naiklah kamu dari sekeliling tempat kediaman Korah, Datan, dan Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Naiklah kamu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dari sekeliling"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "dan Aviram"
+    }
+  ],
+  "timestamp": "2026-09-04T11:39:44.256509397Z",
+  "model": "glm-5.3"
+}

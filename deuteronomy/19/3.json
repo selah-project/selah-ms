@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "engkau akan menyediakan bagimu jalan, dan engkau akan membahagikan tiga bahagian ⟨את⟩ sempadan negerimu yang Yahweh Elohim-mu wariskan kepadamu, dan itu akan menjadi tempat berlari ke sana setiap pembunuh.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "engkau akan menyediakan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "dan engkau akan membahagikan tiga bahagian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sempadan negerimu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sempadan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "negerimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "Yahweh Elohim-mu wariskan kepadamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan itu akan menjadi"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "tempat berlari"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "pembunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:44.669925905Z",
+  "model": "glm-5.3"
+}

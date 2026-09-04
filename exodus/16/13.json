@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Maka jadilah pada waktu petang, burung selav naik dan menutupi ⟨את⟩ khemah; dan pada waktu pagi ada ⟨adalah⟩ lapisan embun sekeliling khemah itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dan naik"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "burung selav"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dan pada waktu pagi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lapisan"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "embun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "pada khemah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:42.087255053Z",
+  "model": "glm-5.3"
+}

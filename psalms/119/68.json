@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Baik Engkau dan berbuat baik; ajarkanlah aku ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "dan berbuat baik"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarkanlah aku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:50.678965321Z",
+  "model": "glm-5.3"
+}

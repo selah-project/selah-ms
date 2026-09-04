@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan Lea berkata: \"Keberuntungan!\" lalu ia memanggil ⟨את⟩ namanya Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "keberuntungan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "lalu memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:46.637442099Z",
+  "model": "glm-5.3"
+}

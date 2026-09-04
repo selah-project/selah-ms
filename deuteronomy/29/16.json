@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan kamu telah melihat ⟨את⟩ kekejian mereka dan ⟨את⟩ berhala mereka, kayu dan batu, perak dan emas, yang ada bersama mereka.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Dan kamu telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekejian mereka"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "kekejian mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "berhala mereka"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "berhala mereka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "bersama mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:10.456261192Z",
+  "model": "glm-5.3"
+}

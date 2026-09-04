@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Mengapakah kamu tidak memakan ⟨את⟩ korban dosa itu di tempat kudus? Sebab ia ⟨adalah⟩ kudus segala-kudus, dan ⟨dia⟩ memberikannya kepada kamu untuk memikul ⟨את⟩ kesalahan jemaah itu, untuk menghapus ⟨dosa⟩ mereka di hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "kamu memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban dosa itu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa itu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "segala-kudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan ⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikannya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuk memikul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan jemaah itu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah itu"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "untuk menghapus ⟨dosa⟩"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:21.538336753Z",
+  "model": "glm-5.3"
+}

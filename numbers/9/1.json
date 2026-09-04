@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Yahweh berfirman kepada Moshe di padang gurun Sinai, pada tahun kedua keluar mereka dari tanah Mitsrayim, pada bulan pertama, berkata:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "pada tahun"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "keluar mereka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pada bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:56.283512095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan raja itu memerintahkan ⟨את⟩ Yoav dan ⟨את⟩ Avisyai dan ⟨את⟩ Itai, katanya: Berlemah lembutlah ⟨kepada⟩ aku — kepada orang muda itu, kepada Avsyalom. Dan seluruh rakyat itu mendengar ketika raja memerintahkan ⟨את⟩ semua panglima tentang perkara Avsyalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Dan memerintahkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Avisyai"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avisyai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Itai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "berlemah lembut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada aku"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "kepada orang muda itu"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "kepada Avsyalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "ketika memerintahkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua panglima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "על",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:00.557151696Z",
+  "model": "glm-5.3"
+}

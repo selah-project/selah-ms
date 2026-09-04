@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "supaya kerajaan itu menjadi rendah, supaya tidak meninggikan diri, dengan memelihara ⟨את⟩ perjanjiannya supaya ia berdiri tegak.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "supaya menjadi"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "rendah"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "meninggikan diri"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjiannya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjiannya"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "supaya ia berdiri tegak"
+    }
+  ],
+  "timestamp": "2026-09-04T13:32:26.111378886Z",
+  "model": "glm-5.3"
+}

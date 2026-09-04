@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 7:13",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Marilah kita bangun pagi-pagi ke kebun-kebun anggur; marilah kita lihat sama ada pokok anggur telah berbunga, sama ada kuntum-kuntumnya telah terbuka, sama ada delima-delima telah mekar; di sana aku akan memberikan ⟨את⟩ kasihku kepadamu.",
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "marilah kita bangun pagi-pagi"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ke kebun-kebun anggur"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "marilah kita lihat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sama ada"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "telah berbunga"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "pokok anggur"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "telah terbuka"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "kuntum-kuntum anggur"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "telah mekar"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "delima-delima"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasihku"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "kasihku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:05.749145198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "⟨את⟩ aku dibawa-Nya, dan dijalankan-Nya dalam kegelapan, dan bukan ⟨dalam⟩ terang.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "dibawa-Nya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan dijalankan-Nya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:52.570693946Z",
+  "model": "glm-5.3"
+}

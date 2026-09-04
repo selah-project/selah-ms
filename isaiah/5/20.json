@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Aduhai bagi mereka yang berkata kepada kejahatan \"baik\", dan kepada kebaikan \"jahat\"; yang menaruhkan kegelapan sebagai terang, dan terang sebagai kegelapan; yang menaruhkan pahit sebagai manis, dan manis sebagai pahit!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "aduhai"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kepada kejahatan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "\"baik\""
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "dan kepada kebaikan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "\"jahat\""
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yang menaruhkan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "sebagai terang"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan terang"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "sebagai kegelapan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "yang menaruhkan"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pahit"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "sebagai manis"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "dan manis"
+    },
+    {
+      "surface": "למר",
+      "gloss": "sebagai pahit"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:25.283546747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan pada setiap hari, hari demi hari, Mordekhai berjalan-jalan di hadapan halaman rumah perempuan-perempuan, untuk mengetahui ⟨את⟩ keadaan selamat Ester dan apa yang akan dilakukan kepadanya.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "dan pada setiap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "hari demi hari"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "berjalan-jalan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan selamat Ester"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "keadaan selamat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akan dilakukan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:03.366917989Z",
+  "model": "glm-5.3"
+}

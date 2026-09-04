@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu ia bertanya ⟨את⟩ sida-sida Paroh yang bersama ⟨את⟩-nya dalam tahanan di rumah tuannya, katanya: Mengapakah muka kamu buruk pada hari ini?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "lalu bertanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sida-sida Paroh"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "sida-sida"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama ⟨את⟩-nya"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dalam tahanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "muka kamu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "buruk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:17.896435745Z",
+  "model": "glm-5.3"
+}

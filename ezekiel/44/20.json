@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Dan kepala mereka tidak mereka cukur, dan rambut panjang tidak mereka biarkan; cukur kira-kira mereka lakukan pada ⟨את⟩ kepala mereka.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "dan kepala mereka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "mereka cukur"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "dan rambut terbiar panjang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "mereka biarkan"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "menggunting kira-kira"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "mereka lakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala mereka"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "kepala mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:08.030433173Z",
+  "model": "glm-5.3"
+}

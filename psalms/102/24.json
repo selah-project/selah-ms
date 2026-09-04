@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Ia telah menindas kekuatarku di jalan; Ia telah memendekkan hari-hariku.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ia telah menindas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "kekuatarku"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "Ia telah memendekkan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:39.635353308Z",
+  "model": "glm-5.3"
+}

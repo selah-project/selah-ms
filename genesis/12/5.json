@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Avram mengambil ⟨את⟩ Sarai isterinya, dan ⟨את⟩ Lot anak saudaranya, dan ⟨את⟩ segala harta benda yang telah mereka kumpulkan, dan ⟨את⟩ orang-orang yang telah mereka peroleh di Haran; lalu mereka keluar untuk pergi ke tanah Kenaan, dan mereka sampai ke tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala harta benda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "harta benda mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "mereka kumpulkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang-orang"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka peroleh"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "di Haran"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lalu mereka keluar"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk pergi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan mereka sampai"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:50.603289299Z",
+  "model": "glm-5.3"
+}

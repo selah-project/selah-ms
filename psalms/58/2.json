@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Sungguhkah dalam kebisuan kebenaran kamu ucapkan; dengan kelurusan kamu menghakimi, hai anak-anak manusia?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Sungguhkah"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "dalam kebisuan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "kamu ucapkan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "dengan kelurusan"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kamu menghakimi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:03.967909181Z",
+  "model": "glm-5.3"
+}

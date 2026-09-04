@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Puji ⟨את⟩ Yahweh dari bumi: naga-naga laut dan segala samudera",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "naga-naga laut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "samudera"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.140984237Z",
+  "model": "glm-5.3"
+}

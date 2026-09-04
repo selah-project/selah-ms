@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarlah tangan-Mu menjadi ⟨penolong⟩ bagiku, kerana pidat-Mu telah kupilih.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Biarlah menjadi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "⟨penolong⟩ bagiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pidat-Mu"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "telah kupilih"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:25.312427012Z",
+  "model": "glm-5.3"
+}

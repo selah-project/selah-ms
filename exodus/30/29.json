@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan engkau menguduskan ⟨את⟩ mereka, dan mereka menjadi kudus mahakudus; setiap yang menyentuh mereka akan dikuduskan.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "dan engkau menguduskan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mahakudus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pada mereka"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "akan dikuduskan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:32.008944248Z",
+  "model": "glm-5.3"
+}

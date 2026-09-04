@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Aduh, bandar yang memberontak dan mencemari, bandar yang menindas!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "dan mencemari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "yang menindas"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:00.504276270Z",
+  "model": "glm-5.3"
+}

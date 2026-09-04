@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan kepada segala binatang bumi, dan kepada segala burung langit, dan kepada segala yang merayap di atas bumi, yang di dalamnya ada nyawa yang hidup — ⟨את⟩ segala yang hijau tumbuhan itu sebagai makanan; dan jadilah demikian.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "dan kepada segala"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dan kepada segala"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dan kepada segala"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang hijau tumbuhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "yang hijau"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tumbuhan"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "sebagai makanan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:32.443566615Z",
+  "model": "glm-5.3"
+}

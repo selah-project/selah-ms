@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan di Tawera, dan di Masa, dan di Kibrot-Hataawa, kamu membuat Yahweh murka.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "dan di Tawera"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "dan di Masa"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "dan di Kibrot-"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Hataawa"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "membuat murka"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu ⟨telah⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:47.941665038Z",
+  "model": "glm-5.3"
+}

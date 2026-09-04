@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Ingatlah ⟨את⟩ hari Sabat untuk menguduskannya.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hari Sabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "untuk menguduskannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:53.094925942Z",
+  "model": "glm-5.3"
+}

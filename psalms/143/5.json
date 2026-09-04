@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Aku teringat akan hari-hari yang lampau, aku termenyung dalam segala perbuatan-Mu; dalam hasil kerja tangan-Mu aku berbual ⟨dengan diriku⟩.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "aku teringat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "yang lampau"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "aku termenyung"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "dalam hasil kerja"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "aku berbual"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:44.923696632Z",
+  "model": "glm-5.3"
+}

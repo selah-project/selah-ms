@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Hakhmah ⟨hikmat⟩ berseru di luar; di lapangan-lapangan ia memperdengarkan suaranya.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Hakhmah ⟨hikmat⟩"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "di lapangan-lapangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "memperdengarkan"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "suara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:49.140964478Z",
+  "model": "glm-5.3"
+}

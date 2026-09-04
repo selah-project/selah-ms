@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Jika begini mereka berkata kepada kami: \"Berhenti sehingga kami sampai kepada kamu\", maka kami berdiri di tempat kami dan tidak naik kepada mereka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "כה",
+      "gloss": "begini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "Berhenti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "kami sampai"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "maka kami berdiri"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "di tempat kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kami naik"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:34.949630601Z",
+  "model": "glm-5.3"
+}

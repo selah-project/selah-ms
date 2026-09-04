@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Tetapi kepada orang fasik Elohim berfirma: \"Apakah gerangan bagimu mengisytiharkan ketetapan-ketetapan-Ku, dan mengangkat perjanjian-Ku ke atas mulutmu?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "tetapi kepada orang fasik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah gerangan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "mengisytiharkan"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ketetapan-ketetapan-Ku"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:54.619650919Z",
+  "model": "glm-5.3"
+}

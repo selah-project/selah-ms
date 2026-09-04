@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Sebab itu aku mengasihi perintah-perintah-Mu melebihi emas, malah melebihi emas tulen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku mengasihi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "melebihi emas"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "malah melebihi emas tulen"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:32.676928480Z",
+  "model": "glm-5.3"
+}

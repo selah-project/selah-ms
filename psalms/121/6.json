@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 121,
+  "translation": "Pada siang matahari tidak akan memukulmu, dan bulan pada waktu malam.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Pada siang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "akan memukulmu"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "dan bulan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada waktu malam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:05.501158384Z",
+  "model": "glm-5.3"
+}

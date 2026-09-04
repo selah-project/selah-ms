@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Siapakah dapat berkata, \"Aku telah membersihkan hatiku, aku telah menyucikan diri daripada dosaku\"?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dapat berkata"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "aku telah membersihkan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "aku telah menyucikan diri"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "daripada dosaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:37.366933718Z",
+  "model": "glm-5.3"
+}

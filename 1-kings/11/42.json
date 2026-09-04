@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan bilangan hari yang Syelomoh memerintah di Yerusalem atas seluruh Yisrael ialah empat puluh tahun.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Dan bilangan hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "empat puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:35.475743310Z",
+  "model": "glm-5.3"
+}

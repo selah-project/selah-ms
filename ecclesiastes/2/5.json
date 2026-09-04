@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Aku membuat bagi diriku taman-taman dan paradis-paradis, dan aku menanam di dalamnya pokok segala buah.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Aku membuat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi diriku"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "taman-taman"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "dan paradis-paradis"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "dan aku menanam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:41.954306089Z",
+  "model": "glm-5.3"
+}

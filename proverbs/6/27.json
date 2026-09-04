@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Adakah seseorang mengambil api dalam pangkuannya, dan pakaiannya tidak terbakar?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "Adakah... mengambil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "dalam pangkuannya"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "dan pakaiannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "terbakar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:20.524384813Z",
+  "model": "glm-5.3"
+}

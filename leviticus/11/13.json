@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan ⟨את⟩ ini kamu hendaklah mengutuk dari antara burung; jangan dimakan; mereka sekutu keji: ⟨את⟩ helang, dan ⟨את⟩ pemutus, dan ⟨את⟩ azniyah;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kamu hendaklah mengutuk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari antara"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "burung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sekutu keji"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helang"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "helang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pemutus"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "pemutus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "azniyah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:18.796043407Z",
+  "model": "glm-5.3"
+}

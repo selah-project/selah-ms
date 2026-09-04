@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Pelita bagi kakiku ⟨⟨ialah⟩⟩ firmanku, dan cahaya bagi jalanku.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "pelita"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "bagi kakiku"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "firmanku"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan cahaya"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "bagi jalanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:19.990730061Z",
+  "model": "glm-5.3"
+}

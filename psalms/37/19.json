@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Mereka tidak akan mendapat malu pada masa bencana, dan pada hari-hari kelaparan mereka akan kenyang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "akan mendapat malu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada masa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "dan pada hari-hari"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "akan kenyang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:15.464112588Z",
+  "model": "glm-5.3"
+}

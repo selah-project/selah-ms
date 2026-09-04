@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Jangan tergesa-gesa dalam rohmu untuk memarahi, kerana kemarahan berehat di pangkuan orang-orang bodoh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "tergesa-gesa"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "dalam rohmu"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "untuk memarahi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kemarahan"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "di pangkuan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "berehat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:13.546319670Z",
+  "model": "glm-5.3"
+}

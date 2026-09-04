@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "\"Angkatlah ⟨את⟩ kepala seluruh jemaah Bani Israel menurut keluarga mereka, menurut rumah bapa mereka, dalam bilangan nama, setiap lelaki, satu demi satu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Angkatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala seluruh jemaah Bani Israel"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga mereka"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "menurut rumah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam bilangan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "satu demi satu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:46.394122255Z",
+  "model": "glm-5.3"
+}

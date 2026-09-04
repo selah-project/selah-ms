@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Condongkanlah hatiku kepada peristiwa-peristiwamu, dan jangan kepada keuntungan yang tidak sah.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Condongkanlah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "peristiwa-peristiwamu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan kepada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "keuntungan yang tidak sah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:51.526802640Z",
+  "model": "glm-5.3"
+}

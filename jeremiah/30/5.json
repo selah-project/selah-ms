@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Sungguh, beginilah kata Yahweh: Suara kegerunan telah kami dengar, ketakutan, dan tiada sejahtera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "kegerunan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "telah kami dengar"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ketakutan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sejahtera"
+    }
+  ],
+  "timestamp": "2026-09-04T13:19:42.315609769Z",
+  "model": "glm-5.3"
+}

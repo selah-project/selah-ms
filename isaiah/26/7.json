@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Jalan bagi ⟨orang⟩ yang adil ialah kelurusan; ⟨Engkau yang lurus⟩ meratakan lintasan ⟨orang⟩ yang adil.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Jalan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi yang adil"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "kelurusan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨Engkau yang lurus⟩"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "lintasan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yang adil"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "meratakan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:22.200904598Z",
+  "model": "glm-5.3"
+}

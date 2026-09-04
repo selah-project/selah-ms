@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Apakah daun yang ditiup engkau geruni, dan ⟨את⟩ jerami kering engkau kejar?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "daun"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "yang ditiup"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "engkau geruni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jerami"
+    },
+    {
+      "surface": "קש",
+      "gloss": "jerami"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kering"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "engkau kejar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:02.344140779Z",
+  "model": "glm-5.3"
+}

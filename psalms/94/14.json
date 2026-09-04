@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Sebab Yahweh tidak akan meninggalkan umat-Nya, dan milik warisan-Nya tidak akan dibuang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "akan meninggalkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "dan milik warisan-Nya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "akan dibuang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:00.487032924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Saksi pembohong akan binasa, tetapi orang yang mendengar akan berbicara untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "pembohong"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "tetapi orang"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "yang mendengar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akan berbicara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:09.837802646Z",
+  "model": "glm-5.3"
+}

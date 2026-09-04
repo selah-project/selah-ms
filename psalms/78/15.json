@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Ia membelah batu-batu di padang gurun dan memberi mereka minum selimpas samudra raya.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "membelah"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "dan memberi minum"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "selimpas samudra"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "raya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:13.017333572Z",
+  "model": "glm-5.3"
+}

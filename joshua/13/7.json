@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan sekarang bahagikanlah ⟨את⟩ negeri ini sebagai pusaka kepada sembilan suku dan setengah suku Menasye.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahagikanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "sebagai pusaka"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "kepada sembilan"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "suku"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "dan setengah"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menasye"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:07.242874682Z",
+  "model": "glm-5.3"
+}

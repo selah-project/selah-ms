@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dari mulut kanak-kanak dan penyusu Engkau menegakkan kekuatan, demi lawan-lawan-Mu, untuk membungkam musuh dan penuntut bela.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Dari mulut"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "kanak-kanak"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "dan penyusu"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Engkau menegakkan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "lawan-lawan-Mu"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "untuk membungkam"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "dan penuntut bela"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:21.957785863Z",
+  "model": "glm-5.3"
+}

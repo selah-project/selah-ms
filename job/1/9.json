@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu satan menjawab Yahweh dan berkata, \"Adakah Iyov takut kepada Elohim dengan percuma?\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu menjawab"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "dengan percuma"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takut"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:21.916396960Z",
+  "model": "glm-5.3"
+}

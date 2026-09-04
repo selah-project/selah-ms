@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Pada hari kedelapan bersunatlah kulit arlahnya.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kedelapan"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "bersunatlah"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "arlahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:07.947651592Z",
+  "model": "glm-5.3"
+}

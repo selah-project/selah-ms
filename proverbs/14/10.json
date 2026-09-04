@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Hati tahu kepahitan nyawanya sendiri, dan dalam sukacitanya orang luar tidak akan bercampur.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "kepahitan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya sendiri"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "dan dalam sukacitanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "akan bercampur"
+    },
+    {
+      "surface": "זר",
+      "gloss": "orang luar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.404815902Z",
+  "model": "glm-5.3"
+}

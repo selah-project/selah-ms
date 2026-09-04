@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Lalu mereka berseru kepada Yahweh dalam kesempitan mereka, dan dari kesempitan-kesempitan mereka Ia mengeluarkan mereka.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Lalu mereka berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesempitan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "dan dari kesempitan-kesempitan mereka"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "Ia mengeluarkan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:32.637489052Z",
+  "model": "glm-5.3"
+}

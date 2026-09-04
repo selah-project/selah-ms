@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan David memukul ⟨את⟩ Hadadezer raja Tsobah, di Hamat, ketika ia pergi untuk menetapkan tangannya di sungai Perat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Dan memukul"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobah"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "di Hamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ketika ia pergi"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "untuk menetapkan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:09.235589311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Berbahagialah mereka yang sempurna jalannya, yang berjalan dalam Tora Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "yang sempurna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "dalam Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:56.395688975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Inilah jalan mereka, kebodohan bagi mereka; dan orang-orang sesudah mereka berkenan dengan mulut mereka. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jalan mereka"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "dan orang-orang sesudah mereka"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "dengan mulut mereka"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:03.650932844Z",
+  "model": "glm-5.3"
+}

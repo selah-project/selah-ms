@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Rumah orang fasik akan dimusnahkan, tetapi kemah orang lurus akan berkembang.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "akan dimusnahkan"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "tetapi kemah"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang lurus"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "akan berkembang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.404941348Z",
+  "model": "glm-5.3"
+}

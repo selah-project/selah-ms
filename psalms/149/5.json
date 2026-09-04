@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 149,
+  "translation": "Biarlah orang-orang kasih setia melompat girang dalam kemuliaan; biarlah mereka bersorak-sorai riang atas tempat tidur mereka.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "melompat girang"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "orang-orang kasih setia"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "dalam kemuliaan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bersorak-sorai riang"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "tempat tidur mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:33.146326481Z",
+  "model": "glm-5.3"
+}

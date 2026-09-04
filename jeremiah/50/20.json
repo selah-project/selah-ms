@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Pada hari-hari itu dan pada waktu itu, neum Yahweh: kesalahan Israel akan dicari, dan tiada lagi; dan ⟨את⟩ dosa Yehuda, dan tidak akan ditemui; kerana Aku mengampuni mereka yang Kutinggalkan.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "dan pada waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "akan dicari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan tiada lagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dosa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "akan ditemui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "Aku mengampuni"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kepada mereka yang"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "Kutinggalkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:26:17.838002195Z",
+  "model": "glm-5.3"
+}

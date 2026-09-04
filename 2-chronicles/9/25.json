@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 9:25",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ada pada Syelomo empat ribu kandang kuda dan kereta perang, dan dua belas ribu penunggang kuda; dan dia menempatkan mereka di kota-kota kereta perang dan bersama raja di Yerusalayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan ada"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "pada Syelomo"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "empat"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "kandang"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "dan kereta perang"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dan dua"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "penunggang kuda"
+    },
+    {
+      "surface": "ויניחם",
+      "gloss": "dan dia menempatkan mereka"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "di kota-kota"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kereta perang"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "dan bersama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalayim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:29.752161502Z",
+  "model": "glm-5.3"
+}

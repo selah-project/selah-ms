@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "dan jangan mereka masuk untuk melihat, walau sesaat ⟨seperti ditelan⟩, ⟨את⟩ benda-benda kudus itu, dan mereka akan mati.\"",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "mereka masuk"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "untuk melihat"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "walau sesaat (seperti ditelan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benda-benda kudus itu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "benda-benda kudus itu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "dan mereka akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:32.483701647Z",
+  "model": "glm-5.3"
+}

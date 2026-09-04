@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Sebab Aku ⟨ialah⟩ Yahweh yang membawa kamu keluar dari tanah Mitsrayim, untuk menjadi Elohim bagi kamu; maka kamu akan menjadi kudus, sebab kudus Aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "yang membawa keluar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (objek DOM: kamu)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "dan kamu akan menjadi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:13.466503119Z",
+  "model": "glm-5.3"
+}

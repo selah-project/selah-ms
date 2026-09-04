@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Yehosyua berbuat kepada mereka seperti yang difirmankan Yahweh kepadanya: kuda-kuda mereka dia pincangkan dan kereta-kereta mereka dia bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuda-kuda mereka"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "kuda-kuda mereka"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "pincangkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kereta-kereta mereka"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "kereta-kereta mereka"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:05.535106549Z",
+  "model": "glm-5.3"
+}

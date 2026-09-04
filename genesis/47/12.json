@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Dan Yosef menanggung makanan ⟨את⟩ bapanya dan ⟨את⟩ saudara-saudaranya dan ⟨את⟩ seluruh keluarga bapanya, roti menurut mulut kanak-kanak.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "dan menanggung makanan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapanya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mulut"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "kanak-kanak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:33.528215993Z",
+  "model": "glm-5.3"
+}

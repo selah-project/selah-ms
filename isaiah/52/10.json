@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Telah menyingsing Yahweh ⟨את⟩ lengan kesucian-Nya di mata segala bangsa, dan telah melihat segala ujung bumi ⟨את⟩ pembebasan Elohim kita.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "telah menyingsing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lengan kesucian-Nya"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesucian-Nya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "dan telah melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pembebasan Elohim kita"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pembebasan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:18.977593605Z",
+  "model": "glm-5.3"
+}

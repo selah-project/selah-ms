@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Apabila engkau memukul zaitunmu, janganlah engkau menghias memeriksa di belakangmu; bagi orang asing, bagi anak yatim, dan bagi janda ia akan ada.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "engkau memukul"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "zaitunmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "memeriksa dengan teliti"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "di belakangmu"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "bagi orang asing"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "bagi anak yatim"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "dan bagi janda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan ada"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:35.931829399Z",
+  "model": "glm-5.3"
+}

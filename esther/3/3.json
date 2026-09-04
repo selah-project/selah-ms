@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu kata hamba-hamba raja yang di pintu gerbang raja kepada Mordekhai: \"Mengapa engkau melanggar ⟨את⟩ perintah raja?\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lalu kata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kepada Mordekhai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "melanggar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah raja"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:29.520970397Z",
+  "model": "glm-5.3"
+}

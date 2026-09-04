@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu berkatalah David kepada orang muda yang memberitahukan kepadanya: Bagaimanakah engkau tahu bahwa Saul telah mati dan Yonatan anaknya?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "orang muda"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "yang memberitahukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Bagaimanakah"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "telah mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "dan Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:15.738911950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "dan engkau akan menetapkan batas bagi bangsa itu sekeliling, berkata: \"Berjaga-jagalah kamu jangan naik ke gunung itu atau menyentuh tepinya; sesiapa yang menyentuh gunung itu pasti akan dibunuh.\"",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "dan engkau akan menetapkan batas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Berjaga-jagalah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "jangan naik"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ke gunung itu"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "atau menyentuh"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "tepinya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sesiapa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "yang menyentuh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "gunung itu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pasti akan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:52.336600499Z",
+  "model": "glm-5.3"
+}

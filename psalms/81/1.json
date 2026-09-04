@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Kepada pemimpin ⟨mazmur⟩, mengikut Gitit, bagi Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin ⟨mazmur⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "bagi Asaf"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:56.589869290Z",
+  "model": "glm-5.3"
+}

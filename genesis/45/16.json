@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Dan kabar itu terdengar di rumah Paroh, yang berkata: \"Saudara-saudara Yosef telah datang\"; dan hal itu baik di mata Paroh dan di mata hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "dan kabar itu"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "terdengar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "באו",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "dan hal itu baik"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "dan di mata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:29.047219484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Palingkanlah ⟨pandian-Mu⟩ daripada aku, supaya aku bersinar semula, sebelum aku pergi dan aku tiada lagi.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Palingkanlah (pandian)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada aku"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "supaya aku bersinar semula"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku pergi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "dan aku tiada lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:13.713878541Z",
+  "model": "glm-5.3"
+}

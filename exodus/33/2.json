@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "dan Aku akan menghantar seorang utusan di hadapanmu, dan Aku akan menghalau ⟨את⟩ orang Kenaani, orang Emori, orang Heti, orang Perizi, orang Hewi dan orang Yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dan Aku akan menghantar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "seorang utusan"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "dan Aku akan menghalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kenaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan orang Heti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Hewi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yebusi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:05.382980130Z",
+  "model": "glm-5.3"
+}

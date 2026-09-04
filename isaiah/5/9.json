@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Di telinga saya ⟨berfirman⟩ Yahweh Tsebaot: Sesungguhnya banyak rumah akan menjadi tandas, bahkan yang besar dan yang indah, tanpa penghuni.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "Di telinga saya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "tandas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "dan yang indah"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "penghuni"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:23.831853750Z",
+  "model": "glm-5.3"
+}

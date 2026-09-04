@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Kepada pemimpin ⟨muzik⟩, maskil, oleh David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "oleh David"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:05.559946410Z",
+  "model": "glm-5.3"
+}

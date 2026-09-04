@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan asasnya batu-batu berharga, batu-batu besar, batu sepuluh hasta dan batu lapan hasta.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Dan asasnya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "berharga"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "besar"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "dan batu"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:20.943278712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Berbahagialah ⟨dia⟩ yang berbijak memahami orang lemah; pada hari malang Yahweh akan meluputkannya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yang berbijak memahami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "דל",
+      "gloss": "orang lemah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malang"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "akan meluputkannya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:33.262453182Z",
+  "model": "glm-5.3"
+}

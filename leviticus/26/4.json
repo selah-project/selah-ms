@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "maka Aku akan memberi hujan kamu pada musimnya, dan bumi akan memberi hasilnya, dan pokok padang akan memberi buahnya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "maka Aku akan memberi"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "hujan kamu"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "pada musimnya"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dan akan memberi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilnya"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dan pokok"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan memberi"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "buahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:30.814953533Z",
+  "model": "glm-5.3"
+}

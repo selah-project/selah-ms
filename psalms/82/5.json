@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 82,
+  "translation": "Tidaklah mereka tahu dan tidaklah mereka mengerti; dalam kegelapan mereka berjalan; goyahlah segala asas bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidaklah"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mereka tahu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidaklah"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mereka mengerti"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "goyahlah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "asas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:57.247975198Z",
+  "model": "glm-5.3"
+}

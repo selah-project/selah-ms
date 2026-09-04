@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Pada hari itu Adonai akan menyingkirkan ⟨את⟩ perhiasan gelang-gelang kaki, dan reben-reben, dan bulan-bulan sabit,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "akan menyingkirkan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perhiasan gelang-gelang kaki"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "perhiasan"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "gelang-gelang kaki"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "dan reben-reben"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "dan bulan-bulan sabit"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:39.854532478Z",
+  "model": "glm-5.3"
+}

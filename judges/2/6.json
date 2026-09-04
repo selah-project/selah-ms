@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Yehosyua membebaskan ⟨את⟩ bangsa itu, lalu pergi bani Israel, setiap orang ke warisannya sendiri, untuk menduduki ⟨את⟩ negeri itu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu ia membebaskan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ke warisannya"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "untuk menduduki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:35.765464745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan ke Babel ia akan membawa ⟨את⟩ Tsidkiahu, dan di sana ia akan berada sampai Aku melawat ⟨את⟩ dia, demikianlah ucapan Yahweh; kerana kamu berperang ⟨את⟩ terhadap orang Kasdim, kamu tidak akan berjaya.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "dan ke Babel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "ia akan membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan di sana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ia akan berada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "Aku melawat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Tsidkiahu)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "demikianlah ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kamu berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ terhadap"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "orang Kasdim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "kamu akan berjaya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:24:52.376046425Z",
+  "model": "glm-5.3"
+}

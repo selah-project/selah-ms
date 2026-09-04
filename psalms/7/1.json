@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Syigaion bagi David, yang dinyanyikannya kepada Yahweh, atas perkataan Kusy orang Benyamin.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Syigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שר",
+      "gloss": "dinyanyikannya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:11.815624757Z",
+  "model": "glm-5.3"
+}

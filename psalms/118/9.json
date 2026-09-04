@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Baiklah berlindung pada Yahweh daripada percaya pada para bangsawan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Baiklah"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "berlindung"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pada Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "daripada percaya"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "pada para bangsawan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:31.423501216Z",
+  "model": "glm-5.3"
+}

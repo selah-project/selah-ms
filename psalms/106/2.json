@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Siapakah dapat mengisahkan perbuatan-perbuatan gagah Yahweh, membuat didengar segala pujian-nya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "dapat mengisahkan"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "perbuatan-perbuatan gagah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "membuat didengar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pujian-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:17.186852880Z",
+  "model": "glm-5.3"
+}

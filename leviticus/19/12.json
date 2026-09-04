@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan janganlah kamu bersumpah demi nama-Ku kepada dusta, dan ⟨dengan demikian⟩ engkau menajiskan ⟨את⟩ nama Elohimmu; Akulah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kamu bersumpah"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "demi nama-Ku"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "kepada dusta"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "dan engkau menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:13.745522592Z",
+  "model": "glm-5.3"
+}

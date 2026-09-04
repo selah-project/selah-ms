@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Biarlah mereka mengutuk, tetapi Engkau akan memberkati; mereka bangkit dan mendapat malu, tetapi hamba-Mu bersukacita.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Biarlah mereka mengutuk"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "tetapi Engkau"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "akan memberkati"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "mereka bangkit"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dan mendapat malu"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "tetapi hamba-Mu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:48.547632834Z",
+  "model": "glm-5.3"
+}

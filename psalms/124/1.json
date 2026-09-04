@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "Lagu pendakian bagi David. Sekiranya bukan Yahweh yang telah ada bagi kita — biarlah berkata ⟨sila⟩ Israel,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pendakian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "sekiranya bukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "biarlah berkata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:23.027126565Z",
+  "model": "glm-5.3"
+}

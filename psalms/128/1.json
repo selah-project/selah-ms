@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 128,
+  "translation": "Syir hamaalot. Berbahagialah setiap orang yang takut akan Yahweh, yang berjalan di jalan-Nya.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Syir"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hamaalot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yang takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:29.198664513Z",
+  "model": "glm-5.3"
+}

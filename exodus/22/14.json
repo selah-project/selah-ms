@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika tuannya bersamanya, ia tidak akan mengganti; jika ia ⟨binatang⟩ upahan, ia datang bersama upahnya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akan mengganti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "upahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "bersama upahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:38.244307476Z",
+  "model": "glm-5.3"
+}

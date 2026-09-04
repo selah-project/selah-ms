@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Berikanlah kepada Yahweh kemuliaan nama-Nya; angkatlah persembahan dan masuklah ke pelataran-pelataran-Nya.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Berikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "angkatlah"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "dan masuklah"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ke pelataran-pelataran-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:52.242973043Z",
+  "model": "glm-5.3"
+}

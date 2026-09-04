@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Lalu Dia menerkam laut Suph, dan ia kering, dan Dia membawa mereka melalui samudera seperti di padang gurun.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Lalu Dia menerkam"
+    },
+    {
+      "surface": "בים סוף",
+      "gloss": "laut Suph"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "dan ia kering"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "dan Dia membawa mereka"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "melalui samudera"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "seperti di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:58.555821126Z",
+  "model": "glm-5.3"
+}

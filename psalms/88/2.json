@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim keselamatan ⟨aku⟩ — siang ⟨aku⟩ menjerit, pada waktu malam, di hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "keselamatan ⟨aku⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siang"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "⟨aku⟩ menjerit"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.218673897Z",
+  "model": "glm-5.3"
+}

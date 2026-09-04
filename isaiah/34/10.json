@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Malam dan siang ia tidak dipadamkan; selama-lamanya asapnya naik; dari keturunan ke keturunan ia tandus; buat selama-lamanya, tiada orang lalu di sana.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "dan siang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "dipadamkan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "naik"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "asapnya"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "dari keturunan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ke keturunan"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "tandus"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "buat selama-lamanya"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "orang lalu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:26.239440227Z",
+  "model": "glm-5.3"
+}

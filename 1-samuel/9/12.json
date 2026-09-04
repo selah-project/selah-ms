@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu jawab ⟨את⟩ mereka: \"Ada; lihat, dia di hadapanmu. Cepatlah sekarang, kerana hari ini dia datang ke kota, kerana hari ini ada korban bagi umat di tempat tinggi.\"",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "Lalu jawab mereka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "dan berkata mereka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Cepatlah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dia datang"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ke kota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bagi umat"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "di tempat tinggi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:35.450809087Z",
+  "model": "glm-5.3"
+}

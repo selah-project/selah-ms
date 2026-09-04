@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "dan membawa keluar Yisrael dari tengah-tengah mereka, kerana selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "dan membawa keluar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "dari tengah-tengah mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:01.395236020Z",
+  "model": "glm-5.3"
+}

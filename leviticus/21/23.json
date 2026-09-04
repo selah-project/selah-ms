@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Hanya ke arah tabir-pemisah dia tidak boleh masuk, dan ke arah mezbah dia tidak boleh menghampiri, kerana cacat ada padanya; dan dia tidak boleh menajiskan ⟨את⟩ tempat-kudus-Ku, kerana Akulah Yahweh yang mentajamkan mereka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tabir-pemisah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "boleh masuk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke arah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "boleh menghampiri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מום",
+      "gloss": "cacat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "boleh menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat-kudus-Ku"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tempat-kudus-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "yang mentajamkan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:36.205025796Z",
+  "model": "glm-5.3"
+}

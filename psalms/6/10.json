@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Yahweh telah mendengar permohonanku; Yahweh akan menerima doaku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "permohonanku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akan menerima"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:16.790780566Z",
+  "model": "glm-5.3"
+}

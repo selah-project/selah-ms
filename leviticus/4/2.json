@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Katakan kepada bani Israel, kata-Nya: bila seseorang berdosa kerana tersilap, daripada segala perintah Yahweh yang tidak boleh dilakukan, lalu melakukan satu daripadanya —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Katakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-Nya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "kerana tersilap"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada segala"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "boleh dilakukan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lalu melakukan"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:44.967209169Z",
+  "model": "glm-5.3"
+}

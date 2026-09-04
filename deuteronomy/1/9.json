@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu aku berkata kepada kamu pada waktu itu, katanya: Tidak dapat aku, sendirian, memikul ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lalu aku berkata"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapat aku"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "memikul"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:46:57.981320438Z",
+  "model": "glm-5.3"
+}

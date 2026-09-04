@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan mereka berjalan mengikut kekerasan hati mereka, dan mengikut ha-Baal-im, yang diajarkan kepada mereka oleh bapa-bapa mereka.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Dan mereka berjalan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mengikut"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "dan mengikut"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ha-Baal-im (para Baal)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "diajarkan kepada mereka"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa-bapa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:16.275839749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Ia telah berpaling kepada doa si telanjang-hina, dan tidak memandang ringan ⟨את⟩ doa mereka.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Ia telah berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "doa"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "si telanjang-hina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "memandang ringan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doa mereka"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "doa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:02.164408926Z",
+  "model": "glm-5.3"
+}

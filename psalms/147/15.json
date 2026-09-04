@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yang mengutus firman-Nya ke bumi; sangat cepat berlari kata-Nya.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Yang mengutus"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "sangat cepat"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "berlari"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kata-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.539366320Z",
+  "model": "glm-5.3"
+}

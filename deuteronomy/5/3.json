@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Bukan ⟨dengan⟩ nenek moyang kita Yahweh mengikat ⟨את⟩ perjanjian ini, tetapi ⟨את⟩ ⟨dengan⟩ kita — kita, inilah, di sini pada hari ini, kita semua yang hidup.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Bukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨dengan⟩",
+      "marks": "nenek moyang kita"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nenek moyang kita"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "mengikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjian ini"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ⟨dengan⟩ kita"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kita semua"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:46.376059446Z",
+  "model": "glm-5.3"
+}

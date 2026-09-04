@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarkan rahmat-Mu datang kepadaku, supaya aku hidup, sebab Tora-Mu itulah kesukaanku.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "datang kepadaku"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmat-Mu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "supaya aku hidup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kesukaanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:36.073049651Z",
+  "model": "glm-5.3"
+}

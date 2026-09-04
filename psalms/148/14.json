@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 148,
+  "translation": "Dan Dia meninggikan tanduk bagi umat-Nya, puji-pujian bagi semua hesed-nya ⟨orang setia-Nya⟩, bagi anak-anak Yisrael, umat yang dekat dengan-Nya. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "dan Dia meninggikan"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "bagi umat-Nya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "orang setia-Nya (hasidim-Nya)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "yang dekat dengan-Nya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.837035095Z",
+  "model": "glm-5.3"
+}

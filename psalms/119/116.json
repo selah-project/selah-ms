@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Sokonglah aku menurut firman-Mu, dan aku akan hidup, dan jangan Kau buat aku mendapat malu daripada harapanku.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "sokonglah aku"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "menurut firman-Mu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dan aku akan hidup"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "Kau buat aku mendapat malu"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "daripada harapanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:21.838651393Z",
+  "model": "glm-5.3"
+}

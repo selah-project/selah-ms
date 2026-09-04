@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "\"Ambillah ⟨את⟩ kitab Tora ini, dan letakkanlah ⟨את⟩-nya di sisi peti perjanjian Yahweh Elohim kamu, supaya ia di sana terhadap kamu menjadi saksi.\"",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Ambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitab Tora ini"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "dan letakkanlah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dia (kitab itu)"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "di sisi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "supaya ia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "בך",
+      "gloss": "terhadap kamu"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "menjadi saksi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:22.235799734Z",
+  "model": "glm-5.3"
+}

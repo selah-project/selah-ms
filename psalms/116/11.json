@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Aku berkata dalam ketergesaanku: setiap manusia pembohong.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dalam ketergesaanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "pembohong"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:22.878352333Z",
+  "model": "glm-5.3"
+}

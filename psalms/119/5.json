@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Alangkah baiknya jika jalan-jalanku tegak untuk memelihara ketetapan-ketetapan-Mu!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Alangkah baiknya jika"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalan-jalanku"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk memelihara"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:44.615530571Z",
+  "model": "glm-5.3"
+}

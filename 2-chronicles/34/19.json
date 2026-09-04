@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Maka berlakulah, apabila raja mendengar ⟨את⟩ perkataan Tora itu, dicariknya ⟨את⟩ pakaiannya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dicariknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:31:46.686059639Z",
+  "model": "glm-5.3"
+}

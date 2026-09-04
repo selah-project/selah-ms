@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Biar bersukacita Gunung Tsiyon, biar bergembira puteri-puteri Yehuda, oleh sebab hukum-hukum-Mu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Biar bersukacita"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "biar bergembira"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "puteri-puteri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:36.928939094Z",
+  "model": "glm-5.3"
+}

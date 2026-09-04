@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika engkau menjaminkan pakaian rekanmu, engkau harus mengembalikannya kepadanya sebelum matahari terbenam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "menjaminkan"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "engkau jaminkan"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "pakaian"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "rekanmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "masuknya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "engkau mengembalikannya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:15.403865279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Benei Elam yang lain, seribu dua ratus lima puluh empat.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Benei"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "dan empat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:48:56.482573795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "Sebab daripada setiap kesusahan Dia telah melepaskan aku, dan pada musuh-musuhku mataku telah melihat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada setiap"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "Dia telah melepaskan aku"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "dan pada musuh-musuhku"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:12.513934794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Hanya berpegang teguhlah supaya engkau tidak memakan darah, kerana darah itulah daya hidup, dan jangan engkau memakan daya hidup bersama daging.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "berpegang teguhlah"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "memakan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "daya hidup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau memakan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "daya hidup"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:55.614100914Z",
+  "model": "glm-5.3"
+}

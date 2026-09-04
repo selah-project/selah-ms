@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Seribu bagi setiap suku, seribu bagi setiap suku, untuk semua suku Israel, kamu akan menghantar mereka ke tentera.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Seribu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bagi setiap suku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bagi setiap suku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "untuk semua"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "kamu akan menghantar"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "mereka ke tentera"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.632855997Z",
+  "model": "glm-5.3"
+}

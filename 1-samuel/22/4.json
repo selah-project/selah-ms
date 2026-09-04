@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan dibawanya mereka ⟨את⟩ menghadap muka raja Moab, dan mereka tinggal bersamanya selama segala hari David berada di kubu kuat.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Dan dibawanya mereka menghadap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muka raja Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dan mereka tinggal"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "selama segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "היות",
+      "gloss": "beradanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "di kubu kuat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:56.958991185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bersama-sama para banduan ⟨tinggal⟩ tenang; mereka tidak mendengar suara pemandu kerja.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "para banduan"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "tenang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "pemandu kerja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:02.519709641Z",
+  "model": "glm-5.3"
+}

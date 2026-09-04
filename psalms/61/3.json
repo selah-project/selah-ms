@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Dari hujung bumi kepada-Mu aku berseru; ketika hatiku diliputi, ke atas batu yang tinggi daripada aku Engkau menuntun aku.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Dari hujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "ketika diliputi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ke atas batu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada aku"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Engkau menuntun aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:08.565733463Z",
+  "model": "glm-5.3"
+}

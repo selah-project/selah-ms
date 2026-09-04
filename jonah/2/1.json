@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka Yahweh menetapkan seekor ikan besar untuk menelan ⟨את⟩ Yonah, dan Yonah berada dalam perut ikan itu tiga hari dan tiga malam.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "maka ... menetapkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ikan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "untuk menelan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan beradalah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "dalam perut"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ikan itu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "malam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:35.598711325Z",
+  "model": "glm-5.3"
+}

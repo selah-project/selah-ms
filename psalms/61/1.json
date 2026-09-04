@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Kepada pemimpin muzik, dengan petikan alat bertali, mazmur bagi Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muzik"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "petikan alat bertali"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:08.565357057Z",
+  "model": "glm-5.3"
+}

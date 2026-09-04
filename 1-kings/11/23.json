@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan Elohim menimbulkan baginya seorang lawan: ⟨את⟩ Rezon bin Eljadah, yang melarikan diri dari ⟨את⟩ Hadadezer raja Tsova, tuannya.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dan menimbulkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "seorang lawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljadah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "melarikan diri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:53.033029892Z",
+  "model": "glm-5.3"
+}

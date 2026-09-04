@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Tiuplah syofar di Givah, nafiri di Rama; pekiklah di Beit-Aven, di belakangmu, hai Binjamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "tiuplah"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "syofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "di Givah"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "nafiri"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "di Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pekiklah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "di belakangmu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "hai Binjamin"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:16.036615166Z",
+  "model": "glm-5.3"
+}

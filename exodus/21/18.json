@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan apabila lelaki bertengkar dan seorang memukul ⟨את⟩ rakannya dengan batu atau dengan penumbuk, dan ia tidak mati tetapi jatuh terbaring di tempat tidur —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "dan apabila"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "bertengkar"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakannya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "rakannya"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dengan batu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "dengan penumbuk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "tetapi jatuh"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "terbaring di tempat tidur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:57.720733639Z",
+  "model": "glm-5.3"
+}

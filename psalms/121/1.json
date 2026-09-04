@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 121,
+  "translation": "Nyanyian bagi langkah-langkah naikan. Aku mengangkat mataku ke gunung-gunung — dari mana akan datang pertolonganku?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "bagi langkah-langkah naikan"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku mengangkat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "dari mana"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akan datang"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pertolonganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:51.053076109Z",
+  "model": "glm-5.3"
+}

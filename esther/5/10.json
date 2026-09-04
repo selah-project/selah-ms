@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Namun Haman menahan diri, lalu masuk ke rumahnya, dan menghantar serta memanggil ⟨את⟩ sahabat-sahabatnya dan ⟨את⟩ Zeresy isterinya.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "Namun menahan diri"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "lalu masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan menghantar"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zeresy"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresy"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:20.877366622Z",
+  "model": "glm-5.3"
+}

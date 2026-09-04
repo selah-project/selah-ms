@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Untuk memberitahukan kepada anak-anak manusia keperkasaan-Nya, dan kemuliaan megah kerajaan-Nya.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Untuk memberitahukan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "keperkasaan-Nya"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dan kemuliaan"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "megah"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kerajaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.621968407Z",
+  "model": "glm-5.3"
+}

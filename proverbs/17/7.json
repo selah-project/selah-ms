@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Tidak layak bagi orang bebal bibir yang indah, apatah lagi bagi orang mulia bibir dusta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layak"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "bagi orang bebal"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "yang indah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "apatah lagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨bahawa⟩"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "bagi orang mulia"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:16.979179654Z",
+  "model": "glm-5.3"
+}

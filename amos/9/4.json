@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan jika mereka berjalan ke dalam pembuangan di hadapan musuh mereka, dari sana aku akan memerintahkan ⟨את⟩ pedang, dan ia akan membunuh mereka; dan aku akan menetapkan mataku ke atas mereka untuk kejahatan, dan bukan untuk kebaikan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ke dalam pembuangan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "musuh mereka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "aku akan memerintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "dan ia akan membunuh mereka"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "dan aku akan menetapkan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ke atas mereka"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "untuk kejahatan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "untuk kebaikan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:26:53.324602139Z",
+  "model": "glm-5.3"
+}

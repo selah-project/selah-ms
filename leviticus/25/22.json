@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan kamu akan menaburkan ⟨את⟩ tahun yang kelapan, dan kamu akan memakan daripada hasil tuaian yang lama sampai tahun yang kesembilan; sampai datangnya hasil tuaiannya, kamu akan memakan hasil yang lama.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "dan-kamu-akan-menaburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahun-yang-kelapan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "yang-kelapan"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan-kamu-akan-memakan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "hasil-tuaian"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "yang-lama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "yang-kesembilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "datangnya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasil-tuaiannya"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu-akan-memakan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "yang-lama"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:38.707319888Z",
+  "model": "glm-5.3"
+}

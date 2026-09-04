@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 82,
+  "translation": "Akulah yang berfirman: elohim kamu, dan anak-anak Elyon sekalian kamu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "yang berfirman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "sekalian kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:57.248262828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Jalan-jalan raya menjadi sunyi, berhentilah ⟨yang⟩ melintasi lintasan; dibatalkannya perjanjian, dihinanya kota-kota, tidak dianggapnya manusia.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "menjadi sunyi"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "jalan-jalan raya"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "berhentilah"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang melintasi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "lintasan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dibatalkannya"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "dihinanya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "dianggapnya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.630051148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan apabila matahari terbenam, dia menjadi tahir, dan selepas itu dia boleh makan daripada benda-benda kudus, kerana itulah makanannya.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Dan apabila ... terbenam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dia menjadi tahir"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "dan selepas itu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dia boleh makan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "benda-benda kudus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "makanannya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itulah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:14.074223909Z",
+  "model": "glm-5.3"
+}

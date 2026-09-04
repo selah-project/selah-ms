@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Ketika Elisha masuk ke dalam rumah, sesungguhnya kanak-kanak itu mati, terbaring di atas tempat tidurnya.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ketika masuk"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ke dalam rumah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kanak-kanak itu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "terbaring"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "tempat tidurnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:02.596352013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Jangan sentuh Mashih-Ku (orang-orang yang Kuurapi), dan kepada nabi-nabi-Ku jangan berbuat jahat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamu sentuh"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashih-Ku"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "dan kepada nabi-nabi-Ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "berbuat jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:02.716384345Z",
+  "model": "glm-5.3"
+}

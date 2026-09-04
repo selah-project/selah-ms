@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan ⟨את⟩ domba pelantikan itu engkau ambil, dan engkau masak ⟨את⟩ dagingnya di tempat kudus.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "domba pelantikan itu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pelantikan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "dan engkau masak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingnya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingnya"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:24.066661364Z",
+  "model": "glm-5.3"
+}

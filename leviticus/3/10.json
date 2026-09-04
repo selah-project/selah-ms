@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "dan ⟨את⟩ kedua-dua buah pinggang, dan ⟨את⟩ lemak yang ada di atasnya, yang ada di atas pinggang sulbi, dan ⟨את⟩ tambahan pada hati — di atas buah pinggang ia akan menyingkirkan⟨nya⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua-dua buah pinggang"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang sulbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tambahan pada hati"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tambahan (lobus hati)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ia akan menyingkirkan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:11.109916163Z",
+  "model": "glm-5.3"
+}

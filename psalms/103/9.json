@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Tidak untuk selamanya Dia berbantah, dan tidak untuk seterusnya Dia menyimpan ⟨amarah⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Dia berbantah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk seterusnya"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Dia menyimpan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:39.929266534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu bangkit orang Yisrael dan Yehuda, lalu bersorak, dan mengejar ⟨את⟩ orang Filisti sampai ke mulut gaai, dan sampai ke gerbang Ekron; dan orang Filisti yang tercedera gugur di sepanjang jalan Syaaraim, sampai ke Gat dan sampai ke Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Lalu bangkit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "lalu bersorak"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "dan mengejar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Filisti"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "orang Filisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ke mulut masuk"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "gaai"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "dan gugur"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "yang tercedera"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Filisti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di sepanjang jalan"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Syaaraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:53.688056536Z",
+  "model": "glm-5.3"
+}

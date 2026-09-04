@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dibawa-Nya aku ke rumah arak, dan panji-panji-Nya atasku cinta.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Dibawa-Nya aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "היין",
+      "gloss": "arak"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "dan panji-panji-Nya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "cinta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:09.194682064Z",
+  "model": "glm-5.3"
+}

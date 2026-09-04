@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "sehingga Aku bersumpah dalam kemurkaan-Ku: sekali-kali mereka tidak akan masuk ke tempat perhentian-Ku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku bersumpah"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "dalam kemurkaan-Ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "mereka akan masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "tempat perhentian-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.829429772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Lalu kami berseru kepada Yahweh, Elohim nenek moyang kami, dan Yahweh mendengar ⟨את⟩ suara kami, dan melihat ⟨את⟩ penderitaan kami dan ⟨את⟩ kesukaran kami dan ⟨את⟩ penindasan kami.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "lalu kami berseru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nenek moyang kami"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara kami"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "suara kami"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaan kami"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "penderitaan kami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kesukaran kami"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "kesukaran kami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penindasan kami"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "penindasan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:23.767453366Z",
+  "model": "glm-5.3"
+}

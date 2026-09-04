@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Sebab seperti bunyi duri-duri ⟨di⟩ bawah periuk, begitulah tawa orang bodoh; dan ini juga ⟨ialah⟩ habel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "seperti bunyi"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "duri-duri"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨di⟩ bawah"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "periuk"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:12.794080714Z",
+  "model": "glm-5.3"
+}

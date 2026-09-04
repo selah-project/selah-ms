@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu bertanya pula Dawid kepada Yahweh, dan Yahweh menjawabnya, dan berfirman: Bangunlah, turunlah ke Qeilah, kerana Aku memberi ⟨את⟩ orang Plisytim ke dalam tanganmu.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Lalu bertanya pula"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "bertanya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "dan menjawabnya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "turunlah"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ke Qeilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Plisytim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Plisytim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:22.164224486Z",
+  "model": "glm-5.3"
+}

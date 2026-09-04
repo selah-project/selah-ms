@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Jangan kamu makan atas darah; jangan kamu bertenung dan jangan kamu berusaha tilik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "kamu bertenung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "kamu berusaha tilik"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:14.952438853Z",
+  "model": "glm-5.3"
+}

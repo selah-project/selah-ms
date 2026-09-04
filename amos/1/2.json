@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ia berkata: Yahweh dari Tsyion mengaum, dan dari Yerusalim memberi suara-Nya; maka berkabunglah padang-padang gembala, dan keringlah puncak Karmel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "dari Tsyion"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "mengaum"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "dan dari Yerusalim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suara-Nya"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "maka berkabunglah"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "padang-padang"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "gembala"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "dan keringlah"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "puncak"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:49.705947399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Tidak begitu; pergilah sekarang ⟨את⟩ hai orang-orang lelaki, dan berkhidmatlah kepada Yahweh, kerana ⟨את⟩ itulah yang kamu cari. Lalu ⟨dia⟩ menghalau ⟨את⟩ mereka dari hadapan Paroh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hai orang-orang lelaki"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "dan berkhidmatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ itulah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "yang kamu"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "cari"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Lalu menghalau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:50.098655757Z",
+  "model": "glm-5.3"
+}

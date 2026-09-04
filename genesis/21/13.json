@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan juga anak perempuan hamba itu — ⟨את⟩ — akan kujadikan ⟨sebagai⟩ bangsa, kerana ia zuriat engkau.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak perempuan hamba itu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "perempuan hamba itu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "akan kujadikan dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zuriat engkau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:11.427623004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Elohim di dalam istana-istananya dikenal sebagai kubu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "di dalam istana-istananya"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sebagai kubu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:01.091673965Z",
+  "model": "glm-5.3"
+}

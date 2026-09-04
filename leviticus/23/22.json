@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan apabila kamu menuai ⟨את⟩ tuaian tanah kamu, janganlah kamu habiskan pinggir ladangmu apabila menuai, dan janganlah kamu pungut ⟨את⟩ hasil yang tertinggal dari tuaianmu; bagi si miskin dan bagi pendatang biarkanlah ⟨את⟩ mereka — Akulah Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Dan apabila kamu menuai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuaian"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "tuaian"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "tanah kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kamu habiskan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pinggir"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ladangmu"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "apabila menuai"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "dan hasil yang tertinggal"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "dari tuaianmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kamu pungut"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi si miskin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "dan bagi pendatang"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "biarkanlah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:59.835053274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu raja David mengutus ⟨untuk mengambilnya⟩, dan mengambilnya dari rumah Makhir bin Amiel, dari Lo Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mengutus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "dan mengambilnya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "dari Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:32.479876671Z",
+  "model": "glm-5.3"
+}

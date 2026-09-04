@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Dan aku bebal dan tidak mengetahui; aku ⟨telah⟩ menjadi seperti binatang dengan-Mu",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dan aku"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bebal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "seperti binatang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku menjadi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dengan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:32.223094392Z",
+  "model": "glm-5.3"
+}

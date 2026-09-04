@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Di tempat maha-kudus engkau akan memakannya; setiap orang lelaki boleh memakan ⟨את⟩nya; kudus ia akan menjadi bagimu.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Di tempat"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "maha-kudus"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "engkau akan memakannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "orang lelaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh memakan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia (benda persembahan maha-kudus)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:40:13.177880303Z",
+  "model": "glm-5.3"
+}

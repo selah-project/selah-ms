@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Lalu Yahweh menjawab Iyov ⟨את⟩ dari ribut, dan berfirman:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu menjawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "dari"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ribut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:44.986870990Z",
+  "model": "glm-5.3"
+}

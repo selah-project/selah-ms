@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lihat, hari-hari sedang datang, umusan Yahweh, dan Aku akan mengikat ⟨את⟩ rumah Yisrael dan ⟨את⟩ rumah Yehuda dalam perjanjian baru.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "באים",
+      "gloss": "sedang datang"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "umusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "dan Aku akan mengikat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "baru"
+    }
+  ],
+  "timestamp": "2026-09-04T13:19:35.856657332Z",
+  "model": "glm-5.3"
+}

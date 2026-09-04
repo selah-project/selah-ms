@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan ia melakukan yang benar di mata Yahweh, menurut segala yang dilakukan David ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia melakukan"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "yang benar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "menurut segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:52.446852306Z",
+  "model": "glm-5.3"
+}

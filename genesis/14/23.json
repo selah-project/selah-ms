@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "jika dari benang sampai tali kasut pun, dan jika aku mengambil sesuatu dari semua yang ada padamu — supaya engkau jangan berkata: 'Akulah yang telah memperkayakan ⟨את⟩ Avram' —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "dari benang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "tali"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "kasut"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "aku mengambil"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ada padamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ... jangan"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "engkau berkata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "yang telah memperkayakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:24.326958228Z",
+  "model": "glm-5.3"
+}

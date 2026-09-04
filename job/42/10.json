@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dan Yahweh memulihkan ⟨את⟩ nasib tawanan Iyob ketika ia berdoa bagi sahabat-sahabatnya; dan Yahweh menambahkan kepada segala yang ada pada Iyob ⟨את⟩ ⟩ dua kali ganda.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "memulihkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nasib tawanan"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "nasib tawanan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "ketika ia berdoa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dan menambahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ada pada Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "menjadi dua kali ganda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:19.119086256Z",
+  "model": "glm-5.3"
+}

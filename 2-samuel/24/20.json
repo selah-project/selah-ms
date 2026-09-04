@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Aravnah menjenguk ke luar dan melihat ⟨את⟩ raja dan ⟨את⟩ hamba-hambanya melintas mendatanginya, lalu keluarlah Aravnah dan sujudlah kepada raja dengan mukanya ke tanah.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "Lalu menjenguk ke luar"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "melintas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mendatanginya"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluarlah"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dan sujudlah"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "dengan mukanya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke tanah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:33:14.740924377Z",
+  "model": "glm-5.3"
+}

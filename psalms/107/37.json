@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Dan mereka menabur ⟨את⟩ ladang, dan menanam kebun anggur, dan menghasilkan buah hasil tanaman.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "dan mereka menabur"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "dan menanam"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebun anggur"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan menghasilkan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "hasil tanaman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:29.584615919Z",
+  "model": "glm-5.3"
+}

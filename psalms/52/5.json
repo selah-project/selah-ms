@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Engkau kasihkan kejahatan lebih daripada kebaikan, dusta lebih daripada bercakap kebenaran. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "engkau kasihkan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "lebih daripada kebaikan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lebih daripada bercakap"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:02.457628944Z",
+  "model": "glm-5.3"
+}

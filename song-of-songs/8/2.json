@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Aku akan membimbing engkau, membawa engkau masuk ke rumah ibuku; engkau akan mengajar aku; aku akan memberi engkau minum dari anggur bercampur rempah, dari sari delimaku.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "Aku akan membimbing engkau"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "membawa engkau masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "engkau akan mengajar aku"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "aku akan memberi engkau minum"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "dari anggur"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "bercampur rempah"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "dari sari"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "delimaku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:07.145479656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan mereka menambah lagi dosa terhadap dia, memberontak terhadap Elyon di tanah kering.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "dan mereka menambah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "terhadap dia"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "di tanah kering"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:18.025996047Z",
+  "model": "glm-5.3"
+}

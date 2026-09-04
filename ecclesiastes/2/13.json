@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan aku melihat, aku sendiri, bahawa ada kelebihan bagi hikmat daripada kebodohan, seperti kelebihan cahaya daripada gelap.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Dan aku melihat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku sendiri"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "bahawa ada"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "bagi hikmat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "kebodohan"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "seperti kelebihan"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "gelap"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:51.161625231Z",
+  "model": "glm-5.3"
+}

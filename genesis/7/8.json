@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dari binatang itu yang bersih, dan dari binatang yang tidak bersih, dan dari unggas itu, dan segala yang merayap di atas tanah itu —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang itu"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "yang bersih"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan dari"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "unggas itu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "merayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tanah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:27.877188249Z",
+  "model": "glm-5.3"
+}

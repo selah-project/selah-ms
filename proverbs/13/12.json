@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Harapan yang lama tertunda membuatkan hati sakit, tetapi keinginan yang terpenuhi ialah pokok kehidupan.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "harapan"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "yang lama tertunda"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "membuatkan sakit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "tetapi pokok"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "keinginan"
+    },
+    {
+      "surface": "באה",
+      "gloss": "yang terpenuhi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:54.649633437Z",
+  "model": "glm-5.3"
+}

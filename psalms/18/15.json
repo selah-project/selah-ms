@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan Ia menghantar anak-anak panah-Nya lalu menyuraikan mereka; dan kilat-kilat berbilang-banyak, dan Ia menghuru-harakan mereka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dan Ia menghantar"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "anak-anak panah-Nya"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "lalu menyuraikan mereka"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "dan kilat-kilat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "berbilang-banyak"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "dan Ia menghuru-harakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:14.150736562Z",
+  "model": "glm-5.3"
+}

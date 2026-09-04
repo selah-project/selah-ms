@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan anak-anak Elpaal: Ever, dan Misyam, dan Syamed —dialah yang membina ⟨את⟩ Ono dan ⟨את⟩ Lod serta anak-anak perempuan kotanya.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "dan Misyam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "dan Syamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "serta anak-anak perempuan kotanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:23.240677621Z",
+  "model": "glm-5.3"
+}

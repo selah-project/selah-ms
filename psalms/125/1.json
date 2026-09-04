@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 125,
+  "translation": "Nyanyian bagi yang naik: orang-orang yang percaya kepada Yahweh ⟨seperti⟩ gunung Tsiyon — tidak akan goyah, selama-lamanya mereka diam.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bagi yang naik"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "orang-orang yang percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "seperti gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akan goyah"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mereka diam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:41.773307130Z",
+  "model": "glm-5.3"
+}

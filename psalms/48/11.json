@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Sesuai dengan nama-Mu, wahai Elohim, demikianlah puji-Mu sampai ke hujung-hujung bumi; keadilan memenuhi tangan kanan-Mu.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Sesuai dengan nama-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "puji-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "hujung-hujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:36.928795070Z",
+  "model": "glm-5.3"
+}

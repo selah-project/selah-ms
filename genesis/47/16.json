@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Dan Yosef berkata: Berikanlah ternakmu, maka aku berikan kepadamu dengan ternakmu, jika wang telah habis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "ternakmu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "maka aku berikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "dengan ternakmu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "habis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "wang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:45.630568228Z",
+  "model": "glm-5.3"
+}

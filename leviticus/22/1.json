@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berfirmanlah Yahweh kepada Moshe, demikian:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "demikian:"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:09.788796287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu kata Syaul kepada orang suruhannya: \"Perkataanmu itu baik; marilah, kita pergi.\" Maka pergilah mereka ke kota tempat orang Elohim itu berada.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "kepada orang suruhannya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Perkataanmu itu"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "marilah"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "kita pergi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Maka pergilah mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "berada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:35.450486254Z",
+  "model": "glm-5.3"
+}

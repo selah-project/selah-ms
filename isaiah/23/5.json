@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Sesudah ⟨berita itu⟩ sampai kepada Mitsrayim, mereka akan tersentap bila mendengar berita tentang Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sesudah"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨berita itu⟩ sampai"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kepada Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "mereka akan tersentap"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "bila mendengar berita"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tentang Tsor"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:22.605937125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan bagi bani Aharon pembahagian-pembahagian mereka: bani Aharon ialah Nadab dan Avihua, Elazar dan Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Dan bagi bani"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "pembahagian-pembahagian mereka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "dan Avihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "dan Itamar"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:16.566837734Z",
+  "model": "glm-5.3"
+}

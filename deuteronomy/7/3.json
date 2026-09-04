@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan jangan engkau menjalinkan perkahwinan dengan mereka: anak perempuanmu jangan engkau berikan kepada anak lelakinya, dan anak perempuannya jangan engkau ambil bagi anak lelakimu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "engkau menjalinkan perkahwinan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dengan mereka"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "anak perempuanmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kepada anak lelakinya"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "dan anak perempuannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "bagi anak lelakimu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:15.354541623Z",
+  "model": "glm-5.3"
+}

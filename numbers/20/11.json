@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Moshe mengangkat ⟨את⟩ tangannya dan memukul ⟨את⟩ batu karang itu dengan tongkatnya, dua kali; maka keluarlah air yang banyak, dan jemaah itu minum serta binatang-binatang ternakan mereka.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "lalu mengangkat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu karang itu"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu karang itu"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "dengan tongkatnya"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dua kali"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "maka keluarlah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "dan minum"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah itu"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "serta binatang-binatang ternakan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:31.975006417Z",
+  "model": "glm-5.3"
+}

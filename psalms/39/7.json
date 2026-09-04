@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Sungguh, dalam bayangan berjalan setiap orang; sungguh, sia-sia mereka riuh; ia menimbun, tetapi tidak tahu siapa yang akan mengumpulkannya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sungguh-hanya"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam-bayangan"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap-orang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sungguh-hanya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "mereka-riuh"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ia-menimbun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi-tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "yang-akan-mengumpulkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:00.021740809Z",
+  "model": "glm-5.3"
+}

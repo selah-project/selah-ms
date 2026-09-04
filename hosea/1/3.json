@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu dia pergi dan mengambil ⟨את⟩ Gomer anak perempuan Diblaim, dan dia mengandung dan melahirkan baginya seorang anak lelaki.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu dia pergi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblaim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dan dia mengandung"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak lelaki"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:01.088370447Z",
+  "model": "glm-5.3"
+}

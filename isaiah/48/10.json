@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Lihat, Aku telah menulenkan engkau, tetapi bukan dalam perak; Aku telah memilih engkau dalam relau penderitaan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Aku telah menulenkan engkau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi bukan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dalam perak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Aku telah memilih engkau"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "dalam relau"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:31.156444999Z",
+  "model": "glm-5.3"
+}

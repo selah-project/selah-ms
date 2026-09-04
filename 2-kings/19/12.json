@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Adakah tuhan bangsa-bangsa itu meluputkan ⟨את⟩ mereka yang telah dibinasakan bapak-bapakku — ⟨את⟩ Gozan, dan ⟨את⟩ Haran, dan Rezef, dan bani Eden yang di Telasar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Adakah ... meluputkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "telah dibinasakan"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "bapak-bapakku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "dan Rezef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "di Telasar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:39.213181275Z",
+  "model": "glm-5.3"
+}

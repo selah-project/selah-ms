@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan ⟨ia⟩ mengutus melalui tangan Natan nabi itu, dan memanggil ⟨את⟩ namanya Yedidya, oleh kerana Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dan mengutus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "melalui tangan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi itu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "oleh kerana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:10.073124999Z",
+  "model": "glm-5.3"
+}

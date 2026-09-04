@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Pada zaman baginda Edom memberontak dari bawah tangan Yehuda, dan mereka mengangkat seorang raja atas mereka.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "pada zaman baginda"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dari bawah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dan mereka mengangkat raja"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:18.565983799Z",
+  "model": "glm-5.3"
+}

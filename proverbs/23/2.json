@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "dan letakkan sebilah pisau di kerongkongmu, jika engkau ⟨ialah⟩ tuan nafsu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "dan letakkan"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "pisau"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "di kerongkongmu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafsu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:00.481874114Z",
+  "model": "glm-5.3"
+}

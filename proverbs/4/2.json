@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sebab ajaran yang baik aku berikan kepada kamu; Tora-Ku ⟨sendiri⟩ janganlah kamu tinggalkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ajaran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aku berikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-Ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "kamu tinggalkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:38.732253845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 76,
+  "translation": "Bernazarlah dan tunaikanlah kepada Yahweh, Elohim kamu, segala yang di sekeliling-Nya; mereka membawa persembahan kepada Yang Ditakuti.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Bernazarlah"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "dan tunaikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "yang di sekeliling-Nya"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "mereka membawa"
+    },
+    {
+      "surface": "שי",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "kepada Yang Ditakuti"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:42.389410481Z",
+  "model": "glm-5.3"
+}

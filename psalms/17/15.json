@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Adapun aku, dalam kebenaran akan kulihat wajahmu; akan kenyang aku, ketika terjaga, dengan rupa wajahmu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Adapun aku"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dalam kebenaran"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "akan kulihat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "akan kenyang aku"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ketika terjaga"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "dengan rupa wajahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:00.359742575Z",
+  "model": "glm-5.3"
+}

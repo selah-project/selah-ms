@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "dan ⟨את⟩ mazbah korban bakaran dan ⟨את⟩ segala peralatannya, dan ⟨את⟩ besen pembasuhan dan ⟨את⟩ tapaknya,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mazbah korban bakaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala peralatannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "peralatannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "besen pembasuhan"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "besen pembasuhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapaknya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tapaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:19.777669228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Lalu katanya: \"Engkaukah ini, anakku Esav?\" Dan katanya: \"Aku.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaukah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:49.915075678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan pada waktu pagi kamu akan melihat ⟨את⟩ kemuliaan Yahweh, apabila Ia mendengar ⟨את⟩ rungutan kamu terhadap Yahweh; dan kami ⟨adalah⟩ apa, bahawa kamu merungut terhadap kami?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "dan pada waktu pagi"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "kamu akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemuliaan Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "apabila Ia mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rungutan kamu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "rungutan kamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "dan kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "kamu merungut"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "terhadap kami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:53.022314710Z",
+  "model": "glm-5.3"
+}

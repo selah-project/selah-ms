@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Apabila umat-umat berkumpul bersama-sama, dan kerajaan-kerajaan, untuk beribadah kepada ⟨את⟩ Yahweh —",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Apabila berkumpul"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "dan kerajaan-kerajaan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "untuk beribadah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:39.635238829Z",
+  "model": "glm-5.3"
+}

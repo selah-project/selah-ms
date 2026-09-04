@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu didengarnya ⟨את⟩ perkataan anak-anak Lavan, yang berkata: \"Yaakov telah mengambil ⟨את⟩ segala yang ada pada bapa kita, dan dari apa yang ada pada bapa kita itulah dibuatnya ⟨את⟩ segala kemuliaan ini.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lalu didengarnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "telah mengambil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "ada pada bapa kita"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "dan dari apa yang"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "ada pada bapa kita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:51.287214137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Hari demi hari raja, tambahlah; tahunnya seperti satu keturunan demi keturunan.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "demi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "tambahlah"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "tahunnya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "דר",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi keturunan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.697854835Z",
+  "model": "glm-5.3"
+}

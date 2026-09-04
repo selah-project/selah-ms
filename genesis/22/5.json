@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu kata Avraham kepada bujang-bujangnya: \"Duduklah kamu di sini bersama keldai itu, dan aku serta budak itu akan pergi sampai ke sana; kami akan sujud dan kembali kepada kamu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "bujang-bujangnya"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Duduklah"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "keldai itu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "serta budak itu"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "akan pergi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "kami akan sujud"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "dan kembali"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:44.807334862Z",
+  "model": "glm-5.3"
+}

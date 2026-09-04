@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Segala pekerjaan khidmat jangan kamu buat, dan kamu menghampirkan persembahan api kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "khidmat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu buat"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "dan kamu menghampirkan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:15.303364657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Jangan didapati padamu seorang yang menjadikan anaknya atau anak perempuannya lalu melalui api, peramal tilik, peramal awan, penilik dan tukang sihir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "yang menjadikan lalu melalui"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "atau anak perempuannya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "api"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "peramal tilik"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ramalan-ramalan"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "peramal awan"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "penilik"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "dan tukang sihir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:25.273830849Z",
+  "model": "glm-5.3"
+}

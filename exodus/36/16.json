@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan disambungkannya ⟨את⟩ lima tirai berasingan, dan ⟨את⟩ enam tirai berasingan.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "disambungkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima tirai"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "berasingan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "enam tirai"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "berasingan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:03.864361547Z",
+  "model": "glm-5.3"
+}

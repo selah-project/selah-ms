@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Biarlah kerja itu berat ke atas orang-orang itu, dan biarlah mereka bekerja di dalamnya, dan janganlah mereka memandang kepada perkataan-perkataan dusta.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "Biarlah berat"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kerja itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan biarlah mereka bekerja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "mereka memandang"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "kepada perkataan-perkataan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:43.111214987Z",
+  "model": "glm-5.3"
+}

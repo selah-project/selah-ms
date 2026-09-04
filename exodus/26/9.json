@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan engkau akan menyambungkan ⟨את⟩ lima kalim-kalim itu berasingan, dan ⟨את⟩ enam kalim-kalim itu berasingan, dan engkau akan menggandakan ⟨את⟩ kalim yang keenam menghadap tepat di hadapan khemah itu.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "dan engkau akan menyambungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima kalim-kalim itu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kalim-kalim itu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "berasingan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "enam kalim-kalim itu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kalim-kalim itu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "berasingan"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "dan engkau akan menggandakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalim yang keenam"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "kalim"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "yang keenam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menghadap"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tepat di hadapan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka\/hadapan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:38.444732589Z",
+  "model": "glm-5.3"
+}

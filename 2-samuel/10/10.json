@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan ⟨את⟩ selebihnya orang itu ia menyerahkan ke dalam tangan Abisyai saudaranya, maka ia menyusun barisan untuk menghadapi bani Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "selebihnya"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "selebihnya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ia menyerahkan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abisyai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "maka ia menyusun barisan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuk menghadapi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:07.671499102Z",
+  "model": "glm-5.3"
+}

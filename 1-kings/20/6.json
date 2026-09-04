@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Tetapi jika pada waktu ini esok aku mengutus ⟨את⟩ hamba-hambaku kepadamu, dan mereka menggeledah ⟨את⟩ rumahmu dan ⟨את⟩ rumah-rumah hamba-hambamu, maka terjadilah: segala yang diingini mata engkau, mereka letakkan ke dalam tangan mereka dan membawanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pada waktu ini"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "aku mengutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambaku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hambaku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "dan mereka menggeledah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumahmu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumahmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah-rumah"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "rumah-rumah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "yang diingini"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata engkau"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "mereka letakkan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ke dalam tangan mereka"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "dan membawanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:48.478728814Z",
+  "model": "glm-5.3"
+}

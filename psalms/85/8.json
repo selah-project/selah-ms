@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Tunjukkan kepada kami hesed-Mu, Yahweh, dan keselamatan-Mu berikan kepada kami.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Tunjukkan kepada kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "dan keselamatan-Mu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:43.687266832Z",
+  "model": "glm-5.3"
+}

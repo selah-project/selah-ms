@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Seperti mereka jadilah pembuat-pembuat mereka, semua yang percaya kepada mereka.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "seperti mereka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "pembuat-pembuat mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:11.908497918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan pendatang jangan engkau sakiti, dan jangan engkau menindas dia, kerana pendatang kamu ⟨adalah⟩ di bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "dan pendatang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "engkau sakiti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "engkau menindas dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu ⟨adalah⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:36.461990106Z",
+  "model": "glm-5.3"
+}

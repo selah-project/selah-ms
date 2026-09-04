@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarlah nefesy hidup, dan ia akan memuji-Mu, dan hukum-Mu akan menolong aku.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "Biarlah hidup"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "dan memuji-Mu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "dan hukum-Mu"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "akan menolong aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:25.312770520Z",
+  "model": "glm-5.3"
+}

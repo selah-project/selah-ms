@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan orang yang membakarnya membasuh pakaiannya dalam air dan memandikan tubuhnya dalam air, dan ia najis hingga petang.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "yang membakarnya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ia (lembu itu)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "membasuh"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakiannya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "dan memandikan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tubuhnya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:41:12.414061601Z",
+  "model": "glm-5.3"
+}

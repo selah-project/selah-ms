@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Kepada siapakah kamu bandingkan Aku, dan menyamakan ⟨Aku⟩, dan memisahkan ⟨Aku⟩, supaya kami serupa?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "kepada siapakah"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "kamu bandingkan Aku"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "dan menyamakan"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "dan memisahkan Aku"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "supaya serupa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:13.851164299Z",
+  "model": "glm-5.3"
+}

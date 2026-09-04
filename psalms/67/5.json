@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 67,
+  "translation": "Bersukacitalah dan bersoraklah bangsa-bangsa, sebab Engkau menghakimi kaum-kaum dengan keadilan, dan memimpin bangsa-bangsa di bumi. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukacitalah"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "dan bersoraklah"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "Engkau menghakimi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kaum-kaum"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "dengan keadilan"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan bangsa-bangsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "memimpin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.867213272Z",
+  "model": "glm-5.3"
+}

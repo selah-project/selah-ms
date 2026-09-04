@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan perang terjadi antara Rehavam dan antara Yarovam segala hari-hari itu.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Dan perang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antara"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "dan antara"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:57.035059805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "supaya kami juga menjadi seperti segala bangsa-bangsa, dan raja kami menghukum bagi kami, dan keluar di hadapan kami, dan berperang ⟨את⟩ peperangan kami.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "supaya kami menjadi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "seperti segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "dan menghukum bagi kami"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "raja kami"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "di hadapan kami"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "dan berperang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peperangan kami"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "peperangan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:42.669375047Z",
+  "model": "glm-5.3"
+}

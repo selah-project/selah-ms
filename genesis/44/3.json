@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Apabila pagi siang ⟨sudah⟩ terang, orang-orang itu dihantar pergi, mereka dan keldai-keldai mereka.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "orang-orang itu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "dihantar pergi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "dan keldai-keldai mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:25.013950912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Aku akan menjadikan gunung Seir ⟨את⟩ kekosongan dan kehancuran, dan Aku akan memusnahkan daripadanya yang lalu-lalang dan yang kembali.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "kekosongan"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "dan kehancuran"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan Aku akan memusnahkan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang lalu-lalang"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan yang kembali"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:20.695816264Z",
+  "model": "glm-5.3"
+}

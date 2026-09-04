@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Apabila kebaikan bertambah, pemakannya juga bertambah; dan apakah kelebihan bagi pemiliknya, kecuali penglihatan matanya?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "apabila bertambah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bertambah"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "pemakannya"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apakah"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "bagi pemiliknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kecuali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "penglihatan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:41.531058048Z",
+  "model": "glm-5.3"
+}

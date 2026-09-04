@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Dekat Yang membenarkan aku; siapa berhujah ⟨את⟩ dengan-ku? Marilah kita berdiri bersama; siapa pemilik hukum-ku? Biarlah ia menghampiri aku.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "Yang membenarkan aku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "berhujah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ dengan-ku",
+      "marks": "dengan-ku"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "marilah kita berdiri"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "pemilik"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-ku"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "menghampiri"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:58.695687357Z",
+  "model": "glm-5.3"
+}

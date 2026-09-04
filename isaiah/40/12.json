@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Siapa yang mengukur air dalam telapak tangannya, dan langit dengan jengkal menakar, dan debu bumi dalam genggaman ketiga jari mengumpulkan, dan gunung-gunung dalam timbangan menimbang, dan bukit-bukit dalam neraca?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "yang mengukur"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "dalam telapak tangannya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "dan langit"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "dengan jengkal"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "menakar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "dalam genggaman tiga jari"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "dan menimbang"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "dalam timbangan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "dan bukit-bukit"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "dalam neraca"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:00.735989376Z",
+  "model": "glm-5.3"
+}

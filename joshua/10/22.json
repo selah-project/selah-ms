@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu kata Yehosua: \"Bukalah ⟨את⟩ mulut gua itu, dan bawalah keluar kepadaku ⟨את⟩ kelima-lima raja ini dari gua itu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Bukalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulut gua itu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "gua itu"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "dan bawalah keluar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelima-lima raja ini"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "kelima-lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "gua itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:07.010618024Z",
+  "model": "glm-5.3"
+}

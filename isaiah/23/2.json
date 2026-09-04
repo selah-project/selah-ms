@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Diamlah, penduduk pantai; dagangan Tsidon, penyeberang laut, memenuhinya.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Diamlah"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "אי",
+      "gloss": "pantai"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "dagangan"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "penyeberang"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "memenuhinya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:05.374545734Z",
+  "model": "glm-5.3"
+}

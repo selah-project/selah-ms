@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "supaya Dia menegakkan ⟨את⟩ kamu hari ini bagi-Nya menjadi umat, dan Dia akan menjadi bagimu Elohim, seperti yang difirmkan-Nya kepadamu, dan seperti yang dijanjikan-Nya dengan sumpah kepada bapa-bapa kamu, kepada Avraham, kepada Yitshak dan kepada Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "Dia menegakkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu (Israel)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "menjadi umat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dia"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmkan-Nya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "dan seperti yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "dijanjikan-Nya dengan sumpah"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "kepada bapa-bapa kamu"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kepada Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kepada Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "dan kepada Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:30.301568803Z",
+  "model": "glm-5.3"
+}

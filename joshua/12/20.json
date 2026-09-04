@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "raja Syimron-Meron, satu; raja Akysyaf, satu;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Syimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akysyaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:40.416227338Z",
+  "model": "glm-5.3"
+}

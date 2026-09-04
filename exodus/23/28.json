@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan Aku akan mengutus ⟨את⟩ penyengat di hadapan kamu, dan ia akan menghalau ⟨את⟩ orang Hiwi, ⟨את⟩ orang Kanaan, dan ⟨את⟩ orang Het dari hadapan kamu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "dan Aku akan mengutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyengat"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "penyengat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapan kamu"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "dan ia akan menghalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "orang Hiwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Het"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "orang Het"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "dari hadapan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:45.767938525Z",
+  "model": "glm-5.3"
+}

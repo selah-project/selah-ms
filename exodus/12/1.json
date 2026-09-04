@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu berfirmanlah Yahweh kepada Moshe dan kepada Aharon di tanah Mitsrayim, katanya:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya:"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:01.114058580Z",
+  "model": "glm-5.3"
+}

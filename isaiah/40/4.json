@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Setiap lembah akan ditinggikan, dan setiap gunung serta bukit akan direndahkan; yang bengkok akan menjadi rata, dan yang berbukit-bukit menjadi dataran.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "akan ditinggikan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "serta bukit"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "akan direndahkan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ⟨akan⟩ menjadi"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "menjadi rata"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "dan yang berbukit-bukit"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "menjadi dataran"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:57.709388264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan orang-orang rendah hati akan mewarisi bumi, dan bersukaria atas kelimpahan kesejahteraan.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "dan orang-orang rendah hati"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "dan bersukaria"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kesejahteraan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:33.096866576Z",
+  "model": "glm-5.3"
+}

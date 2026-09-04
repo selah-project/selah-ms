@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Orang Pelisyt mengambil ⟨את⟩ tabut Elohim lalu membawanya dari Even ha-Ezer ke Asydod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Orang Pelisyt"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "lalu membawanya"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "dari Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ke Asydod"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:34.546240380Z",
+  "model": "glm-5.3"
+}

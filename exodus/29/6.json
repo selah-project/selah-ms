@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau akan meletakkan serban itu di atas kepalanya, dan meletakkan ⟨את⟩ nezer kesucian di atas serban itu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "dan engkau akan meletakkan"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "serban"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dan engkau akan meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer kesucian"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "serban itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:51.147380962Z",
+  "model": "glm-5.3"
+}

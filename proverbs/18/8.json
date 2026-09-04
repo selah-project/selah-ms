@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Perkataan pengumpat seperti makanan yang sedap, dan perkataan itu turun ke bilik-bilik hati.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Perkataan"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "pengumpat"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "seperti makanan yang sedap"
+    },
+    {
+      "surface": "והם",
+      "gloss": "dan perkataan itu"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "turun"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ke bilik-bilik"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:23.249145068Z",
+  "model": "glm-5.3"
+}

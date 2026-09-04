@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Ezra sang imam membawa ⟨את⟩ Tora itu ke hadapan jemaah, dari laki-laki sampai perempuan, dan semua yang faham untuk mendengar, pada hari pertama bulan ketujuh.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "Lalu membawa"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora itu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari laki-laki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yang faham"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "untuk mendengar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pertama"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:48.030681741Z",
+  "model": "glm-5.3"
+}

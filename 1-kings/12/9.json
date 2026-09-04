@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan ia berkata kepada mereka: \"Apakah nasihat kamu, supaya kami membalas ⟨את⟩ bangsa ini, yang telah berbicara kepadaku, katanya: Ringankanlah beban yang diletakkan ayahmu ke atas kami?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan ia berkata"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "bernasihat"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "supaya kami membalas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "telah berbicara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ringankanlah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "העל",
+      "gloss": "beban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diletakkan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ke atas kami"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:21.432872217Z",
+  "model": "glm-5.3"
+}

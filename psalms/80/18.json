@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Jadilah tangan-Mu atas ⟨seorang⟩ isy tangan kanan-Mu, atas ben adam yang Kaukuatkan bagi-Mu ⟨sendiri⟩.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "jadilah"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨seorang⟩ isy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan kanan-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "yang Kaukuatkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:48.308157952Z",
+  "model": "glm-5.3"
+}

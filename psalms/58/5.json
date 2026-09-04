@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Racun mereka seperti racun naga, seperti ular tedung yang tuli yang menutup telinganya",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "naga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ular tedung"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "yang tuli"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "yang menutup"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "telinganya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:55.541571032Z",
+  "model": "glm-5.3"
+}

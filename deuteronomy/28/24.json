@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh akan menjadikan ⟨את⟩ hujan tanahmu habuk dan debu; dari langit ia akan turun atasmu sampai engkau musnah.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "akan menjadikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hujan tanahmu"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "habuk"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "dan debu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ia akan turun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "atasmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "engkau musnah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:23.488671150Z",
+  "model": "glm-5.3"
+}

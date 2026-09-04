@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Yah ialah kekuatanku dan pujianku, dan ⟨Dia⟩ menjadi keselamatanku.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "dan pujianku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "untuk keselamatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:39.493735367Z",
+  "model": "glm-5.3"
+}

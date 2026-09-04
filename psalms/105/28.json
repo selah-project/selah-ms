@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dihantar-Nya kegelapan dan menggelapkan, dan mereka tidak memberontak terhadap ⟨את⟩ firman-Nya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dihantar-Nya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "dan menggelapkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman-Nya"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "firman-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:15.833930490Z",
+  "model": "glm-5.3"
+}

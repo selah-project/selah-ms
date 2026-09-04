@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dengan kejahatan mereka mereka menggembirakan raja, dan dengan dusta-dusta mereka para pembesar.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "dengan kejahatan mereka"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mereka menggembirakan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "dan dengan dusta-dusta mereka"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pembesar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:53.844643017Z",
+  "model": "glm-5.3"
+}

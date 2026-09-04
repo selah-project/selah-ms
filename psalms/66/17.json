@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Kepadanya aku berseru dengan mulutku, dan puji-pujian ⟨ada⟩ di bawah lidahku.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Kepadanya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "dengan mulutku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "dan puji-pujian"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidahku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:49.554627634Z",
+  "model": "glm-5.3"
+}

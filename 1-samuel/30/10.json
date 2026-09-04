@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Lalu David mengejar, dia dan empat ratus orang; dan dua ratus orang berhenti, yang lesu, dari menyeberangi ⟨את⟩ sungai Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "Lalu mengejar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dan berhenti"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dua ratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "lesu"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "dari menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sungai"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:34.174203090Z",
+  "model": "glm-5.3"
+}

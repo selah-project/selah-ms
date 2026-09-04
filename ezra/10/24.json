@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan daripada para penyanyi: Elyasyib; dan daripada para penjaga pintu: Syalum, dan Telem, dan Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Dan daripada"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "para penyanyi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyasyib"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan daripada"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "para penjaga pintu"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Syalum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "dan Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "dan Uri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:51:30.930879338Z",
+  "model": "glm-5.3"
+}

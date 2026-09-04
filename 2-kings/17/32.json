@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Maka mereka menjadi takut akan ⟨את⟩ Yahweh, dan mereka membuat bagi mereka sendiri dari kalangan mereka imam-imam bukit pengorbanan, dan mereka menjadi pelayan bagi mereka dalam rumah bukit pengorbanan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "maka mereka menjadi"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "takut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan mereka membuat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "dari kalangan mereka"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imam-imam"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bukit pengorbanan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka menjadi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "pelayan yang bertindak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dalam rumah"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bukit pengorbanan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:35.916311086Z",
+  "model": "glm-5.3"
+}

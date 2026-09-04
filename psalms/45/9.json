@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Mur dan aloe dan kasia ⟨ialah⟩ segala pakaianmu; dari istana gading alat muzik berdawai telah menyukakan engkau.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mur (kemenyan)"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "dan aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "pakaianmu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "istana"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gading"
+    },
+    {
+      "surface": "מני",
+      "gloss": "alat muzik berdawai"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "telah menyukakan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:37.960896306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan dibuatnya ⟨את⟩ penyokong-penyokong itu daripada kayu syitim, dan disalutnya ⟨את⟩ mereka ⟨dengan⟩ emas, untuk mengangkat ⟨את⟩ meja itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyokong-penyokong itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "penyokong-penyokong itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "syitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan disalutnya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuk mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja itu"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:07.099742270Z",
+  "model": "glm-5.3"
+}

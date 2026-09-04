@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Begitulah kata raja: jangan biar Hizkiyahu memperdaya kamu, sebab dia tidak akan dapat menyelamatkan ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Begitulah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "memperdaya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akan dapat"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:49:28.661562946Z",
+  "model": "glm-5.3"
+}

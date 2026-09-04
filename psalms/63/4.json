@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Sebab hesed-Mu lebih baik daripada kehidupan, bibirku akan memuji-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "daripada kehidupan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibirku"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "akan memuji-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:17.685426477Z",
+  "model": "glm-5.3"
+}

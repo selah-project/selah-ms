@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 87,
+  "translation": "Aku mengingatkan Rahab dan Bavel di antara mereka yang mengenal aku; lihat, Pelesyet dan Tsor, bersama Kush — inilah dilahirkan di sana.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Aku mengingatkan"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "dan Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "di antara mereka yang mengenal aku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "dan Tsor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.799419522Z",
+  "model": "glm-5.3"
+}

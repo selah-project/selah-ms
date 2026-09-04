@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Ia akan mengutus dari langit dan menyelamatkan aku; Ia mempermalukan yang mengaum menerkamku. Selah. Elohim akan mengutus hesed-Nya dan kesetiaan-Nya.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ia akan mengutus"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "dan menyelamatkan aku"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Ia mempermalukan"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "yang mengaum menerkamku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Ia akan mengutus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "dan kesetiaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:24.049633175Z",
+  "model": "glm-5.3"
+}

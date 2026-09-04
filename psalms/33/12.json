@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Berbahagialah bangsa yang Yahweh ⟨ialah⟩ Elohim-nya, umat yang dipilih-Nya menjadi warisan bagi-Nya.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-nya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih-Nya"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "menjadi warisan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:07.311298461Z",
+  "model": "glm-5.3"
+}

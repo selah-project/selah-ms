@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan mereka menguburkan dia ⟨את⟩ dalam kuburnya, di taman Uza; dan Yoasyahu anaknya memerintah menggantikannya.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Dan mereka menguburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "dalam kuburnya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "di taman"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan memerintah"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoasyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:31.099860819Z",
+  "model": "glm-5.3"
+}

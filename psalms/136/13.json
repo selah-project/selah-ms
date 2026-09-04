@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "Kepada Dia yang membelah laut Suph menjadi bahagian-bahagian, sebab untuk selama-lamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "yang membelah"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "menjadi bahagian-bahagian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:08.602860038Z",
+  "model": "glm-5.3"
+}

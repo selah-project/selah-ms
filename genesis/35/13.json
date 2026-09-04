@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Lalu naiklah Elohim dari atasnya, di tempat yang Ia berfirman ⟨את⟩-dengannya.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naiklah"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dari atasnya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ia berfirman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya",
+      "marks": "dia (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:15.871360360Z",
+  "model": "glm-5.3"
+}

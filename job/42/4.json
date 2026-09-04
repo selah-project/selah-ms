@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dengarlah kiranya, dan aku akan berbicara; aku akan bertanya kepada-Mu, dan berilah aku pengetahuan.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "akan berbicara"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "aku akan bertanya kepada-Mu"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "dan berilah aku pengetahuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:09.637310598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "lapisan-lapisan daripada batu besar digulung tiga, dan satu lapisan daripada kayu baharu; dan belanja itu daripada rumah raja diberikan.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "lapisan-lapisan"
+    },
+    {
+      "surface": "די",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "besar digulung"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "dan satu lapisan"
+    },
+    {
+      "surface": "די",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "אע",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "baharu"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "dan belanja itu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "diberikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:50:40.382429084Z",
+  "model": "glm-5.3"
+}

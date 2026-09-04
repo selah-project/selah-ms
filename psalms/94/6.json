@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Janda dan pendatang mereka bunuh, dan anak-anak yatim mereka ratah.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "dan pendatang"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "mereka bunuh"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "dan anak-anak yatim"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "mereka ratah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:43.338007436Z",
+  "model": "glm-5.3"
+}

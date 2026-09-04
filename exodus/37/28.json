@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan ia membuat ⟨את⟩ galang-galang itu daripada kayu akasia (syitim), dan ia menyaluti ⟨את⟩nya ⟨את⟩ emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galang-galang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia (syitim)"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan ia menyaluti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩nya",
+      "marks": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:47.742030845Z",
+  "model": "glm-5.3"
+}

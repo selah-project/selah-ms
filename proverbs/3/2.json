@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab panjang ⟨⟨hari-hari⟩⟩ dan tahun-tahun kehidupan, serta syalom, akan ditambah kepadamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "dan tahun-tahun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "serta syalom"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "akan ditambah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:30.631590931Z",
+  "model": "glm-5.3"
+}

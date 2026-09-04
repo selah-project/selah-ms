@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "supaya kamu jangan merosakkan diri dan membuat bagi kamu patung pahatan, rupa segala gambaran, gambaran lelaki atau perempuan.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "kamu merosakkan diri"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung pahatan"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "gambaran"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "gambaran"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "perempuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:31.948537701Z",
+  "model": "glm-5.3"
+}

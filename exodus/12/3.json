@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Berbicaralah kamu kepada seluruh jemaah Yisrael, katanya: Pada hari kesepuluh bulan yang ini, maka mereka mengambil bagi mereka seekor biri-biri setiap orang bagi rumah bapa-bapa, seekor biri-biri bagi satu rumah.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Berbicaralah kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya:"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Pada kesepuluh"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "maka mereka mengambil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seekor biri-biri"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bagi rumah"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "bapa-bapa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seekor biri-biri"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bagi satu rumah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:01.114464600Z",
+  "model": "glm-5.3"
+}

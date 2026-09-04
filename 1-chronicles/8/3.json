@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan lahir anak-anak lelaki bagi Bela: Adar, dan Gera, dan Avihud.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dan lahir"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "bagi Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "dan Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "dan Avihud"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:35.868247918Z",
+  "model": "glm-5.3"
+}

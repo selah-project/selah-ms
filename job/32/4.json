@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan Elihu menunggu-nunggu ⟨את⟩ Iyob dalam kata-kata, kerana mereka lebih tua daripada-nya dalam hari.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Dan Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "menunggu-nunggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "dalam kata-kata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "lebih tua"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripada-nya"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "dalam hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:32:20.870992775Z",
+  "model": "glm-5.3"
+}

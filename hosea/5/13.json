@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Ketika Efrayim melihat ⟨את⟩ penyakitnya dan Yehuda ⟨את⟩ luka nya, Efrayim pergi kepada Asyur dan menghantar utusan kepada raja Yareb (raja yang suka bertengkar), tetapi dia tidak dapat menyembuhkan kamu, dan tidak dapat menghapuskan luka itu daripada kamu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ketika ... melihat"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyakitnya"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "penyakitnya"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luka nya"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "luka nya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "dan menghantar utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tetapi dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "menyembuhkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "menghapuskan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daripada kamu"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "luka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:50.353748778Z",
+  "model": "glm-5.3"
+}

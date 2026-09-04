@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan hati orang-orang yang tergopoh akan memahami untuk mengetahui, dan lidah orang-orang yang tersekat-sekat akan cepat untuk berbicara dengan jelas.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Dan hati"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "orang-orang yang tergopoh"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "akan memahami"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "dan lidah"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "orang-orang yang tersekat-sekat"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "akan cepat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "untuk berbicara"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "dengan jelas"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:39.856786724Z",
+  "model": "glm-5.3"
+}

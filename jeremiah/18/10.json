@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "dan ia melakukan kejahatan itu di mata-Ku, dengan tidak mendengarkan suara-Ku, maka Aku menyesali kebaikan itu yang Kukatakan untuk mengberlakikannya ⟨את⟩nya.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dan ia melakukan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kejahatan itu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata-Ku"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "dengan tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengarkan"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "suara-Ku"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "maka Aku menyesali"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "kebaikan itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Kukatakan"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "untuk mengberlakukan baik"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩nya",
+      "marks": "dia (objek kebaikan itu)"
+    }
+  ],
+  "timestamp": "2026-09-04T13:15:51.238849199Z",
+  "model": "glm-5.3"
+}

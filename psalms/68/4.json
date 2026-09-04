@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Dan orang-orang benar bersukaria, mereka bergembira di hadapan Elohim, dan mereka bersuka ria ⟨dengan⟩ kegembiraan.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Dan orang-orang benar"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukaria"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "mereka bergembira"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "dan mereka bersuka ria"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "⟨dengan⟩ kegembiraan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:29.065640037Z",
+  "model": "glm-5.3"
+}

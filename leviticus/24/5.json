@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan engkau akan mengambil tepung yang lembut, dan membakarnya — ⟨את⟩ dua belas keping roti; dua persepuluh (efah) ⟨adalah⟩ isi bagi setiap keping.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung yang lembut"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "dan engkau akan membakar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dua belas keping roti"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "keping roti"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "persepuluh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adalah isi"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "keping itu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:59.357292547Z",
+  "model": "glm-5.3"
+}

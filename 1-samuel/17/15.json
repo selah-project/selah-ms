@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan Dawid pergi dan pulang dari menghadapi Syaul untuk menjaga ⟨את⟩ kambing birinya bapa di Beit Lehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Dan Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan pulang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari menghadapi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing biri"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:23.135175714Z",
+  "model": "glm-5.3"
+}

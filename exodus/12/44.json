@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan setiap hamba seorang lelaki, pembelian dengan perak, maka engkau menyunatnya ⟨את⟩ dia — barulah dia makan daripadanya.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "dan setiap"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "pembelian"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "maka engkau menyunat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אז",
+      "gloss": "barulah"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dia makan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:16.297679305Z",
+  "model": "glm-5.3"
+}

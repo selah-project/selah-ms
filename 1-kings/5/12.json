@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan ia bertutur tiga ribu perumpamaan, dan jadilah nyanyiannya seribu lima.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan bertutur"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "perumpamaan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyiannya"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "dan seribu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:28.443326468Z",
+  "model": "glm-5.3"
+}

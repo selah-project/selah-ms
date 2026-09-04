@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 110,
+  "translation": "Dari sungai kecil di tengah jalan ia minum; sebab itu ia mengangkat kepala.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "dari sungai kecil"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ia minum"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ia mengangkat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:50.245495777Z",
+  "model": "glm-5.3"
+}

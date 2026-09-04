@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku teringat akan nama-Mu pada waktu malam, Yahweh, dan aku berpegang pada Tora-Mu.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "aku teringat"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "akan nama-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "dan aku berpegang"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "pada Tora-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:54.515237966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Biarlah doa ⟨aku⟩ datang ke hadapan-Mu; condongkan telinga-Mu kepada jeritan ⟨aku⟩.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ke hadapan-Mu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa ⟨aku⟩"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "telinga-Mu"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "kepada jeritan ⟨aku⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.218950072Z",
+  "model": "glm-5.3"
+}

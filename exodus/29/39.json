@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "⟨את⟩ anak domba yang satu engkau perbuat pada waktu pagi, dan ⟨את⟩ anak domba yang kedua engkau perbuat di antara kedua senja.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba yang satu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau perbuat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak domba yang kedua"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau perbuat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kedua senja"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:10.200789550Z",
+  "model": "glm-5.3"
+}

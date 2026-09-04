@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Yosef berkata kepada mereka: \"Inilah dia yang aku katakan kepada kamu, katanya: pengintip kamu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Inilah dia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku katakan"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "pengintip"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:24.835202975Z",
+  "model": "glm-5.3"
+}

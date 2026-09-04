@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku telah memelihara ketetapan-ketetapan-Mu dan peraturan-peraturan-Mu, sebab segala jalanku di hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "aku telah memelihara"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "dan peraturan-peraturan-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "jalanku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "di hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:19.982007977Z",
+  "model": "glm-5.3"
+}

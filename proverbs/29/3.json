@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Orang yang mengasihi hikmat menggembirakan bapanya, tetapi pelacur-pelacur mengembalakan harta.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yang mengasihi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "menggembirakan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "tetapi yang mengembala"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "pelacur-pelacur"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "membazirkan\/menghabiskan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:52.849074562Z",
+  "model": "glm-5.3"
+}

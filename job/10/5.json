@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Adakah seperti hari manusia fana hari-harimu, ataukah tahun-tahunmu seperti hari seorang wira?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "adakah seperti hari"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "hari-harimu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tahun-tahunmu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "seperti hari"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "seorang wira"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:19.700201131Z",
+  "model": "glm-5.3"
+}

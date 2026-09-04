@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu segala penduduk Yaves-Gilead mendengar ⟨את⟩ segala yang dilakukan orang Filistin kepada Saul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Saul"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:41.971160043Z",
+  "model": "glm-5.3"
+}

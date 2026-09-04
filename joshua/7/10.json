@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Yahweh berfirman kepada Yehosyua: \"Bangunlah engkau! Mengapakah engkau jatuh tersungkur di atas wajahmu?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu ... berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Bangunlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jatuh tersungkur"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:27.831510384Z",
+  "model": "glm-5.3"
+}

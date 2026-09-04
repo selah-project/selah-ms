@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu orang Plisytim mendengar ⟨את⟩ bunyi sorakan itu, dan berkata, \"Apakah maksud bunyi sorakan yang besar ini di perkhemahan orang Ibrani?\" Lalu mereka mengetahui bahawa tabut Yahweh telah masuk ke perkhemahan itu.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Lalu ... mendengar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Plisytim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi sorakan itu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "sorakan itu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "קול",
+      "gloss": "maksud bunyi"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "sorakan"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "di perkhemahan"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang Ibrani"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "Lalu mereka mengetahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "perkhemahan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:24.108983236Z",
+  "model": "glm-5.3"
+}

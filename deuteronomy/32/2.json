@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Biarlah titisan ajaranku jatuh seperti hujan, biarlah perkataanku menitis seperti embun, seperti hujan renyai atas rumput muda, dan seperti gerimis atas tumbuhan hijau.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "Biarlah menitis-jatuh"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "seperti hujan"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ajaranku"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "biarlah menitik"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "seperti embun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "seperti hujan renyai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rumput muda"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "dan seperti gerimis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tumbuhan hijau"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:04.609162669Z",
+  "model": "glm-5.3"
+}

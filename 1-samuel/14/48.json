@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ia berlaku perkasa, dan memukul ⟨את⟩ Amalek, dan melepaskan ⟨את⟩ Yisrael dari tangan perampasnya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia berlaku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "perkasa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "dan melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "perampasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:15.496037392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Betuel memperanakkan ⟨את⟩ Rivkah; lapan inilah yang dilahirkan Milka kepada Nahor, saudara Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Dan Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "lapan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "kepada Nahor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:50.038910719Z",
+  "model": "glm-5.3"
+}

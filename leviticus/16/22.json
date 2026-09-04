@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan kambing jantan itu memikul di atasnya ⟨את⟩ segala kesalahan mereka ke tanah yang terpisah; dan ia menghantar ⟨את⟩ kambing jantan itu ke padang gurun.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "dan memikul"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala kesalahan mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "kesalahan mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "yang terpisah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dan menghantar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan itu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:38.143761040Z",
+  "model": "glm-5.3"
+}

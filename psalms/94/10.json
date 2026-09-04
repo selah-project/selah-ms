@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Yang menghukum bangsa-bangsa, tidakkah ⟨Ia⟩ menyatakan ⟨salah⟩? Yang mengajar manusia pengetahuan",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Yang menghukum"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tidakkah"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "⟨Ia⟩ menyatakan ⟨salah⟩"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Yang mengajar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:40.740254635Z",
+  "model": "glm-5.3"
+}

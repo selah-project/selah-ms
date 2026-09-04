@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Pecahkan ⟨את⟩ — itu menjadi kepingan-kepingan, dan curahkan ke atasnya minyak; ia ⟨adalah⟩ mincha.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Pecahkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kepingan-kepingan"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "kepingan-kepingan"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dan curahkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia ⟨adalah⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:20.086243283Z",
+  "model": "glm-5.3"
+}

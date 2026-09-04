@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan penduduk Givon mendengar ⟨את⟩ apa yang dilakukan Yehosyua kepada Yerikho dan kepada Ai,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Dan penduduk"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang dilakukan Yehosyua kepada Yerikho dan kepada Ai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "kepada Yerikho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "dan kepada Ai"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:06.538391964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Jangan keluar berhujah dengan tergesa-gesa, supaya jangan engkau tidak tahu apa yang akan engkau buat pada akhirnya, apabila sahabatmu mempermalukan ⟨את⟩ engkau.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "engkau keluar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "untuk berhujah"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dengan tergesa-gesa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "pada akhirnya"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "apabila mempermalukan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sahabatmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:16.483580379Z",
+  "model": "glm-5.3"
+}

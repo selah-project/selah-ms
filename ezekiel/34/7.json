@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Oleh itu, hai penggembala, dengarlah ⟨את⟩ firman Yahweh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "oleh itu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hai penggembala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:37:26.817907602Z",
+  "model": "glm-5.3"
+}

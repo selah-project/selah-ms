@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Dan terjadilah, sebagaimana dia mentafsir ⟨את⟩ bagi kami, demikianlah halnya: aku dipulihkan ⟨את⟩ ke atas jawatanku, dan dia digantung ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "mentafsir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah halnya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "terjadi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "dipulihkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "כני",
+      "gloss": "jawatanku"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "digantung"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:57.710630734Z",
+  "model": "glm-5.3"
+}

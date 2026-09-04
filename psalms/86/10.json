@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Sebab Engkau besar dan melakukan perkara-perkara ajaib; Engkaulah Elohim, hanya Engkau sahaja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "dan melakukan"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "perkara-perkara ajaib"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "hanya Engkau sahaja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:34.089076977Z",
+  "model": "glm-5.3"
+}

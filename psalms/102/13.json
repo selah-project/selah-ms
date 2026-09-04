@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Tetapi Engkau, Yahweh, bersemayam selama-lamanya, dan peringatan-Mu bagi angkatan demi angkatan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "bersemayam"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "dan peringatan-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "bagi angkatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi angkatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:59.038093498Z",
+  "model": "glm-5.3"
+}

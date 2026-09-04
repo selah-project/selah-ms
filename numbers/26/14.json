@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Inilah keluarga-keluarga orang Syimeoni: dua puluh dua ribu dan dua ratus.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "keluarga-keluarga"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "orang Syimeoni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "puluh dua"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dan dua ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:43:00.177235245Z",
+  "model": "glm-5.3"
+}

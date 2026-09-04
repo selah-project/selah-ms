@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Dan jangan sembunyikan wajah engkau daripada hamba engkau, sebab sesak bagiku; segeralah, jawablah aku.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Dan jangan"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sembunyikan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah engkau"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "daripada hamba engkau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sesak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "segeralah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:59.050214940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan Ia membimbing mereka dengan selamat sehingga mereka tidak ketakutan, tetapi laut menutupi ⟨את⟩ musuh-musuh mereka.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Dan Ia membimbing"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dengan selamat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "mereka ketakutan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "musuh-musuh mereka"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuh-musuh mereka"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "menutupi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:12.906141994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Di hadapan para penyanyi, di belakang para pemain alat muzik, di tengah-tengah anak-anak dara memainkan rebana.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para penyanyi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "para pemain alat muzik"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "anak-anak dara"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "memainkan rebana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:03.405720128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dengan segenap hati aku berseru — jawablah aku, Yahweh; tatatukanku akan kupatuhi.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tatatukanku"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "akan kupatuhi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:10.831087329Z",
+  "model": "glm-5.3"
+}

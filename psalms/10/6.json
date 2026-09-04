@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Katanya dalam hatinya, \"Aku tidak akan tergoncang, sebab keturunan demi keturunan aku tidak ⟨akan berada⟩ dalam bencana.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Katanya"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "akan tergoncang"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "keturunan demi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dalam bencana"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:17.242976584Z",
+  "model": "glm-5.3"
+}

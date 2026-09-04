@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Jika korban persembahannya nazar atau persembahan sukarela, pada hari ia membawa dekat ⟨את⟩ sembelihannya ia dimakan, dan pada esok hari baki daripadanya dimakan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazar"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "persembahan sukarela"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sembelihan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "persembahannya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ia membawa dekat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sembelihannya"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sembelihannya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "pada esok hari"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dimakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:18.770633354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Jika lapar orang yang membenci engkau, berilah dia makan roti, dan jika dahaga, berilah dia minum air.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "lapar"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "orang yang membenci engkau"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "berilah dia makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "dahaga"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "berilah dia minum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:58.119187441Z",
+  "model": "glm-5.3"
+}

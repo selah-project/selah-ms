@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "⟨את⟩ sabat-sabat-Ku kamu pelihara, dan tempat kudus-Ku kamu gentar; Aku Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabat-sabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabat-sabat-Ku"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kamu pelihara"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "dan tempat kudus-Ku"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu gentar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:30.814646903Z",
+  "model": "glm-5.3"
+}

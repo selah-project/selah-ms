@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Dengarlah kepadaku, hai yang mengetahui kebenaran, umat yang Tora-ku dalam hati mereka: jangan takutkan celaan manusia fana, dan oleh hinaan mereka jangan kamu gentar.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "hai yang mengetahui"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "yang Tora-ku"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam hati mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takut"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "celaan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "dan hinaan mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "kamu gentar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:30.581212330Z",
+  "model": "glm-5.3"
+}

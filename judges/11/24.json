@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Bukankah ⟨את⟩ yang Kemos, elohimmu, beri kau duduki — ⟨את⟩ itu engkau duduki? Dan ⟨את⟩ segala yang Yahweh, Elohim kami, halau dari depan kami — ⟨את⟩ itu kami duduki!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang Kemos beri kau duduki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "beri kau duduki"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemos"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "elohimmu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ itu",
+      "marks": "engkau duduki"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "engkau duduki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang Yahweh halau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "halau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "dari depan kami"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ itu",
+      "marks": "kami duduki"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "kami duduki"
+    }
+  ],
+  "timestamp": "2026-09-04T12:09:05.182421382Z",
+  "model": "glm-5.3"
+}

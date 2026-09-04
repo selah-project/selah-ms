@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Seperti najisnya sendiri ia binasa selama-lamanya; orang-orang yang melihatnya akan berkata, 'Di manakah dia?'",
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "seperti najisnya sendiri"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ia binasa"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "orang-orang yang melihatnya"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "akan berkata"
+    },
+    {
+      "surface": "איו",
+      "gloss": "'Di manakah dia?'"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:34.367387934Z",
+  "model": "glm-5.3"
+}

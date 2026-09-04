@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "\"Celakalah kita! Siapakah akan menyelamatkan kita dari tangan tuhan-tuhan yang perkasa ini? Inilah tuhan-tuhan yang memukul ⟨את⟩ Mitsrayim dengan segala tulah di padang gurun.\"",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Celakalah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "akan menyelamatkan kita"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "yang perkasa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "tulah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:24.109323181Z",
+  "model": "glm-5.3"
+}

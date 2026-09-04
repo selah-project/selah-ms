@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "\"Pergilah dari sini, dan berpalinglah engkau ke timur, dan bersembunyilah engkau di sungai Kerit, yang di seberang sungai Yarden.\"",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sini"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "dan berpalinglah engkau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ke timur"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "dan bersembunyilah engkau"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "di sungai"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פני",
+      "gloss": "seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    }
+  ],
+  "timestamp": "2026-09-04T12:40:45.926397440Z",
+  "model": "glm-5.3"
+}

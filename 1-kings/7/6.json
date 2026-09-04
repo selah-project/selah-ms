@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ aulan tiang-tiang itu dibuatnya: lima puluh hasta panjangnya dan tiga puluh hasta lebarnya; dan ⟨ada⟩ aulan di hadapan mereka, dan tiang-tiang dan rasuk tebal di hadapan mereka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aulan tiang-tiang"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "aulan"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tiang-tiang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "dan tiga puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "dan aulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "dan tiang-tiang"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "dan rasuk tebal"
+    },
+    {
+      "surface": "על",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:28.718850157Z",
+  "model": "glm-5.3"
+}

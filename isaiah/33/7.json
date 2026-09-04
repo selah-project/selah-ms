@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Sesungguhnya, para pahlawan ⟨mereka⟩ menjerit di luar; para utusan damai menangis pahit.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "para pahlawan mereka"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "menjerit"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "para utusan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pahit"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "menangis"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:53.639434786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan apabila seseorang memukul ⟨את⟩ mata hambanya lelaki atau ⟨את⟩ mata hambanya perempuan lalu membinasakannya, dia harus melepaskannya merdeka sebagai ganti matanya.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata hambanya lelaki"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hambanya lelaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata hambanya perempuan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "hambanya perempuan"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "lalu membinasakannya"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "merdeka"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "dia harus melepaskannya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sebagai ganti"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "matanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:18.766484818Z",
+  "model": "glm-5.3"
+}

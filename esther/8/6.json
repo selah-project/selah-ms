@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab bagaimanakah aku sanggup, dan melihat bencana yang akan menimpa ⟨את⟩ umatku? Dan bagaimanakah aku sanggup, dan melihat kebinasaan tanah kelahiranku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "bagaimanakah"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku sanggup"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bencana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "akan menimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umatku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "dan bagaimanakah"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku sanggup"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tanah kelahiranku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:36.640193193Z",
+  "model": "glm-5.3"
+}

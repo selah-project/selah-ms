@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu jatuhlah api Yahweh, dan ia menghabiskan ⟨את⟩ korban bakaran dan ⟨את⟩ kayu-kayu itu dan ⟨את⟩ batu-batu itu dan ⟨את⟩ debu itu; dan ⟨את⟩ air yang di dalam parit itu dijilatnya habis.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "dan jatuhlah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan menghabiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu-kayu itu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "batu-batu itu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "debu itu"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "debu itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "air itu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "di dalam parit itu"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "dijilatnya habis"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:41.697698585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan raja menjadikan ⟨את⟩ perak dan ⟨את⟩ emas di Yerushalaim seperti batu-batu, dan ⟨את⟩ pohon-pohon araz diberikannya seperti pokok sikomore yang di dataran rendah, dengan banyak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan menjadikan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerushalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "seperti batu-batu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pohon-pohon araz"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "pohon-pohon araz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikannya"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "seperti pokok sikomore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "di dataran rendah"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "dengan banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:10.738576383Z",
+  "model": "glm-5.3"
+}

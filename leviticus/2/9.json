@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan hakim mengangkat dari minchah itu ⟨את⟩ azkarotnya, dan membakar ⟨di⟩ atas mizbeach itu, isyeh reah nikhoach bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azkarotnya"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "azkarotnya"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dan membakar"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mizbeach itu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isyeh"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nikhoach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:19.596540281Z",
+  "model": "glm-5.3"
+}

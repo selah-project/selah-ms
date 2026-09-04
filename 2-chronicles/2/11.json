@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 2:11",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu berkata Huram: Terpujilah Yahweh, Elohim Israel, yang membuat ⟨את⟩ langit dan ⟨את⟩ bumi, yang memberi kepada Dawid raja itu seorang anak yang bijaksana, yang mengetahui kecerdikan dan kefahaman, yang akan membangun rumah bagi Yahweh dan rumah bagi kerajaannya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Terpuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yang bijaksana"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yang mengetahui"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kecerdikan"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "dan kefahaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "akan membangun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan rumah"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "bagi kerajaannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:06:04.146837205Z",
+  "model": "glm-5.3"
+}

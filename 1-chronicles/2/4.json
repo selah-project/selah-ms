@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Tamar, menantunya, melahirkan kepadanya ⟨את⟩ Peres dan ⟨את⟩ Zarach; segala anak Yehudah lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Dan Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "menantunya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peres"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Zarach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zarach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:47.769414486Z",
+  "model": "glm-5.3"
+}

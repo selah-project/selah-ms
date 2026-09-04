@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Yahweh mengetahui rancangan manusia, bahwa semuanya ⟨adalah⟩ sia-sia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rancangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨adalah⟩ sia-sia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:40.740415423Z",
+  "model": "glm-5.3"
+}

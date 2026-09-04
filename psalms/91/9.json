@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Kerana engkau, wahai Yahweh, ⟨ialah⟩ tempat perlindunganku; Elyon engkau jadikan tempat kediamanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tempat perlindunganku"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "engkau jadikan"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "tempat kediamanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.869647721Z",
+  "model": "glm-5.3"
+}

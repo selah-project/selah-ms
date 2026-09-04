@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan mereka akan membuat ⟨את⟩ efod itu: emas, biru, dan ungu, merah kirmizi, dan linen halus dipintal, kerja tenun mahir.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "dan mereka akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod itu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod itu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan ungu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "merah"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kirmizi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan linen halus"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "dipintal"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "kerja"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tenun mahir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:27.538057960Z",
+  "model": "glm-5.3"
+}

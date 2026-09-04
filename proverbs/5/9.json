@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "supaya engkau tidak memberikan kehormatanmu kepada orang lain, dan tahun-tahunmu kepada ⟨orang⟩ yang kejam,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau memberikan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kepada orang lain"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kehormatanmu"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "dan tahun-tahunmu"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "kepada yang kejam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:04.400498032Z",
+  "model": "glm-5.3"
+}

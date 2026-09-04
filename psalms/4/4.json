@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ketahuilah bahawa Yahweh telah memisahkan orang yang setia bagi diri-Nya; Yahweh mendengar apabila aku berseru kepada-Nya.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Dan ketahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "telah memisahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "orang yang setia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi diri-Nya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "apabila aku berseru"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:00.837666584Z",
+  "model": "glm-5.3"
+}

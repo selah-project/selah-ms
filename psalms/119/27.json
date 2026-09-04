@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Jalan titah-titah-Mu buatlah aku faham, maka aku akan merenungkan keajaiban-keajaiban-Mu.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Jalan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "titah-titah-Mu"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "buatlah aku faham"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "maka aku akan merenungkan"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "keajaiban-keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:54.311424965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 23:4",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lihatlah, aku telah menjatuhkan kepada kamu ⟨את⟩ bangsa-bangsa yang tinggal ini sebagai pusaka bagi suku-suku kamu, dari sungai Yarden dan segala bangsa yang aku telah memusnahkan, sampai laut yang besar, tempat terbenam matahari.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "aku telah menjatuhkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "sebagai pusaka"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "bagi suku-suku kamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yarden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "aku telah memusnahkan"
+    },
+    {
+      "surface": "והים",
+      "gloss": "dan laut"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "tempat terbenam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:33.838617605Z",
+  "model": "glm-5.3"
+}

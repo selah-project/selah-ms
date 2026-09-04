@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Demi suara pencela dan penghujat, demi muka musuh dan penuntut balas.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "demi suara"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "pencela"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "dan penghujat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "demi muka"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "dan penuntut balas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:20.888652746Z",
+  "model": "glm-5.3"
+}

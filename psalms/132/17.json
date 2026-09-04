@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Di sana Aku akan menumbuhkan tanduk bagi David; pelita telah Kususun bagi Mashiah-Ku.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Di sana"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "Aku akan menumbuhkan"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "telah Kususun"
+    },
+    {
+      "surface": "נר",
+      "gloss": "pelita"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "bagi Mashiah-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:05.028877042Z",
+  "model": "glm-5.3"
+}

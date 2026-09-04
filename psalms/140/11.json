@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 140,
+  "translation": "Biarlah Dia menggoncangkan ke atas mereka bara api; ke dalam api biarlah Dia menjatuhkan mereka; ke dalam lobang-lobang dalam — tidak sama sekali mereka akan bangun.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "menggoncangkan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ke atas mereka"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "bara api"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ke dalam api"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "menjatuhkan mereka"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "ke dalam lobang-lobang dalam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak sama sekali"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "mereka akan bangun"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:06.779413004Z",
+  "model": "glm-5.3"
+}

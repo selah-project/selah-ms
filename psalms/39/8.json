@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan sekarang, apa yang kunantikan? Adonai, harapanku, kepada-Mu ⟨adalah⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan-sekarang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "yang-kunantikan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "harapanku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨adalah⟩-dialah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:00.021850888Z",
+  "model": "glm-5.3"
+}

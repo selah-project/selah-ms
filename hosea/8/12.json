@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Beribu-ribu perkara dalam Tora-Ku telah kutulis baginya, tetapi semuanya dianggap sebagai perkara asing.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "telah kutulis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "beribu-ribu perkara"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-Ku"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "זר",
+      "gloss": "perkara asing"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "dianggap"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:16.408795732Z",
+  "model": "glm-5.3"
+}

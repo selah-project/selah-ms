@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Mataku ⟨pada⟩ orang-orang setia di bumi, untuk tinggal bersamaku; yang berjalan di jalan yang sempurna, dialah yang berkhidmat kepadaku.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "pada orang-orang setia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "untuk tinggal"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yang sempurna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "berkhidmat kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:32.208064555Z",
+  "model": "glm-5.3"
+}

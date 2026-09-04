@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ⟨את⟩ daging serta ⟨את⟩ kulitnya dibakarnya dengan api di luar kemah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kulitnya"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulitnya"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakarnya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:30.287927753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan daripada anak-anak para imam ada yang membancuh campuran bagi rempah-rempah wangi.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "dan daripada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "yang membancuh"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "campuran"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "bagi rempah-rempah wangi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.619525543Z",
+  "model": "glm-5.3"
+}

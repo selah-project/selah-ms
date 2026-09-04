@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lalu aku mengambil ⟨את⟩ tongkatku, ⟨את⟩ Noam (Kesuma), dan memotongnya untuk membatalkan ⟨את⟩ perjanjianku yang telah kuikat bersama segala bangsa-bangsa itu.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Lalu aku mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatku"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "tongkatku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noam"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "Noam (Kesuma)"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "dan memotong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "memotongnya (tongkat itu)"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "untuk membatalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjianku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "telah kuikat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa-bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T13:54:08.138201705Z",
+  "model": "glm-5.3"
+}

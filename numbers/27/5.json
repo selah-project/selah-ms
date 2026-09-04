@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Lalu Moshe membawa ⟨את⟩ perkara mereka ke hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "lalu membawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara mereka"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "perkara mereka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:03.950746629Z",
+  "model": "glm-5.3"
+}

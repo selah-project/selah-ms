@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Sepanjang hari mereka memutarbelitkan perkataan-Ku; terhadapku, segala rancangan mereka untuk kejahatan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan-Ku"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "mereka memutarbelitkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "rancangan mereka"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "untuk kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:53.825878049Z",
+  "model": "glm-5.3"
+}

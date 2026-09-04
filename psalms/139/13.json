@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Sebab Engkau telah mencipta ginjalku, menenunku dalam kandungan ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "telah mencipta"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ginjalku"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "menenunku"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "dalam kandungan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:28.354875Z",
+  "model": "glm-5.3"
+}

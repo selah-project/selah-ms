@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Ia menerkam ke kanan dan lapar, dan makan ke kiri dan tidak kenyang; setiap orang daging lengannya sendiri mereka makan.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "Ia menerkam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "dan lapar"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dan makan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "lengannya sendiri"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mereka makan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:19.875439731Z",
+  "model": "glm-5.3"
+}

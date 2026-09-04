@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Demi rumah Yahweh Elohim kami, aku akan mencari kebaikan bagimu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Demi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "aku akan mencari"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:55.733753873Z",
+  "model": "glm-5.3"
+}

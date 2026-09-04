@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka kubuka mulutku, dan Ia memberi aku memakan gulungan ini.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Maka kubuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mulutku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "dan Ia memberi aku memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan ini"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T13:29:01.523067853Z",
+  "model": "glm-5.3"
+}

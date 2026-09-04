@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Orang-orang bijaksana menyimpan pengetahuan, tetapi mulut orang bodoh ⟨adalah⟩ kebinasaan yang dekat.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "Orang-orang bijaksana"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "menyimpan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "tetapi mulut"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "yang dekat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:47.186708930Z",
+  "model": "glm-5.3"
+}

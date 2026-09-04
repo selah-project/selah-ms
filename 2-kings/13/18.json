@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu katanya: Ambillah anak-anak panah itu, lalu diambillah, dan berkatalah ia kepada raja Israel: Pukullah ke bumi! Lalu dipukulnya tiga kali, lalu berhenti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "anak-anak panah itu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lalu diambillah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הך",
+      "gloss": "pukullah"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lalu dipukulnya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu berhenti"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:37.533681366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Ingatlah akan perbuatan-perbuatan-Nya yang mengagumkan yang telah dilakukan-Nya, mukjizat-mukjizat-Nya dan hukum-hukum mulut-Nya.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "perbuatan-perbuatan-Nya yang mengagumkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dilakukan-Nya"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mukjizat-mukjizat-Nya"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "dan hukum-hukum"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mulut-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:45.993357705Z",
+  "model": "glm-5.3"
+}

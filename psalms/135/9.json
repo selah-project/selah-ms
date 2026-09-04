@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Yang menghantar tanda-tanda dan mukjizat ke tengah-tengahmu, hai Mitsrayim, ke atas Paraoh dan ke atas segala hambanya",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "menghantar"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tanda-tanda"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "dan mukjizat"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ke tengah-tengahmu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ke atas Paraoh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan ke atas segala"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hambanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:05.618779394Z",
+  "model": "glm-5.3"
+}

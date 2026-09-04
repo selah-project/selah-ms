@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Yang menghentikan peperangan sampai ke ujung bumi; mematahkan busur, memenggal tombak, kereta-kereta ⟨ia⟩ bakar dalam api.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Yang menghentikan"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "mematahkan"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "memenggal"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "kereta-kereta"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:25.712498511Z",
+  "model": "glm-5.3"
+}

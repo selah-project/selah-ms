@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Ahi bin Abdiel bin Guni, kepala rumah bapa leluhur mereka.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Abdiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Guni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bapa leluhur mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:46.898538712Z",
+  "model": "glm-5.3"
+}

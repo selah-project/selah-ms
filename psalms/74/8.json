@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Mereka berkata dalam hati mereka: 'Mari kita musnahkan mereka sekali gus'; mereka membakar semua tempat pertemuan El di bumi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam hati mereka"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "marilah kita menindas mereka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sekali gus"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "mereka membakar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tempat pertemuan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:55.705124589Z",
+  "model": "glm-5.3"
+}

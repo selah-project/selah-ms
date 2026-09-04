@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "El nekamot Yahweh, El nekamot, bersinarlah!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "pembalasan"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "bersinarlah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:07.615018044Z",
+  "model": "glm-5.3"
+}

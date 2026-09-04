@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Juga bagiku ⟨ada⟩ hati seperti kamu; aku tidak lebih rendah daripada kamu; dan ⟨את⟩ siapa tiada ⟨tahu⟩ seperti perkara ini?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "seperti kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "lebih rendah (jatuh)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daripada kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "siapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "perkara ini"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:04.025982673Z",
+  "model": "glm-5.3"
+}

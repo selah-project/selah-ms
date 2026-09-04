@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Sembunyikanlah aku dari perancangan rahsia orang-orang jahat, dari kerusuhan pekerja kesalahan.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Sembunyikanlah aku"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "dari perancangan rahsia"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "dari kerusuhan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesalahan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:16.755573746Z",
+  "model": "glm-5.3"
+}

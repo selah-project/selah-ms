@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 93,
+  "translation": "Kesaksian-kesaksian-Mu sangat terbukti benar; bagi rumah-Mu kekudusan yang berkeadaan elok, Yahweh, untuk lanjutnya hari-hari.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "kesaksian-kesaksian-Mu"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "terbukti benar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "bagi rumah-Mu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "berkeadaan elok"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kekudusan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "untuk lanjutnya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari-hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:27.279864405Z",
+  "model": "glm-5.3"
+}

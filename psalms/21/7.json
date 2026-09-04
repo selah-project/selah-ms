@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Sebab Engkau menjadikannya berkat selama-lamanya; Engkau menggembirakannya dengan sukacita di hadapan ⟨את⟩ wajah-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Engkau menjadikannya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "Engkau menggembirakannya"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "dengan sukacita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:38.893860505Z",
+  "model": "glm-5.3"
+}

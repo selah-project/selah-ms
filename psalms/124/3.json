@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "maka hidup-hidup mereka menelan kita, ketika menyala amarah mereka terhadap kita,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "maka"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup-hidup"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "mereka menelan kita"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "ketika menyala"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "amarah mereka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "terhadap kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:23.027570094Z",
+  "model": "glm-5.3"
+}

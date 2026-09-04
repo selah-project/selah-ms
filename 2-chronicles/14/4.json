@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Ia membawa pergi dari segala kota Yehuda ⟨את⟩ bukit-bukit pengorbanan dan ⟨את⟩ mezbah-mezbah dupa, maka kerajaan menjadi tenteram di hadapannya.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ia membawa pergi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mezbah-mezbah dupa"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "mezbah-mezbah dupa"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "maka menjadi tenteram"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:45.140072502Z",
+  "model": "glm-5.3"
+}

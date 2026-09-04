@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Aku telah melihat ⟨את⟩ kesibukan yang diberikan Elohim kepada anak-anak manusia untuk disibukkan dengannya.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesibukan"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "kesibukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kepada anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "untuk disibukkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:22.041811045Z",
+  "model": "glm-5.3"
+}

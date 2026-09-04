@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu jawab seorang dari sana, katanya: Dan siapakah bapa mereka? Atas sebab itu menjadi ia perumpamaan: Adakah juga Sha'ul di antara nabi-nabi?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lalu jawab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "menjadi ia"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "perumpamaan"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "adakah juga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "di antara nabi-nabi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:11.399580485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Janganlah mengutuki orang pekak, dan di hadapan orang buta jangan meletakkan batu tersandung; engkau akan takut akan Elohimmu — aku ⟨ialah⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mengutuki"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "orang pekak"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "orang buta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "meletakkan"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "batu tersandung"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "engkau akan takut"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "akan Elohimmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:31.944561010Z",
+  "model": "glm-5.3"
+}

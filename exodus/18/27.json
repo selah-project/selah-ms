@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu Moshe menghantar pergi ⟨את⟩ bapa mentuanya, dan pergilah ia ke negerinya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu menghantar pergi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapa mentuanya"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "bapa mentuanya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "negerinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:06.120022570Z",
+  "model": "glm-5.3"
+}

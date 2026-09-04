@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Mereka telah memperdalam ⟨kerusakan⟩, mereka telah merosakkan diri, seperti hari-hari Gibea; Ia akan mengingat kesalahan mereka, Ia akan melawat dosa-dosa mereka.",
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "mereka telah memperdalam"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "mereka telah merosakkan"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "seperti hari-hari"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "Ia akan mengingat"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kesalahan mereka"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "Ia akan melawat"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "dosa-dosa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:20.753462104Z",
+  "model": "glm-5.3"
+}

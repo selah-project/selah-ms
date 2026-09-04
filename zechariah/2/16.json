@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Yahweh akan mewarisi ⟨את⟩ Yehudah sebagai bahagian-Nya di atas tanah kesucian, dan akan memilih pula Yerusalem.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "dan akan mewarisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "sebagai bahagian-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "dan akan memilih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pula"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:56.456303657Z",
+  "model": "glm-5.3"
+}

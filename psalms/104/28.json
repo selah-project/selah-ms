@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Kau-beri kepada mereka, mereka memungut; Kau-buka tangan-Mu, mereka dipuaskan dengan kebaikan.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Kau-beri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "mereka memungut"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "Kau-buka"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "mereka dipuaskan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dengan kebaikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:25.530840745Z",
+  "model": "glm-5.3"
+}

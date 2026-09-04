@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Sebab kekejian bagi Yahweh Elohimmu setiap orang yang melakukan perkara-perkara ini, setiap orang yang melakukan kecurangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "orang yang melakukan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "perkara-perkara ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "orang yang melakukan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kecurangan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:43.883806609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan lagi aku melihat di bawah matahari: di tempat penghakiman, di sana ⟨adalah⟩ kefasikan; dan di tempat kebenaran, di sana ⟨adalah⟩ kefasikan.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Dan lagi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "penghakiman"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kefasikan"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "dan di tempat"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kefasikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:33.102707426Z",
+  "model": "glm-5.3"
+}

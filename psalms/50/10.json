@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Sebab milik-Ku segala binatang hutan, haiwan di atas gunung-gunung ⟨seribu⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "milik-Ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "יער",
+      "gloss": "hutan"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "haiwan ternakan"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "di atas gunung-gunung"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:35.424177834Z",
+  "model": "glm-5.3"
+}

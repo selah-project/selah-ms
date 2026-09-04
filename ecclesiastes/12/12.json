@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan lebih daripada itu semua, anakku, berjaga-jagalah ⟨terhadap⟩ membuat banyak kitab — tiada penghujungnya; dan banyak belajar, kepenatan bagi tubuh.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "dan lebih"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "daripada itu semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "berjaga-jagalah"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kitab-kitab"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "penghujung"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "dan banyak belajar"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "kepenatan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tubuh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:50.503536449Z",
+  "model": "glm-5.3"
+}

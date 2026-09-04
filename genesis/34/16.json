@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "maka kami akan memberikan ⟨את⟩ anak-anak perempuan kami kepada kamu, dan ⟨את⟩ anak-anak perempuan kamu akan kami ambil bagi kami, dan kami akan diam ⟨את⟩ dengan kamu, dan kami akan menjadi satu umat.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "maka kami akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak perempuan kami"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "anak-anak perempuan kami"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuan kamu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anak-anak perempuan kamu"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "akan kami ambil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "dan kami akan diam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ dengan kamu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dan kami akan menjadi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "satu umat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:04.980919994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "sebab jika engkau menolak melepaskan mereka, dan engkau masih menahan mereka,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "melepaskan"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "dan engkau masih"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:21.014800246Z",
+  "model": "glm-5.3"
+}

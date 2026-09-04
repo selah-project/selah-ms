@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Janganlah melakukan kecurangan dalam hukuman; jangan mengangkat muka orang miskin dan jangan memuliakan muka orang besar; dalam keadilan engkau menghakimi sesamamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dalam hukuman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "דל",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "memuliakan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "orang besar"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dalam keadilan"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "engkau menghakimi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "sesamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:31.944700984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Yang ditanam di rumah Yahweh, di halaman-halaman Elohim kami, akan terus berbunga.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "yang ditanam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di halaman-halanan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "akan terus berbunga"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.101553268Z",
+  "model": "glm-5.3"
+}

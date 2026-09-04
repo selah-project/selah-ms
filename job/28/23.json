@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Elohim memahami jalannya, dan ⟨dia⟩ mengetahui ⟨את⟩ tempatnya.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan ⟨dia⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempatnya"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "tempatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:52.168680182Z",
+  "model": "glm-5.3"
+}

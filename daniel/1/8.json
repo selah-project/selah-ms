@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 1:8",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Daniel menetapkan dalam hatinya bahawa ia tidak akan menajiskan diri dengan hidangan lazat raja dan dengan anggur minumannya; lalu ia memohon kepada penghulu orang-orang sida-sida itu supaya ia tidak menajiskan diri.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan menetapkan"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתגאל",
+      "gloss": "ia akan menajiskan diri"
+    },
+    {
+      "surface": "בפתבג",
+      "gloss": "dengan hidangan lazat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "וביין",
+      "gloss": "dan dengan anggur"
+    },
+    {
+      "surface": "משתיו",
+      "gloss": "minumannya"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "lalu ia memohon"
+    },
+    {
+      "surface": "משר",
+      "gloss": "kepada penghulu"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "orang-orang sida-sida itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתגאל",
+      "gloss": "ia menajiskan diri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:36.925395484Z",
+  "model": "glm-5.3"
+}

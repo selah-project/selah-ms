@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan mereka memikulnya di atas kuda-kuda, lalu mengebumikannya bersama bapa-bapanya dalam bandar Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Dan mereka memikulnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kuda-kuda"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lalu mengebumikan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (objek: mengebumikannya)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dalam bandar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:34.207081078Z",
+  "model": "glm-5.3"
+}

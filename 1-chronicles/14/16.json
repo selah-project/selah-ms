@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Lalu David melakukan seperti yang diperintahkan Elohim kepadanya, dan mereka memukul ⟨את⟩ tentera orang-orang Pelisyt dari Gibon sampai ke Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu melakukan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan kepadanya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tentera orang-orang Pelisyt"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang-orang Pelisyt"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "dari Gibon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-04T15:00:40.336203906Z",
+  "model": "glm-5.3"
+}

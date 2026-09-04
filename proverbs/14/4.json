@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Di tempat tiada lembu, palungan bersih, tetapi hasil yang banyak datang daripada kekuatan lembu jantan.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "di tempat tiada"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "lembu-lembu"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "palungan"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bersih"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "tetapi banyak"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "daripada kekuatan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu jantan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:32.024225627Z",
+  "model": "glm-5.3"
+}

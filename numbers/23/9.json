@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Sebab dari puncak batu-batu karang aku melihatnya, dan dari bukit-bukit aku memandangnya; lihat, kaum yang diam berasingan, dan di antara bangsa-bangsa tidak ia dihitung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "dari puncak"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu-batu karang"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "aku melihatnya"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "dan dari bukit-bukit"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "aku memandangnya"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "berasingan"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "diam"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "dan di antara bangsa-bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "ia dihitung"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:48.043262223Z",
+  "model": "glm-5.3"
+}

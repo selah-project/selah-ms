@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Avraham sujud di hadapan umat negeri itu.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "lalu sujud"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:43.634119157Z",
+  "model": "glm-5.3"
+}

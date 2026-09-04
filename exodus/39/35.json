@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "⟨את⟩ tabut perih kesaksian dan ⟨את⟩ kayu palangnya dan ⟨את⟩ tudung pendamaian,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut perih kesaksian"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "perih kesaksian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu palangnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "kayu palangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tudung pendamaian"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tudung pendamaian"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:05.773818105Z",
+  "model": "glm-5.3"
+}

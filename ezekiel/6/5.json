@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Aku akan meletakkan ⟨את⟩ bangkai anak-anak Yisrael di hadapan patung-patung pengorbanan mereka, dan Aku akan menaburkan ⟨את⟩ tulang-tulang kamu sekeliling mezbah-mezbah kamu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkai anak-anak Yisrael"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "patung-patung pengorbanan mereka"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dan Aku akan menaburkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulang-tulang kamu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "tulang-tulang kamu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "mezbah-mezbah kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:28:22.610623866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Engkau kasihkan segala perkataan yang menelan, wahai lidah yang penuh tipu daya.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "engkau kasihkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yang menelan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penuh tipu daya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:02.457823538Z",
+  "model": "glm-5.3"
+}

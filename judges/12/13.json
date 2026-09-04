@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan selepasnya menghakimi ⟨את⟩ Yisrael: Abdon bin Hilel ha-Piraton itu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "dan menghakimi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "selepasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hilel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ha-Piraton itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:53.728050569Z",
+  "model": "glm-5.3"
+}

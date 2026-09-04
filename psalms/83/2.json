@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Elohim, janganlah senyap bagi-Mu; janganlah berdiam, dan janganlah bertenang, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "senyap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "berdiam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "bertenang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:56.080427447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Engkau menguranginya sedikit daripada Elohim, dengan kemuliaan dan kehormatan Engkau bermahkotakan dia.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Dan Engkau menguranginya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "daripada Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "dengan kemuliaan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "dan kehormatan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "Engkau bermahkotakan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:44.617686053Z",
+  "model": "glm-5.3"
+}

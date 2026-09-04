@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Elohim memberkati ⟨את⟩ mereka, dan Elohim berkata kepada mereka: \"Berbuahlah dan bertambahlah, dan penuhilah ⟨את⟩ bumi dan tundukkanlah dia, dan berkuasalah atas ikan laut dan atas unggas langit dan atas segala makhluk hidup yang merayap di atas bumi.\"",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Lalu memberkati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Berbuahlah"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan bertambahlah"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "dan penuhilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "dan tundukkanlah dia"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "dan berkuasalah"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "atas ikan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "dan atas unggas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan atas segala"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "makhluk hidup"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:06.240323409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Mengapakah, Yahweh, engkau berdiri jauh, menyembunyikan diri pada waktu-waktu kesempitan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "engkau berdiri"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "menyembunyikan diri"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pada waktu-waktu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kesempitan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:28.806532949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Masa untuk mengasihi, dan masa untuk membenci; masa untuk peperangan, dan masa untuk syalom.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "untuk mengasihi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "untuk membenci"
+    },
+    {
+      "surface": "עת",
+      "gloss": "masa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "untuk peperangan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan masa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "untuk syalom"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:10.454533507Z",
+  "model": "glm-5.3"
+}

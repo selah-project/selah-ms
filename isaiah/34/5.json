@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Sebab pedang-Ku telah mengenyang di langit; lihatlah, ia akan turun ke atas Edom, dan ke atas umat yang Kuharamkan, untuk penghakiman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "telah mengenyang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "pedang-Ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ia akan turun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan ke atas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "yang Kuharamkan"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "untuk penghakiman"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:16.612556749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "⟨את⟩ perkataan yang Kuikat bersama ⟨את⟩ kamu ketika kamu keluar dari Mitsrayim, dan Roh-Ku berdiri di tengah-tengah kamu; jangan takut.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "Kuikat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "bersama ⟨את⟩ kamu"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ketika kamu keluar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "dan Roh-Ku"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "di tengah-tengah kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "takut"
+    }
+  ],
+  "timestamp": "2026-09-04T13:51:31.635444300Z",
+  "model": "glm-5.3"
+}

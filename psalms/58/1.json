@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Kepada pemimpin muzik. Al-Tasyhet (Jangan dibinasakan). Bagi David. Mikhtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin muzik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "dibinasakan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Bagi David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:03.967683505Z",
+  "model": "glm-5.3"
+}

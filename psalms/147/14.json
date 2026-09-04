@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yang menetapkan sempadanmu damai; dengan lemak gandum Dia mengenyangkan engkau.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Yang menetapkan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sempadanmu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "mengenyangkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:29.539250863Z",
+  "model": "glm-5.3"
+}

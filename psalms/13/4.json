@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Pandanglah, jawablah aku, Yahweh Elohimku; berilah terang mataku, supaya jangan aku tidur tidur ⟨milik⟩ maut itu.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "berilah terang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "aku tidur"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maut itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:24.671345317Z",
+  "model": "glm-5.3"
+}

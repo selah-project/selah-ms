@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan mereka tidak mendengar Aku, dan tidak menyaringkan telinga mereka, dan mereka mengeraskan tengkuk mereka; mereka berbuat jahat melebihi bapa-bapa mereka.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "mereka menyaringkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "telinga mereka"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "telinga mereka"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "dan mereka mengeraskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tengkuk mereka"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "tengkuk mereka"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "mereka berbuat jahat"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "melebihi bapa-bapa mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:12:21.237095879Z",
+  "model": "glm-5.3"
+}

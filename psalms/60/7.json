@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Supaya kekasih-kekasih-Mu dilepaskan; selamatkanlah dengan tangan kanan-Mu, dan jawablah kami.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "dilepaskan"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "kekasih-kekasih-Mu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "selamatkanlah"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "dengan tangan kanan-Mu"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "dan jawablah kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:54.716748102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Jangan berikan kepada perempuan-perempuan kekuatanmu, dan jalan-jalanmu kepada pemusnah raja-raja.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "kepada perempuan-perempuan"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "kekuatanmu"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "dan jalan-jalanmu"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "kepada pemusnah"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "raja-raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:57.109346740Z",
+  "model": "glm-5.3"
+}

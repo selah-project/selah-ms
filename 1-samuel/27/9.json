@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan David memukul ⟨את⟩ negeri itu, dan tidak dibiarkannya hidup lelaki mahupun perempuan; dan diambinya kambing biri-biri dan lembu dan keldai dan unta dan pakaian, lalu pulang dan datang kepada Akish.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negeri itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "dibiarkannya hidup"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "dan perempuan"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "dan diambinya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "dan keldai"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "dan unta"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "dan pakaian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu pulang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:49.599748033Z",
+  "model": "glm-5.3"
+}

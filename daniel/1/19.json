@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan raja bercakap dengan ⟨את⟩ mereka, dan tidak didapati antara mereka semua seorang pun seperti Daniel, Hananya, Misael, dan Azarya, maka mereka berdiri di hadapan raja.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan bercakap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "antara mereka semua"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "seperti Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Misael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "dan Azarya"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "maka mereka berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:50.998835201Z",
+  "model": "glm-5.3"
+}

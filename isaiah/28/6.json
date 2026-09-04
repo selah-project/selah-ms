@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "dan roh penghakiman bagi dia yang duduk menghakimi, dan kegagahan bagi mereka yang mengundurkan pertempuran sampai ke pintu gerbang.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "dan roh bagi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "penghakiman"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "bagi dia yang duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "penghakiman itu"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "dan kegagahan bagi"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "mereka yang mengundurkan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "pertempuran"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "sampai ke pintu gerbang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:12.547456793Z",
+  "model": "glm-5.3"
+}

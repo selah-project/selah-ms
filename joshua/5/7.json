@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan ⟨את⟩ anak-anak mereka, dibangkitkan-Nya menggantikan mereka; merekalah yang disunat oleh Yehosua, sebab mereka belum bersunat, kerana tidak disunat mereka di jalan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak mereka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "dibangkitkan-Nya"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "menggantikan mereka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (objek 'disunat')"
+    },
+    {
+      "surface": "מל",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "belum bersunat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "adalah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (objek)"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:53.962459791Z",
+  "model": "glm-5.3"
+}

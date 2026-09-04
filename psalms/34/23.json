@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Yahweh menebus nyawa hamba-hamba-Nya, dan semua yang berlindung pada-Nya tidak akan dihukum.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hamba-Nya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "akan dihukum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "yang berlindung"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pada-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:03.692089312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lihatlah Aku menggerakkan terhadap mereka ⟨את⟩ orang-orang Madai, yang tidak menghiraukan perak, dan emas tidak mereka ingini.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Lihatlah Aku"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "menggerakkan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "terhadap mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "orang-orang Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "menghiraukan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "dan emas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "mereka ingini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:56:00.384211820Z",
+  "model": "glm-5.3"
+}

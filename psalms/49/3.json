@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Juga anak-anak Adam, juga anak-anak isy, bersama-sama kaya dan miskin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam (manusia)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isy (lelaki)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan miskin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:01.391516553Z",
+  "model": "glm-5.3"
+}

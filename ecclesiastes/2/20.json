@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka aku berpaling, aku, untuk membuat putus asa ⟨את⟩ hatiku atas ⟨את⟩ segala susah payah yang aku bersusah payah di bawah matahari.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "maka aku berpaling"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "untuk membuat putus asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatiku"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "susah payah"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "yang aku bersusah payah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:52.096240680Z",
+  "model": "glm-5.3"
+}

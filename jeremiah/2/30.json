@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sia-sia Aku memukul ⟨את⟩ anak-anak kamu; pengajaran tidak mereka terima; pedang kamu telah memakan nabi-nabi kamu, seperti singa pemusnah.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Sia-sia"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "Aku memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak kamu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anak kamu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pengajaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mereka terima"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "telah memakan"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "pedang kamu"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "nabi-nabi kamu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "seperti singa"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "pemusnah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:55.668596646Z",
+  "model": "glm-5.3"
+}

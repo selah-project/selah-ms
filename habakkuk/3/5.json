@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Di hadapan-Nya berjalan wabak, dan keluarlah bara api di kaki-Nya.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Di hadapan-Nya"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wabak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluarlah"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "bara api"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "di kaki-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:51:21.360749282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Demi nama-Mu, wahai Yahweh, ampunkanlah kesalahanku, kerana ia besar.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "dan Engkau mengampuni"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "kesalahanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "besar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:57.268929816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Tiuplah sangkakala pada bulan ⟨baru⟩, pada keseh, bagi hari perayaan kita.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Tiuplah"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pada bulan ⟨baru⟩"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "pada keseh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bagi hari"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "perayaan kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:56.590521243Z",
+  "model": "glm-5.3"
+}

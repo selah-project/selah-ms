@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan perkataan Avner telah menjadi dengan para tua-tua Yisrael, katanya: Juga semalam, juga kelmarin kamu telah mencari ⟨את⟩ David untuk menjadi raja atas kamu.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Dan perkataan"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "semalam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "kelmarin"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu telah"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "untuk menjadi raja"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:17.240658241Z",
+  "model": "glm-5.3"
+}

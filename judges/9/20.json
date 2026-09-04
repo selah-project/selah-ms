@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "dan jika tidak, keluarlah api dari Avimelekh dan memakan ⟨את⟩ para tuan Sykhem dan ⟨את⟩ rumah Milo; dan keluarlah api dari para tuan Sykhem dan dari rumah Milo, dan memakan ⟨את⟩ Avimelekh.\"",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "dari Avimelekh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para tuan Sykhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "para tuan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sykhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rumah Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "dan keluarlah"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "dari para tuan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sykhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "dan dari rumah"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:46.031403840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Betapa besarnya perbuatan-Mu, Yahweh; sangat dalamnya rancangan-rancangan-Mu!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "besarnya"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "dalamnya"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "rancangan-rancangan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:05.773895968Z",
+  "model": "glm-5.3"
+}

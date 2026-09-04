@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Dan mereka berkurang dan tunduk-lumpuh, kerana tekanan, kejahatan, dan dukacita.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "dan mereka berkurang"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "dan tunduk-lumpuh"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "tekanan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "dan dukacita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:29.584970323Z",
+  "model": "glm-5.3"
+}

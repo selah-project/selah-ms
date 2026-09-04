@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dosaku kumaklumkan kepada-Mu, dan kesalahanku tidak kututupi; aku berkata: \"Aku akan mengaku atas pemberontakanku kepada Yahweh\", dan Engkaulah yang mengangkat kesalahan dosaku. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "kumaklumkan kepada-Mu"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "dan kesalahanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "kututupi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aku akan mengaku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pemberontakanku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan Engkaulah"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:48.563736058Z",
+  "model": "glm-5.3"
+}

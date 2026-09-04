@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan kamu akan memelihara ⟨את⟩ perkara ini sebagai ketetapan bagi kamu dan bagi anak-anak lelakimu sampai selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dan kamu akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara itu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sebagai ketetapan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "dan bagi anak-anak lelakimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:33.528425824Z",
+  "model": "glm-5.3"
+}

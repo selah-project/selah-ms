@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Pada hari ini kamu keluar, dalam bulan Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Pada hari ini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dalam bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:07.907667716Z",
+  "model": "glm-5.3"
+}

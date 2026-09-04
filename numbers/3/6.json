@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dekatkanlah suku Levi, dan suruhlah mereka berdiri di hadapan Aharon sang imam, supaya mereka melayani dia.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Dekatkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "dan suruhlah berdiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-dia",
+      "marks": "mereka (suku Levi)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "dan mereka melayani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-dia",
+      "marks": "dia (Aharon)"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:00.784701885Z",
+  "model": "glm-5.3"
+}

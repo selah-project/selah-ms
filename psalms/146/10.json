@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 146,
+  "translation": "Yahweh beraja sampai ke selama-lamanya, Elohim-mu, wahai Tsiyon, sampai ke keturunan dan keturunan — pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "beraja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai ke selama-lamanya"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "wahai Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sampai ke keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan keturunan"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.372375681Z",
+  "model": "glm-5.3"
+}

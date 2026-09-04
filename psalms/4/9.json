@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dalam syalom, serentak aku berbaring dan tidur; sebab Engkaulah, Yahweh, sendirian, dalam kepercayaan, yang membuatku diam.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Dalam syalom"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "serentak"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "aku berbaring"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "dan tidur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "sendirian"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "dalam kepercayaan"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "yang membuatku diam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:14.898827651Z",
+  "model": "glm-5.3"
+}

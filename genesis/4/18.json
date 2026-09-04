@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan lahirlah kepada Hanokh ⟨את⟩ Irad, dan Irad memperanakkan ⟨את⟩ Mehuyael, dan Mehuyael memperanakkan ⟨את⟩ Metusyael, dan Metusyael memperanakkan ⟨את⟩ Lemekh.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dan lahirlah"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "kepada Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "dan Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehuyael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mehuyael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "dan Mehuyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metusyael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metusyael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "dan Metusyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:22.971354872Z",
+  "model": "glm-5.3"
+}

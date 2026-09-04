@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lalu orang-orang bersenjata meninggalkan ⟨את⟩ orang-orang tawanan dan ⟨את⟩ barang rampasan di hadapan para pembesar dan seluruh jemaah.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Lalu meninggalkan"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "orang-orang bersenjata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang tawanan"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "orang-orang tawanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "barang rampasan"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "barang rampasan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:20.263395090Z",
+  "model": "glm-5.3"
+}

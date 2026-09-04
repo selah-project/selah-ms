@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "dan ⟨את⟩ kedua-dua buah pinggang, dan ⟨את⟩ lemak yang di atasnya, yang di atas pinggang sulbi, dan ⟨את⟩ lobus di atas hati — di atas buah pinggang ia menyingkirkannya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kedua-dua buah pinggang"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pinggang sulbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lobus"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lobus"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hati"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buah pinggang"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ia menyingkirkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:21.228597015Z",
+  "model": "glm-5.3"
+}

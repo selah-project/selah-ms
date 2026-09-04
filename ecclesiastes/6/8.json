@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sebab apakah lebihnya orang bijaksana daripada orang bodoh? Apakah bagi orang miskin yang tahu berjalan di hadapan yang hidup?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "lebihnya"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "orang bijaksana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "bagi orang miskin"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yang tahu"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:43.331372589Z",
+  "model": "glm-5.3"
+}

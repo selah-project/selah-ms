@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Sebab Israel ⟨ialah⟩ anak kecil, dan Aku mengasihi dia, dan dari Mitsrayim Aku memanggil anak-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "נער",
+      "gloss": "anak kecil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "dan Aku mengasihi dia"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "dan dari Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Aku memanggil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "anak-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:35.795985667Z",
+  "model": "glm-5.3"
+}

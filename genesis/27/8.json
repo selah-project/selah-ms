@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Maka sekarang, anakku, dengarlah suaraku, tentang apa yang aku perintahkan kepadamu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Maka sekarang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "suaraku"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tentang apa yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "perintahkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:51.850041746Z",
+  "model": "glm-5.3"
+}

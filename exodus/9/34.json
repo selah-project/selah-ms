@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 9:34",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan apabila Paroh melihat bahawa hujan itu, dan ribut batu itu, dan guruh-guruh itu telah berhenti, ia terus berdosa lagi, dan diberatkannya hatinya, dia dan hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dan apabila ... melihat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "telah berhenti"
+    },
+    {
+      "surface": "המטר",
+      "gloss": "hujan itu"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "dan ribut batu itu"
+    },
+    {
+      "surface": "והקלת",
+      "gloss": "dan guruh-guruh itu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ia terus ... lagi"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "berdosa"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "dan diberatkannya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "dan hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:57.469779793Z",
+  "model": "glm-5.3"
+}

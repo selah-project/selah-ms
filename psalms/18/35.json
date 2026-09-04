@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Yang melatih tanganku untuk peperangan, dan lengan kiriku menurunkan senar kemasakan gangsa.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Yang melatih"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk peperangan"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "dan menurunkan senar"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kemasakan"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "gangsa"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "lengan kiriku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:03.122240973Z",
+  "model": "glm-5.3"
+}

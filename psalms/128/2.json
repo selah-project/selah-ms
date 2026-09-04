@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 128,
+  "translation": "Usaha tanganmu, engkau akan memakannya; bahagialah engkau, dan baik keadaanmu.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "usaha"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨bahawa⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau akan memakannya"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "bahagialah engkau"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "dan baik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "keadaanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:29.198896475Z",
+  "model": "glm-5.3"
+}

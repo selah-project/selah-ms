@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Tetapi aku miskin dan papa; Adonai memikirkan aku. Penolongku dan pembebasku ⟨ialah⟩ Engkau, Elohimku — jangan bertunda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan papa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "memikirkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "penolongku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "dan pembebasku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "bertunda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:29.644237262Z",
+  "model": "glm-5.3"
+}

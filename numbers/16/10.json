@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan Ia telah menghampirkan engkau ⟨את⟩, dan ⟨את⟩ semua saudara-saudaramu bani Levi ⟨את⟩ bersama engkau — dan kamu mencari juga keimaman?",
+  "tokens": [
+    {
+      "surface": "ולקרב",
+      "gloss": "dan Ia menghampirkan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua saudara-saudaramu bani Levi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara-saudaramu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bersama engkau",
+      "marks": "bersama engkau"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "dan kamu mencari"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "keimaman"
+    }
+  ],
+  "timestamp": "2026-09-04T11:40:18.638145698Z",
+  "model": "glm-5.3"
+}

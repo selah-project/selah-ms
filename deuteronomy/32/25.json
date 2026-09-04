@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Di luar, pedang menggugurkan ⟨את⟩; dan di bilik-bilik dalam, kegerunan — baik teruna baik dara, anak menyusu bersama lelaki beruban.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "di luar"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "menggugurkan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "dan di bilik-bilik dalam"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kegerunan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "teruna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "baik"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "dara"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "anak menyusu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "beruban"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:40.291096704Z",
+  "model": "glm-5.3"
+}

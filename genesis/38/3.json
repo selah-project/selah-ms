@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan mengandunglah dia, dan melahirkan seorang anak lelaki, dan dipanggilnya ⟨את⟩ namanya Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "dan mengandunglah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan dipanggilnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:06.365732343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Yehosyafat membuat damai dengan raja Israel.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "dan membuat damai"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosyafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:28.107910318Z",
+  "model": "glm-5.3"
+}

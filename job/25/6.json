@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Lebih-lebih lagi manusia fana — ulat, dan anak Adam — beluncas!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "lebih-lebih lagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "dan anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "beluncas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:35.702776149Z",
+  "model": "glm-5.3"
+}

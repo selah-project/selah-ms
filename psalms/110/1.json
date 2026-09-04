@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 110,
+  "translation": "Mizmor bagi Dawid: pernyataan Yahweh kepada tuanku: \"Duduklah di sebelah kanan-Ku, sampai Aku meletakkan musuh-mu ⟨sebagai⟩ alas kaki bagi kakimu.\"",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pernyataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kepada tuanku"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Duduklah"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "di sebelah kanan-Ku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Aku meletakkan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-mu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "alas kaki"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "bagi kakimu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:18.161776014Z",
+  "model": "glm-5.3"
+}

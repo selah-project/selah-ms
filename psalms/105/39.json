@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Ia menghamparkan awan sebagai tudung, dan api untuk menerangi malam.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "Ia menghamparkan"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "sebagai tudung"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "dan api"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "untuk menerangi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:41.953822278Z",
+  "model": "glm-5.3"
+}

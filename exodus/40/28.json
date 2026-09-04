@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan diletakkannya ⟨את⟩ kelambu pintu bagi kemah sulit itu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambu pintu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "bagi kemah sulit itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:41.437166672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan engkau membawa ⟨את⟩ persembahan itu yang dibuat daripada ini kepada Yahweh, dan dibawakan kepada imam, dan didekatkan kepada mazbah.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "dan engkau membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "daripada ini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "dan dibawakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "dan didekatkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:01.953176151Z",
+  "model": "glm-5.3"
+}

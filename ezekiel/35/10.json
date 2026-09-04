@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Oleh sebab engkau berkata: Dua bangsa itu dan dua negeri itu akan menjadi kepunyaanku, dan kita akan mendudukinya — padahal Yahweh ada di sana.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "engkau berkata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua bangsa itu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dua negeri itu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "negeri-negeri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "dan kita akan mendudukinya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ada"
+    }
+  ],
+  "timestamp": "2026-09-04T13:38:45.606309449Z",
+  "model": "glm-5.3"
+}

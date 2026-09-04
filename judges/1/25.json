@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ia menunjukkan kepada mereka ⟨את⟩ jalan masuk kota itu, dan mereka memukul ⟨את⟩ kota itu menurut mulut pedang, dan ⟨את⟩ lelaki itu serta ⟨את⟩ segala keluarganya mereka lepaskan.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "dan ia menunjukkan mereka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan masuk"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "jalan masuk"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mulut"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lelaki itu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala keluarganya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "keluarganya"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mereka lepaskan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:14.505803169Z",
+  "model": "glm-5.3"
+}

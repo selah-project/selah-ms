@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Dan biarlah mereka kembali pada waktu senja, mengaum seperti anjing, dan mengelilingi kota.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "dan biarlah mereka kembali"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "mengaum"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "seperti anjing"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "dan mengelilingi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:38.886468487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Ia mengingat sampai selamanya perjanjian-Nya, firman yang diperintahkan-Nya kepada seribu angkatan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ia mengingat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjian-Nya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yang diperintahkan-Nya"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "kepada seribu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:45.993900906Z",
+  "model": "glm-5.3"
+}

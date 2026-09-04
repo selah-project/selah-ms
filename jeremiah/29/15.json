@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Sebab kamu telah berkata: 'Yahweh telah membangkitkan bagi kami nabi-nabi di Babel.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kamu telah berkata"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "telah membangkitkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nabi-nabi"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "di Babel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:19:49.485579967Z",
+  "model": "glm-5.3"
+}

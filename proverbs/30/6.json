@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Jangan menambah ⟨pada⟩ perkataan-Nya, supaya Dia tidak menghukum engkau, dan engkau didapati pendusta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "menambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pada⟩"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkataan-Nya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ... tidak"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "Dia menghukum"
+    },
+    {
+      "surface": "בך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "dan engkau didapati pendusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:10.573126106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Aku juga berkata: Tidak Aku halau ⟨את⟩ mereka dari depan kamu; maka mereka akan menjadi bagimu duri, dan tuhan mereka akan menjadi bagimu jerat.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "Aku halau"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari depan kamu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan mereka akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "duri (di sisi)"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "dan tuhan mereka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jerat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:29.778009982Z",
+  "model": "glm-5.3"
+}

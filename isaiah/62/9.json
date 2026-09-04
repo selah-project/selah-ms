@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Sebab yang mengumpulkannya akan memakannya, dan memuji ⟨את⟩ Yahweh; dan yang menghimpunkannya akan meminumnya di halaman-halaman kudus-Ku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "yang mengumpulkannya"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "akan memakannya"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "dan memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "dan yang menghimpunkannya"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "akan meminumnya"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "di halaman-halaman"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kudus-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:58.762377215Z",
+  "model": "glm-5.3"
+}

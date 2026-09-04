@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Aku akan berkata kepada Eloah: Jangan menghukumku; beritahulah aku atas apa engkau berbantah dengan aku.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aku akan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "menghukumku"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "beritahulah aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "engkau berbantah dengan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:03.689468883Z",
+  "model": "glm-5.3"
+}

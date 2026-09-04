@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Lalu katanya kepada Avraham: \"Halau hamba perempuan ini dan ⟨את⟩ anaknya, kerana anak hamba perempuan ini tidak akan mewarisi bersama anakku, bersama Yitshak.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kepada Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "halau"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hamba perempuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anaknya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hamba perempuan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:43.356478690Z",
+  "model": "glm-5.3"
+}

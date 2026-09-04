@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Orang yang ramai kawannya ⟨menukan keruntuhan⟩, tetapi ada pengasihi yang melekat lebih daripada saudara.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "yang ramai kawannya"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "⟨menukan keruntuhan⟩"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "tetapi ada"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "pengasihi"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yang melekat"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "lebih daripada saudara"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:32.790045458Z",
+  "model": "glm-5.3"
+}

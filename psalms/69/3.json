@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Aku tenggelam dalam lumpur yang dalam, dan tiada tempat berpijak; aku masuk ke kedalaman air, dan arus telah menenggelamkan aku.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Aku tenggelam"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "dalam lumpur"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "yang dalam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "tempat berpijak"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku masuk"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ke kedalaman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "dan arus"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "telah menenggelamkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:03.809769234Z",
+  "model": "glm-5.3"
+}

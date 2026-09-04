@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lelaki bijak berhukum dengan ⟨את⟩ lelaki bodoh; ia murka dan ia ketawa, dan tiada ketenangan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "berhukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelaki bodoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "bodoh"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "dan murka"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "dan ketawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ketenangan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:52.383764790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dari ⟨את⟩ sulung bani Yisrael diambillah ⟨את⟩ perak itu — lima dan enam puluh dan tiga ratus dan seribu, mengikut syikal ⟨yang⟩ kudus.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "dari ⟨את⟩",
+      "marks": "sulung bani Yisrael"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "sulung"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "diambillah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perak itu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak itu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "enam puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "mengikut syikal"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:51.795615266Z",
+  "model": "glm-5.3"
+}

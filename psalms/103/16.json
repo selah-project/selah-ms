@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Sebab angin melintasinya dan ia sudah tiada, dan tempatnya tidak mengenalinya lagi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "melintasi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "dan ia sudah tiada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mengenalinya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tempatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.163172299Z",
+  "model": "glm-5.3"
+}

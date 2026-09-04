@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Jika aku dibenarkan, mulutku sendiri menghukum aku; aku tak bercela — namun Dia menganggap aku bengkok.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "aku dibenarkan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "menghukum aku"
+    },
+    {
+      "surface": "תם",
+      "gloss": "tak bercela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "menganggap aku bengkok"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:00.261826080Z",
+  "model": "glm-5.3"
+}

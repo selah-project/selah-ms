@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan manusia tunduk, dan lelaki merendah — dan jangan engkau mengampuni mereka.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "dan tunduk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "dan merendah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "engkau mengampuni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:29.865197135Z",
+  "model": "glm-5.3"
+}

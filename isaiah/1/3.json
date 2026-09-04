@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lembu mengenal pemiliknya, dan kandang bekal bagi tuannya; Israel tidak mengenal, umat-Ku tidak memahami.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Lembu"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "pemiliknya"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "dan keldai"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "kandang bekal"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "bagi tuannya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "memahami"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:20.907671347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Maka kedua-duanya telanjang, ⟨iaitu⟩ ha-adam dan isterinya, dan mereka tidak berasa malu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Maka mereka menjadi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-duanya"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "telanjang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ha-adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "dan isterinya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "berasa malu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:23.150209389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan mereka memberkati ⟨את⟩ Rivkah dan berkata kepadanya: Kami adik kami ⟨engkau⟩; jadilah engkau kepada beribu-ribu ribu, dan biar keturunanmu menduduki ⟨את⟩ gerbang orang-orang yang membencinya.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "Dan mereka memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "adik kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "היי",
+      "gloss": "jadilah engkau"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "kepada beribu-ribu"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "dan biar menduduki"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "keturunanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerbang"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "orang-orang yang membencinya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:50.633118433Z",
+  "model": "glm-5.3"
+}

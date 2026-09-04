@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Sebab sebelum menuai, apabila bunga sudah selesai dan kuntum itu menjadi buah masam, dipotonglah sulur-sulur dengan pisau pemangkas, dan ⟨את⟩ dahan-dahan yang menjulur disingkirkan, dipangkas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "menuai"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "apabila selesai"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "dan buah masam"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "menjadikan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "kuntum"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "dan dipotong"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "sulur-sulur"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "dengan pisau pemangkas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dahan-dahan yang menjulur"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "dahan-dahan yang menjulur"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "disingkirkan"
+    },
+    {
+      "surface": "התז",
+      "gloss": "dipangkas"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:42.680734539Z",
+  "model": "glm-5.3"
+}

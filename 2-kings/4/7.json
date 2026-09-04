@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu datanglah dia dan memberitahu orang Elohim itu; katanya, 'Pergilah, juallah minyak itu dan bayarlah hutang-hutangmu ⟨את⟩; dan engkau serta anak-anak lelakimu boleh hidup daripada baki itu.'",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "lalu datanglah dia"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "dan memberitahu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "juallah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyak itu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "dan bayarlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hutang-hutangmu"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "hutang-hutangmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "anak-anak lelakimu"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "boleh hidup"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "daripada baki itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:27.408701337Z",
+  "model": "glm-5.3"
+}

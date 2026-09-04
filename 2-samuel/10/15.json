@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Apabila Aram melihat bahawa mereka telah dipatahkan di hadapan Israel, mereka berkumpul bersama.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "dipatahkan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan mereka berkumpul"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:23.838285473Z",
+  "model": "glm-5.3"
+}

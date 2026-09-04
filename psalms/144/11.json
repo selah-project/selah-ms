@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 144,
+  "translation": "Bebaskanlah aku dan selamatkanlah aku dari tangan anak-anak asing, yang mulut mereka berbicara sia-sia dan tangan kanan mereka tangan kanan dusta.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Bebaskanlah aku"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "dan selamatkanlah aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "dan tangan kanan mereka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:11.129533918Z",
+  "model": "glm-5.3"
+}

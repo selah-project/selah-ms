@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Khemah-khemah Edom dan orang-orang Yishmael, Moab dan orang-orang Hagri,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Khemah-khemah"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "dan orang-orang Yishmael"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "dan orang-orang Hagri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.860552958Z",
+  "model": "glm-5.3"
+}

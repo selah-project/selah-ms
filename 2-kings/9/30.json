@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Yehu datang ke Yizreel, dan Izevel mendengarnya, lalu ia menyapu mata ⟨את⟩ matanya dengan pukul dan menghias ⟨את⟩ kepalanya, dan menjenguk dari balik jendela.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Dan datang"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ke Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "dan Izevel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mendengarnya"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "lalu ia menyapu"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "pukul (kelopak mata)"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "matanya"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "dan menghias"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepalanya"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "kepalanya"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "dan menjenguk"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "dari balik"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jendela"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:54.688508351Z",
+  "model": "glm-5.3"
+}

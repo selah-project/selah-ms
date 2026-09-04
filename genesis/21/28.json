@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan Avraham menyendirikan ⟨את⟩ tujuh anak betina kibash dari kawanan itu.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Dan menyendirikan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh anak betina kibash"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anak betina kibash"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kawanan kambing biri-biri itu"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "berasingan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:53.957275743Z",
+  "model": "glm-5.3"
+}

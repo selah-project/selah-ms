@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 19:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Jika sungguh terhadapku kamu membesarkan diri, dan menegur terhadapku celaanku —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "תגדילו",
+      "gloss": "kamu membesarkan diri"
+    },
+    {
+      "surface": "ותוכיחו",
+      "gloss": "dan menegur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "celaanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:28.045386396Z",
+  "model": "glm-5.3"
+}

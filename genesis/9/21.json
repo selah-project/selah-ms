@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu ia meminum daripada anggur itu dan ia mabuk, dan ia telanjang di tengah-tengah khemahnya.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "lalu ia meminum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "היין",
+      "gloss": "anggur itu"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "dan ia mabuk"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "dan ia telanjang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "khemahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:53.345965178Z",
+  "model": "glm-5.3"
+}

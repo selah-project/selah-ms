@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan di hadapan Debir itu dua puluh hasta panjangnya, dan dua puluh hasta lebarnya, dan dua puluh hasta tingginya; dan disalutnya dengan emas tulen, dan disalutnya mezbah itu dengan kayu araz.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir itu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "dan disalutnya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan disalutnya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "kayu araz"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:46.431711057Z",
+  "model": "glm-5.3"
+}

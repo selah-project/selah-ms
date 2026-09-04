@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Dan berkatalah Yaakov kepada Yosef: El Syadai (Tuhan Yang Maha Perkasa) menampakkan diri-Nya kepadaku di Luz, di tanah Kenaan, dan Ia memberkati ⟨את⟩ aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Syadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "menampakkan diri-Nya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "di Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan Ia memberkati"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:04.224361824Z",
+  "model": "glm-5.3"
+}

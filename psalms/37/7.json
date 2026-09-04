@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Diamlah untuk Yahweh dan bersabarlah bagi-Nya; jangan membara terhadap yang berjaya jalannya, terhadap orang yang melakukan rancangan jahat.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Diamlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "untuk Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "dan bersabarlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi-Nya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "membara"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "terhadap yang berjaya"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "terhadap orang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "rancangan jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:55.913157054Z",
+  "model": "glm-5.3"
+}

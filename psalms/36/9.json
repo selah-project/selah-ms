@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Mereka dipuaskan dari kegemukan rumah-Mu, dan dari sungai kenikmatan-Mu Engkau memberi mereka minum.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "dipuaskan"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "dari kegemukan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "dan dari sungai"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "kenikmatan-Mu"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "Engkau memberi mereka minum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:10.966978681Z",
+  "model": "glm-5.3"
+}

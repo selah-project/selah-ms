@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan anak perempuan seorang kohen, jika ia mulai berzina, ⟨את⟩ bapanya ia mencemarkan; dalam api ia dibakar.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Dan anak perempuan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "ia mulai"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "berzina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapanya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "mencemarkan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dalam api"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ia dibakar"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:47.611826953Z",
+  "model": "glm-5.3"
+}

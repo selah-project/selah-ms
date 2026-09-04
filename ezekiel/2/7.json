@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan engkau akan mengatakan ⟨את⟩ perkataanku kepada mereka, jika mereka mendengar dan jika mereka berhenti — kerana pemberontak mereka itu.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Dan engkau akan mengatakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataanku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mereka mendengar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "mereka berhenti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "pemberontak"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka itu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:27:58.546726526Z",
+  "model": "glm-5.3"
+}

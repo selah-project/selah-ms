@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Kemudian anak-anak Israel akan kembali dan mencari ⟨את⟩ Yahweh Elohim mereka dan ⟨את⟩ David raja mereka, dan mereka akan gempar kepada Yahweh dan kepada kebaikan-Nya pada akhir hari-hari.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Kemudian"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "akan kembali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "dan mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim mereka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "David raja mereka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "raja mereka"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "dan mereka akan gempar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "kebaikan-Nya"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "pada akhir"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:31.618817547Z",
+  "model": "glm-5.3"
+}

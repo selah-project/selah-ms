@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lalu Ravsyake pulang, dan mendapati ⟨את⟩ raja Asyur berperang melawan Livna, kerana telah didengarnya bahawa dia sudah berangkat dari Lakhis.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lalu pulang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav (pangkat)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "syake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "dan mendapati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "telah didengarnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "sudah berangkat"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "dari Lakhis"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:57.314952502Z",
+  "model": "glm-5.3"
+}

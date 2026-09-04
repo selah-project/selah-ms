@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "Kita menghadapkan diri di hadapan mukanya dengan kesyukuran, dengan mazmur kita memekik kepadanya.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "kita menghadapkan diri"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "di hadapan mukanya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dengan kesyukuran"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "dengan mazmur"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "kita memekik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:59.672095547Z",
+  "model": "glm-5.3"
+}

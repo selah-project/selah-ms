@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "tetapi justru untuk inilah Aku mendirikan engkau berdiri, supaya Aku memperlihatkan kepadamu ⟨את⟩ kekuatan-Ku, dan supaya nama-Ku diceritakan di seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "untuk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "Aku mendirikan engkau berdiri"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "Aku memperlihatkan kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekuatan-Ku"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatan-Ku"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dan supaya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "diceritakan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nama-Ku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:19.059507776Z",
+  "model": "glm-5.3"
+}

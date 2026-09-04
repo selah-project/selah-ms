@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Bersama-sama terhadap aku berbisik semua pembenciku; terhadap aku mereka merancangkan kejahatan untukku:",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Bersama-sama"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "berbisik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "pembenciku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "mereka merancangkan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:50.890960708Z",
+  "model": "glm-5.3"
+}

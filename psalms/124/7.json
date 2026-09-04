@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "Hidup kami seperti burung terlepas dari jerat pemasang perangkap; perangkap itu patah, dan kami terlepas.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Hidup kami"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "seperti burung"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "terlepas"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "dari jerat"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "pemasang perangkap"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "perangkap itu"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "dan kami"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "terlepas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:19.265681737Z",
+  "model": "glm-5.3"
+}

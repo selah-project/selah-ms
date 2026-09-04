@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Telah berlalu musim menuai, telah berakhir musim panas, dan kita tidak diselamatkan.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "telah berlalu"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "musim menuai"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "telah berakhir"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "musim panas"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "dan kita"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "diselamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:23.664744667Z",
+  "model": "glm-5.3"
+}

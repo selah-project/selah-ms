@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu kata mereka kepadanya, \"Sesungguhnya bersama ⟨את⟩ engkau kami akan berpulang kepada umatmu.\"",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "lalu kata mereka"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama ⟨את⟩ engkau"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "kami akan berpulang"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "kepada umatmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:22.835722118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jangan engkau melihat ⟨את⟩ keldai saudaramu atau lembunya yang tumbang di jalan, lalu bersembunyi diri daripadanya; mengangkat engkau pasti mengangkatnya bersamanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keldai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keldai"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudaramu"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "lembunya"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "yang tumbang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "lalu bersembunyi diri"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "engkau pasti mengangkatnya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:53:28.496302820Z",
+  "model": "glm-5.3"
+}

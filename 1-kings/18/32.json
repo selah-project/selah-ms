@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu dibinanyalah ⟨את⟩ batu-batu itu menjadi mazbah dalam nama Yahweh, dan dibuatnya peparit seluas muatan dua seah benih, sekeliling mazbah itu.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "lalu dibinanyalah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu itu"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu-batu itu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "peparit"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "seluas muatan"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "dua seah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mazbah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:10.393612596Z",
+  "model": "glm-5.3"
+}

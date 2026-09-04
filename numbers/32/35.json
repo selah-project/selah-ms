@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "dan ⟨את⟩ Atarot-Syofan dan ⟨את⟩ Yaezer dan Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Atarot-Syofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Syofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "Yogbeha"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:02.030406831Z",
+  "model": "glm-5.3"
+}

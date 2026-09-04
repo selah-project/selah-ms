@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 16:7",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan turun dari Yanoha ke Atrot, dan ke Naarat, dan sampai ke Yerikho, dan keluar ke sungai Yarden.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Dan turun"
+    },
+    {
+      "surface": "מינוחה",
+      "gloss": "dari Yanoha"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ke Atrot"
+    },
+    {
+      "surface": "ונערתה",
+      "gloss": "dan ke Naarat"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "dan sampai ke"
+    },
+    {
+      "surface": "ביריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluar"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ke sungai Yarden"
+    }
+  ],
+  "timestamp": "2026-09-04T12:02:24.706807987Z",
+  "model": "glm-5.3"
+}

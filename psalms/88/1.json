@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Nyanyian, mazmur bagi bani Korach, kepada pemimpin ⟨penyanyi⟩, atas Mahalat Leannot, mazmur pengajaran, bagi Heman ha-Ezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyanyian"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kepada pemimpin ⟨penyanyi⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mazmur pengajaran"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "bagi Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrahi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:19.218232254Z",
+  "model": "glm-5.3"
+}

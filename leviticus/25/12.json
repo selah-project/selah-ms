@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Kerana yovel ⟨ia⟩ — kudus ia akan menjadi bagimu; dari ladang kamu akan makan ⟨את⟩ hasilnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu akan makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnya"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hasilnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:30.868871331Z",
+  "model": "glm-5.3"
+}

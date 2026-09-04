@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan kamu meniup ⟨⟨isyarat⟩⟩ teruan, maka berangkatlah kemah-kemah yang berkhemah di sebelah timur.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "dan kamu meniup"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teruan"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "maka berangkatlah"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "kemah-kemah"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "yang berkhemah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "di sebelah timur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:28.876235435Z",
+  "model": "glm-5.3"
+}

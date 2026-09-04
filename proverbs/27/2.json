@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Biarlah orang asing memuji engkau, dan bukan mulutmu sendiri; orang luar, dan bukan bibirmu sendiri.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "biarlah memuji engkau"
+    },
+    {
+      "surface": "זר",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "orang luar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "bibirmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:18.746279949Z",
+  "model": "glm-5.3"
+}

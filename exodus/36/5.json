@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan mereka berkata kepada Moshe, kata mereka: \"Terlampau banyak ⟨yang⟩ dibawa oleh umat itu, melebihi keperluan bagi pekerjaan itu, untuk kerja yang diperintahkan Yahweh untuk dibuat.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata mereka"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "terlampau banyak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "melebihi keperluan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "bagi pekerjaan"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "untuk kerja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "untuk dibuat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kerja itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:09.808472323Z",
+  "model": "glm-5.3"
+}

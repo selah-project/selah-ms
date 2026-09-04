@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan Aku akan membuat engkau berbuah ⟨את⟩ engkau sangat-sangat, dan Aku akan menetapkan engkau menjadi bangsa-bangsa, dan raja-raja daripada engkau akan keluar.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "dan Aku akan membuat berbuah"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau",
+      "marks": "engkau"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "dengan sangat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "dan Aku akan menetapkan engkau"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "menjadi bangsa-bangsa"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "dan raja-raja"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripada engkau"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "akan keluar"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:39.748668410Z",
+  "model": "glm-5.3"
+}

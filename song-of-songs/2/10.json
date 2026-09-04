@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Kekasihku menjawab dan berkata kepadaku: Bangunlah, kasihku, cantikku, dan pergilah.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "menjawab"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "kekasihku"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bangunlah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hai engkau"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kasihku"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "cantikku"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "dan pergilah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hai engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:50.880493041Z",
+  "model": "glm-5.3"
+}

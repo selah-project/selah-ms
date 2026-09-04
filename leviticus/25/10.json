@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan kamu akan menguduskan ⟨את⟩ tahun yang kelima puluh tahun itu, dan kamu akan menyerukan doror (kebebasan) di bumi bagi semua penduduknya; yovel ⟨ia⟩ akan menjadi bagimu, dan kamu akan kembali, setiap orang kepada milik pusakanya, dan setiap orang kepada keluarganya kamu akan kembali.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "Dan kamu akan menguduskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahun yang kelima puluh tahun itu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "yang kelima puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun itu"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "dan kamu akan menyerukan"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "doror (kebebasan)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi semua"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "dan kamu akan kembali"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "milik pusakanya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan setiap orang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "keluarganya"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kamu akan kembali"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:30.868571337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Anak-anak sungai air mengalir turun dari mataku, kerana mereka tidak memelihara Tora-Mu.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Anak-anak sungai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "mengalir turun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "dari mataku"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mereka memelihara"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:46.862377050Z",
+  "model": "glm-5.3"
+}

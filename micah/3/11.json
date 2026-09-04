@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 3:11",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Para ketuanya dengan rasuah menghukum, dan para kohennya dengan upahan mengajar, dan para nabinya dengan perak meramal; dan atas Yahweh mereka bersandar, dengan berkata, Bukankah Yahweh di tengah-tengah kita? Tidak akan datang atas kita kejahatan.",
+  "tokens": [
+    {
+      "surface": "ראשיה",
+      "gloss": "para ketuanya"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "dengan rasuah"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "menghukum"
+    },
+    {
+      "surface": "וכהניה",
+      "gloss": "dan para kohennya"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "dengan upahan"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "mengajar"
+    },
+    {
+      "surface": "ונביאיה",
+      "gloss": "dan para nabinya"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan perak"
+    },
+    {
+      "surface": "יקסמו",
+      "gloss": "meramal"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mereka bersandar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "di tengah-tengah kita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "akan datang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:40.474812099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan engkau akan berkata kepada mereka: Begini kata Yahweh: Adakah orang jatuh dan tidak bangkit semula? Adakah dia berpaling dan tidak berpaling semula?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Dan engkau akan berkata"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Begini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Adakah orang jatuh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bangkit semula"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Adakah"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "dia berpaling"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "berpaling semula"
+    }
+  ],
+  "timestamp": "2026-09-04T13:13:28.670932182Z",
+  "model": "glm-5.3"
+}

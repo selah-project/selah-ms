@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Gunung Elohim, gunung Besyan; gunung puncak-puncak, gunung Besyan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Besyan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "puncak-puncak"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Besyan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:54.529016397Z",
+  "model": "glm-5.3"
+}

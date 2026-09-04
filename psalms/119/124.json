@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Bertindaklah terhadap hamba-Mu sesuai hesed-Mu, dan ajarlah aku ketetapan-ketetapan-Mu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "bertindaklah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sesuai hesed-Mu"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "dan ketetapan-ketetapan-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:20.733119131Z",
+  "model": "glm-5.3"
+}

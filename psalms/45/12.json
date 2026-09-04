@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Dan raja akan mengingini kecantikanmu, kerana dialah tuanmu, dan sujudlah kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "dan akan mengingini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "kecantikanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tuanmu"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "dan sujudlah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:49.593063338Z",
+  "model": "glm-5.3"
+}

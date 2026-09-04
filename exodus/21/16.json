@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan pencuri orang yang menjualnya, dan ia ditemui di tangannya — pasti mati, dia akan dihukum mati.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Dan pencuri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "yang menjualnya"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "dan ia ditemui"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dia akan dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:41.642714914Z",
+  "model": "glm-5.3"
+}

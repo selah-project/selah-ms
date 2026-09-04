@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Lalu dipilih-Nya Daud, hamba-Nya, dan diambil-Nya dia dari kurungan kambing biribi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "lalu dipilih-Nya"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "dan diambil-Nya dia"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "dari kurungan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biribi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:19.002529140Z",
+  "model": "glm-5.3"
+}

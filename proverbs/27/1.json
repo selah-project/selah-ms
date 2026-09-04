@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Janganlah bermegah tentang hari esok, sebab engkau tidak tahu apa yang akan dilahirkan oleh satu hari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bermegah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tentang hari"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "esok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "akan dilahirkan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "satu hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:18.746071876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu berkata raja: Mati — engkau akan mati, Ahimelekh — engkau dan seluruh rumah ayahmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "engkau akan mati"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:34.062810582Z",
+  "model": "glm-5.3"
+}

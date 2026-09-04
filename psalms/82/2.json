@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 82,
+  "translation": "Berapa lama kamu akan menghakimi dengan kecurangan, dan mengangkat muka orang-orang fasik? Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "berapa lama"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kamu akan menghakimi"
+    },
+    {
+      "surface": "עול",
+      "gloss": "dengan kecurangan"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "dan muka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "kamu mengangkat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:12.903867214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Telah diperbuatkan kenalan oleh Yahweh ⟨tentang⟩ keselamatan-Nya; di mata bangsa-bangsa telah dinyatakan-Nya kebenaran-Nya.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "telah diperbuatkan kenalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "keselamatan-Nya"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah dinyatakan"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kebenaran-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:56.741287003Z",
+  "model": "glm-5.3"
+}

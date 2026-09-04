@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu ambillah Avraham ⟨את⟩ kayu korban bakaran itu dan diletakkannya ke atas Yitshak anaknya; dan diambilnya dalam tangannya ⟨את⟩ api itu dan ⟨את⟩ pisau itu, lalu berjalanlah mereka berdua bersama-sama.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu ambillah"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu korban bakaran itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran itu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan diletakkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dan diambilnya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dalam tangannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "api itu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pisau itu"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pisau itu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lalu berjalanlah"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mereka berdua"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:44.807616486Z",
+  "model": "glm-5.3"
+}

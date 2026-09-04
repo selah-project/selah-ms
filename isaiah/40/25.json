@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan kepada siapa kamu akan menyamakan Aku, bahkan Aku disamakan? firman-Nya, Yang Kudus.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Dan kepada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "kamu akan menyamakan Aku"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "bahkan Aku disamakan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "firman-Nya"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yang Kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:11.774916121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Engkau akan tersandung di siang, dan nabi pun akan tersandung bersamamu di malam; dan Aku akan memusnahkan ibumu.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "engkau akan tersandung"
+    },
+    {
+      "surface": "היום",
+      "gloss": "di siang"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "dan akan tersandung"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "di malam"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "dan Aku akan memusnahkan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:24.817441355Z",
+  "model": "glm-5.3"
+}

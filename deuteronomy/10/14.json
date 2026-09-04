@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Sesungguhnya, bagi Yahweh, Elohimmu, ⟨adalah⟩ langit dan langit segala langit, bumi dan segala yang ada padanya.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "dan langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "segala langit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:28.412935847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Di manakah raja Hamat, dan raja Arpad, dan raja bandar Sefarwaim, Hena dan Iwah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Di manakah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "dan raja"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarwaim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "dan Iwah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:05.818620014Z",
+  "model": "glm-5.3"
+}

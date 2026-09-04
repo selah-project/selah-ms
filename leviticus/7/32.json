@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan ⟨את⟩ paha kanan itu kamu berikan sebagai sumbangan kepada imam, dari korban-korban selamatmu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "paha kanan itu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "paha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "kanan itu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kamu berikan"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "sebagai sumbangan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kepada imam"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "dari korban-korban"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "selamatmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:25.376885285Z",
+  "model": "glm-5.3"
+}

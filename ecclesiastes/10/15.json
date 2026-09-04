@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Penat lelah orang-orang bodoh meletihkan mereka, yang tidak tahu berjalan ke bandar.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Penat lelah"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "meletihkan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:23.839605321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 24:11",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan kamu melintasi ⟨את⟩ Yarden dan kamu datang ke Yerikho, dan memerangi kamu para pemilik Yerikho — ha-Emori, dan ha-Perizi, dan ha-Kenaani, dan ha-Hiti, dan ha-Girgasyi, ha-Hivi dan ha-Yevusi — dan Aku memberi ⟨את⟩ mereka ke dalam tangan kamu.",
+  "tokens": [
+    {
+      "surface": "ותעברו",
+      "gloss": "dan kamu melintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "dan kamu datang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "dan memerangi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "para pemilik"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan ha-Perizi"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "dan ha-Kenaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan ha-Hiti"
+    },
+    {
+      "surface": "והגרגשי",
+      "gloss": "dan ha-Girgasyi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ha-Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan ha-Yevusi"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "dan Aku memberi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ke dalam tangan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:14.798449051Z",
+  "model": "glm-5.3"
+}

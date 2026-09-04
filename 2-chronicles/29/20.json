@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu raja Hizkiyahu bangun pagi-pagi dan mengumpulkan ⟨את⟩ para pembesar kota itu, lalu naik ke rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangun pagi-pagi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "dan mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pembesar kota itu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lalu naik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:42.832796271Z",
+  "model": "glm-5.3"
+}

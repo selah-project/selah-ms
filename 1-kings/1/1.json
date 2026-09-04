@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Raja David pun telah tua, lanjut umur ⟨dalam hari-hari⟩, dan mereka menutupinya dengan pakaian, tetapi ia tidak mendapat kehangatan.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "telah tua"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lanjut umur"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dalam hari-hari"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "dan mereka menutupinya"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "dengan pakaian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "kehangatan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:41.671300232Z",
+  "model": "glm-5.3"
+}

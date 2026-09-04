@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka suaminya berjalan ⟨את⟩ bersamanya, berjalan sambil menangis di belakangnya sampai Bahurim; lalu Avner berkata kepadanya: Pergilah, balik. Maka ia pulang.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Maka berjalan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bersamanya"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "sambil menangis"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "di belakangnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "Bahurim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "maka ia pulang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:01.839828167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu Yonatan memukul ⟨את⟩ pos Pelisyt yang di Geva, dan Pelisyt mendengarnya; dan Syaul meniup syofar di seluruh negeri, katanya, Biarlah orang Ibrani mendengar.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lalu ia memukul"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos Pelisyt"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "di Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "dan mendengar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisyt"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "dan Syaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "meniup"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "syofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "biarlah mendengar"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "orang Ibrani"
+    }
+  ],
+  "timestamp": "2026-09-04T12:16:38.960881242Z",
+  "model": "glm-5.3"
+}

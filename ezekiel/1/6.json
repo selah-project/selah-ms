@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan empat muka bagi satu ⟨bagi setiap satu⟩, dan empat sayap bagi satu, bagi mereka.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "bagi satu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "dan empat"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "bagi satu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:27:34.111526192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Maka berlakulah, ketika Rahel melahirkan ⟨את⟩ Yosef, berkatalah Yaakov kepada Lavan: Suruhlah aku pergi, dan aku akan pergi ke tempatku dan ke negeriku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "berkatalah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Suruhlah aku pergi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dan aku akan pergi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "tempatku"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "dan ke negeriku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:08.234052653Z",
+  "model": "glm-5.3"
+}

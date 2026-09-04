@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Sebab bangsa dan kerajaan yang tidak akan berkhidmat kepadamu akan binasa, dan bangsa-bangsa itu akan dibinasakan sama sekali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "dan kerajaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "akan berkhidmat kepadamu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "dan bangsa-bangsa itu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "dibinasakan"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "akan dibinasakan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:36.554406576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan Israel melihat tangan yang besar itu ⟨את⟩ yang dilakukan Yahweh terhadap Mitsrayim, maka takutlah bangsa itu kepada Yahweh, dan mereka percaya kepada Yahweh dan kepada Moshe hamba-Nya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan yang besar"
+    },
+    {
+      "surface": "היד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "terhadap Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "maka takutlah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "dan percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "dan kepada Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:53.719260494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 6:26",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Pada waktu itu Darius raja menulis kepada segala umat, bangsa, dan bahasa yang diam di seluruh bumi: \"Kiranya sejahtera kamu berlipat ganda.\"",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "pada waktu itu"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darius"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "menulis"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segala"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "umat"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "dan bahasa"
+    },
+    {
+      "surface": "די",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דארין",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שלמכון",
+      "gloss": "sejahtera kamu"
+    },
+    {
+      "surface": "ישגא",
+      "gloss": "berlipat ganda"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:44.816651604Z",
+  "model": "glm-5.3"
+}

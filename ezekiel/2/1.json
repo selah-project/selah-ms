@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Ia berkata kepadaku: anak manusia, berdirilah atas kakimu, dan Aku akan berbicara ⟨את⟩ engkau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan Ia berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdirilah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kakimu"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "dan Aku akan berbicara"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:28:11.169419373Z",
+  "model": "glm-5.3"
+}

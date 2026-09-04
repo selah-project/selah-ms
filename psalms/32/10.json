@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Banyaklah penderitaan bagi orang fasik, tetapi orang yang percaya kepada Yahweh, hesed mengelilinginya.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "banyaklah"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bagi orang fasik"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "tetapi orang yang percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "mengelilinginya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:01.018063356Z",
+  "model": "glm-5.3"
+}

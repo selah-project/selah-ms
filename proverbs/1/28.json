@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka mereka akan memanggil aku, tetapi aku tidak akan menjawab; mereka akan mencari aku pagi-pagi, tetapi tidak akan menemui aku —",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "mereka akan memanggil aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "aku akan menjawab"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "mereka akan mencari aku pagi-pagi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "akan menemui aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:00.253720640Z",
+  "model": "glm-5.3"
+}

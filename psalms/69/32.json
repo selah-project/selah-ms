@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Dan itu akan lebih menyenangkan hati Yahweh daripada lembu jantan, anak lembu bertanduk dan berkuku belah.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "dan itu akan lebih menyenangkan hati"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "daripada Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "daripada lembu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "anak lembu jantan"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "bertanduk"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "berkuku belah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:07.291162956Z",
+  "model": "glm-5.3"
+}

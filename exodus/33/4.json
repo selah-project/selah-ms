@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Ketika bangsa itu mendengar ⟨את⟩ firman yang buruk itu, mereka berkabung, dan tiada seorang pun memakai perhiaskanannya atas dirinya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ketika mendengar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman yang buruk itu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang buruk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "mereka berkabung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "memakai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang pun"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "perhiasanannya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atas dirinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:05.383291508Z",
+  "model": "glm-5.3"
+}

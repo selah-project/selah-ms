@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kauhinakan semua yang sesat daripada ketetapan-ketetapanmu, sebab dusta tipu daya mereka.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Kauhinakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "yang sesat"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "daripada ketetapan-ketetapanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "tipu daya mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:10.779639649Z",
+  "model": "glm-5.3"
+}

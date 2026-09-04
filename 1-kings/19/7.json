@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu malaikat Yahweh kembali kali kedua, dan menyentuhnya, dan berkata, \"Bangun, makan, sebab terlalu jauh bagimu perjalanan itu.\"",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Lalu ... kembali"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kali kedua"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dan menyentuhnya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Bangun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רב",
+      "gloss": "terlalu jauh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "perjalanan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:54.371874104Z",
+  "model": "glm-5.3"
+}

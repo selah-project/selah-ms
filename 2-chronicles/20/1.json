@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Maka berlakulah selepas itu, datang bani Moav dan bani Amon, dan bersama mereka ⟨sebahagian⟩ daripada bani Amon, menentang Yehosafat untuk berperang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka berlakulah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "datang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "dan bersama mereka"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "daripada bani Amon"
+    },
+    {
+      "surface": "על",
+      "gloss": "menentang"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "untuk berperang"
+    }
+  ],
+  "timestamp": "2026-09-04T15:10:20.311853424Z",
+  "model": "glm-5.3"
+}

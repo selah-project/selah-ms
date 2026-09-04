@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan kubu yang tinggi tembokmu diburukkan, direndahkan, dijatuhkan sampai ke bumi, sehingga debu.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "Dan kubu"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "tembokmu"
+    },
+    {
+      "surface": "השח",
+      "gloss": "diburukkan"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "direndahkan"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "dijatuhkan sampai"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:35.829910426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Apabila aku mengingat-Mu di atas petidurku, pada jaga malam aku merenung tentang-Mu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "aku mengingat-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "petidurku"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "pada jaga malam"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "aku merenung"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tentang-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:21.786975410Z",
+  "model": "glm-5.3"
+}

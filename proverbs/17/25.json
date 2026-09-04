@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Kepada bapanya ⟨adalah⟩ keperitan seorang anak bebal, dan kepahitan kepada perempuan yang melahirkannya.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "keperitan"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kepada bapanya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bebal"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "dan kepahitan"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "kepada perempuan yang melahirkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:25.026870802Z",
+  "model": "glm-5.3"
+}

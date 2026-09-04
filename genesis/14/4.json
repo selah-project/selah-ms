@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dua belas tahun mereka berkhidmat kepada ⟨את⟩ Kedorlaomer, dan pada tahun ketiga belas mereka memberontak.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "berkhidmat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dan pada tahun ketiga"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "memberontak"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:38.065822558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan datanglah Avner kepada David di Hevron, dan ⟨את⟩ bersamanya dua puluh orang; dan David membuat bagi Avner dan bagi orang-orang yang ⟨את⟩ bersamanya sebuah jamuan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Dan datanglah"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "dan ⟨את⟩ bersamanya",
+      "marks": "dua puluh orang"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dua puluh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan membuat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "bagi Avner"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "dan bagi orang-orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya",
+      "marks": "orang-orang"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "sebuah jamuan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:17.241333731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu pergilah ⟨את⟩ mereka, dan sampailah mereka ke Yarden, lalu mereka menebang pokok-pokok kayu itu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan sampailah mereka"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ke Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "lalu mereka menebang"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pokok-pokok kayu itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:21.671124925Z",
+  "model": "glm-5.3"
+}

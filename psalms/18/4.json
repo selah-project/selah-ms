@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Yang Terpuji aku seru: Yahweh, dan daripada musuhku aku diselamatkan.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Yang Terpuji"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku seru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "dan daripada"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "aku diselamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:49.439077802Z",
+  "model": "glm-5.3"
+}

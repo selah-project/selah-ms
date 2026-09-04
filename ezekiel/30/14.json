@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan Aku akan memusnahkan ⟨את⟩ Patros, dan Aku akan menaruh api di Tsoan, dan Aku akan melakukan penghukuman di No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "dan Aku akan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menaruh"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "di Tsoan"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "dan Aku akan melakukan"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "penghukuman"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "di No"
+    }
+  ],
+  "timestamp": "2026-09-04T13:36:20.641937550Z",
+  "model": "glm-5.3"
+}

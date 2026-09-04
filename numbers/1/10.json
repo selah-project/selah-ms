@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Bagi bani Yosef: bagi Efrayim, Elisyma anak Amihud; bagi Menasye, Gamliel anak Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Bagi bani"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "bagi Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisyma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "bagi Menasye"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsur"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:14.899146282Z",
+  "model": "glm-5.3"
+}

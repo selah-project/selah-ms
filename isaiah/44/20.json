@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Menggembala abu, hati yang tertipu telah memesongkannya, dan ia tidak dapat menyelamatkan ⟨את⟩ nyawanya, dan tidak berkata: Bukankah palsu ⟨yang⟩ di tangan kananku?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "menggembala"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "yang tertipu"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "telah memesongkannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "dapat menyelamatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawanya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "di tangan kananku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:05:12.427416741Z",
+  "model": "glm-5.3"
+}

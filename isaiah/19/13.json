@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Telah menjadi bodoh para pembesar Tsoän, para pembesar Nof telah tertipu; mereka telah menyesatkan ⟨את⟩ Mitsrayim, sudut penjuru segala sukunya.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "telah menjadi bodoh"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoän"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "telah tertipu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "mereka telah menyesatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "sudut penjuru"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "segala sukunya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:20.001743421Z",
+  "model": "glm-5.3"
+}

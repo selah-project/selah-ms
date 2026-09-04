@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Tidak akan menimpa ⟨ke atas⟩ engkau keburukan, dan wabak tidak akan menghampiri kemahmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "akan menimpa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ke atasmu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "keburukan"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "dan wabak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "akan menghampiri"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "kemahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:33.870000030Z",
+  "model": "glm-5.3"
+}

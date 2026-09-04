@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan sepuluh keping keju ini bawalah kepada panglima seribu itu; saudara-saudaramu engkau periksa tentang keadaan mereka, dan jaminan mereka engkau ambil.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sepuluh keping keju"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "keping keju"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "bawalah"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "kepada panglima"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "seribu itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "saudara-saudaramu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saudara-saudaramu"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "engkau periksa"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tentang keadaan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jaminan mereka"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "jaminan mereka"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    }
+  ],
+  "timestamp": "2026-09-04T12:18:27.402637480Z",
+  "model": "glm-5.3"
+}

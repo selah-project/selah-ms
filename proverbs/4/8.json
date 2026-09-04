@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Agungkanlah dia, maka dia akan meninggikanmu; dia akan memuliakanmu, apabila kau peluk dia.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "agungkanlah dia"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "maka dia akan meninggikanmu"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "dia akan memuliakanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "kau peluk dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:14.708672594Z",
+  "model": "glm-5.3"
+}

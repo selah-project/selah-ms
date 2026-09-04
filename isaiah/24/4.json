@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Berdukalah dan lesulah bumi; lemah dan lesulah dunia; telah lemahlah yang tinggi daripada umat bumi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Berdukalah"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dan lesulah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dan lesulah"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "telah lemahlah"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "yang tinggi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:17.808333762Z",
+  "model": "glm-5.3"
+}

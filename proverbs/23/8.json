@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Suan yang telah engkau makan engkau akan muntahkan, dan kata-katamu yang manis akan habis sia-sia.",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "Suan"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "yang telah engkau makan"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "engkau akan muntahkan"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "dan akan habis sia-sia"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kata-katamu"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "yang manis"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:31.248811244Z",
+  "model": "glm-5.3"
+}

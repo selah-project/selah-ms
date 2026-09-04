@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Enam hari engkau makan roti tiada beragi, dan pada hari ketujuh ada perhimpunan bagi Yahweh Elohimmu; tidak engkau melakukan apa-apa pekerjaan.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "engkau makan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tiada beragi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "perhimpunan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau melakukan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "apa-apa pekerjaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:46.102323433Z",
+  "model": "glm-5.3"
+}

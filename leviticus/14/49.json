@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ia akan mengambil untuk menghapuskan dosa ⟨את⟩ rumah itu dua burung, dan kayu araz, dan benang merah tua, dan ezob.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan ia akan mengambil"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "untuk menghapuskan dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "burung"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dan kayu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "araz"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan benang merah tua"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "(serangga) kirmizi"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "dan ezob"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:24.012679520Z",
+  "model": "glm-5.3"
+}

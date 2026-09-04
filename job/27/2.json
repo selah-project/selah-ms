@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Hidup ⟨adalah⟩ El yang memalingkan keadilanku, dan Syadai yang menggetap hidupku —",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "memalingkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "keadilanku"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "dan Syadai"
+    },
+    {
+      "surface": "המר",
+      "gloss": "menggetap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hidupku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:01.994514825Z",
+  "model": "glm-5.3"
+}

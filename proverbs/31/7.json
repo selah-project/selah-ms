@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "supaya ia minum dan melupakan kemiskinannya, dan kepahitannya tidak diingatinya lagi.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "ia minum"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "dan melupakan"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "kemiskinannya"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "dan kepahitannya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "diingatinya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:41.955711324Z",
+  "model": "glm-5.3"
+}

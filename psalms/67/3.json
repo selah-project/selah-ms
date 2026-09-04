@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 67,
+  "translation": "Supaya diketahui di bumi jalan-Mu, di segala bangsa keselamatan-Mu.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Supaya diketahui"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "keselamatan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:07.688123904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Tidak mampu aku, seorang diri, memikul ⟨את⟩ segala umat ini, sebab ⟨terlalu⟩ berat baginya bagiku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mampu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "seorang diri"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "memikul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala umat ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bagiku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:39:09.201652198Z",
+  "model": "glm-5.3"
+}

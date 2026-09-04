@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu dibawa ⟨את⟩-nya orang-orang yang menemuinya sedang mengumpul kayu api itu kepada Moshe, dan kepada Aharon, dan kepada seluruh jemaah.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "lalu dibawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "orang yang mengumpul kayu api itu"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "orang-orang yang menemui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "אתו objek kedua, merujuk lelaki itu"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "sedang mengumpul"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu api"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:39:46.375041035Z",
+  "model": "glm-5.3"
+}

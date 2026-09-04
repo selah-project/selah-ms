@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Dia menghalau ⟨את⟩ manusia itu, dan menempatkan di sebelah timur taman Eden ⟨את⟩ kerubim dan ⟨את⟩ bilah pedang yang berkelip-kelip berpusing-pusing, untuk menjaga ⟨את⟩ jalan pohon kehidupan.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Lalu menghalau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia itu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia itu"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "dan menempatkan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "di sebelah timur"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubim"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bilah pedang yang berkelip-kelip"
+    },
+    {
+      "surface": "להט",
+      "gloss": "yang berkelip-kelip"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "berpusing-pusing"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "untuk menjaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pohon"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:15.092019489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Ia akan mengasihani yang lemah dan si miskin, dan nyawa-nyawa orang miskin akan diselamatkannya.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "ia akan mengasihani"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan si miskin"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "dan nyawa-nyawa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ia akan menyelamatkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:12.915354845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan apa yang dilakukan kepada kamu di padang gurun, sampai kamu datang ke tempat ini;",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "dan apa yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "kamu datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:25.230177241Z",
+  "model": "glm-5.3"
+}

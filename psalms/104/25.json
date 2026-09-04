@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Ini laut yang besar dan luas kedua-dua belah tangan; di sana ⟨ada⟩ binatang melata tanpa bilangan, makhluk hidup yang kecil bersama yang besar.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan luas"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kedua-dua belah tangan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binatang melata"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tanpa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bilangan"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "makhluk hidup"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "yang kecil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "yang besar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:25.530328696Z",
+  "model": "glm-5.3"
+}

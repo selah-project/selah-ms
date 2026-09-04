@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Kasihanilah aku, Elohim, kerana manusia fana hendak menelan aku; sepanjang hari berperang ⟨ia⟩ menindas aku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kasihanilah aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "hendak menelan aku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "menindas aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:51.617523662Z",
+  "model": "glm-5.3"
+}

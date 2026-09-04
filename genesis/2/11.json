@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Nama yang satu ⟨ialah⟩ Pisyon; dialah yang mengelilingi ⟨את⟩ seluruh bumi Havila, yang di sana ⟨ada⟩ emas.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pisyon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "yang mengelilingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh bumi Havila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:39.211517421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Lalu berkata David: Janganlah kamu berbuat begitu, saudara-saudaraku, terhadap ⟨את⟩ apa yang diberikan Yahweh kepada kita, yang telah memelihara kita dan menyerahkan ⟨את⟩ kumpulan penyerbu yang datang ke atas kita ke dalam tangan kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara-saudaraku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang diberikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "yang memelihara"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kita",
+      "marks": "kita (objek)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumpulan penyerbu"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "kumpulan penyerbu"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "yang datang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ke atas kita"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ke dalam tangan kita"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:38.277722226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Sihon raja ha-Emori, dan Og raja ha-Basyan, dan segala kerajaan Kenaan",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ha-Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "dan Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ha-Basyan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:05.619223970Z",
+  "model": "glm-5.3"
+}

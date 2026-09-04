@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Maka Yoav dan Avisyai adiknya membunuh Avner, kerana ia telah mematikan ⟨את⟩ Asael adik mereka, di Gibeon, dalam peperangan.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Maka Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "dan Avisyai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "adiknya"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "המית",
+      "gloss": "telah mematikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "adik mereka"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Gibeon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam peperangan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:21.099444786Z",
+  "model": "glm-5.3"
+}

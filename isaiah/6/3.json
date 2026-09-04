@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan yang ini berseru kepada yang itu dan berkata: Kudus, kudus, kudus Yahweh Tsebaot; kemuliaan-Nya memenuhi seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "Dan berseru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang itu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kudus"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:53.060300207Z",
+  "model": "glm-5.3"
+}

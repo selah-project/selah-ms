@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yang dibilang daripada mereka, bagi suku Menasye, dua puluh dua ribu dua ratus.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "yang dibilang daripada mereka"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bagi suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "dua ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:26.967781093Z",
+  "model": "glm-5.3"
+}

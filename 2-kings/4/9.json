@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu katanya kepada suaminya: Lihatlah kiranya, aku tahu bahwa orang Elohim yang kudus ialah dia, yang melintasi tempat kami selalu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "suaminya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah dia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yang melintasi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tempat kami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "selalu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:28.912905789Z",
+  "model": "glm-5.3"
+}

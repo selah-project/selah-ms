@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan berkatalah ia kepada nyonyanya: Alangkah baiknya jika tuan saya berada di hadapan nabi yang di Syomron, nescaya dia menyembuhkan ⟨את⟩ dia dari kustanya.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dan berkatalah ia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nyonyanya"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "alangkah baiknya jika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan saya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Syomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nescaya"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "dia menyembuhkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "dari kustanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:40.429145983Z",
+  "model": "glm-5.3"
+}

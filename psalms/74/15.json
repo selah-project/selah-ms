@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Engkaulah yang membelah mata air dan sungai; Engkaulah yang mengeringkan sungai-sungai yang kekal.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "membelah"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "dan sungai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "mengeringkan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "yang kekal"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:46.291085535Z",
+  "model": "glm-5.3"
+}

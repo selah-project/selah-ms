@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan kohen mencelupkan ⟨את⟩ jarinya ke dalam darah itu, dan memercikkan darah itu tujuh kali di hadapan Yahweh, terus ⟨את⟩ muka tabir tempat kudus itu.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "dan mencelupkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jarinya"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "jarinya"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ke dalam darah"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "dan memercikkan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muka tabir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "tabir"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:45.566861087Z",
+  "model": "glm-5.3"
+}

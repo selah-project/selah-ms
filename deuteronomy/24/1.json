@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 24:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Apabila seorang lelaki mengambil seorang perempuan dan mengahwininya, dan berlakulah dia tidak menemui kurnia di mata lelaki itu kerana didapati padanya sesuatu yang hina, maka hendaklah dia menulis baginya surat penceraian dan memberikannya ke tangannya, lalu menyuruhnya pergi dari rumahnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang perempuan"
+    },
+    {
+      "surface": "ובעלה",
+      "gloss": "dan mengahwininya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "dia menemui"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kurnia"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di mata lelaki itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "didapati"
+    },
+    {
+      "surface": "בה",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sesuatu yang hina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "maka hendaklah dia menulis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "penceraian"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "ke tangannya"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "lalu menyuruhnya pergi"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "dari rumahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:35.161825576Z",
+  "model": "glm-5.3"
+}

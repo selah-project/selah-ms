@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Moshe memekkod ⟨את⟩ mereka atas mulut Yahweh, sebagaimana diperintahkan kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Lalu memekkod"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:11.047762957Z",
+  "model": "glm-5.3"
+}

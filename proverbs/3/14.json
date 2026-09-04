@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Sebab labanya melebihi laba perniagaan perak, dan pendapatannya melebihi emas tua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "labanya"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "perniagaan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "dan emas tua"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "pendapatannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:22.525432583Z",
+  "model": "glm-5.3"
+}

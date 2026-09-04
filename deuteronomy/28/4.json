@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Diberkati buah rahimmu, dan buah tanahmu, dan buah ternakanmu, anak lembu sapimu dan anak kambing dombamu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Diberkati"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "rahimmu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "dan buah"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "dan buah"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ternakanmu"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "sapimu"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "dan anak kambing domba"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "kawanannmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:11.457739010Z",
+  "model": "glm-5.3"
+}

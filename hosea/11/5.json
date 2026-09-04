@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Tidak akan dia kembali ke tanah Mitsrayim, dan Asyur — dialah rajanya, kerana mereka enggan untuk kembali.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akan dia kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "dan Asyur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "rajanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mereka enggan"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "untuk kembali"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:00.379076408Z",
+  "model": "glm-5.3"
+}

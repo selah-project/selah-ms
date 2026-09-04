@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Kau uji hatiku, Kau periksa pada malam, Kau memperhalusi aku — tiada Kau jumpa; rancangan jahatku tiada melampaui mulutku.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Kau uji"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hati-ku"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Kau periksa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pada malam"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "Kau memperhalusi aku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "Kau jumpa"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "rancangan jahat-ku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "melampaui"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut-ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:37.260428149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Aku lesu kerana seruanku; tekakku terbakar kering; mataku habis, menanti Elohimku.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Aku lesu"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kerana seruanku"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "terbakar kering"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "tekakku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "habis"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "menanti"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:03.810004130Z",
+  "model": "glm-5.3"
+}

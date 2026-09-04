@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Dan bangsa-bangsa akan berjalan menuju terangmu, dan raja-raja menuju cahaya terbitmu.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "menuju terangmu"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "dan raja-raja"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "menuju cahaya"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "terbitmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:30.377525814Z",
+  "model": "glm-5.3"
+}

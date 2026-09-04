@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Inilah nama-nama anak Aharon, para imam yang diurap ⟨Mashiah⟩, yang tangannya telah dikuduskan untuk berkhidmat sebagai imam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "yang diurap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "telah dikuduskan"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "untuk berkhidmat sebagai imam"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:24.591119375Z",
+  "model": "glm-5.3"
+}

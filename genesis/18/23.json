@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Kemudian Avraham menghampiri dan berkata, \"Adakah Engkau benar-benar akan memusnahkan orang benar bersama orang jahat?\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "menghampiri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "האף",
+      "gloss": "adakah benar-benar"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "Engkau akan memusnahkan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:14.809403769Z",
+  "model": "glm-5.3"
+}

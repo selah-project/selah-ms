@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan David berjalan maju, semakin besar dan semakin agung, dan Yahweh Tsebaot bersama-sama dengannya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dan berjalan maju"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "semakin maju"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "dan semakin besar"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bersama-sama dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:45.050192157Z",
+  "model": "glm-5.3"
+}

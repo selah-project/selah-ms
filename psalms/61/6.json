@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Sebab Engkaulah Elohim yang mendengar nazarku; Engkau memberi warisan kepada mereka yang gentar akan nama-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "nazarku"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "Engkau memberi"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "kepada mereka yang gentar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "akan nama-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.697642919Z",
+  "model": "glm-5.3"
+}

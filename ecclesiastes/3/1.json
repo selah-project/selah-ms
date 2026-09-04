@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Bagi segala sesuatu ada waktunya, dan ada masanya bagi setiap kehendak di bawah langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "bagi segala sesuatu"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ada waktunya"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "dan ada masanya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi setiap"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kehendak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:23.543046270Z",
+  "model": "glm-5.3"
+}

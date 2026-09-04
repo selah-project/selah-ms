@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Apabila seorang menghabiskan ladang atau kebun anggur dimakan, dan melepaskan ⟨את⟩ ternakannya, lalu memakan di ladang orang lain — dari yang terbaik ladangnya dan dari yang terbaik kebun anggurnya ia membayar ganti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Apabila"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "menghabiskan dimakan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladang"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "dan melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ternakannya"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "ternakannya"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "lalu memakan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di ladang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "orang lain"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "dari yang terbaik"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ladangnya"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "dan dari yang terbaik"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "kebun anggurnya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ia membayar ganti"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:47.299665485Z",
+  "model": "glm-5.3"
+}

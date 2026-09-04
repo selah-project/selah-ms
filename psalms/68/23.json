@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Adonai berfirman: \"Dari Basyan aku akan membawa pulang, aku akan membawa pulang dari kedalaman-kedalaman laut.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "dari Basyan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "aku akan membawa pulang"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "aku akan membawa pulang"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "dari kedalaman-kedalaman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:29.694045248Z",
+  "model": "glm-5.3"
+}

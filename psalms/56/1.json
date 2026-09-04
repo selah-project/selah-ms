@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Untuk pemimpin muzik, mengenai \"merpati senyap yang jauh\", bagi David (Daud), miktam, ketika orang Pelishti (Filistin) menangkap ⟨את⟩ dia di Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin muzik"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "merpati"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "senyap"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "yang jauh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ketika menangkap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelishti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "di Gat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:51.617306997Z",
+  "model": "glm-5.3"
+}

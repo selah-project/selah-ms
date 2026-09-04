@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan ia membawa ⟨את⟩ korban salahnya kepada Yahweh, ke pintu kem pertemuan: seekor daging jantan bagi korban salah.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Dan ia membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban salahnya"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "korban salahnya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kem"
+    },
+    {
+      "surface": "מועעד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "daging jantan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "korban salah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:16.102877260Z",
+  "model": "glm-5.3"
+}

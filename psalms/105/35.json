@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dan ia memakan segala tumbuh-tumbuhan hijau di negeri mereka, dan ia memakan buah bumi mereka.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Dan ia memakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tumbuh-tumbuhan hijau"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "di negeri mereka"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dan ia memakan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "bumi mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:56.519430406Z",
+  "model": "glm-5.3"
+}

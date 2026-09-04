@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 93,
+  "translation": "Takhta-Mu tegak sejak itu, bahkan dari kekal Engkau ⟨adalah⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "tegak"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "takhta-Mu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sejak itu"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari kekal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:01.462168281Z",
+  "model": "glm-5.3"
+}

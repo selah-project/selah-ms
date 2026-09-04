@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Elohim melihat ⟨את⟩ perbuatan mereka, bahawa mereka berpaling daripada jalan mereka yang jahat; dan Elohim bertaubat mengenai kejahatan yang telah Ia firmakan untuk dilakukan kepada mereka — dan tidak dilakukan-Nya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dan melihat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perbuatan mereka"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "perbuatan mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "mereka berpaling"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "daripada jalan mereka"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dan bertaubat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengenai"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ia firmakan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk dilakukan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:13.254571755Z",
+  "model": "glm-5.3"
+}

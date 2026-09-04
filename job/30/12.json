@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Di sebelah kananku serombongan bangkit; mereka menyepak kakiku, dan mendirikan terhadapku jalan-jalan bencana mereka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Di"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sebelah kananku"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "serombongan"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mereka sepak"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "dan mereka dirikan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "jalan-jalan"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "bencana mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:45.974293946Z",
+  "model": "glm-5.3"
+}

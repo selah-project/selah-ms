@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau menyembelih ⟨את⟩ lembu itu ke hadapan Yahweh, di pintu Kemah Pertemuan.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "dan engkau menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "di pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:43.929849359Z",
+  "model": "glm-5.3"
+}

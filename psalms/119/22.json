@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Gulingkanlah dari atasku cela dan penghinaan, kerana aku telah berpegang pada peraturan-peraturan-Mu.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Gulingkanlah"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "dari atasku"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "dan penghinaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "peraturan-peraturan-Mu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "aku telah berpegang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:07.296577715Z",
+  "model": "glm-5.3"
+}

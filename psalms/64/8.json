@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 64,
+  "translation": "Lalu Elohim memanah mereka dengan anak panah — sekelip mata; luka-luka mereka pun terjadilah.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Lalu memanah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "anak panah"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "sekelip mata"
+    },
+    {
+      "surface": "היו",
+      "gloss": "terjadilah"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "luka-luka mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:19.113178706Z",
+  "model": "glm-5.3"
+}

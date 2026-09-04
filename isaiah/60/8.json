@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Siapakah ini yang seperti awan terbang, dan seperti burung dara ke tingkap mereka?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "seperti awan"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "terbang"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "dan seperti burung dara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "tingkap mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:11.473217713Z",
+  "model": "glm-5.3"
+}

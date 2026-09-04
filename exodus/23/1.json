@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan engkau membawa khabar sia-sia; jangan letakkan tanganmu bersama orang jahat untuk menjadi saksi keganasan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "engkau membawa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "khabar"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "letakkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "להית",
+      "gloss": "untuk menjadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:42.487520711Z",
+  "model": "glm-5.3"
+}

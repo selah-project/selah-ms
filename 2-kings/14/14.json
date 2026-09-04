@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan ia mengambil semua emas dan perak, dan ⟨את⟩ semua perkakas yang ditemui di rumah Yahweh dan di perbendaharaan rumah raja, serta ⟨את⟩ anak-anak tebusan, lalu pulang ke Shomron.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dan ia mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua emas dan perak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "dan perak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua perkakas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yang ditemui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dan di perbendaharaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak tebusan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "tebusan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu ia pulang"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:01.096232624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu kata mereka: Adakah hanya kepada Moshe sahaja Yahweh berfirman? Bukankah kepada kami juga Ia berfirman? Dan Yahweh mendengarnya.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lalu kata mereka"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Adakah"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "kepada Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Dan mendengar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:39:02.870603521Z",
+  "model": "glm-5.3"
+}

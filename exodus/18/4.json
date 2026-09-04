@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan nama yang satu lagi Eliezer, kerana \"Elohim ayahku dalam pertolonganku, dan Dia menyelamatkan aku daripada pedang Paroh\".",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Dan nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu lagi"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "dalam pertolonganku"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "dan Dia menyelamatkan aku"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "daripada pedang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:52:36.782792975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu bangkitlah Yaakov, lalu dinaikkannya anak-anaknya dan isteri-isterinya ke atas unta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lalu bangkitlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "lalu dinaikkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaknya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "isteri-isterinya"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isteri-isterinya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "unta"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:51.963842601Z",
+  "model": "glm-5.3"
+}

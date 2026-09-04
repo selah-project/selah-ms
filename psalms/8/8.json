@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "kambing biri-biri dan lembu sekaliannya, juga binatang-binatang di padang;",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sekalinya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "binatang-binatang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "di padang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:44.618035847Z",
+  "model": "glm-5.3"
+}

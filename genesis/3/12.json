@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan berkata ⟨lelaki⟩ itu, \"Perempuan yang Engkau berikan ⟨supaya⟩ bersamaku — dia memberiku daripada pohon itu, dan aku memakannya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Engkau berikan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bersamaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pohon itu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan aku makan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:06.476530029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu mereka mengebumikan ⟨את⟩ Avner di Hebron; dan raja itu mengangkat ⟨את⟩ suaranya dan menangis pada kubur Avner, dan seluruh rakyat itu menangis.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Lalu mereka mengebumikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hebron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "dan mengangkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaranya"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:21.099788992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu Hizkiyah memberikan ⟨את⟩ segala perak yang dijumpai di rumah Yahweh dan di perbendaharaan rumah raja.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "lalu memberikan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "yang dijumpai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "dan di perbendaharaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:16.355912892Z",
+  "model": "glm-5.3"
+}

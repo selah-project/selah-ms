@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lihatlah ⟨את⟩ pekerjaan Elohim, kerana siapa yang sanggup meluruhkan ⟨את⟩ apa yang telah dibengkokkan-Nya?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekerjaan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yang sanggup"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "meluruhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang telah dibengkokkan-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "telah dibengkokkan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:28.638690483Z",
+  "model": "glm-5.3"
+}

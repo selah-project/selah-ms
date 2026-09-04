@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Ia telah menghantar pelayan-pelayan perempuannya, ia berseru di atas tempat tertinggi ⟨di⟩ kota,",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ia telah menghantar"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "pelayan-pelayan perempuannya"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ia berseru"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "⟨di⟩ tepi"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "tempat tertinggi"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "kota"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:34.680488986Z",
+  "model": "glm-5.3"
+}

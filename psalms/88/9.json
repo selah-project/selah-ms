@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Engkau telah menjauhkan mereka yang kukenal daripadaku; Engkau telah menetapkan aku sebagai kekejian bagi mereka; terkurung, dan aku tidak dapat keluar.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "Engkau telah menjauhkan"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "mereka yang kukenal"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "Engkau telah menetapkan aku"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "sebagai kekejian"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "terkurung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "aku keluar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:38.791476307Z",
+  "model": "glm-5.3"
+}

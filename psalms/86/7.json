@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Pada hari kesesakanku aku akan berseru kepada-Mu, sebab Engkau menjawab aku.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "kesesakanku"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "aku akan berseru kepada-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Engkau menjawab aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:49.428452888Z",
+  "model": "glm-5.3"
+}

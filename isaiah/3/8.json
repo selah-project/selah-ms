@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Kerana Yerushalaim telah tergelincir, dan Yehudah telah jatuh; kerana lidah mereka dan perbuatan mereka terhadap Yahweh, untuk mencabar mata kemuliaan-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "telah tergelincir"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "dan Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "dan perbuatan mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "untuk mencabar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:38.276587650Z",
+  "model": "glm-5.3"
+}

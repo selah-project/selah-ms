@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Yang menyiram gunung-gunung dari bilik-bilik atas-Nya; dari buah perbuatan-Mu bumi dikenyangkan.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Yang menyiram"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "dari bilik-bilik atas-Nya"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "dari buah"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "dikenyangkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:19.673741486Z",
+  "model": "glm-5.3"
+}

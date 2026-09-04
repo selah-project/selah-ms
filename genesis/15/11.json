@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu turun burung-burung pemangsa itu ke atas bangkai-bangkai itu, dan dihalau ⟨את⟩ mereka oleh Avram (Avram).",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Lalu turun"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "burung pemangsa itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "bangkai-bangkai itu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan dihalau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "burung-burung pemangsa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "oleh Avram"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:09.704104107Z",
+  "model": "glm-5.3"
+}

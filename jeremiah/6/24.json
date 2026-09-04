@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kami telah mendengar ⟨את⟩ kabarnya; lemahlah tangan kami; kesusahan telah merampas kami, sakit bersalin seperti perempuan yang melahirkan.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "kami telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabarnya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kabarnya"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "lemahlah"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kami"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "telah merampas kami"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sakit bersalin"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "seperti perempuan yang melahirkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:56.907801102Z",
+  "model": "glm-5.3"
+}

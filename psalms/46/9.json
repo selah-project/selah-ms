@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Marilah, pandanglah perbuatan-perbuatan Yahweh, yang telah membuat kebinasaan di bumi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "pandanglah"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "perbuatan-perbuatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "telah membuat"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:25.712215491Z",
+  "model": "glm-5.3"
+}

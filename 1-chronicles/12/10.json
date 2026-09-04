@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Ezer ⟨yang⟩ pertama, Ovadyah ⟨yang⟩ kedua, Eliav ⟨yang⟩ ketiga.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "yang kepala (pertama)"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "yang ketiga"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:25.505609328Z",
+  "model": "glm-5.3"
+}

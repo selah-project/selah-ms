@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Syaharaim memperanakkan di padang Moab setelah ia menyuruh pergi ⟨את⟩ mereka — Husyim dan ⟨את⟩ Baara, isterinya.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Dan Syaharaim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "di padang"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ia menyuruh pergi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (Husyim dan Baara)"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Husyim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "isterinya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:49.497222470Z",
+  "model": "glm-5.3"
+}

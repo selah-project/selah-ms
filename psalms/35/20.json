@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Sebab bukan syalom yang mereka ucapkan, dan atas orang-orang yang tenang di bumi perkataan penipuan mereka rancangkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "yang mereka ucapkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "orang-orang yang tenang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "penipuan"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "mereka rancangkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:35.584933875Z",
+  "model": "glm-5.3"
+}

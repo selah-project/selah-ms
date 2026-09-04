@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jika tidak ada padamu ⟨apa-apa⟩ untuk membayar, mengapakah dia mengambil tilammu dari bawahmu?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tidak ada"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "untuk membayar"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dia mengambil"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "tilammu"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "dari bawahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:28.830104135Z",
+  "model": "glm-5.3"
+}

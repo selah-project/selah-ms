@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu berkata raja itu, \"Minggirlah, berdirilah di sini.\" Lalu minggallah ⟨ia⟩ dan berdiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "סב",
+      "gloss": "minggirlah"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "berdirilah"
+    },
+    {
+      "surface": "כה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "Lalu minggallah"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dan berdiri"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:36.083182343Z",
+  "model": "glm-5.3"
+}

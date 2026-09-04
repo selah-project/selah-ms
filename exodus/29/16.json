@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan engkau akan menyembelih ⟨את⟩ domba itu, dan engkau akan mengambil ⟨את⟩ darahnya, dan engkau akan memercik ke atas mezbah, sekeliling.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "dan engkau akan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba itu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba itu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darahnya"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "dan engkau akan memercik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:01.872967380Z",
+  "model": "glm-5.3"
+}

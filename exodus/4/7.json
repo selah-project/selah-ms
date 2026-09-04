@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu berkata ⟨dia⟩: Kembalikanlah tanganmu ke pangkuanmu. Lalu dikembalikannya tangannya ke pangkuannya, lalu dikeluarkannya dari pangkuannya, dan lihat, telah kembali seperti dagingnya sendiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "השב",
+      "gloss": "kembalikanlah"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "pangkuanmu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lalu dikembalikannya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "pangkuannya"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "lalu dikeluarkannya"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "dari pangkuannya"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "telah kembali"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "seperti dagingnya sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:47.104171341Z",
+  "model": "glm-5.3"
+}

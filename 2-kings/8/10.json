@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu berkatalah Elisa kepadanya: Pergilah, katakan: Pasti hidup engkau akan hidup; tetapi Yahweh telah menunjukkan kepadaku bahwa pasti mati dia akan mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "חיה",
+      "gloss": "pasti hidup"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "engkau akan hidup"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "tetapi telah menunjukkan kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dia akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:15.875730225Z",
+  "model": "glm-5.3"
+}

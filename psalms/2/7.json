@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Aku akan menceritakan peraturan: Yahweh berfirman kepadaku, \"Anak-Ku engkau; Aku pada hari ini melahirkan engkau.\"",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Aku akan menceritakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tentang"
+    },
+    {
+      "surface": "חק",
+      "gloss": "peraturan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Anak-Ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "melahirkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:03.272047453Z",
+  "model": "glm-5.3"
+}

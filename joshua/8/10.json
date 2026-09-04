@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu Yehosyua bangun pagi-pagi dan mengambil bilangan ⟨את⟩ bangsa itu, lalu ia naik — dia dan para tua-tua Yisrael — di hadapan bangsa itu, ke Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "lalu ia bangun pagi-pagi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dan ia mengambil bilangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lalu ia naik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "dan para tua-tua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ke Ai"
+    }
+  ],
+  "timestamp": "2026-09-04T11:59:46.158487697Z",
+  "model": "glm-5.3"
+}

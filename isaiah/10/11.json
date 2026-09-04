@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Bukankah, sebagaimana telah kulakukan kepada Syomeron dan kepada berhala-berhalanya, begitulah akan kulakukan kepada Yerusalayim dan kepada patung-patungnya?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "telah kulakukan"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kepada Syomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "dan kepada berhala-berhalanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan kulakukan"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kepada Yerusalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "dan kepada patung-patungnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:24.123707154Z",
+  "model": "glm-5.3"
+}

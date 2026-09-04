@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Lalu katanya: \"Supaya tujuh anak bebiri ⟨ini⟩ engkau ambil dari tanganku, agar menjadi bagiku saksi bahawa akulah yang menggali telaga ini.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh anak bebiri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anak bebiri"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "engkau ambil"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "dari tanganku"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "akulah yang menggali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "telaga ini"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "telaga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:00.039784968Z",
+  "model": "glm-5.3"
+}

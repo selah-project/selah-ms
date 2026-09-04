@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu ia menawan ⟨את⟩ kota-kota berkubu yang ada pada Yehuda, dan datang sampai ke Yerusalim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Lalu ia menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota-kota berkubu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ada pada Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:36.167681554Z",
+  "model": "glm-5.3"
+}

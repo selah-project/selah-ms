@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Engkau menyediakan tempat di hadapannya, dan ⟨ia⟩ mengakarkan akar-akarnya, dan memenuhi bumi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Engkau menyediakan tempat"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "di hadapannya"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "dan mengakarkan"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "akar-akarnya"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "dan memenuhi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.960434565Z",
+  "model": "glm-5.3"
+}

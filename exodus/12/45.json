@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Pendatang dan orang upahan tidak boleh makan dari padanya.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "dan orang upahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "boleh makan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dari padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:24.964219979Z",
+  "model": "glm-5.3"
+}

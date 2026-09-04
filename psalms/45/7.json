@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Takhtamu, Elohim, ⟨ialah⟩ untuk selama-lamanya dan seterusnya; tongkat keratakan ialah tongkat kerajaanmu.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "takhtamu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan seterusnya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "keratakan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "kerajaanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:06.381510425Z",
+  "model": "glm-5.3"
+}

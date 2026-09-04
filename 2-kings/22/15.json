@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berkatalah dia kepada mereka: Beginilah kata Yahweh, Elohim Israel: Katakanlah kepada lelaki yang mengutus ⟨את⟩ kamu itu kepada saya:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada lelaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mengutus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada saya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:50.883496812Z",
+  "model": "glm-5.3"
+}

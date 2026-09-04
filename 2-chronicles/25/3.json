@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan berlakulah, apabila kerajaan itu telah kukuh atasnya, bahawa ia membunuh ⟨את⟩ hamba-hambanya yang memukul ⟨את⟩ raja ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "telah kukuh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "bahawa ia membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:34.460360130Z",
+  "model": "glm-5.3"
+}

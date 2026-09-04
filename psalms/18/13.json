@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dari kecerahan di hadapan-Nya awan-awan tebal-Nya berlalu; batu es dan bara api.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Dari kecerahan"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "awan-awan tebal-Nya"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "berlalu"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "batu es"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "dan bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:14.150391517Z",
+  "model": "glm-5.3"
+}

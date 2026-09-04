@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 92,
+  "translation": "Apabila orang-orang fasik bertunas seperti rumput, dan semua pekerja kesalahan berbunga — ⟨supaya⟩ mereka dibinasakan selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "Apabila...bertunas"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rumput"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "dan berbunga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pekerja"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "⟨supaya⟩ mereka dibinasakan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "selama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:05.774243248Z",
+  "model": "glm-5.3"
+}

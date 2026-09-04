@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "Elohim, dengarlah doaku, pasanglah telinga kepada perkataan mulutku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kepada perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:43.347652164Z",
+  "model": "glm-5.3"
+}

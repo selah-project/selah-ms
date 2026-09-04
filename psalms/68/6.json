@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Bapa bagi anak-anak yatim dan hakim bagi para balu — Elohim di kediaman kudus-Nya.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Bapa"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bagi anak-anak yatim"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "dan hakim"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bagi para balu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "di kediaman"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kudus-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:32.382836575Z",
+  "model": "glm-5.3"
+}

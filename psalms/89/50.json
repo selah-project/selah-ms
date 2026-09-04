@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Di manakah hesed-Mu ⟨yang⟩ terdahulu, Adonai, ⟨yang⟩ Engkau sumpahkan kepada David dalam kesetiaan-Mu?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "di manakah"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yang terdahulu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Engkau bersumpah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "dalam kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:27.611550519Z",
+  "model": "glm-5.3"
+}

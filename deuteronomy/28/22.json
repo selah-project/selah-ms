@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh akan memukul engkau dengan batuk kering, dan dengan demam, dan dengan radang, dan dengan kepanasan bernyala, dan dengan kemarau, dan dengan penyakit layu, dan dengan pelepuh; dan semuanya akan mengejar engkau sampai engkau binasa.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "akan memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "dengan batuk kering"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "dan dengan demam"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "dan dengan radang"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "dan dengan kepanasan bernyala"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "dan dengan kemarau"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "dan dengan penyakit layu"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "dan dengan pelepuh"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "dan semuanya akan mengejar engkau"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "engkau binasa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:23.488313882Z",
+  "model": "glm-5.3"
+}

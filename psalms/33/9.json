@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Sebab Dialah yang berkata, maka terjadilah; Dialah yang memerintah, maka berdirilah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "maka berdirilah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:07.310820287Z",
+  "model": "glm-5.3"
+}

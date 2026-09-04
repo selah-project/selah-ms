@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Kerajaan-Mu ⟨ialah⟩ kerajaan segala olam, dan pemerintahan-Mu ⟨berlangsung⟩ bagi segala dor dan dor.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "kerajaan-Mu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "olam"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "dan pemerintahan-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bagi segala"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dor"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "dan dor"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:24.228121041Z",
+  "model": "glm-5.3"
+}

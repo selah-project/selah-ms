@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu ia mengutus ⟨את⟩ orang-orang muda bani Yisrael, lalu mereka menaikkan korban bakaran dan menyembelih korban sembelihan syalom bagi Yahweh, anak-anak lembu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lalu ia mengutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang muda"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "orang-orang muda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "lalu mereka menaikkan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "korban sembelihan"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "anak-anak lembu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:13.244859696Z",
+  "model": "glm-5.3"
+}

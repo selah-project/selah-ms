@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sebab bukan dalam busurku aku berharap, dan pedangku tidak akan menyelamatkanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "dalam busurku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "aku berharap"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "dan pedangku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "akan menyelamatkanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:57.950692132Z",
+  "model": "glm-5.3"
+}

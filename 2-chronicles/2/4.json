@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan rumah yang aku bina ⟨itu⟩ besar, sebab besar Elohim kita melebihi segala tuhan.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Dan rumah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "bina"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi segala"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "tuhan-tuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:31:48.421013353Z",
+  "model": "glm-5.3"
+}

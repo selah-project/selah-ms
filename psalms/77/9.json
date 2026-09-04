@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Sudahkah berakhir untuk selama-lamanya hesed-Nya? Sudah tamatkah ⟨janji⟩ untuk keturunan dan keturunan?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "sudahkah berakhir"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "sudah tamatkah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨janji⟩"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "untuk keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan keturunan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:49.397945229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu mereka mencari seorang gadis yang cantik di seluruh sempadan Yisrael, dan mereka menemui ⟨את⟩ Avisyag si Sunamit (Abisag dari Sunem), lalu mereka membawa dia ⟨את⟩ kepada raja.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Lalu mereka mencari"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "seorang gadis"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "yang cantik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di seluruh"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sempadan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dan mereka menemui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avisyag si Sunamit"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avisyag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "si Sunamit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu mereka membawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "dia ⟨את⟩",
+      "marks": "kepada raja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    }
+  ],
+  "timestamp": "2026-09-04T15:21:56.533200223Z",
+  "model": "glm-5.3"
+}

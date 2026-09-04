@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Yahweh bersemayam untuk selama-lamanya; Dia menetapkan takhta-Nya untuk penghakiman.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bersemayam"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "Dia menetapkan"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "untuk penghakiman"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:04.754643008Z",
+  "model": "glm-5.3"
+}

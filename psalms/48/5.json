@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Sebab lihat, raja-raja itu berhimpun, mereka berlalu bersama-sama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja itu"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "berhimpun"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mereka berlalu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:51.412729932Z",
+  "model": "glm-5.3"
+}

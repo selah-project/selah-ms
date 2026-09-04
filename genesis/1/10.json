@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Elohim menamakan daratan yang kering itu bumi, dan takatan air itu dinamai-Nya laut; dan Elohim melihat bahawa ⟨ia⟩ baik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "menamakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "daratan yang kering itu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "dan takatan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dinamai-Nya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:41.413737498Z",
+  "model": "glm-5.3"
+}

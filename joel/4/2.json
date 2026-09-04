@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 4:2",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "dan Aku akan mengumpulkan ⟨את⟩ segala bangsa, dan Aku akan menurunkan mereka ke lembah Yehosafat; dan Aku akan menghukum mereka di sana atas ⟨salah⟩ umat-Ku dan milik-Ku Yisrael, yang mereka serakkan antara bangsa-bangsa, dan ⟨את⟩ tanah-Ku mereka bahagikan.",
+  "tokens": [
+    {
+      "surface": "וקבצתי",
+      "gloss": "dan Aku akan mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala bangsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "והורדתים",
+      "gloss": "dan Aku akan menurunkan mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "dan Aku akan menghukum"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bersama mereka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "dan milik-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "פזרו",
+      "gloss": "mereka serakkan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "antara bangsa-bangsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah-Ku"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "tanah-Ku"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "mereka bahagikan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:26.188341649Z",
+  "model": "glm-5.3"
+}

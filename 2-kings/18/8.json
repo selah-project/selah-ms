@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Ia sendiri memukul ⟨את⟩ orang Pelisyt sampai ke Aza dan ⟨את⟩ sempadan mereka, dari menara pengawal sampai ke kota berkubu.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ia sendiri"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Pelisyt"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelisyt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "sempadan mereka"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sempadan mereka"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "dari menara"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "pengawal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "berkubu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:01.828831217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Maka mereka berpaling tadah dan berkhianat seperti bapa mereka; mereka berpaling seperti busur yang culas.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "maka mereka berpaling tadah"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "dan berkhianat"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "seperti bapa mereka"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "mereka berpaling"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "seperti busur"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "yang culas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:13.235206471Z",
+  "model": "glm-5.3"
+}

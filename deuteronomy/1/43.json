@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Maka aku berbicara kepada kamu, tetapi kamu tidak mendengar, dan kamu memberontak terhadap ⟨את⟩ firman Yahweh, dan kamu bertindak congkak, dan kamu naik ke gunung itu.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "dan aku berbicara"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "kamu mendengar"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "dan kamu memberontak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "firman Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "firman (mulut)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "dan kamu bertindak congkak"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "dan kamu naik"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ke gunung itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:02.196538697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan begitulah terjadi kepadanya: rakyat memijak ⟨את⟩ nya di pintu gerbang dan ia mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "memijak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nya",
+      "marks": "dia (pembesar itu)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dan ia mati"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:12.619753434Z",
+  "model": "glm-5.3"
+}

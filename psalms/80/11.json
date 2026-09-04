@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Bayangannya meliputi gunung-gunung, dan dahannya cedar-cedar El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "meliputi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "bayangannya"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "dan dahannya"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedar-cedar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.960582291Z",
+  "model": "glm-5.3"
+}

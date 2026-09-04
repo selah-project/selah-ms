@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu mereka memberitahu Dawid, katanya: Ingatlah, orang Plisytim berperang di Qeilah, dan mereka merampas ⟨את⟩ lantai-lantai pengirik.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Lalu mereka memberitahu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Plisytim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "di Qeilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "dan mereka"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantai-lantai pengirik"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "lantai-lantai pengirik"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:22.163559472Z",
+  "model": "glm-5.3"
+}

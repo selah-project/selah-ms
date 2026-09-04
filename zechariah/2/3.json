@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Yahweh memperlihatkan kepadaku empat tukang.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "dan memperlihatkan kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "tukang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:53:22.992869704Z",
+  "model": "glm-5.3"
+}

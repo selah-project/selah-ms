@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Dia meletakkan asas bumi di atas tapaknya, tidak akan goleh selama-lamanya dan selama lagi.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "meletakkan asas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "tapaknya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak akan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "goleh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan selama lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:01.545191943Z",
+  "model": "glm-5.3"
+}

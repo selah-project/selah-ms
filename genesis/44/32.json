@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "sebab hamba-Mu telah menjadi penjamin bagi ⟨את⟩ anak itu kepada bapa aku, dengan berkata: Jika aku tidak membawanya kepadamu, maka aku berdosa kepada bapa aku sepanjang hari-hari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "telah menjadi penjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak itu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anak itu"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa aku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "aku membawanya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "maka aku berdosa"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kepada bapa ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:27.208867728Z",
+  "model": "glm-5.3"
+}

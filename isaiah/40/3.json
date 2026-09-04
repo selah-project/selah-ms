@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Suara ⟨yang⟩ menyeru di padang gurun: bukalah jalan bagi Yahweh, ratakankan di Araba laluan bagi Elohim kita.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "⟨yang⟩ menyeru"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "bukalah"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ratakankan"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "di Araba"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "laluan"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "bagi Elohim kita"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:57.709085337Z",
+  "model": "glm-5.3"
+}

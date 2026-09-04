@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Jawablah kepada Yahweh dengan todah (syukur); petiklah mazmur bagi Elohim kami dengan kinor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Jawablah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "dengan todah (syukur)"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "petiklah mazmur"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "bagi Elohim kami"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kinor"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:32.741970309Z",
+  "model": "glm-5.3"
+}

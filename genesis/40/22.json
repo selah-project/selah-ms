@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Tetapi ⟨את⟩ ketua pembuat-pembuat roti itu digantungnya, seperti yang ditafsirkan kepada mereka oleh Yosef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "ketua pembuat-pembuat roti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pembuat-pembuat roti"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "digantung"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ditafsirkan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:46.281974970Z",
+  "model": "glm-5.3"
+}

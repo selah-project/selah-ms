@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Bukankah ini engkau lakukan kepada dirimu, kerana engkau meninggalkan ⟨את⟩ Yahweh, Elohimmu, pada waktu Ia memimpin engkau di jalan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau lakukan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada dirimu"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "engkau meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "Ia memimpin engkau"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:06.684416969Z",
+  "model": "glm-5.3"
+}

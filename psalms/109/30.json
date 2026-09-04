@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Aku akan mengaku syukur kepada Yahweh dengan sangat melalui mulutku, dan di tengah-tengah orang ramai aku akan memuji-Nya.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "aku akan mengaku syukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sangat"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "melalui mulutku"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "dan di tengah-tengah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "orang ramai"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "aku akan memuji-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:58.754913381Z",
+  "model": "glm-5.3"
+}

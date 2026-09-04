@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Takut akan Yahweh itu suci, berdiri sampai selama-lamanya; hukum-hukum Yahweh itu kebenaran, adil semuanya bersama.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "takut akan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "suci"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "adil"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "semuanya bersama"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:52.647966189Z",
+  "model": "glm-5.3"
+}

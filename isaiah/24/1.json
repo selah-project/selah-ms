@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Sesungguhnya, Yahweh mengosongkan bumi dan merosakkannya, dan memusingkan wajahnya, dan menyelerakkan penduduknya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sesungguhnya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "mengosongkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "dan merosakkannya"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "dan memusingkan"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "wajahnya"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "dan menyelerakkan"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:17.807793635Z",
+  "model": "glm-5.3"
+}

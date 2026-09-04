@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Anak-anak Gersyon ialah Livni dan Simei menurut keluarga mereka.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersyon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "dan Simei"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "menurut keluarga mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:35.104247572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Engkau menghantar keluar roh-Mu, mereka dicipta, dan Engkau memperbaharui wajah bumi.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Engkau menghantar keluar"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "roh-Mu"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "mereka dicipta"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "dan Engkau memperbaharui"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.632080433Z",
+  "model": "glm-5.3"
+}

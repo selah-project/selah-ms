@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan Debora, seorang perempuan nabi, isteri Lapidot, dialah yang menghakimi ⟨את⟩ Israel pada waktu itu.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Dan Debora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:06:31.808699538Z",
+  "model": "glm-5.3"
+}

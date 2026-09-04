@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan roh masuk ke dalamku apabila Ia berbicara kepadaku, dan ia menegakkan aku atas kakiku, dan aku mendengar ⟨את⟩ yang berbicara kepadaku.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Dan masuk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ke dalamku"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ia berbicara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "dan menegakkan aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "dan aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang berbicara"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:28:11.169659857Z",
+  "model": "glm-5.3"
+}

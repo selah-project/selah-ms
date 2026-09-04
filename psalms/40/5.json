@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Betapa berbahagialah orang yang menjadikan Yahweh tempat perlindungannya, dan yang tidak berpaling kepada orang-orang yang sombong dan kepada mereka yang condong kepada dusta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "betapa berbahagialah"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "orang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "menjadikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tempat perlindungannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "orang-orang yang sombong"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "dan kepada mereka yang condong"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kepada dusta"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:59.846953143Z",
+  "model": "glm-5.3"
+}

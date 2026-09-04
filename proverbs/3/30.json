@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Jangan bergaduh dengan seseorang tanpa sebab, apabila ia tidak berbuat kejahatan kepadamu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "bergaduh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "berbuat kepadamu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:35.038347506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Celakalah engkau, hai bumi, apabila rajamu seorang anak muda, dan pembesar-pembesarmu pada waktu pagi makan!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Celakalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "apabila rajamu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "seorang anak muda"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "dan pembesar-pembesarmu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:23.839730207Z",
+  "model": "glm-5.3"
+}

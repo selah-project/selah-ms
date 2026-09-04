@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "⟨את⟩ kelambu halaman itu, ⟨את⟩ tiang-tiangnya dan ⟨את⟩ tapak-tapaknya, dan ⟨את⟩ tudung pintu gerbang halaman itu,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambu halaman itu"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiangnya"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapak-tapaknya"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "tapak-tapaknya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tudung pintu gerbang halaman itu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "tudung"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pintu gerbang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:23.958193772Z",
+  "model": "glm-5.3"
+}

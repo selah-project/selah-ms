@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 30:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Sebab umat di Tsion diam di Yerusalem: menangis — tidak usah kamu menangis; mengasihani — Ia mengasihani kamu pada suara jeritanmu; apabila Ia mendengar, Ia menjawab kamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "di Tsion"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "diam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "di Yerusalem"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "menangis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "kamu menangis"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mengasihani"
+    },
+    {
+      "surface": "יחנך",
+      "gloss": "Ia mengasihani kamu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pada suara"
+    },
+    {
+      "surface": "זעקך",
+      "gloss": "jeritanmu"
+    },
+    {
+      "surface": "כשמעתו",
+      "gloss": "apabila Ia mendengar"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "Ia menjawab kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:02.841526128Z",
+  "model": "glm-5.3"
+}

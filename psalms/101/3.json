@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Tidak aku akan letakkan di hadapan mataku perkara Beliyal; melakukan kejahatan aku benci; tidak ia akan melekat padaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "aku akan letakkan"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ia akan melekat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "padaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:18.182330557Z",
+  "model": "glm-5.3"
+}

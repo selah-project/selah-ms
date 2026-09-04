@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Mereka memandang kepada Dia dan bercahaya, dan wajah mereka jangan mendapat malu.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Mereka memandang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada Dia"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "dan bercahaya"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "dan wajah mereka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "mendapat malu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:14.886661636Z",
+  "model": "glm-5.3"
+}

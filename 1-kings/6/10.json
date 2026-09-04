@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan dibinanya ⟨את⟩ sayap sisi itu mengatasi seluruh rumah itu, lima hasta tingginya; dan dipegangnya ⟨את⟩ rumah itu dengan kayu araz.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "dan dibinanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayap sisi itu"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "sayap sisi itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengatasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tingginya"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "dan dipegangnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah itu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "dengan kayu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "araz"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:26.482511404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Mizmor bagi Dawid: berilah kepada Yahweh, hai anak-anak El; berilah kepada Yahweh kemuliaan dan keperkasaan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Dawid"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "dan keperkasaan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:23.502677793Z",
+  "model": "glm-5.3"
+}

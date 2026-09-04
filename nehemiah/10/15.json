@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "ketua-ketua kaum: Parosy, Pahat-Moab, Elam, Zatu, Bani,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ketua-ketua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kaum"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosy"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pahat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zatu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-09-04T14:55:07.348341811Z",
+  "model": "glm-5.3"
+}

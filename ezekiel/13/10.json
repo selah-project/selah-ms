@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Oleh sebab, ya oleh sebab, mereka menyesatkan ⟨את⟩ umat-Ku dengan berkata, 'Syalom,' padahal tiada syalom; dan dia membina tembok, dan sesungguhnya mereka menyalutnya ⟨את⟩ dengan pelitur tumpul.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ya oleh sebab"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "mereka menyesatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dengan berkata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "padahal tiada"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "dan sesungguhnya mereka"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "menyalut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pelitur tumpul"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "pelitur tumpul"
+    }
+  ],
+  "timestamp": "2026-09-04T13:30:31.101129407Z",
+  "model": "glm-5.3"
+}

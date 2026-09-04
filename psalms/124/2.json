@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 124,
+  "translation": "sekiranya bukan Yahweh yang telah ada bagi kita, ketika bangkit manusia melawan kita,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "sekiranya bukan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yang telah ada"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bagi kita"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ketika bangkit"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "melawan kita"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:23.027387304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "dan buatlah bagiku hidangan lazat seperti yang kukasihi, dan bawakanlah kepadaku supaya aku makan, supaya jiwaku memberkati engkau sebelum aku mati.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "dan buatlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "hidangan lazat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kukasihi"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "dan bawakanlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "supaya aku makan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "memberkati engkau"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aku mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:58.037497864Z",
+  "model": "glm-5.3"
+}

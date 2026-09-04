@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Kepada kebusukan aku berseru: 'Ayahku ⟨engkau⟩'; kepada cacing: 'ibuku dan saudariku'.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "kepada kebusukan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ayahku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "dan saudariku"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "kepada cacing"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:03.608594531Z",
+  "model": "glm-5.3"
+}

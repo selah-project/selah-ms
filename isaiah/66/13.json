@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Seperti seorang yang ibunya menghiburkannya, begitulah Aku akan menghibur kamu, dan di Yerusalem kamu akan dihibur.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "Seperti seorang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunya"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "menghiburkannya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "akan menghibur kamu"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "dan di Yerusalem"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "kamu akan dihibur"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:40.063296463Z",
+  "model": "glm-5.3"
+}

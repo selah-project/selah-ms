@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Penduduk kegelapan dan bayang maut, tawanan penderitaan dan besi,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Penduduk"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "dan bayang maut"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "tawanan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "dan besi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.008445908Z",
+  "model": "glm-5.3"
+}

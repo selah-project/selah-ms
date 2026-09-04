@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu Yahweh berfirman kepada Moshe: Rentakkan tanganmu ke atas tanah Mitsrayim ⟨kerana⟩ belalang, supaya ia naik ke atas tanah Mitsrayim dan memakan ⟨את⟩ segala tumbuhan tanah itu, ⟨את⟩ segala yang ditinggalkan hujan batu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Rentakkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "⟨kerana⟩ belalang"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "supaya ia naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala tumbuhan tanah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "tumbuhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala yang ditinggalkan hujan batu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ditinggalkan"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "hujan batu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:50.098958125Z",
+  "model": "glm-5.3"
+}

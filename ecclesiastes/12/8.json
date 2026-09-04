@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Kesia-siaan segala kesia-siaan, kata Kohelet; segalanya kesia-siaan.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "segala kesia-siaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:45.452086383Z",
+  "model": "glm-5.3"
+}

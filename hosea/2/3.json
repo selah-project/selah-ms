@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Katakanlah kepada saudara-saudara lelaki kamu: Umat-Ku, dan kepada saudara-saudara perempuan kamu: Yang dikasihani.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "katakanlah"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kepada saudara-saudara lelaki kamu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Umat-Ku"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "dan kepada saudara-saudara perempuan kamu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Yang dikasihani"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:36.010639135Z",
+  "model": "glm-5.3"
+}

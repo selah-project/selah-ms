@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Air yang banyak tidak dapat memadamkan ⟨את⟩ cinta, dan sungai tidak akan menghanyutkannya. Jika seseorang memberi ⟨את⟩ segala harta rumahnya demi cinta, pasti dicemuh orang akan dia.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yang banyak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "memadamkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinta"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "cinta"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "dan sungai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "akan menghanyutkannya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seseorang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala harta rumahnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "demi cinta"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pasti dicemuh"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "orang akan mencemuh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "akan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:57.326137516Z",
+  "model": "glm-5.3"
+}

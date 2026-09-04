@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan ia berjalan-jalan di tengah-tengah singa-singa, ia menjadi anak singa, dan ia belajar merampas mangsa; manusia dimakannya.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "dan ia berjalan-jalan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "singa-singa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia menjadi"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "dan ia belajar"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "merampas mangsa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dimakannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:05.707673082Z",
+  "model": "glm-5.3"
+}

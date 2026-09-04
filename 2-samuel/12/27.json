@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan Yoab mengirim utusan kepada David, dan berkata: \"Aku telah berperang di Raba, juga aku telah menawan ⟨את⟩ kota air itu.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dan mengirim"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan-utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "aku telah berperang"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "di Raba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "aku telah menawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota air itu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:10.073501824Z",
+  "model": "glm-5.3"
+}

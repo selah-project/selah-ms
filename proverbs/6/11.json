@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "maka kemiskinanmu datang seperti musafir, dan kekuranganmu seperti orang bersenjata.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "maka datang"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "seperti musafir"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kemiskinanmu"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "dan kekuranganmu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "seperti orang"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bersenjata"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:46.667456298Z",
+  "model": "glm-5.3"
+}

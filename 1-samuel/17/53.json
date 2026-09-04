@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu anak-anak Israel berpulang daripada memburu Filistin itu, dan mereka merampas ⟨את⟩ khemah mereka.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "berpulang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "daripada memburu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mengejar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "dan mereka merampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah mereka"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "khemah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:11.319653035Z",
+  "model": "glm-5.3"
+}

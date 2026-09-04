@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Ia mengurung aku dengan tembok sehingga aku tidak keluar; Ia membebankan rantai tembaga ⟨milik⟩ku.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Ia mengurung dengan tembok"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "aku keluar"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "Ia membebankan"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "rantai tembaga ⟨milik⟩ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:27.434752259Z",
+  "model": "glm-5.3"
+}

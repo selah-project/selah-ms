@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Semua yang gemuk di bumi akan makan dan sujud; di hadapan-Nya akan berlutut semua yang turun ke debu, dan nefeshnya ⟨tidak⟩ dapat dihidupkan.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "akan makan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "yang gemuk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "akan berlutut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "yang turun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ke debu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "dan nefeshnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dapat dihidupkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:37.381862646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan berjadilah, ketika aku mendengar ⟨את⟩ perkataan-perkataan ini, aku duduk dan menangis dan meratap berhari-hari, dan aku berpuasa dan berdoa di hadapan Elohim segala langit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berjadilah"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "ketika aku mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataan ini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aku duduk"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "dan menangis"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "dan meratap"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "berhari-hari"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "dan aku berada"
+    },
+    {
+      "surface": "צם",
+      "gloss": "berpuasa"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "dan berdoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "segala langit"
+    }
+  ],
+  "timestamp": "2026-09-04T14:52:14.968061726Z",
+  "model": "glm-5.3"
+}

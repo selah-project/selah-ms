@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Tidak engkau boleh menyembelih ⟨את⟩ Pesakh di salah satu pintu gerbangmu, yang Yahweh Elohimmu berikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "engkau boleh"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "di salah satu"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "pintu gerbangmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:46.101765355Z",
+  "model": "glm-5.3"
+}

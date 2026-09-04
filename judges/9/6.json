@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu berkumpullah semua pemimpin Sykem dan seluruh keluarga Milo, lalu pergi dan mengangkat ⟨את⟩ Abimelekh menjadi raja, dekat pohon tarbantin tugu yang di Sykem.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "berkumpullah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "pemimpin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sykem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "mengangkat menjadi raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "pohon tarbantin"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "di Sykem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:29.193440454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Kilat-Nya menyinari tebel; bumi melihat dan bergementar.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "menyinari"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "kilat-Nya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "dan bergementar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:17.351024644Z",
+  "model": "glm-5.3"
+}

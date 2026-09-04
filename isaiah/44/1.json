@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Dan sekarang dengarlah, Yaakov hamba-Ku, dan Yisrael ⟨yang⟩ Kupilih dia.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "Kupilih"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:59.448610090Z",
+  "model": "glm-5.3"
+}

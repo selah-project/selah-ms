@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Bapa-bapa kamu — di mana mereka? Dan para nabi, adakah mereka hidup selama-lamanya?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "bapa-bapa kamu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "dan para nabi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "adakah mereka hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:34.159327564Z",
+  "model": "glm-5.3"
+}

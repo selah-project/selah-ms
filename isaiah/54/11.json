@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "Wahai engkau yang sengsara, dilanda ribut, tidak ditenungi — lihatlah, Aku akan meletakkan batu-batamu dengan puk (antimon), dan Aku akan mengasaskan engkau dengan batu nilam.",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "Wahai engkau yang sengsara"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "dilanda ribut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "ditenungi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "akan meletakkan (melatakan)"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "dengan puk (antimon)"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "batu-batamu"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "dan Aku akan mengasaskan engkau"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "dengan batu nilam"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:29.996119384Z",
+  "model": "glm-5.3"
+}

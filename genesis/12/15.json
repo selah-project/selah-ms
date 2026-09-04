@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan para pembesar Paroh melihatnya, dan mereka memuji dia di hadapan Paroh, maka perempuan itu diambil ke rumah Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Dan para pembesar melihat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Sarai)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pembesar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "dan mereka memuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia (Sarai)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "maka diambil"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:18.972795525Z",
+  "model": "glm-5.3"
+}

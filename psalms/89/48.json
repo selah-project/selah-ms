@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Ingatlah bahwa aku ⟨adalah⟩ fana; atas apa kesia-siaan Engkau mencipta semua anak-anak Adam?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "fana"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "Engkau mencipta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.423572061Z",
+  "model": "glm-5.3"
+}

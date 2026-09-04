@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Bantahlah bantahanmu dengan ⟨את⟩ sahabatmu, dan rahsia (sod) orang lain jangan dibocorkan.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "bantahanmu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "bantahlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahabatmu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sahabatmu"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "dan rahsia (sod)"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "orang lain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "dibocorkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:36.989530295Z",
+  "model": "glm-5.3"
+}

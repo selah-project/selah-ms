@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lihatlah, ⟨dia⟩ mengandung kesia-siaan, dan mengandung menjadi hamil kesusahan, dan melahirkan kebohongan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "mengandung (merasa sakit)"
+    },
+    {
+      "surface": "און",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "dan mengandung menjadi hamil"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "dan melahirkan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kebohongan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:42.278406196Z",
+  "model": "glm-5.3"
+}

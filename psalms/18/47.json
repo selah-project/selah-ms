@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Hidup Yahweh, dan terpujilah batu karangku, dan tinggilah Eloah keselamatanku.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Hidup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "dan terpujilah"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu karangku"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "dan tinggilah"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatanku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:36.334934020Z",
+  "model": "glm-5.3"
+}

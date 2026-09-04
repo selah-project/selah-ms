@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Elohim, ketika Engkau keluar di hadapan umat-Mu, ketika Engkau melangkah di padang gurun — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ketika Engkau keluar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ketika Engkau melangkah"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:32.383158989Z",
+  "model": "glm-5.3"
+}

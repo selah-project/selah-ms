@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Pada hari kesusahanku Adonai aku cari; tanganku pada waktu malam terulur, dan tidak kendur; menolak dihibur ⟨ialah⟩ nafsiku.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "kesusahanku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aku cari"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "terulur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "kendur"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "dihibur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsiku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:13.648460214Z",
+  "model": "glm-5.3"
+}

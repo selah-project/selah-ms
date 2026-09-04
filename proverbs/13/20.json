@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Bergaul ⟨dengan⟩ ⟨את⟩ orang-orang bijaksana maka engkau bijaksana; tetapi teman orang-orang bodoh akan menderita kerosakan.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Bergaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang bijaksana"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijaksana"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "maka engkau bijaksana"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "tetapi teman"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "orang-orang bodoh"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "akan menderita kerosakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:22.512415135Z",
+  "model": "glm-5.3"
+}

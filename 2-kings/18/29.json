@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Begitulah kata raja: janganlah Hizkiyahu menyesatkan kamu, sebab ia tidak akan mampu menyelamatkan ⟨את⟩ kamu dari tangannya.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Begitulah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "menyesatkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akan mampu"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu (objek orang kedua jamak)"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "dari tangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:32.568642526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Begitulah kejar mereka dengan badaimu, dan dengan ributmu buat mereka gempar.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "kejar mereka"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "dengan badaimu"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "dan dengan ributmu"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "buat mereka gempar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:43.817685991Z",
+  "model": "glm-5.3"
+}

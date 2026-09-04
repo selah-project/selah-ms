@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Orang yang berbuat baik kepada nefesnya sendiri ialah orang hesed, tetapi orang yang menyusahkan dagingnya sendiri ialah orang kejam.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "berbuat baik kepada"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesnya sendiri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "tetapi menyusahkan"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "dagingnya sendiri"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "orang kejam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:10.371921877Z",
+  "model": "glm-5.3"
+}

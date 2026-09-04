@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 86,
+  "translation": "Segala bangsa yang Engkau buat akan datang dan sujud di hadapan-Mu, wahai Adonai, dan akan memuliakan nama-Mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Engkau buat"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "akan datang"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "dan akan memuliakan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nama-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:34.088794864Z",
+  "model": "glm-5.3"
+}

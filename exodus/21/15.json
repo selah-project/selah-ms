@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan pemukul ayahnya atau ibunya — pasti mati, dia akan dihukum mati.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Dan pemukul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "atau ibunya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pasti mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dia akan dihukum mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:41.642598479Z",
+  "model": "glm-5.3"
+}

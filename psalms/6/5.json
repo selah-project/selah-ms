@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kembalilah, wahai Yahweh, lepaskan nafsiku, selamatkanlah aku demi hesed-Mu.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "lepaskan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsiku"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "selamatkanlah aku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.471648806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan kamu hendaklah memelihara perintah-perintahku dan melaksanakannya ⟨את⟩; aku ialah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dan kamu hendaklah memelihara"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "perintah-perintahku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "dan melaksanakannya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintahku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:50.848318503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan sekarang, bertaruhlah kiranya dengan ⟨את⟩ tuanku raja Asyur, maka aku akan memberikan kepadamu dua ribu kuda, jika engkau sanggup menyediakan bagimu penunggang-penunggang atasnya.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "bertaruhlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuanku raja Asyur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "maka aku akan memberikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dua ribu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "engkau sanggup"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "menyediakan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "penunggang-penunggang"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:02:31.700253629Z",
+  "model": "glm-5.3"
+}

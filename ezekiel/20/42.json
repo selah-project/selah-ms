@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan kamu akan tahu bahawa Akulah Yahweh, pada Aku membawa kamu ⟨את⟩ ke tanah Yisrael, ke tanah yang Aku telah mengangkat ⟨את⟩ tangan-Ku untuk memberikannya ⟨את⟩ kepada bapa-bapa kamu.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Dan kamu akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "pada Aku membawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "Aku telah mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩nya",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "kepada bapa-bapa kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:57.632513875Z",
+  "model": "glm-5.3"
+}

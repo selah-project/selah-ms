@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Ada perkara yang dikatakan orang: Lihat, ini baharu — padahal sudah lama ia ada sejak zaman berzaman-zaman, yang telah ada sebelum kita.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "yang dikatakan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baharu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sudah lama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ia ada"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "sejak zaman berzaman-zaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah ada"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "sebelum kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:15.426387695Z",
+  "model": "glm-5.3"
+}

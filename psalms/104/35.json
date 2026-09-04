@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Kiranya orang berdosa habis dari bumi, dan orang fasik tidak ada lagi. Berkatilah, hai jiwaku, ⟨את⟩ Yahweh; pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "kiranya habis"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "orang berdosa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "dan orang fasik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "berkatilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hai jiwaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:45.512810646Z",
+  "model": "glm-5.3"
+}

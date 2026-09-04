@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Aku telah mendengar ⟨את⟩ apa yang dikatakan para nabi, yang bernubuat dalam nama-Ku ⟨dengan⟩ dusta, sambil berkata: Aku bermimpi, aku bermimpi.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang dikatakan para nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "yang bernubuat"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "dalam nama-Ku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sambil berkata"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aku bermimpi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aku bermimpi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:04.763635279Z",
+  "model": "glm-5.3"
+}

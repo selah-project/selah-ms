@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu dibengkokkannya ⟨את⟩ hati setiap orang Yehuda seperti satu orang; dan mereka mengutus kepada raja itu: \"Kembalilah engkau dan semua hambamu.\"",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "lalu dibengkokkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu orang"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dan mereka mengutus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kembalilah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan semua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hambamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:30:49.941471976Z",
+  "model": "glm-5.3"
+}

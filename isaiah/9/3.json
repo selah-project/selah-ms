@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sebab ⟨את⟩ kuk bebanannya, dan ⟨את⟩ tongkat bahunya, tongkat penindasnya — Engkau telah mematahkannya seperti pada hari Midian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuk"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "bebanannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tongkat"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "bahunya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "penindasnya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "Engkau telah mematahkannya"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti pada hari"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:59.219748545Z",
+  "model": "glm-5.3"
+}

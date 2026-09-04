@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Maka Zebul, pembesar kota itu, mendengar ⟨את⟩ perkataan Gaal bin Ebed, dan bangkitlah amarannya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pembesar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan Gaal bin Ebed"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dan bangkitlah"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "amarannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:08:14.395590794Z",
+  "model": "glm-5.3"
+}

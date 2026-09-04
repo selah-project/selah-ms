@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "supaya jangan pendengar mengaibkanmu, dan celaanmu tidak berbalik.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "mengaibkanmu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pendengar"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "dan celaanmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "berbalik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:36.990044156Z",
+  "model": "glm-5.3"
+}

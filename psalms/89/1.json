@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Maskil; gubahan Eitan ha-Ezrachi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "bagi Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrachi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.772943525Z",
+  "model": "glm-5.3"
+}

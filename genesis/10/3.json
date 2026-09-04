@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan bani Gomer: Asykenaz, dan Rifat, dan Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan bani"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Asykenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "dan Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "dan Togarma"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:49.141107894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sangat rusak kami telah berkelakuan terhadap-Mu, dan tidak kami pelihara ⟨את⟩ perintah-perintah dan ⟨את⟩ ketetapan-ketetapan dan ⟨את⟩ hukum-hukum yang Engkau perintahkan ⟨את⟩ Moshe, hamba-Mu.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "sangat rusak"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "kami telah berkelakuan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "terhadap-Mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "kami pelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ketetapan-ketetapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Engkau perintahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:52:21.449634360Z",
+  "model": "glm-5.3"
+}

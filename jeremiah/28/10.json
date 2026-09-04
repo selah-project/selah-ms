@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lalu Hananya sang nabi mengambil ⟨את⟩ kayu kuk itu dari tengkuk Yirmeya sang nabi, lalu memecahkannya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu mengambil"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu kuk itu"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "kayu kuk itu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "tengkuk"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "lalu memecahkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:18:29.906384630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "kerana Elohim tahu bahawa pada hari kamu memakannya mata kamu akan dibuka dan kamu akan menjadi seperti Elohim yang mengetahui baik dan jahat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "kamu memakan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "dan akan dibuka"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mata kamu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "dan kamu akan menjadi"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "seperti Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "yang mengetahui"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "dan jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:14.570429722Z",
+  "model": "glm-5.3"
+}

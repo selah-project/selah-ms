@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Takutlah kepada ⟨את⟩ Yahweh, hai orang-orang kudus-Nya, sebab tiada kekurangan bagi mereka yang takut kepada-Nya.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Takutlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "hai orang-orang kudus-Nya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kekurangan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "bagi mereka yang takut kepada-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:05.118519842Z",
+  "model": "glm-5.3"
+}

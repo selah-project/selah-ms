@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan ia mendirikan ⟨את⟩ tiang-tiang itu di ulam haikal; lalu ia mendirikan ⟨את⟩ tiang kanan dan dinamainya Yakhin, dan ia mendirikan ⟨את⟩ tiang kiri dan dinamainya Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang itu"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tiang-tiang itu"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "di ulam"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "haikal"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang kanan"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dan ia mendirikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang kiri"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:23.306728607Z",
+  "model": "glm-5.3"
+}

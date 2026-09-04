@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 31:35",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu katanya kepada bapanya: Janganlah tuanku marah dalam matanya, kerana aku tidak dapat bangun di hadapanmu, kerana jalan perempuan ada padaku. Lalu ia menggeledah, tetapi tidak menemui ⟨את⟩ terafim itu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu katanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "marah"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dalam mata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "di hadapanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ada padaku"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "lalu ia menggeledah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "menemui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim itu"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:20.293966094Z",
+  "model": "glm-5.3"
+}

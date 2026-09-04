@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 43:12",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "dan Aku menyulut api dalam rumah-rumah tuhan Mitsrayim, dan membakarnya dan membawa mereka tertawan; dan ia menyelubungi ⟨את⟩ tanah Mitsrayim seperti menyelubungi gembala ⟨את⟩ pakaiannya, dan ia keluar dari sana dengan syalom.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "dan Aku menyulut"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "בבתי",
+      "gloss": "dalam rumah-rumah"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושרפם",
+      "gloss": "dan membakarnya"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "dan membawa mereka tertawan"
+    },
+    {
+      "surface": "ועטה",
+      "gloss": "dan ia menyelubungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "menyelubungi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "gembala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaiannya"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan ia keluar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dengan syalom"
+    }
+  ],
+  "timestamp": "2026-09-04T13:24:22.063293824Z",
+  "model": "glm-5.3"
+}

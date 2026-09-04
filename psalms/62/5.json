@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Hanya untuk menjatuhkan dia dari kedudukannya mereka berunding; mereka berkenan pada kepalsuan; dengan mulutnya mereka memberkati, dan dalam batin mereka mereka mengutuk. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hanya"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "dari kedudukannya"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "mereka berunding"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "untuk menjatuhkan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "mereka berkenan"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "pada kepalsuan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dengan mulutnya"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "mereka memberkati"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "dan dalam batin mereka"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "mereka mengutuk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:59.751426474Z",
+  "model": "glm-5.3"
+}

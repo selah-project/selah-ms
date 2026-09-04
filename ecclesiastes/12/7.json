@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan debu itu kembali ke atas bumi seperti dahulu, dan roh itu kembali kepada Elohim yang memberikannya.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dan kembali"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "debu itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "seperti dahulu"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "dan roh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "memberikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:45.451983219Z",
+  "model": "glm-5.3"
+}

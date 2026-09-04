@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Ia membawa pergi ⟨את⟩ mezbah-mezbah asing dan bukit-bukit pengorbanan, memecahkan ⟨את⟩ tiang-tiang berhala, dan menebang ⟨את⟩ patung-patung Asyerim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ia membawa pergi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah-mezbah asing"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mezbah-mezbah"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "asing"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "dan bukit-bukit pengorbanan"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "memecahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang berhala"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tiang-tiang berhala"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "menebang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patung Asyerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "patung-patung Asyerim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:45.139656702Z",
+  "model": "glm-5.3"
+}

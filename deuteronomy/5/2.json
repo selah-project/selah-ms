@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Yahweh Elohim kita mengikat perjanjian dengan kita di Horev.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "memotong (mengikat)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "dengan kita"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "di Horev"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:46.375761339Z",
+  "model": "glm-5.3"
+}

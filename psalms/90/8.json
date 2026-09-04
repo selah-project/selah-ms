@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Engkau menaruh kesalahan kami di hadapan-Mu, hal-tersembunyi kami di bawah cahaya wajah-Mu.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Engkau menaruh"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "kesalahan kami"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "di hadapan-Mu"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "hal-tersembunyi kami"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "di bawah cahaya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.498156721Z",
+  "model": "glm-5.3"
+}

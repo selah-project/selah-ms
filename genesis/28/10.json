@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lalu keluarlah Yaakov dari Beer-Syeba, dan pergilah ke arah Haran.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lalu keluar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "dari Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ke arah Haran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:03:20.638569769Z",
+  "model": "glm-5.3"
+}

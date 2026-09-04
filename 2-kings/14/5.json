@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Maka apabila kerajaan itu telah kukuh dalam tangannya, dibunuhnya ⟨את⟩ hamba-hambanya yang memukul ⟨את⟩ raja ayahnya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "telah kukuh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan itu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dalam tangannya"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dibunuhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambanya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "yang memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:48:32.380115102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Sebab hatiku ⟨telah⟩ masam ⟨mendidih⟩, dan ginjalku tertusuk",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "masam ⟨mendidih⟩"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "dan ginjalku"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "tertusuk"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:32.222876958Z",
+  "model": "glm-5.3"
+}

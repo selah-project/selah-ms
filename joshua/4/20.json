@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ⟨את⟩ dua belas batu itu, yang mereka ambil dari Yarden, didirikan oleh Yehosyua di Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "dua belas batu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "batu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "mereka ambil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "didirikan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "oleh Yehosyua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:06.867306212Z",
+  "model": "glm-5.3"
+}

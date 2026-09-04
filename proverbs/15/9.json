@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Kekejian bagi Yahweh ialah jalan orang fasik, tetapi siapa yang mengejar kebenaran, Dia kasihilan.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "tetapi siapa yang mengejar"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "Dia kasihilan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:49.346045544Z",
+  "model": "glm-5.3"
+}

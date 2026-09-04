@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan berkata malaikat Yahweh kepadanya: Memperbanyak Aku akan memperbanyak ⟨את⟩ zarahmu, sehingga tidak akan terhitung kerana besarnya ramai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "memperbanyak"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Aku akan memperbanyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarahmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zarahmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sehingga tidak"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "akan terhitung"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kerana besarnya ramai"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:27.338493854Z",
+  "model": "glm-5.3"
+}

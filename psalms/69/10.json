@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Sebab cemburu ⟨pada⟩ rumah-Mu telah menghabiskan aku, dan celaan orang-orang yang mencela-Mu telah jatuh ke atasku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "cemburu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah-Mu"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "telah menghabiskan aku"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "dan celaan"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "orang-orang yang mencela-Mu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "telah jatuh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ke atasku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:29.640849988Z",
+  "model": "glm-5.3"
+}

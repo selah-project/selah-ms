@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 126,
+  "translation": "Sentiasa berjalan sambil menangis, dialah yang membawa benih taburan; pulanglah dia dengan sorak-sorai, membawa pula berondong-berondongnya.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "sentiasa berjalan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "dia berjalan"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "dan sambil menangis"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "dialah yang membawa"
+    },
+    {
+      "surface": "משך",
+      "gloss": "benih taburan"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "biji benih itu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pulanglah"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "dengan sorak-sorai"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "membawa"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "berondong-berondongnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:08.900980249Z",
+  "model": "glm-5.3"
+}

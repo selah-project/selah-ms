@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Suara Yahweh membuat rusa-rusa betina berkelahiran, dan melucuti hutan-hutan; dan di dalam bait-Nya segalanya berkata: Kemuliaan!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "membuat berkelahiran"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "rusa-rusa betina"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "dan melucuti"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "hutan-hutan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "dan di dalam bait-Nya"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "segalanya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kemuliaan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:01.801102682Z",
+  "model": "glm-5.3"
+}

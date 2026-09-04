@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Melekatlah pada debu nefesyiku; hidupkanlah aku menurut firman-Mu.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "Melekatlah"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "pada debu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesyiku"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "hidupkanlah aku"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "menurut firman-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:54.310565916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Samaria akan binasa — rajanya seperti buih di atas muka air.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "akan binasa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "rajanya"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "seperti buih"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:08.965775683Z",
+  "model": "glm-5.3"
+}

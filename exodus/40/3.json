@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau akan menempatkan di sana ⟨את⟩ Aron ha-Edut, dan engkau akan menudungkan ke atas Aron itu ⟨את⟩ Parokhet itu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Dan engkau akan menempatkan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron ha-Edut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ha-Edut"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "dan engkau akan menudungkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parokhet itu"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Parokhet itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:09.721457924Z",
+  "model": "glm-5.3"
+}

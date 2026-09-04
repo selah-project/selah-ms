@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Yahweh telah mencampur di tengahnya roh kesesatan, dan mereka menyesatkan ⟨את⟩ Mitsrayim dalam segala perbuatannya, seperti terhentaknya orang mabuk dalam muntahnya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "telah mencampur"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "di tengahnya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "kesesatan"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "dan mereka menyesatkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "perbuatannya"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "seperti terhentaknya"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "orang mabuk"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "dalam muntahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:20.002213212Z",
+  "model": "glm-5.3"
+}

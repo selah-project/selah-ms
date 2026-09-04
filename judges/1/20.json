@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan mereka memberikan kepada Kalev ⟨את⟩ Hevron, seperti yang difirmankan Moshe; dan dari situ ia menumpaskan ⟨את⟩ tiga anak Anak.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kepada Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "menumpaskan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari situ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiga anak Anak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anak"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:14.486016944Z",
+  "model": "glm-5.3"
+}

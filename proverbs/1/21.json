@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Di kepala keramaian yang riuh ia berseru, di bukaan gerbang-gerbang, di kota ia mengatakan ucapannya:",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "di kepala"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "keramaian yang riuh"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ia berseru"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "di bukaan"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gerbang-gerbang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "di kota"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ucapannya"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ia mengatakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:57.168812193Z",
+  "model": "glm-5.3"
+}

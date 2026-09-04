@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "dan ⟨את⟩ Esav aku benci, dan aku menetapkan ⟨את⟩ gunung-gunungnya menjadi tempat tandas, dan ⟨את⟩ pusakaannya untuk serigala padang belantara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku benci"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "dan aku menetapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung-gunungnya"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "gunung-gunungnya"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tempat tandas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pusakaannya"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pusakaannya"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "untuk serigala"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang belantara"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:07.600022894Z",
+  "model": "glm-5.3"
+}

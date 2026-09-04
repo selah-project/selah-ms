@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Yang menegur laut lalu mengeringkannya, dan segala sungai-sungai dijadikannya kering: Basan menjadi layu, dan Karmel, dan bunga Lebanon menjadi layu.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "Yang menegur"
+    },
+    {
+      "surface": "בים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "lalu mengeringkannya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "dijadikannya kering"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "menjadi layu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "dan Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "dan bunga"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "menjadi layu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:50:37.321290112Z",
+  "model": "glm-5.3"
+}

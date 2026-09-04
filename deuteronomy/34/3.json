@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "dan ⟨את⟩ Negev, dan ⟨את⟩ Kikar, lembah Yerikho, kota pokok tamar, sampai ke Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kikar"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "Kikar"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "pokok tamar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai ke"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:28.929055865Z",
+  "model": "glm-5.3"
+}

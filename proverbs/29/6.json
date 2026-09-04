@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dalam pelanggaran seorang lelaki jahat ⟨ada⟩ jerat, tetapi orang benar bersorak gembira dan bersukaria.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "dalam pelanggaran"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "tetapi orang benar"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "bersorak gembira"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "dan bersukaria"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:07.222370109Z",
+  "model": "glm-5.3"
+}

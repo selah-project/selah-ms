@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Aku akan menyerakkan ⟨את⟩ engkau di antara bangsa-bangsa, dan menghamburkan engkau di negeri-negeri, dan Aku akan menghabiskan kenajisanmu daripadamu.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "Dan Aku akan menyerakkan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "dan menghamburkan engkau"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "di negeri-negeri"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "dan Aku akan menghabiskan"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "kenajisanmu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:34:17.740643055Z",
+  "model": "glm-5.3"
+}

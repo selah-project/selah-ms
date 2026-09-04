@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Mahalalel hidup lima tahun dan enam puluh tahun, dan ia memperanakkan ⟨את⟩ Yared.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Dan hidup"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "dan enam puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dan ia memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yared"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:13.291745497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan seorang lelaki mengambil ⟨את⟩ isteri bapanya, dan janganlah dia membuka hujung kain bapanya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri bapanya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "dia membuka"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "hujung kain"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:30.386447369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 22:19",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berkatalah ia: Sebab itu dengarlah firman Yahweh: Aku telah melihat ⟨את⟩ Yahweh duduk di atas takhta-Nya, dan segenap Tsebaot langit berdiri di hadapan-Nya, di sebelah kanan-Nya dan di sebelah kiri-Nya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "takhta-Nya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segenap"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "di sebelah kanan-Nya"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "dan di sebelah kiri-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:47.608002758Z",
+  "model": "glm-5.3"
+}

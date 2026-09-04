@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Dan akan jadinya: sebelum mereka berseru, Aku sudah menjawab; sementara mereka masih bercakap, Aku sudah mendengar.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dan akan jadinya"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "mereka berseru"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "sudah menjawab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "bercakap"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "sudah mendengar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:01.965735632Z",
+  "model": "glm-5.3"
+}

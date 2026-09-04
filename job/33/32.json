@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Jika ada perkataan ⟨padamu⟩, jawablah aku; berbicaralah, kerana aku berkenan membenarkan engkau.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicaralah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku berkenan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "membenarkan engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:32:42.988837504Z",
+  "model": "glm-5.3"
+}

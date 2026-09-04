@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Dari mahligai-Mu ⟨yang⟩ atas Yerusalaim, kepada-Mu raja-raja membawa hadiah.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "dari mahligai-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "akan membawa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "שי",
+      "gloss": "hadiah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:20.371212035Z",
+  "model": "glm-5.3"
+}

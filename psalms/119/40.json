@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Lihat, aku merindui prasangat-prasangat-Mu; dalam kebenaran-Mu hidupkanlah aku.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "aku merindui"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "prasangat-prasangat-Mu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam kebenaran-Mu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "hidupkanlah aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:48.937008467Z",
+  "model": "glm-5.3"
+}

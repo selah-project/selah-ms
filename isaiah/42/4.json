@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dia tidak akan menjadi tawar, dan tidak akan patah, sehingga dia menetapkan di bumi keadilan; dan untuk Toranya pulau-pulau mengharapkan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "dia menjadi tawar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "dia patah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "dia menetapkan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "dan untuk Toranya"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "mereka mengharapkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:00.923759815Z",
+  "model": "glm-5.3"
+}

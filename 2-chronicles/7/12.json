@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Yahweh menampakkan diri kepada Syelomo pada waktu malam dan berfirman kepadanya: Aku telah mendengar ⟨את⟩ doamu, dan Aku telah memilih tempat ini bagi-Ku sebagai rumah korban.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lalu menampakkan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doamu"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "doamu"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "dan Aku telah memilih"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sebagai rumah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    }
+  ],
+  "timestamp": "2026-09-04T15:07:06.006843151Z",
+  "model": "glm-5.3"
+}

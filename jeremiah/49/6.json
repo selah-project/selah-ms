@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Tetapi sesudah itu Aku akan memulangkan ⟨את⟩ keadaan tawanan bani Amon, titah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Tetapi sesudah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku akan memulangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keadaan tawanan bani Amon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "keadaan tawanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "titah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:25:38.616127934Z",
+  "model": "glm-5.3"
+}

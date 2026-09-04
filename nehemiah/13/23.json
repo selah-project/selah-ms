@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Juga pada hari-hari itu aku melihat ⟨את⟩ orang Yehuda yang telah menempatkan isteri: perempuan Asydod, perempuan Amon, perempuan Moab.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Yehuda"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang Yehuda"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "telah menempatkan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "isteri-isteri"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "perempuan Asydod"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "perempuan Amon"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "perempuan Moab"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:07.500574399Z",
+  "model": "glm-5.3"
+}

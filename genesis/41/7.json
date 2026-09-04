@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Lalu bulir-bulir yang kurus itu menelan ⟨את⟩ tujuh bulir yang subur dan yang penuh itu; maka Paroh terjaga, dan tampaklah, ⟨ia⟩ mimpi.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "Lalu ... menelan"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "bulir-bulir"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "yang kurus itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tujuh bulir yang subur dan yang penuh itu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "bulir"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "yang subur"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "dan yang penuh itu"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "maka ... terjaga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan tampaklah"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "mimpi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:35.884627709Z",
+  "model": "glm-5.3"
+}

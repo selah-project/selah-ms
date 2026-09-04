@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 2:19",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan manusia masuk ke dalam gua-gua batu karang dan ke dalam liang tanah, kerana takut akan Yahweh dan kerana keagungan kemuliaan-Nya, apabila Ia bangkit untuk menggemparkan bumi.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "ke dalam gua-gua"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "batu karang"
+    },
+    {
+      "surface": "ובמחלות",
+      "gloss": "dan ke dalam liang"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana terhadap"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "dan kerana keindahan"
+    },
+    {
+      "surface": "גאונו",
+      "gloss": "keagungan-Nya"
+    },
+    {
+      "surface": "בקומו",
+      "gloss": "apabila bangkit"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "untuk menggemparkan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:58.240397751Z",
+  "model": "glm-5.3"
+}

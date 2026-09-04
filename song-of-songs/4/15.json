@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Mata air taman-taman, sumur air yang hidup, dan aliran-aliran dari Lebanon.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "taman-taman"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "dan aliran-aliran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:08.399768020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Aku tahu, wahai Yahweh, bahwa adil hukum-hukum-Mu, dan dengan kesetiaan Engkau telah menimpakan penderitaan ke atas aku.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukum-hukum-Mu"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "dan dengan kesetiaan"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Engkau telah menimpakan penderitaan ke atas aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:12.557459174Z",
+  "model": "glm-5.3"
+}

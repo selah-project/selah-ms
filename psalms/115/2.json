@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Mengapakah bangsa-bangsa berkata: \"Di mana, kiranya, Elohim mereka?\"",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mengapakah"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bangsa-bangsa berkata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨bangsa-bangsa⟩"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Di mana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:21.614169830Z",
+  "model": "glm-5.3"
+}

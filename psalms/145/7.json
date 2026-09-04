@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Ingatan akan kelimpahan kebaikan-Mu akan memancarkan keluar, dan kebenaran-Mu akan mereka nyanyikan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ingatan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kelimpahan"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kebaikan-Mu"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "akan memancarkan keluar"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "dan kebenaran-Mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "akan mereka nyanyikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:16.658317989Z",
+  "model": "glm-5.3"
+}

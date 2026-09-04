@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan seorang yang berzina ⟨את⟩ isteri seorang lelaki, yang berzina ⟨את⟩ isteri sesamanya, mati pastilah dibunuh ⟨si⟩ penzina dan perempuan penzina itu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan seorang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "berzina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "berzina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "si penzina"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "dan perempuan penzina"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:57.749846841Z",
+  "model": "glm-5.3"
+}

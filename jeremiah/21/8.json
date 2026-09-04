@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan kepada umat ini engkau akan berkata: Beginilah firman Yahweh: Lihatlah, Aku menaruh di hadapan kamu ⟨את⟩ jalan kehidupan dan ⟨את⟩ jalan kematian.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "engkau akan berkata"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lihatlah, Aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "menaruh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "di hadapan kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalan kehidupan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jalan kematian"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kematian"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:23.930194136Z",
+  "model": "glm-5.3"
+}

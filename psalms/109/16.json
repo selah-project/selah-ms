@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Kerana ia tidak teringat untuk melakukan hesed, tetapi menganiaya orang miskin dan berkeperluan, dan orang yang remuk hatinya, untuk membunuh.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨bahawa⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "teringat"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "tetapi menganiaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan berkeperluan"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "dan yang remuk"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "untuk membunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:59.102653690Z",
+  "model": "glm-5.3"
+}

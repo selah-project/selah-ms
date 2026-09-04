@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan beginilah kata Syimei sambil mengutuk: Keluarlah, keluarlah, hai orang darah, dan hai orang keji!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "Dan beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Syimei"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "sambil mengutuk"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Keluarlah"
+    },
+    {
+      "surface": "צא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "keji"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:52.765595154Z",
+  "model": "glm-5.3"
+}

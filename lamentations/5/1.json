@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Ingatlah, Yahweh, apa yang telah datang ke atas kami; pandanglah dan lihatlah ⟨את⟩ kehinaan kami.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "telah datang ke atas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "pandanglah"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kehinaan kami"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "kehinaan kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:59.111017855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu dipanggillah Moshe, dan berfirmanlah Yahweh kepadanya dari Kemah Pertemuan, kata-Nya",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lalu dipanggillah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "dan berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "dari Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pertemuan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:50.084479731Z",
+  "model": "glm-5.3"
+}

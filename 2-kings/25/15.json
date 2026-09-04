@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan ⟨את⟩ para pedupaan dan ⟨את⟩ mangkuk-mangkuk penyiraman — yang emas, emas seluruhnya, dan yang perak, perak seluruhnya — dibawa oleh ketua para pengawal penjaga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pedupaan"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "para pedupaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mangkuk-mangkuk penyiraman"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mangkuk-mangkuk penyiraman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas seluruhnya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak seluruhnya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dibawa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para pengawal penjaga"
+    }
+  ],
+  "timestamp": "2026-09-04T15:49:11.547332997Z",
+  "model": "glm-5.3"
+}

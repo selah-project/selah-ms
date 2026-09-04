@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Keseluruhanmu indah, teman sayangku, dan tiada cela padamu.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "keseluruhanmu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "indah"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "teman sayangku"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "dan cela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:45.884011421Z",
+  "model": "glm-5.3"
+}

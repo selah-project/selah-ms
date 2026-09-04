@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan sekarang, memang benar, aku ini goel; namun ada juga goel yang lebih hampir daripadaku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "memang benar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "namun ada juga"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yang lebih hampir"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:49.105166181Z",
+  "model": "glm-5.3"
+}

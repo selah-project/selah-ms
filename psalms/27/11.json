@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Ajarlah aku jalan-Mu, Yahweh, dan tuntunlah aku di lorong yang rata, oleh sebab pihak yang memusuhi aku.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ajarlah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jalan-Mu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "dan tuntunlah aku"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "di lorong"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "yang rata"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "pihak yang memusuhi aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:08.385054045Z",
+  "model": "glm-5.3"
+}

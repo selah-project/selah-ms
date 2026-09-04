@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan tidak mengingat anak-anak Israel ⟨את⟩ Yahweh, Elohim mereka, yang menyelamatkan mereka dari tangan semua musuh mereka dari sekeliling.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "mereka mengingat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "yang menyelamatkan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "musuh mereka"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dari sekeliling"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:12.926341628Z",
+  "model": "glm-5.3"
+}

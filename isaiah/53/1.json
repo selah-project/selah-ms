@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Siapakah yang percaya kepada apa yang kami dengar? Dan kepada siapakah zroa Yahweh telah dinyatakan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "kepada apa yang kami dengar"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "dan zroa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "telah dinyatakan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:18.054711929Z",
+  "model": "glm-5.3"
+}

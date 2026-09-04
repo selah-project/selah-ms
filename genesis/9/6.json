@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Yang menumpahkan darah manusia, oleh manusia darahnya akan ditumpahkan, kerana dalam rupa Elohim dibuat-Nya ⟨את⟩ manusia.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Yang menumpahkan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "oleh manusia"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "darahnya"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "akan ditumpahkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dalam rupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:48.772403897Z",
+  "model": "glm-5.3"
+}

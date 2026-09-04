@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Hakimilah aku selaras dengan kebenaran-Mu, Yahweh Elohimku, dan jangan biarkan mereka bersukacita atasku.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "hakimilah aku"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "selaras dengan kebenaran-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mereka bersukacita"
+    },
+    {
+      "surface": "לי",
+      "gloss": "atasku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:13.899564179Z",
+  "model": "glm-5.3"
+}

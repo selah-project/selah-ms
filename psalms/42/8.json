@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Samudra dalam memanggil kepada samudra dalam pada suara junjungan airmu; segala pemecah ombakmu dan gelombangmu telah melintas atasku.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "samudra dalam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "samudra dalam"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pada suara"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "junjungan airmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "pemecah ombakmu"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "dan gelombangmu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "telah melintas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:04.241163079Z",
+  "model": "glm-5.3"
+}

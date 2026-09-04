@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan imam itu akan menaikkan ⟨את⟩ korban olah dan ⟨את⟩ korban minhah itu ke atas mezbah, dan imam itu akan membuat pendamaian baginya, dan ia menjadi tahir.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Dan akan menaikkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban olah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban minhah itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "korban minhah"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ke atas mezbah"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan membuat pendamaian"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam itu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dan ia menjadi tahir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:43.822777831Z",
+  "model": "glm-5.3"
+}

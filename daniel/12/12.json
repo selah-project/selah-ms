@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Berbahagialah yang menanti dan sampai kepada seribu tiga ratus tiga puluh lima hari.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "yang menanti"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "dan sampai"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "kepada hari"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "seribu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "dan lima"
+    }
+  ],
+  "timestamp": "2026-09-04T14:48:27.273097043Z",
+  "model": "glm-5.3"
+}

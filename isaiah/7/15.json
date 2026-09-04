@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Keju dan madu akan ia makan untuk diketahuinya menolak yang jahat dan memilih yang baik.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "keju"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "dan madu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akan ia makan"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "untuk diketahuinya"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "menolak"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "dan memilih"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yang baik"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:17.880507165Z",
+  "model": "glm-5.3"
+}

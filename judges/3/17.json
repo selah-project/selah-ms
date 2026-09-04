@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu Ehud menghampirkan ⟨את⟩ persembahan itu kepada Eglon, raja Moab; dan Eglon ⟨adalah⟩ seorang lelaki gemuk sangat.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "menghampirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "persembahan itu"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "kepada Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "dan Eglon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "gemuk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:57.490361046Z",
+  "model": "glm-5.3"
+}

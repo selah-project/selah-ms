@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan Ia menyerahkan kepada batu ais ternak mereka, dan kawan-kawan mereka kepada api-petir.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Dan Ia menyerahkan"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "kepada batu ais"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ternak mereka"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "dan kawan-kawan mereka"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "kepada api-petir"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:50.813645694Z",
+  "model": "glm-5.3"
+}

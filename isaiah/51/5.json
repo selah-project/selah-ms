@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Dekat kebenaranku, keluar keselamatanku, dan lengan-ku ⟨akan⟩ menghakimi bangsa-bangsa; kepadaku pulau-pulau menanti, dan kepada lengan-ku mereka mengharap.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Dekat"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kebenaranku"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "keselamatanku"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "dan lengan-ku"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulau-pulau"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "menanti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan kepada"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "lengan-ku"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "mereka mengharap"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:30.580726194Z",
+  "model": "glm-5.3"
+}

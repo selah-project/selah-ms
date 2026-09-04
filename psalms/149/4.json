@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 149,
+  "translation": "Sebab Yahweh berkenan kepada umat-Nya, Ia menghiasi orang-orang lemah hati dengan keselamatan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "kepada umat-Nya"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "menghiasi"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "orang-orang lemah hati"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "dengan keselamatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:36.773274849Z",
+  "model": "glm-5.3"
+}

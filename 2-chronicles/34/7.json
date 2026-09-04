@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Dia merobohkan ⟨את⟩ mazbah-mazbah itu dan ⟨את⟩ tiang-tiang Asyera, dan patung-patung pahatan diremukkan sehingga halus, dan segala patung-patung matahari ditebang di segala tanah Israel, lalu dia pulang ke Yerusalem.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "dia merobohkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah-mazbah itu"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mazbah-mazbah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "dan patung-patung pahatan"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "diremukkan"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "sehingga halus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "patung-patung matahari"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ditebang"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "di segala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan dia pulang"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ke Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T15:14:36.877031659Z",
+  "model": "glm-5.3"
+}

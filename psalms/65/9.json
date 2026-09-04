@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Penduduk hujung-hujung bumi gentar akan tanda-tanda-Mu; tempat terbit pagi dan senja Engkau buat bersorak-sorai.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "gentar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "hujung-hujung bumi"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "akan tanda-tanda-Mu"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "tempat terbit"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "dan senja"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "Engkau buat bersorak-sorai"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:49.956736260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Andai kata engkau memberi perhatian kepada perintah-perintah-Ku, maka damai engkau akan seperti sungai, dan kebenaran engkau seperti ombak laut.",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "Andai kata"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "engkau memberi perhatian"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "kepada perintah-perintah-Ku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka akan"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "seperti sungai"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "damai engkau"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "dan kebenaran engkau"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "seperti ombak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:51.106961493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "dan Akitub memperanakkan ⟨את⟩ Tsadok, dan Tsadok memperanakkan ⟨את⟩ Syalum",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "dan Akitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "dan Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:22.147024843Z",
+  "model": "glm-5.3"
+}

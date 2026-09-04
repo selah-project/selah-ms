@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu masuklah Raja David dan duduk di hadapan Yahweh, lalu berkata: Siapakah aku, Yahweh Elohim, dan siapakah keluargaku, sehingga Engkau telah membawaku setapak ini?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu masuklah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan duduk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "keluargaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "Engkau telah membawaku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "setapak ini"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:01.329107052Z",
+  "model": "glm-5.3"
+}

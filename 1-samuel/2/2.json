@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Tiada yang kudus seperti Yahweh, kerana tiada selain daripadamu, dan tiada gunung batu seperti Elohim kita.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yang kudus"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "seperti Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "selain daripadamu"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "צור",
+      "gloss": "gunung batu"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "seperti Elohim kita"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:07.057188682Z",
+  "model": "glm-5.3"
+}

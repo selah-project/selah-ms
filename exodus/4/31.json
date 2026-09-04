@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Maka percayalah bangsa itu, dan ketika mereka mendengar bahawa Yahweh telah melawat ⟨את⟩ bani Israel dan bahawa ⟨Ia⟩ telah melihat ⟨את⟩ kesengsaraan mereka, maka mereka tunduk sujud dan menyembah.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "maka percayalah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "dan ketika mereka mendengar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "telah melawat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahawa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesengsaraan mereka"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "kesengsaraan mereka"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "maka mereka tunduk sujud"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "dan menyembah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:57.051551442Z",
+  "model": "glm-5.3"
+}

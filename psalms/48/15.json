@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "kerana inilah Elohim, Elohim kita, selama-lamanya dan seterusnya; Dia akan memimpin kita melewati maut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "dan seterusnya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יְנַהֲגֵנוּ",
+      "gloss": "akan memimpin kita"
+    },
+    {
+      "surface": "על",
+      "gloss": "melewati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:26.095270625Z",
+  "model": "glm-5.3"
+}

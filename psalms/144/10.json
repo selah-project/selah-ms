@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 144,
+  "translation": "Yang memberi kemenangan kepada raja-raja, yang membebaskan ⟨את⟩ David hamba-Nya dari pedang yang jahat.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Yang memberi"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kemenangan"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kepada raja-raja"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "yang membebaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "dari pedang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yang jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:11.129395342Z",
+  "model": "glm-5.3"
+}

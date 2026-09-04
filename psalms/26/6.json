@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Aku akan membasuh tanganku dalam kebersihan, dan aku akan mengelilingi ⟨את⟩ mazbah-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "aku akan membasuh"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "dalam kebersihan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "dan aku akan mengelilingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah-Mu"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "mazbah-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:09.203032513Z",
+  "model": "glm-5.3"
+}

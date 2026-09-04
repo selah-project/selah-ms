@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Bukankah ini Dawid, yang mereka beri jawab baginya dalam tarian-tarian, katanya: Syaul telah memukul beribu-ribu, dan Dawid berpuluh-puluh ribu?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mereka beri jawab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "dalam tarian-tarian"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "telah memukul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "beribu-ribu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "dan Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "berpuluh-puluh ribu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:32.675370228Z",
+  "model": "glm-5.3"
+}

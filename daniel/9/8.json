@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Yahweh, kepada kami ⟨adalah⟩ rasa malu muka — kepada raja-raja kami, pembesar-pembesar kami, dan bapa-bapa kami — yang telah berdosa terhadap-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "rasa malu"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "kepada raja-raja kami"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "kepada pembesar-pembesar kami"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "dan kepada bapa-bapa kami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berdosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "terhadap-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:47:28.099507142Z",
+  "model": "glm-5.3"
+}

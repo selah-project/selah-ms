@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sebab di mati tiada ingatan akan-Mu; di Syeol siapakah yang memuji-Mu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "במות",
+      "gloss": "di mati"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ingatan akan-Mu"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "di Syeol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "yang memuji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.471881117Z",
+  "model": "glm-5.3"
+}

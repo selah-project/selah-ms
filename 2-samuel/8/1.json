@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan terjadilah selepas itu, bahawa David memukul ⟨את⟩ Pelesytim dan menundukkan mereka, dan David mengambil ⟨את⟩ tali kekang ibu kota dari tangan Pelesytim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "terjadilah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selepas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "memukul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesytim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "menundukkan mereka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mengambil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tali kekang ibu kota"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "tali kekang"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ibu kota"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:25.584224253Z",
+  "model": "glm-5.3"
+}

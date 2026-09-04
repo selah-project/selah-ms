@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Kemudian mengutuslah raja memanggil ⟨את⟩ Ahimelekh anak Ahituv sang imam, dan ⟨את⟩ seluruh rumah bapanya, para imam yang di Nob; dan datanglah mereka semua kepada raja.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mengutuslah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahimelekh anak Ahituv sang imam"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahituv"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh rumah bapanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "di Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dan datanglah"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mereka semua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:06.516128485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Bahkan, Engkau mengembalikan ketajaman pedangnya, dan tidak mengokohkannya dalam peperangan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Bahkan"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Engkau mengembalikan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ketajaman"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedangnya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "Engkau mengokohkannya"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dalam peperangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:33.886501374Z",
+  "model": "glm-5.3"
+}

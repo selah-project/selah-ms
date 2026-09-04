@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Pada waktu pagi bangunlah pembantu orang Elohim untuk keluar, dan keluarlah ia, dan lihat, tentera mengepung ⟨את⟩ kota itu, serta kuda dan kereta. Lalu kata budaknya kepadanya: Ah, tuanku, bagaimanakah kita hendak berbuat?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Pada waktu pagi bangunlah"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "pembantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "untuk bangun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dan keluarlah ia"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "mengepung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "serta kuda"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "dan kereta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "budaknya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuanku"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "bagaimanakah"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita hendak berbuat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:13.328412262Z",
+  "model": "glm-5.3"
+}

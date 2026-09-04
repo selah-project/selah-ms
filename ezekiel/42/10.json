@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Dalam kelebaran tembok halaman, jalan ke arah timur, di hadapan ruang terpisah dan di hadapan bangunan itu — bilik-bilik.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "dalam kelebaran"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "halaman"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "timur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "ruang terpisah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke arah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadapan"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "bangunan itu"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "bilik-bilik"
+    }
+  ],
+  "timestamp": "2026-09-04T13:40:10.310902564Z",
+  "model": "glm-5.3"
+}

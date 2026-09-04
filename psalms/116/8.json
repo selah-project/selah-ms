@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Sebab Engkau telah melepaskan jiwaku dari maut, ⟨את⟩ mataku dari air mata, ⟨את⟩ kakiku dari tersandung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "Engkau telah melepaskan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "dari maut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mataku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "air mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakiku"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "dari tersandung"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:05.898806592Z",
+  "model": "glm-5.3"
+}

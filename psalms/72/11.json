@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Dan semua raja akan sujud kepadanya; semua bangsa akan berkhidmat kepadanya.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Dan akan sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "akan berkhidmat kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:51.009077337Z",
+  "model": "glm-5.3"
+}

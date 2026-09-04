@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Namun Ia menyelamatkan mereka demi nama-Nya, untuk memperkenalkan ⟨את⟩ keperkasaan-Nya.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Namun Ia menyelamatkan mereka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "untuk memperkenalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keperkasaan-Nya"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "keperkasaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:03.724815990Z",
+  "model": "glm-5.3"
+}

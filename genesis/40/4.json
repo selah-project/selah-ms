@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan sar pembantai-pembantai menugaskan ⟨את⟩ Yosef ⟨את⟩ mereka, dan ia melayani ⟨את⟩ mereka; dan mereka berada beberapa hari dalam tahanan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Dan menugaskan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pembantai-pembantai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "dan ia melayani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan mereka berada"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "beberapa hari"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "dalam tahanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:40.964647485Z",
+  "model": "glm-5.3"
+}

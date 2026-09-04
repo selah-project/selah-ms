@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Dan ⟨ia⟩ akan hidup lagi selama-lamanya, tidak akan melihat liang kubur.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dan akan hidup"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akan melihat"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "liang kubur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:31.109405764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "\"Dan kain biru, dan ungu, dan benang merah dampar, dan linen halus, dan bulu kambing.\"",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "Dan kain biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "dan ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dan (ulat) benang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "merah dampar"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan linen halus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "dan (bulu) kambing"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:51.310262727Z",
+  "model": "glm-5.3"
+}

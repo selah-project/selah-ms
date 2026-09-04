@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan kamu mencemarkan ⟨את⟩-nya dengan kata-katamu, dengan berkata: 'Meja Adonai — najislah ia, dan hasilnya, makanannya dihina.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Dan kamu"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "mencemarkan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "dia — nama Yahweh yang dicemuh"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "dengan kata-katamu"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "Meja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "najis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iah"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "dan hasilnya"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "dihina"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makanannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:11.201923585Z",
+  "model": "glm-5.3"
+}

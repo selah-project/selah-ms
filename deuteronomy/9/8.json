@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan di Horev kamu membuat murka ⟨את⟩ Yahweh, lalu bangkitlah murka Yahweh terhadap kamu untuk membinasakan ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Dan di Horev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "kamu membuat murka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "lalu bangkitlah murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "terhadap kamu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:09.812050812Z",
+  "model": "glm-5.3"
+}

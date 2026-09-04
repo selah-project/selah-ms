@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 121,
+  "translation": "Lihatlah, tidak mengantuk dan tidak tidur Penjaga Israel.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "mengantuk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Penjaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:51.054579498Z",
+  "model": "glm-5.3"
+}

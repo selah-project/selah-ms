@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Aku akan menghantar api ke atas Yehuda, dan ia akan memakan kubu-kubu Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Dan Aku akan menghantar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ke atas Yehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dan ia akan memakan"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "kubu-kubu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:38.765590403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Engkau telah mengubah ratapanku menjadi tarian bagiku; Engkau telah membuka kain kabungku dan mengikat pinggangku dengan sukacita.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "Engkau telah mengubah"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "ratapanku"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "menjadi tarian"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "Engkau telah membuka"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "kain kabungku"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "dan mengikat pinggangku"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "dengan sukacita"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:56.536211250Z",
+  "model": "glm-5.3"
+}

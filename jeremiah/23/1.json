@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Celakalah gembala-gembala yang membinasakan dan menyuraikan ⟨את⟩ kawanan domba padang rumputku, umum Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celakalah"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "gembala-gembala"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "yang membinasakan"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "dan menyuraikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawanan domba padang rumputku"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan domba"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "padang rumputku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "umum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:38.017104571Z",
+  "model": "glm-5.3"
+}

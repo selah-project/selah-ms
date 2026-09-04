@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "El ⟨ialah⟩ Yahweh, dan ⟨Ia⟩ menyinari kita; ikatlah perayaan dengan tali sehingga tanduk-tanduk mazbah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "dan ⟨Ia⟩ menyinari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ikatlah"
+    },
+    {
+      "surface": "חג",
+      "gloss": "perayaan"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "dengan tali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:39.563494017Z",
+  "model": "glm-5.3"
+}

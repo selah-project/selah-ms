@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kepada keturunan dan keturunan kesetiaan-Mu; Engkau ⟨telah⟩ mengasaskan bumi, dan ia berdiri tegak.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Kepada keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dan keturunan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "Engkau ⟨telah⟩ mengasaskan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "dan ia berdiri tegak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:32.272574815Z",
+  "model": "glm-5.3"
+}

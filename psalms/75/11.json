@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Dan segala tanduk orang fasik akan aku potong; tanduk-tanduk orang benar akan ditinggikan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan segala"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tanduk"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "akan aku potong"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "akan ditinggikan"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:32.732323493Z",
+  "model": "glm-5.3"
+}

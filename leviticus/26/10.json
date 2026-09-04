@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan kamu akan memakan tua yang sudah berlama-lama, dan tua akan kamu keluarkan kerana yang baharu.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan kamu akan memakan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "tua"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "yang sudah berlama-lama"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "dan tua"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana \/ dari depan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "baharu"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "kamu akan mengeluarkan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:32.365753191Z",
+  "model": "glm-5.3"
+}

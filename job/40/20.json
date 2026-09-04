@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Sesungguhnya gunung-gunung menghasilkan makanan baginya, dan segala binatang padang bermain di sana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "בול",
+      "gloss": "makanan (hasil bumi)"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "menghasilkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "חית",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "bermain"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:11.368130256Z",
+  "model": "glm-5.3"
+}

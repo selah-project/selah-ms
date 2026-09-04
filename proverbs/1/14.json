@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Buanglah undianmu ke tengah-tengah kita; satu beg bersama kita semua akan ada.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "undianmu"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "buanglah"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ke tengah-tengah kita"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "beg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "bersama kita semua"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:55.062475514Z",
+  "model": "glm-5.3"
+}

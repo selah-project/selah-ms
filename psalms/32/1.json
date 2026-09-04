@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Untuk David. Mashil. Betapa berbahagianya orang yang diangkat pelanggarannya, yang berselimut dosanya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Mashil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Betapa berbahagianya"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pelanggarannya"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "yang berselimut"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "dosanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:31.350545876Z",
+  "model": "glm-5.3"
+}

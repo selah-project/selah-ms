@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu ia melarikan diri, ia dan segala yang ada padanya, dan ia bangun, dan menyeberangi ⟨את⟩ sungai itu, dan mengarahkan ⟨את⟩ mukanya ke gunung HaGilead.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Lalu ia melarikan diri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dan ia bangun"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan menyeberangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sungai itu"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sungai itu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan mengarahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukanya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "HaGilead"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:34.488153502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan mata Tsidkiyahu dibutakan, dan ia diikat dengan rantai tembaga untuk dibawa ⟨את⟩-nya ke Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mata Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "dibutakan"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "diikat"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "dengan rantai tembaga"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "untuk dibawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia (Tsidkiyahu)"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ke Bavel"
+    }
+  ],
+  "timestamp": "2026-09-04T13:21:55.829786682Z",
+  "model": "glm-5.3"
+}

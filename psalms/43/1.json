@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Hakimi aku, hai Elohim, dan bacalah perkara aku terhadap bangsa yang tidak setia, dari lelaki penipu dan kezaliman Engkau lepaskan aku.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Hakimi aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "dan bacalah"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "perkara aku"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "terhadap bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yang tidak"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "setia"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "dari lelaki"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipu"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "dan kezaliman"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "Engkau lepaskan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:59.514790970Z",
+  "model": "glm-5.3"
+}

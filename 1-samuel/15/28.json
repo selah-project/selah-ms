@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan berkatalah Shemuel kepadanya: Yahweh telah mengoyakkan ⟨את⟩ kerajaan Israel daripadamu pada hari ini, dan memberikannya kepada sesamamu yang lebih baik daripadamu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "telah mengoyakkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerajaan Israel"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "kepada sesamamu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yang lebih baik"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:11.187058794Z",
+  "model": "glm-5.3"
+}

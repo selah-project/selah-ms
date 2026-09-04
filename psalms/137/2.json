@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 137,
+  "translation": "Di atas pokok arak di tengah-tengahnya kami menggantung kecapi kami.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Di atas"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "pokok arak"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "di tengah-tengahnya"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "kami menggantung"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kecapi kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:40.988023196Z",
+  "model": "glm-5.3"
+}

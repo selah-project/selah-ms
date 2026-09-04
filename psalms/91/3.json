@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Sebab Dialah yang melepaskan engkau dari jerat pemburu, dari wabah kerosakan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "yang melepaskan engkau"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "dari jerat"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "pemburu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dari wabah"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kerosakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:09.579824490Z",
+  "model": "glm-5.3"
+}

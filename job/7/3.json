@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "begitulah aku diwariskan ⟨dengan⟩ bulan-bulan yang sia-sia, dan malam-malam yang penat ditentukan ⟨bagiku⟩.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "aku diwariskan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨bagiku⟩"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "bulan-bulan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yang sia-sia"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "dan malam-malam"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "yang penat"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "ditentukan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨bagiku⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:38.217260682Z",
+  "model": "glm-5.3"
+}

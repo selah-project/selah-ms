@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan semua pintu-pintu dan tiang-tiang pintu ⟨adalah⟩ empat segi, jendela tingkap; dan berhadapan jendela lawan jendela, tiga kali.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan semua"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "tiang-tiang pintu"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "empat segi"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "jendela tingkap"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "dan berhadapan"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "jendela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lawan"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "jendela"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:28.718567556Z",
+  "model": "glm-5.3"
+}

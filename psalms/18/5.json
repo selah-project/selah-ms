@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Tali-tali maut melingkupi aku, dan sungai-sungai Belial menggentarkan aku.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "melingkupi aku"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maut"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "dan sungai-sungai"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "menggentarkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:10.382609099Z",
+  "model": "glm-5.3"
+}

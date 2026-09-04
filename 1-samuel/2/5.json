@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Yang kenyang menyewa diri untuk roti, dan yang lapar berhenti ⟨dari lapar⟩; sehingga perempuan mandul melahirkan tujuh, dan yang banyak anak menjadi lemah.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "yang kenyang"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "untuk roti"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "menyewa diri"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "dan yang lapar"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "berhenti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "perempuan mandul"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "dan yang banyak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "menjadi lemah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:12:40.390261409Z",
+  "model": "glm-5.3"
+}

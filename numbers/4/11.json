@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan di atas mezbah emas mereka akan membentangkan kain tekelet, lalu menutup ⟨את⟩-nya dengan sarung kulit takhasy, dan menaruh ⟨את⟩ galang-galangnya.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "mereka akan membentangkan"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "kain"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "lalu menutup"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "-nya (mezbah itu)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "dengan sarung"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhasy"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "dan menaruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galangnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galang-galangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:37.704726037Z",
+  "model": "glm-5.3"
+}

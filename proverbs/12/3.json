@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Manusia tidak akan ⟨berteguh⟩ berdiri melalui kejahatan, tetapi akar orang-orang benar tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "akan berteguh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "melalui kejahatan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "tetapi akar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "orang-orang benar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak akan"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "goyah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:19.185634676Z",
+  "model": "glm-5.3"
+}

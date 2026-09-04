@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Siapa yang membentuk el (tuhan), dan menuang patung tuangan, supaya tidak berguna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "membentuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el (tuhan)"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "dan patungan"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "tuangan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "berguna"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:35.576775301Z",
+  "model": "glm-5.3"
+}

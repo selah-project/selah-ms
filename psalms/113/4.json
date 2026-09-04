@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 113,
+  "translation": "Tinggi ⟨⟨di atas⟩⟩ segala bangsa-bangsa Yahweh, di atas langit kemuliaan-Nya.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "tinggi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di atas⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kemuliaan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:05.832833667Z",
+  "model": "glm-5.3"
+}

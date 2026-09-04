@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu naiklah Yehuda, dan Yahweh menyerahkan ⟨את⟩ orang Kanaan dan ⟨את⟩ orang Perizi ke dalam tangan mereka; dan mereka memukul kalah mereka di Bezek, sepuluh ribu orang.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Lalu naiklah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan diserahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang Kanaan dan orang Perizi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kanaan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ke dalam tangan mereka"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "dan mereka memukul kalah mereka"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "di Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:05:14.557034949Z",
+  "model": "glm-5.3"
+}

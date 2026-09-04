@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Aku telah mendengar ⟨את⟩ rungutan bani Israel; berbicaralah kepada mereka, katakan: Antara dua senja kamu akan makan daging, dan pada waktu pagi kamu akan kenyang dengan roti; dan kamu akan tahu bahawa Akulah Yahweh, Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rungutan bani Israel"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "rungutan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicaralah"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Antara"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dua senja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu akan makan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "dan pada waktu pagi"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kamu akan kenyang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "dan kamu akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:42.868948940Z",
+  "model": "glm-5.3"
+}

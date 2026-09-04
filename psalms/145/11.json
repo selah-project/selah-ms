@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Kemuliaan kerajaan-Mu kata ⟨mereka⟩, dan keperkasaan-Mu bicarakan ⟨mereka⟩.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Kemuliaan"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "kerajaan-Mu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kata"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "dan keperkasaan-Mu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bicarakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:09.621813207Z",
+  "model": "glm-5.3"
+}

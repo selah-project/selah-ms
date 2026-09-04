@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "dan ⟨את⟩ Bet-Nimra dan ⟨את⟩ Bet-Haran, kota-kota berkubu, dan kandang-kandang kambing domba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bet-Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bet-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kota-kota"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "dan kandang-kandang"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing domba"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:02.030541008Z",
+  "model": "glm-5.3"
+}

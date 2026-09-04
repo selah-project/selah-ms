@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan ia menunggu tujuh hari menurut waktu yang ditetapkan oleh Syemuel, tetapi Syemuel tidak datang ke Gilgal, dan rakyat itu bersurai daripadanya.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Dan ia menunggu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sampai waktu yang ditetapkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "oleh Syemuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "datang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ke Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "dan bersurai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat itu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:20:35.220303332Z",
+  "model": "glm-5.3"
+}

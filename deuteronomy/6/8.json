@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan engkau akan mengikatnya sebagai tanda atas tanganmu, dan ia akan menjadi sebagai tanda-frontal di antara kedua-dua matamu.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "Dan engkau akan mengikatnya"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sebagai tanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "sebagai tanda-frontal"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di antara"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "kedua-dua matamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:09.870648491Z",
+  "model": "glm-5.3"
+}

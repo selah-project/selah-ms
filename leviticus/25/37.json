@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Perakmu jangan engkau berikan kepadanya dengan bunga riba, dan dengan lebihan jangan engkau berikan makananmu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perakmu"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "perakmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "dengan bunga riba"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "dan dengan lebihan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "makananmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:11.786867845Z",
+  "model": "glm-5.3"
+}

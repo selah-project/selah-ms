@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan setelah David selesai mempersembahkan korban bakaran dan korban keselamatan, ia memberkati ⟨את⟩ bangsa itu dengan nama Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Dan setelah selesai"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "mempersembahkan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dan korban keselamatan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ia memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dengan nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:01:15.007199670Z",
+  "model": "glm-5.3"
+}

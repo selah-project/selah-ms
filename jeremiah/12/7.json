@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Aku telah meninggalkan ⟨את⟩ rumah-Ku, Aku telah menelantarkan ⟨את⟩ pusaka-Ku; Aku telah menyerahkan ⟨את⟩ kekasih jiwa-Ku ke dalam telapak tangan musuh-musuhnya.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Aku telah meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumah-Ku"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumah-Ku"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "Aku telah menelantarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusaka-Ku"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "pusaka-Ku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku telah menyerahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kekasih jiwa-Ku"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "kekasih"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ke dalam telapak tangan"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "musuh-musuhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:33.715659726Z",
+  "model": "glm-5.3"
+}

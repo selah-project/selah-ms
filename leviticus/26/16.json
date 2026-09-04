@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "maka Aku pun akan melakukan hal ini kepada kamu, dan Aku akan menetapkan atas kamu kekejutan: ⟨את⟩ penyakit busuk dan ⟨את⟩ demam menyala, yang memakan habis mata dan menyebabkan nyawa layu; dan kamu akan menabur sia-sia benih kamu, dan musuh kamu akan memakannya.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "maka... pun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan melakukan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hal ini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "dan Aku akan menetapkan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "atas kamu"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "kekejutan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penyakit busuk"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "penyakit busuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "demam menyala"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "demam menyala"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "memakan habis"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "dan menyebabkan layu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "dan kamu akan menabur"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "benih kamu"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "dan akan memakannya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:53.589101544Z",
+  "model": "glm-5.3"
+}

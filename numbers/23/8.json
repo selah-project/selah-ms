@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Bagaimana aku mengutuk ⟨yang⟩ tidak dikutuk El, dan bagaimana aku memurkai ⟨yang⟩ tidak dimurkai Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bagaimana"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "aku mengutuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "dikutuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan bagaimana"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "aku memurkai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "dimurkai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:00.401746585Z",
+  "model": "glm-5.3"
+}

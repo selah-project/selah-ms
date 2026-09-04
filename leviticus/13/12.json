@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan jika tsaraat itu mekar-mekar di kulit, dan tsaraat itu menutupi ⟨את⟩ seluruh kulit orang yang berplag itu, dari kepala sampai kakinya, sejauh yang kelihatan kepada mata sang kohen —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "mekar"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "mekar-mekar"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat itu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "di kulit"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh kulit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "orang yang berplag"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "dari kepalanya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sejauh"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "yang kelihatan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:55.854578922Z",
+  "model": "glm-5.3"
+}

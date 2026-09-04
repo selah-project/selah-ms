@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 98,
+  "translation": "Telah diingat-Nya hesed-Nya dan kesetiaan-Nya bagi keluarga Israel; telah melihat segala hujung bumi ⟨את⟩ keselamatan Elohim kita.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "telah diingat-Nya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "dan kesetiaan-Nya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bagi keluarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "hujung"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keselamatan"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "keselamatan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:56.741419713Z",
+  "model": "glm-5.3"
+}

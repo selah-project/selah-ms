@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "dan tenteranya, dan bilangan yang didaftarkan mereka: empat puluh tujuh ribu enam ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "dan tenteranya"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "dan yang didaftarkan mereka"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "empat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "dan tujuh puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "dan enam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:42.279764712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "El i, El i, mengapa Kau tinggalkan aku? Jauh dari pertolonganku, perkataan raungan ku!",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "Kau tinggalkan aku"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Jauh"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "dari pertolonganku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "raungan ku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:30.672075493Z",
+  "model": "glm-5.3"
+}

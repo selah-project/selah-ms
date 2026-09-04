@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan mereka akan menaikkan ⟨suatu⟩ jemaah terhadapmu, dan mereka akan merajam ⟨את⟩ engkau dengan batu, dan mereka akan menikam engkau dengan pedang-pedang mereka.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "dan mereka akan menaikkan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "dan mereka akan merajam"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "engkau"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "dengan batu"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "dan mereka akan menikam engkau"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "dengan pedang-pedang mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:05.017309203Z",
+  "model": "glm-5.3"
+}

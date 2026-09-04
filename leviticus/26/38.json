@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan kamu akan binasa di antara bangsa-bangsa, dan tanah musuh kamu akan memakan ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "dan kamu akan binasa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dan ia akan memakan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "tanah (musuh kamu)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "musuh kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:56.566953198Z",
+  "model": "glm-5.3"
+}

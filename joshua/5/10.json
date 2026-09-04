@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan berkhemahlah bani Israel di Gilgal, dan mereka membuat ⟨את⟩ Pesah pada hari empat belas bulan itu, pada waktu petang, di Arabot Yeriho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Dan berkhemahlah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "di Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "dan mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "pada empat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bulan itu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "di Arabot"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:04.606132599Z",
+  "model": "glm-5.3"
+}

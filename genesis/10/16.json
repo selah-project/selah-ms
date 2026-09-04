@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "dan ⟨את⟩ orang Yebus, dan ⟨את⟩ orang Emor, dan ⟨את⟩ orang Girgasy;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Yebus"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "orang Yebus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Emor"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "orang Emor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang Girgasy"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "orang Girgasy"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:28.471871825Z",
+  "model": "glm-5.3"
+}

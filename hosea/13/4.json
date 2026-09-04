@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan Akulah Yahweh, Elohimmu, dari tanah Mitsrayim; dan Elohim selain Aku engkau tidak kenal, dan tiada penyelamat selain Aku.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "dan Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "dan Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "selain Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "engkau kenal"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "dan penyelamat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "selain"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:04.635165085Z",
+  "model": "glm-5.3"
+}

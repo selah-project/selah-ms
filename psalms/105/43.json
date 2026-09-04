@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dan Ia membawa keluar umat-Nya dengan kegembiraan, ⟨את⟩ pilihan-Nya dengan sorak-sorai.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Dan Ia membawa keluar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "dengan kegembiraan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "dengan sorak-sorai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilihan-Nya"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "pilihan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:44.222052847Z",
+  "model": "glm-5.3"
+}

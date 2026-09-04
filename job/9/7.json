@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Yang berfirma kepada matahari, dan ia tidak terbit, dan bintang-bintang dimeteraikannya.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Yang berfirma"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "kepada matahari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ia terbit"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "dimeteraikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:56.684445656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Orang tua dan ⟨yang⟩ diberi muka ⟨ialah⟩ kepala; dan nabi yang mengajar dusta ⟨ialah⟩ ekor.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "orang tua"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "dan yang diangkat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "dan nabi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "yang mengajar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dusta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "ekor"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:38.559503301Z",
+  "model": "glm-5.3"
+}

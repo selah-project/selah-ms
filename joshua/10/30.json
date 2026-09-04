@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 10:30",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan Yahweh memberikan juga kota itu ⟨את⟩ ke dalam tangan Yisrael, dan ⟨את⟩ rajanya; maka mereka memukulnya dengan mata pedang, dan ⟨את⟩ segala nefesy yang ada di dalamnya; tidak ditinggalkannya di dalamnya seorang yang tinggal hidup; dan dilakukannya kepada rajanya seperti yang dilakukannya kepada raja Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "kota itu (Livna)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "rajanya"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "rajanya"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "maka memukulnya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "dengan mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala nefesy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ditinggalkannya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "yang tinggal hidup"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dan dilakukannya"
+    },
+    {
+      "surface": "למלכה",
+      "gloss": "kepada rajanya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang dilakukannya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerikho"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:25.110712976Z",
+  "model": "glm-5.3"
+}

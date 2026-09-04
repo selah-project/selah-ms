@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Dan aku akan berjalan di tempat yang lapang, sebab titah-titah-Mu aku cari.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "dan aku akan berjalan"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "di tempat yang lapang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "titah-titah-Mu"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "aku cari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:01.969778074Z",
+  "model": "glm-5.3"
+}

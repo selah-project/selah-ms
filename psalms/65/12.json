@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Tahun kebaikan-Mu Engkau pertahtakan, dan laluan-laluan-Mu menitikkan kelimpahan.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Engkau pertahtakan"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "kebaikan-Mu"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "dan laluan-laluan-Mu"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "menitikkan"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "kelimpahan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:49.957301323Z",
+  "model": "glm-5.3"
+}

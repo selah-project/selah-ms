@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Berapa lama, Yahweh, akan Engkau bersembunyi? Untuk selama-lamanya? Akan murka-Mu menyala seperti api?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "berapa lama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "Engkau bersembunyi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "akan menyala"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "murka-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.423186645Z",
+  "model": "glm-5.3"
+}

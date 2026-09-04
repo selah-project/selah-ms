@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Yang melakukan keadilan bagi anak yatim dan balu, dan mengasihi pendatang, untuk memberi kepadanya makanan dan pakaian.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yang melakukan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "anak yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "dan balu"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "dan mengasihi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "pendatang"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "dan pakaian"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:58.499618455Z",
+  "model": "glm-5.3"
+}

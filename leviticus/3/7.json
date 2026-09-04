@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Jika anak biri-biri itu yang dipersembahkannya sebagai korban ⟨את⟩nya, maka ia membawa dia ke hadapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "anak biri-biri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dipersembahkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban ⟨את⟩nya"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban nya"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "maka ia membawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ke hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.628340174Z",
+  "model": "glm-5.3"
+}

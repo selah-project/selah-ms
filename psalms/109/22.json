@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 109,
+  "translation": "Sebab aku ini miskin dan papa, dan hatiku terluka di dalam diriku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "dan papa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku ini"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "dan hatiku"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "terluka"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "di dalam diriku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:46.797640433Z",
+  "model": "glm-5.3"
+}

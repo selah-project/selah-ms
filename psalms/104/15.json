@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "dan anggur yang menggembirakan hati manusia fana, untuk membuat muka bercahaya dari minyak, dan roti yang menyokong hati manusia fana.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "dan anggur"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "menggembirakan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "untuk membuat bercahaya"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "muka"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "dari minyak"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "dan roti"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "menyokong"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:19.674116495Z",
+  "model": "glm-5.3"
+}

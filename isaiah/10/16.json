@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Sebab itu Adonai, Yahweh Tsebaot, akan mengirim kekurusan di tengah yang gemuknya, dan di bawah kemuliaannya akan menyala pembakaran, seperti penyalaan api.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sebab itu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akan mengirim"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "di tengah yang gemuknya"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kekurusan"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "kemuliaannya"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "akan menyala"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "pembakaran"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "seperti penyalaan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:56.536231859Z",
+  "model": "glm-5.3"
+}

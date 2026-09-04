@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Makanan dengan wang engkau jualkan kepadaku, maka aku makan; dan air dengan wang engkau berikan kepadaku, maka aku minum; hanya biarlah aku melalui dengan kakiku.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan wang"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "engkau jualkan kepadaku"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "maka aku makan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan air"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan wang"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engkau berikan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "maka aku minum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "biarlah aku melalui"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "dengan kakiku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:25.280612635Z",
+  "model": "glm-5.3"
+}

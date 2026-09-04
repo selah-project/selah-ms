@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Aku, ya Aku, ialah Yahweh, dan tiada penyelamat selain Aku.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ya Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "selain Aku"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "penyelamat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:08.105774720Z",
+  "model": "glm-5.3"
+}

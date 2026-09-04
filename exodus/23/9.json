@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan orang asing janganlah engkau menindas, kerana kamu sendiri telah mengenal ⟨את⟩ jiwa orang asing, kerana kamu telah menjadi orang asing di tanah Mitsrayim (Mesir).",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Dan orang asing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "engkau menindas"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dan kamu"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "telah mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa orang asing"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "orang asing itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamu telah menjadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:27.437627731Z",
+  "model": "glm-5.3"
+}

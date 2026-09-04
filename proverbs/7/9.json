@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Pada waktu senja, pada waktu petang hari, pada kegelapan malam dan kelam gelita.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "pada waktu senja"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "pada waktu petang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "pada kegelapan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "dan kelam gelita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:02.818164206Z",
+  "model": "glm-5.3"
+}

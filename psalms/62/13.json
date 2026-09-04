@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 62,
+  "translation": "Dan kepada-Mu, Adonai, ⟨adalah⟩ hesed, sebab Engkaulah yang membalas kepada setiap orang selaras dengan perbuatannya.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Dan kepada-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "membalas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada setiap orang"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "selaras dengan perbuatannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:25.038778908Z",
+  "model": "glm-5.3"
+}

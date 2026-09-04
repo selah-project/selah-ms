@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Maka keluarlah pemungut-pemungut kerja paksa orang itu dan pemborong-pemborongnya, dan berkata kepada orang itu, katanya: Beginilah kata Firaun: Tidak aku memberi kamu jerami.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Maka keluarlah"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "pemungut-pemungut kerja paksa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "dan pemborong-pemborongnya"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "Tidak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aku memberi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "jerami"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:43.111520777Z",
+  "model": "glm-5.3"
+}

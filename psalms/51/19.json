@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Korban-korban bagi Elohim ⟨ialah⟩ roh yang hancur; hati yang hancur dan remuk, wahai Elohim, Engkau tidak akan menghina.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "korban-korban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bagi Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "yang hancur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "hancur"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "dan remuk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Engkau akan menghina"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:22.186853441Z",
+  "model": "glm-5.3"
+}

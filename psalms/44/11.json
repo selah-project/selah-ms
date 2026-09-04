@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Engkau membiarkan kami berpaling undur dari penindas, dan pembenci kami menjarah untuk diri mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Engkau membiarkan kami berpaling"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "undur"
+    },
+    {
+      "surface": "מני",
+      "gloss": "dari"
+    },
+    {
+      "surface": "צר",
+      "gloss": "penindas"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "dan pembenci kami"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "menjarah"
+    },
+    {
+      "surface": "למו",
+      "gloss": "untuk diri mereka sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:19.713546482Z",
+  "model": "glm-5.3"
+}

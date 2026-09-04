@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Dia merendahkan engkau dan membuat engkau lapar, lalu memberi engkau makan ⟨את⟩ man yang tidak kaukau kenal dan yang tidak dikenal oleh bapa-bapaumu — supaya Dia membuat engkau tahu bahawa bukan atas roti sahaja manusia hidup, tetapi atas setiap keluaran mulut Yahweh manusia hidup.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "dan Dia merendahkan engkau"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "dan membuat engkau lapar"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "lalu memberi engkau makan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "engkau kenal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oleh bapa-bapaumu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "Dia membuat engkau tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sahaja"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "setiap"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "keluaran"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:37.627552990Z",
+  "model": "glm-5.3"
+}

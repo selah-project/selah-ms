@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan orang Midian menjual ⟨את⟩ dia kepada Mitsrayim, kepada Potifar, kasim Paroh, ketua para tukang jagal.",
+  "tokens": [
+    {
+      "surface": "ויהמדנים",
+      "gloss": "dan orang Midian"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "menjual"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "kepada Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "kasim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "para tukang jagal"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:03.092201223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Lalu berkatalah Moshe kepada bangsa itu, katanya: Kerahkanlah dari antara kamu ⟨את⟩ orang-orang untuk tentera, dan biarlah mereka melawan Midyan, untuk melaksanakan kepingatan Yahweh terhadap Midyan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lalu berkatalah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya:"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Kerahkanlah"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "dari antara ⟨את⟩ kamu",
+      "marks": "orang-orang"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "orang-orang"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "untuk tentera"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dan biarlah mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk melaksanakan"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "kepingatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "terhadap Midyan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:52.310004879Z",
+  "model": "glm-5.3"
+}

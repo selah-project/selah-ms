@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Adakah kuda berlari di atas batu karang, atau adakah orang membajak dengan lembu? Sebab kamu telah mengubah keadilan menjadi racun, dan buah kebenaran menjadi rumpai pahit.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "adakah berlari"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "di atas batu karang"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ataukah"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "membajak"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "dengan lembu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "kamu telah mengubah"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "menjadi racun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "dan buah"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "menjadi rumpai pahit"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:23.328640597Z",
+  "model": "glm-5.3"
+}

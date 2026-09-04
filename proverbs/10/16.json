@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Upah orang benar ⟨membawa⟩ kepada kehidupan, hasil orang fasik kepada dosa.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "Upah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "kepada kehidupan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hasil"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kepada dosa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:47.187026944Z",
+  "model": "glm-5.3"
+}

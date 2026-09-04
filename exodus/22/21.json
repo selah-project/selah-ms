@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Segala janda dan anak yatim tiada kamu akan menindas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "janda"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "dan anak yatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "kamu akan menindas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:14.465130834Z",
+  "model": "glm-5.3"
+}

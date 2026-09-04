@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "tetapi engkau haruslah sungguh-sungguh membuka ⟨את⟩ tanganmu kepadanya, dan pastilah engkau memberi pinjam kepadanya secukup kekurangannya yang ia perlukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sungguh-sungguh"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "engkau membuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "dan pastilah"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "engkau memberi pinjam kepadanya"
+    },
+    {
+      "surface": "די",
+      "gloss": "secukup"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "kekurangannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ia perlukan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:51:48.748683635Z",
+  "model": "glm-5.3"
+}

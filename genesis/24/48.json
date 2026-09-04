@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 24:48",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu aku tunduk dan sujud kepada Yahweh, dan aku memberkati ⟨את⟩ Yahweh, Elohim tuan saya Avraham, yang memandu aku di jalan yang benar untuk mengambil ⟨את⟩ anak perempuan saudara tuan saya bagi anak lelakinya.",
+  "tokens": [
+    {
+      "surface": "ואקד",
+      "gloss": "Lalu aku tunduk"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ואברך",
+      "gloss": "dan aku memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan saya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הנחני",
+      "gloss": "memandu aku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yang benar"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "untuk mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak perempuan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan saya"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "bagi anak lelakinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:00:43.601467205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Betapa banyaknya perbuatan-perbuatan-Mu, Yahweh; sekaliannya dengan hikmat Engkau buat; penuhlah bumi dengan milik-Kecipta-Mu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "banyaknya"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-perbuatan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sekaliannya"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "dengan hikmat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Engkau buat"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "penuhlah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "milik ciptaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:46.646968877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Orang bodoh memandang rendah pada didikan ayahnya, tetapi orang yang mematuhi teguran menjadi bijak.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Orang bodoh"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "memandang rendah pada"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "tetapi orang yang mematuhi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "menjadi bijak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:45.752519858Z",
+  "model": "glm-5.3"
+}

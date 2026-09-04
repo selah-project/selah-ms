@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Sebab di tangan Yahweh ada suatu cawan, dan anggurnya berbuih merah, penuh campuran, dan ia menuang daripadanya; sesungguhnya enapannya akan diperah keluar, akan diminum oleh semua orang fasik bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cawan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "di tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "dan anggurnya"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "berbuih merah"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "penuh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "campuran"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "dan ia menuang"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "daripadanya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "enapannya"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "akan diperah keluar"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "akan diminum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:32.731939823Z",
+  "model": "glm-5.3"
+}

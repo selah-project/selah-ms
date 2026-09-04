@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Dan Aku memandang, dan tiada penolong, dan Aku tercengang, dan tiada penyokong; maka zera'ku sendiri menyelamatkan aku, dan amarahku, dialah yang menyokong aku.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "dan Aku memandang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "dan Aku tercengang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "penyokong"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "maka menyelamatkan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "zera'ku"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "dan amarahku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dialah"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "menyokong aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:08:35.514595166Z",
+  "model": "glm-5.3"
+}

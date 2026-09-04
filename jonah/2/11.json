@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan berfirmanlah Yahweh kepada ikan itu, dan ia memuntahkan ⟨את⟩ Yonah ke tanah kering.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "kepada ikan itu"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "dan ia memuntahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tanah kering"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:21.344165922Z",
+  "model": "glm-5.3"
+}

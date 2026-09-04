@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Apakah ⟨keuntungan⟩ dalam darahku, apabila aku turun ke lobang? Adakah debu memuji-Mu? Adakah ia memberitakan kesetiaan-Mu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨keuntungan⟩"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dalam darahku"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "apabila aku turun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lobang"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "memuji-Mu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "debu"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "memberitakan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kesetiaan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:56.535840502Z",
+  "model": "glm-5.3"
+}

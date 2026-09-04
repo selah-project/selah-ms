@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan berkata kepadanya: Jika tiada hadiratmu berjalan, jangan naikkan kami dari sini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadiratmu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "naikkan kami"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "dari sini"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:16.791569217Z",
+  "model": "glm-5.3"
+}

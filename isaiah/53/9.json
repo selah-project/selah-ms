@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Dan diberinya ⟨את⟩ orang-orang jahat sebagai kuburnya, dan ⟨את⟩ orang kaya pada kematiannya; padahal keganasan tidak dilakukannya, dan tipu daya tiada dalam mulutnya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dan diberinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang-orang jahat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang-orang jahat"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kuburnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang kaya"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "pada kematiannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "padahal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukannya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu daya"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dalam mulutnya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:55.985045600Z",
+  "model": "glm-5.3"
+}

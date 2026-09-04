@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Adakah kurang orang gila pada aku, sehingga kamu membawa ⟨את⟩ orang ini untuk mengamuk gila terhadap aku? Patutkah orang ini masuk ke rumahku?\"",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "orang-orang gila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "pada aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kamu membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang ini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "orang ini"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "untuk mengamuk gila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "orang ini"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "patutkah ... masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "rumahku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:43.881486247Z",
+  "model": "glm-5.3"
+}

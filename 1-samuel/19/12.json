@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Mikal menurunkan ⟨את⟩ David melalui tingkap itu, dan ia pergi, lari, serta terlepas.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "maka diturunkannya"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "melalui"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "tingkap itu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan ia pergi"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "lari"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "dan terlepas"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:08.099290463Z",
+  "model": "glm-5.3"
+}

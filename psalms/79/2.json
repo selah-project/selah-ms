@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 79,
+  "translation": "Mereka telah memberikan ⟨את⟩ mayat hamba-hamba-Mu sebagai makanan kepada burung-burung langit, daging orang-orang setia-Mu kepada binatang buas bumi.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "mereka telah memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayat hamba-hamba-Mu"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mayat"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hamba-Mu"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sebagai makanan"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kepada burung-burung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "orang-orang setia-Mu"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "kepada binatang buas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:14.376941949Z",
+  "model": "glm-5.3"
+}

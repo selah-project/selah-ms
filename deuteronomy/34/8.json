@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Lalu menangis anak-anak Israel kerana ⟨את⟩ Moshe di dataran Moab tiga puluh hari; maka tamatlah hari-hari tangis perkabungan atas Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "lalu menangis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "di dataran"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tiga puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "maka tamatlah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "perkabungan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:25.287271219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Ia membina ⟨את⟩ Eilot dan mengembalikannya kepada Yehuda, setelah raja berbaring bersama nenek moyangnya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "mengembalikannya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kepada Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "berbaring"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "nenek moyangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:11:26.905643727Z",
+  "model": "glm-5.3"
+}

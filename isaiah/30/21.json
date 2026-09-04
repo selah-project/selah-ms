@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan telingamu akan mendengar perkataan dari belakangmu, yang berkata: Inilah jalan, berjalanlah padanya; apabila kamu melencong ke kanan dan apabila kamu melencong ke kiri.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "dan telingamu"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "akan mendengar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "dari belakangmu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "berjalanlah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "kamu melencong ke kanan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan apabila"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "kamu melencong ke kiri"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:59.221133856Z",
+  "model": "glm-5.3"
+}

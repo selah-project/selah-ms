@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Ketika David mendengarnya, disuruhnya ⟨את⟩ Yoab dan ⟨את⟩ seluruh tentera orang-orang gagah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ketika mendengar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "disuruhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh tentera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "orang-orang gagah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:02:21.390201882Z",
+  "model": "glm-5.3"
+}

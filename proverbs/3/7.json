@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Janganlah engkau bijak pada mata sendiri; takutlah akan ⟨את⟩ Yahweh dan berpalinglah daripada kejahatan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "engkau jadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bijak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "pada mata sendiri"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "takutlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "dan berpalinglah"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "daripada kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:19.305574075Z",
+  "model": "glm-5.3"
+}

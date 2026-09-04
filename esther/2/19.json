@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan ketika anak-anak dara dikumpulkan kali kedua, Mordehai sedang duduk di pintu gerbang raja.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "dan ketika dikumpulkan"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "anak-anak dara"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kali kedua"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "dan Mordehai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "duduk"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "di pintu gerbang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:05.183835469Z",
+  "model": "glm-5.3"
+}

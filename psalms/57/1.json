@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Kepada pemimpin ⟨mazmur⟩; Al-Tasyhet (Jangan binasakan); miktam bagi David (Daud), ketika ia lari dari hadapan Syaul (Saul), di dalam gua.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kepada pemimpin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "binasakan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ketika ia lari"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "di dalam gua"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:24.049058054Z",
+  "model": "glm-5.3"
+}

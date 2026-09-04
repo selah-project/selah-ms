@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan hilanglah kekayaan itu dalam kerja payah yang jahat, dan dia memperanakkan seorang anak, dan tiada apa-apa di tangannya.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "dan hilanglah"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "kekayaan itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "dalam kerja payah"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "dan dia memperanakkan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seorang anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "di tangannya"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:19.106770692Z",
+  "model": "glm-5.3"
+}

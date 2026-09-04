@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Penyayang dan penuh kasih Yahweh, panjang ⟨sabar⟩ marah, dan besar hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Penyayang"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "dan penuh kasih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjang"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "marah"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan besar"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:49.785736650Z",
+  "model": "glm-5.3"
+}

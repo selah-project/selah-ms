@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan jika ia tidak menebus ⟨את⟩ padi itu, atau jika ia telah menjual ⟨את⟩ padi itu kepada orang lain, ia tidak akan ditebus lagi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "menebus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padi itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padi itu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau jika"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ia telah menjual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padi itu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padi itu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "akan ditebus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:17.478156326Z",
+  "model": "glm-5.3"
+}

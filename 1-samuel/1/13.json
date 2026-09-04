@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Hana, dia berbicara dalam hatinya; hanya bibirnya bergerak, tetapi suaranya tidak kedengaran; maka Eli menganggapnya perempuan mabuk.",
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "Dan Hana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "bibirnya"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "bergerak"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "dan suaranya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "didengar"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "maka dia menganggapnya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "perempuan mabuk"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:08.180541925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lihat, Aku menyampaikan teguran kepada kamu ⟨את⟩ benih itu, dan Aku akan menaburkan najis atas muka kamu — najis perayaan-perayaan kamu — dan ia akan mengangkat ⟨את⟩ kamu kepada dirinya.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Lihat, Aku"
+    },
+    {
+      "surface": "גער",
+      "gloss": "menyampaikan teguran"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benih itu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "benih"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "dan Aku akan menaburkan"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "najis"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "muka kamu"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "najis"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "perayaan-perayaan kamu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dan ia akan mengangkat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepada dirinya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:06.396624638Z",
+  "model": "glm-5.3"
+}

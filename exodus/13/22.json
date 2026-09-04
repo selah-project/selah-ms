@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Tiada berundur tiwan awan itu pada waktu siang, dan tiwan api itu pada waktu malam, dari hadapan umat itu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "berundur"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiwan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan itu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "pada waktu siang"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "dan tiwan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "pada waktu malam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:45:34.426367945Z",
+  "model": "glm-5.3"
+}

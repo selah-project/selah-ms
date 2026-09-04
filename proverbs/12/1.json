@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Pengasih didikan ⟨adalah⟩ pengasih pengetahuan, tetapi pembenci teguran ⟨adalah⟩ bebal.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "pengasih"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "didikan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "pengasih"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "tetapi pembenci"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "teguran"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bebal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:19.185162654Z",
+  "model": "glm-5.3"
+}

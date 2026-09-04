@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "dan hatimu meninggi, dan engkau lupa ⟨את⟩ Yahweh Elohimmu, yang membawa engkau keluar dari tanah Mitsrayim (Mesir), dari rumah perhambaan",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "dan meninggi"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "dan engkau lupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "yang membawa engkau keluar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Mesir)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perhambaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:44.879810790Z",
+  "model": "glm-5.3"
+}

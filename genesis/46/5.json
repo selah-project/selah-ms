@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Lalu bangkitlah Yaakov dari Beer-Syeba, dan anak-anak Yisrael mengangkut Yaakov ayah mereka, dan ⟨את⟩ kanak-kanak mereka, dan ⟨את⟩ isteri mereka, dalam pedati yang dihantar Paroh untuk mengangkut dia.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lalu bangkitlah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "dari Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dan mengangkut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov ayah mereka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ayah mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kanak-kanak mereka"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "kanak-kanak mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "isteri mereka"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "isteri mereka"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "dalam pedati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dihantar"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "untuk mengangkut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:38.884550522Z",
+  "model": "glm-5.3"
+}

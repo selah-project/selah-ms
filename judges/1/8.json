@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu bani Yehuda berperang melawan Yerushalem, dan mereka menawannya, dan mereka memukulnya menurut mata pedang, dan ⟨את⟩ kota itu mereka serahkan kepada api.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "lalu mereka berperang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "melawan Yerushalem"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dan mereka menawan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ nya",
+      "marks": "Yerushalem"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "dan mereka memukulnya"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "menurut mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kota itu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mereka serahkan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kepada api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:04:39.719081520Z",
+  "model": "glm-5.3"
+}

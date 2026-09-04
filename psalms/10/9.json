@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Ia mengintip di tempat persembunyian seperti singa di semaknya; ia mengintip untuk merampas si miskin; ia merampas si miskin ketika menariknya dengan jalanya.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ia mengintip"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "di tempat persembunyian"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "seperti singa"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "di semaknya"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ia mengintip"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "untuk merampas"
+    },
+    {
+      "surface": "עני",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ia merampas"
+    },
+    {
+      "surface": "עני",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "ketika menariknya"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "dengan jalanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:50.193774480Z",
+  "model": "glm-5.3"
+}

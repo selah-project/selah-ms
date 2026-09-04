@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Malulah, hai Tsidon, kerana laut telah berkata, kubu laut, katanya: Aku tidak bersakit, dan aku tidak melahirkan, dan aku tidak membesarkan anak-anak muda, tidak juga memuliakan anak-anak dara.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Malulah"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah-berkata"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "aku-bersakit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan-tidak"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "aku-melahirkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan-tidak"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "aku-membesarkan"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "anak-anak-muda"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "memuliakan"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "anak-anak-dara"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:05.374872898Z",
+  "model": "glm-5.3"
+}

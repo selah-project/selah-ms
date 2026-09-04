@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "lecur ⟨ganti⟩ lecur, luka ⟨ganti⟩ luka, bengkak ⟨ganti⟩ bengkak.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "lecur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨ganti⟩"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "lecur"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨ganti⟩"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bengkak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨ganti⟩"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bengkak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:18.766218073Z",
+  "model": "glm-5.3"
+}

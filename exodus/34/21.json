@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Enam hari engkau bekerja, dan pada hari ketujuh engkau berhenti; pada masa membajak dan pada masa menuai engkau berhenti.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Enam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "engkau bekerja"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "dan pada hari"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "engkau berhenti"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "pada masa membajak"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "dan pada masa menuai"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "engkau berhenti"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:09.137629032Z",
+  "model": "glm-5.3"
+}

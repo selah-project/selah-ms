@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Bapamu telah mempersulit ⟨את⟩ kuk kami; maka engkau, sekarang, ringankanlah ⟨sebahagian⟩ dari perbudakan bapamu yang keras itu, dan dari kuknya yang berat, yang diletakkannya ke atas kami, maka kami akan berkhidmat kepadamu.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Bapamu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "telah mempersulit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuk kami"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "kuk kami"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maka engkau"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ringankanlah"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "dari perbudakan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapamu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "yang keras"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "dan dari kuknya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "yang berat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ke atas kami"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "maka kami akan berkhidmat kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:45.048864855Z",
+  "model": "glm-5.3"
+}

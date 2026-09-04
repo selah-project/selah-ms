@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan diutusnya surat-surat kepada seluruh orang Yahudi, kepada seratus dua puluh tujuh wilayah kerajaan Ahasyuerus, perkataan damai dan kebenaran.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dan diutusnya"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "surat-surat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "orang Yahudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "dan dua puluh"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "dan seratus"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyuerus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damai"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kebenaran"
+    }
+  ],
+  "timestamp": "2026-09-04T14:43:39.203427178Z",
+  "model": "glm-5.3"
+}

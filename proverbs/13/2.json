@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dari buah mulutnya seorang lelaki makan kebaikan, tetapi nefesy penipu-penipu — keganasan.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Dari buah"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "tetapi nefesy"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "penipu-penipu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "keganasan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:31.005329972Z",
+  "model": "glm-5.3"
+}

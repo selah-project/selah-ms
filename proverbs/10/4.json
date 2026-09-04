@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Miskin ⟨ialah⟩ orang yang bekerja dengan tangan kendur, tetapi tangan orang rajin membuat kaya.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Miskin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "orang yang bekerja"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "kendur"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "tetapi tangan"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "orang rajin"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "membuat kaya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:39.201420851Z",
+  "model": "glm-5.3"
+}

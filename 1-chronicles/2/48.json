@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Gundik Kalev, Maakha, melahirkan ⟨את⟩ Syeber dan ⟨את⟩ Tirhanah.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "Gundik"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Syeber"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tirhanah"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Tirhanah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:33.788478185Z",
+  "model": "glm-5.3"
+}

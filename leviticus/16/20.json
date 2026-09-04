@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan apabila dia telah selesai menghapus dosa ⟨את⟩ tempat kudus, dan ⟨את⟩ kem pertemuan, dan ⟨את⟩ mazbah, maka dia akan menghadapkan ⟨את⟩ kambing jantan yang hidup itu.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Dan apabila telah selesai"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "menghapus dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat kudus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat kudus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kem pertemuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "mazbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "maka dia akan menghadapkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing jantan yang hidup itu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kambing jantan itu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "yang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:39.219804939Z",
+  "model": "glm-5.3"
+}

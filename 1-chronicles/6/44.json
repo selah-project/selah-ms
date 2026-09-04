@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "dan ⟨את⟩ Asyan serta ⟨את⟩ tanah lapangnya, dan ⟨את⟩ Bet-Syemes serta ⟨את⟩ tanah lapangnya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Asyan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Asyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bet-Syemes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Syemes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "serta ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tanah lapangnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:59:03.364652463Z",
+  "model": "glm-5.3"
+}

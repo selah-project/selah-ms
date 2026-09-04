@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Sebab nama Yahweh aku akan menyerukan; berikanlah kebesaran kepada Elohim kita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku akan menyerukan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "kebesaran"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kepada Elohim kita"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:04.609388834Z",
+  "model": "glm-5.3"
+}

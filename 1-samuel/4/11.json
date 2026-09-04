@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan aron Elohim diambil, dan kedua-dua anak Eli mati — Hafni dan Pinhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Dan aron"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "diambil"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "dan kedua-dua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hafni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "dan Pinhas"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:59.026975230Z",
+  "model": "glm-5.3"
+}

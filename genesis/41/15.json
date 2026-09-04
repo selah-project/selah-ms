@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Dan berkatalah Paroh kepada Yosef: \"Aku bermimpi sebuah mimpi, tetapi tiada tafsirnya ⟨את⟩; dan aku telah mendengar tentang engkau, kata orang, engkau mendengar sebuah mimpi untuk mentafsirkan ⟨את⟩-nya.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sebuah mimpi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aku bermimpi"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "tetapi tafsir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "tafsir"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan aku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tentang engkau"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata orang"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "engkau mendengar"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sebuah mimpi"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "untuk mentafsirkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "mimpi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:57.711081876Z",
+  "model": "glm-5.3"
+}

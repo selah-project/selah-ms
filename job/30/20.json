@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Aku berseru kepada-Mu, dan Engkau tidak menjawab aku; aku berdiri, dan Engkau menatap aku.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Aku berseru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Engkau menjawab aku"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "aku berdiri"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "dan Engkau menatap"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepada aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:32:11.432282802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Lalu berkatalah kepada kami lelaki itu, tuan tanah itu: \"Dengan ini aku akan tahu bahawa kamu orang jujur: saudara kalian yang satu itu tinggalkanlah ⟨את⟩ bersamaku, dan ⟨את⟩ bekalan bagi kelaparan isi rumah kalian ambillah, lalu pergilah.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tuan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "dengan ini"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aku akan tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara kalian"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "tinggalkanlah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersamaku",
+      "marks": "saudara kalian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bekalan bagi kelaparan"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "bekalan bagi kelaparan"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "isi rumah kalian"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ambillah"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "dan pergilah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:37.464144542Z",
+  "model": "glm-5.3"
+}

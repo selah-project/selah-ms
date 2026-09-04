@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 11:17",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan menyala hidung Yahweh terhadap kamu, dan Ia menutup ⟨את⟩ langit sehingga tiada hujan, dan tanah itu tidak memberikan ⟨את⟩ hasilnya, dan kamu binasa dengan segera dari atas bumi yang baik yang Yahweh berikan kepada kamu",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "dan menyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "terhadap kamu"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "dan Ia menutup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "dan tanah itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasilnya"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilnya"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "dan kamu binasa"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "dengan segera"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:20.321502820Z",
+  "model": "glm-5.3"
+}

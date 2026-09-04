@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 63,
+  "translation": "Elohim, Engkaulah El aku; aku menghampiri Engkau pagi-pagi; dahaga kepada-Mu nafsi, rindu kepada-Mu tubuhku, di tanah kering dan letih, tanpa air.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "aku menghampiri Engkau pagi-pagi"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "dahaga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tubuhku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kering"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "dan letih"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:17.685200871Z",
+  "model": "glm-5.3"
+}

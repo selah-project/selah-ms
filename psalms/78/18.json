@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Dan mereka mencuba El dalam hati mereka, dengan meminta makanan bagi nafsu mereka.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "dan mereka mencuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "dalam hati mereka"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "dengan meminta"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanan"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "bagi nafsu mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:18.026203074Z",
+  "model": "glm-5.3"
+}

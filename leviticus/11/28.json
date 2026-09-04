@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Dan yang mengangkat ⟨את⟩ bangkai mereka hendaklah membasuh pakaiannya, dan ia hingga petang; haiwan-haiwan itu haram bagi kamu.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "dan yang mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangkai mereka"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkai mereka"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "hendaklah membasuh"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dan ia"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hingga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "haiwan-haiwan itu haram"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:59.454053153Z",
+  "model": "glm-5.3"
+}

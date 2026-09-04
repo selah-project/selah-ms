@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan engkau akan mengambil ⟨את⟩ dua batu syoham, dan engkau akan mengukir di atasnya nama-nama bani Yisrael,",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Dan engkau akan mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dua batu syoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "syoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "dan engkau akan mengukir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:11.625715826Z",
+  "model": "glm-5.3"
+}

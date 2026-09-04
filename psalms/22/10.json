@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Sebab Engkaulah yang mengeluarkan aku dari kandungan; Engkau membuatku tenang ⟨di atas⟩ dada ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "yang mengeluarkan aku"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari kandungan"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "membuatku tenang"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di atas⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dada"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:19.290931959Z",
+  "model": "glm-5.3"
+}

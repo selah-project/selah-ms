@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "dan burung ra'ah, dan ⟨את⟩ burung aya, dan burung daya menurut jenisnya",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "dan burung ra'ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "burung aya"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "dan burung daya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "menurut jenisnya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:47.646436118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Lebih baik sedikit bagi orang benar daripada kekayaan banyak orang jahat.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "bagi orang benar"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "daripada kekayaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:44.462484510Z",
+  "model": "glm-5.3"
+}

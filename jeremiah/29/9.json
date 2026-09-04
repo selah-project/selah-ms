@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Sebab dengan kepalsuan mereka bernubuat kepadamu dalam nama-Ku; Aku tidak mengutus mereka, adalah ucapan Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "dengan kepalsuan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "bernubuat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "dalam nama-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "Aku mengutus mereka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "adalah ucapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:18:56.605734230Z",
+  "model": "glm-5.3"
+}

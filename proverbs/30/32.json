@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Jika engkau berbodoh dengan meninggikan dirimu, dan jika engkau merancang kejahatan — tangan ⟨ke⟩ mulut!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "engkau berbodoh"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "dengan meninggikan diri"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "engkau merancang kejahatan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ke mulut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:32.188452031Z",
+  "model": "glm-5.3"
+}

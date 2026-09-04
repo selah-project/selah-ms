@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan sekarang, engkau sudah berjalan pergi kerana engkau rindu kepada rumah ayahmu — mengapakah engkau mencuri ⟨את⟩ tuhan-tuhan saya?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "engkau sudah berjalan pergi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "rindu"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "engkau rindu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kepada rumah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ayahmu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "engkau mencuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhan-tuhan saya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "tuhan-tuhan saya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:08.786333667Z",
+  "model": "glm-5.3"
+}

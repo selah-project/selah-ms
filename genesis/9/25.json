@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu katanya: Terkutuklah Kenaan; hamba kepada para hamba ⟨dialah⟩ ia bagi saudara-saudaranya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Terkutuklah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para hamba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨dialah⟩ ia"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bagi saudara-saudaranya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:48.055413885Z",
+  "model": "glm-5.3"
+}

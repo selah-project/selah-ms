@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Maka berkata Yahweh kepada Kajin: \"Mengapa menyala hatimu, dan mengapa wajahmu tertunduk?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maka berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mengapa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "menyala hati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-mu"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "dan mengapa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tertunduk"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajahmu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:53:37.687116081Z",
+  "model": "glm-5.3"
+}

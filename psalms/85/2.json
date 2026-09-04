@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Engkau berkenan kepada tanah-Mu, Yahweh; Engkau mengembalikan pembuangan Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Engkau berkenan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanah-Mu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Engkau mengembalikan"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pembuangan"
+    },
+    {
+      "surface": "כסית",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": ""
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:52.151991092Z",
+  "model": "glm-5.3"
+}

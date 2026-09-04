@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu Noach melakukan segala yang diperintahkan Yahweh kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lalu melakukan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "diperintahkan kepadanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:27.876377048Z",
+  "model": "glm-5.3"
+}

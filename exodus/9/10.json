@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu mereka mengambil ⟨את⟩ jelaga tungku itu dan berdiri di hadapan Paroh, dan Mosye menaburkannya ke arah langit, maka jadilah barah gelembung-gelembung yang meletus pada manusia dan pada ternakan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lalu mereka mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jelaga tungku itu"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "jelaga"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tungku itu"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "dan berdiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "dan menaburkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nya",
+      "marks": "ia (jelaga itu)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosye"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ke arah langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "barah"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "gelembung-gelembung"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "yang meletus"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pada manusia"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "dan pada ternakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:05.482589680Z",
+  "model": "glm-5.3"
+}

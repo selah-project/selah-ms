@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan orang-orang Bavel membuat ⟨את⟩ Sukot-Benot, dan orang-orang Kut membuat ⟨את⟩ Nergal, dan orang-orang Hamat membuat ⟨את⟩ Asyima,",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "dan orang-orang"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dan orang-orang"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "dan orang-orang"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asyima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Asyima"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:35.916002083Z",
+  "model": "glm-5.3"
+}

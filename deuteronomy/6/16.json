@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Janganlah kamu mencuba ⟨את⟩ Yahweh Elohimkamu, seperti kamu telah mencuba di Masa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "kamu mencuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohimkamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimkamu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "kamu telah mencuba"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "di Masa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:17.926095822Z",
+  "model": "glm-5.3"
+}

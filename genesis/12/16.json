@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan kepada Avram ia berbuat baik kerananya; maka baginya ada kambing biri-biri, dan lembu, dan keldai jantan, dan hamba lelaki, dan hamba perempuan, dan keldai betina, dan unta.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Dan kepada Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ia berbuat baik"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "kerananya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "maka terjadilah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya ada"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kambing biri-biri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "dan keldai jantan"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "dan hamba lelaki"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "dan hamba perempuan"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "dan keldai betina"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "dan unta"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:18.973345569Z",
+  "model": "glm-5.3"
+}

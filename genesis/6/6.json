@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan Yahweh menyesal bahawa ⟨את⟩ manusia telah dibuat-Nya di bumi, dan berdukacitalah hati-Nya.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "dan menyesal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dibuat-Nya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusia"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "dan berdukacita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hati-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:10.685836323Z",
+  "model": "glm-5.3"
+}

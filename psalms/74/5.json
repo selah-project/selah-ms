@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 74,
+  "translation": "Dikenali seperti orang membawa ke atas, terhadap belukar kayu, kapak-kapak.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dikenali"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "seperti membawa"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "terhadap belukar"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "kapak-kapak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:55.704344048Z",
+  "model": "glm-5.3"
+}

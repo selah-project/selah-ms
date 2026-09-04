@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Jauhlah sekali daripada saya ⟨bahawa⟩ saya membenarkan kamu; sampai saya menghembuskan nafas terakhir saya tidak akan menjauhkan ketulusan saya daripada saya.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Jauhlah sekali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "daripada saya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "saya membenarkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "saya menghembuskan nafas terakhir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "saya menjauhkan"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "ketulusan saya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripada saya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:30:57.112673490Z",
+  "model": "glm-5.3"
+}

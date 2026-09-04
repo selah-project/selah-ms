@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Berapa banyakkah hari-hari hamba-Mu? Bila Engkau akan membuat hukuman atas pengejar-pengejarku?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "berapa banyakkah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Engkau akan membuat"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "atas pengejar-pengejarku"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukuman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:30.261175494Z",
+  "model": "glm-5.3"
+}

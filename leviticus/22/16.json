@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "dan menyebabkan mereka menanggung ⟨את⟩ kesalahan kesalahan apabila mereka memakan ⟨את⟩ barang-barang kudus mereka; sebab Akulah Yahweh yang menguduskan mereka.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "dan menyebabkan mereka menanggung"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "apabila mereka memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang-barang kudus mereka"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "barang-barang kudus mereka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "menguduskan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:49.155438178Z",
+  "model": "glm-5.3"
+}

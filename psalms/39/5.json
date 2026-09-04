@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Berilah aku tahu, Yahweh, kesudahanku, dan ukuran hari-hariku, apa adanya; aku akan tahu betapa fana aku ini.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "berilah-aku-tahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "kesudahanku"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "dan ukuran"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hariku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "adanya"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "aku-akan-tahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "fana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:00.021359654Z",
+  "model": "glm-5.3"
+}

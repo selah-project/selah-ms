@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 48,
+  "translation": "Dengarlah kepada-Ku, Yaakov, dan Israel, yang Kupanggil; Akulah ⟨dia⟩; Akulah yang pertama, bahkan Akulah yang terakhir.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "dan Israel"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "yang Kupanggil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dia⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "yang terakhir"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:31.156701687Z",
+  "model": "glm-5.3"
+}

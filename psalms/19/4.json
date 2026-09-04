@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Tiada ucapan dan tiada perkataan, tanpa didengar suara mereka.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tiada"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "didengar"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "suara mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:31.065280098Z",
+  "model": "glm-5.3"
+}

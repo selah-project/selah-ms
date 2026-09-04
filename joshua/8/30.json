@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Pada waktu itu Yehosyua membina mazbah bagi Yahweh, Elohim Israel, di gunung Eybal.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada waktu itu"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di gunung"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eybal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:01.441458336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jangan mengangkat ⟨את⟩ nama Yahweh, Elohim kamu, untuk kesia-siaan, sebab Yahweh tidak akan menganggap bersih ⟨את⟩ orang yang mengangkat ⟨את⟩ nama-Nya untuk kesia-siaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim kamu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "untuk kesia-siaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "akan menganggap bersih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orang yang mengangkat nama-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama-Nya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "untuk kesia-siaan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:53.094757052Z",
+  "model": "glm-5.3"
+}

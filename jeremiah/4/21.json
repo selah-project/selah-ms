@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sampai bila lagi aku melihat panji, aku mendengar suara shofar?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila lagi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aku melihat"
+    },
+    {
+      "surface": "נס",
+      "gloss": "panji"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "aku mendengar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:10:49.060636023Z",
+  "model": "glm-5.3"
+}

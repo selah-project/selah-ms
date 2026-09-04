@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Dan mereka memungutnya pagi demi pagi, setiap orang menurut kadar makannya, dan apabila matahari menjadi panas, ia meleleh.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "dan mereka memungut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ia (manna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "demi pagi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "menurut kadar"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "makannya"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "dan apabila menjadi panas"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "dan ia meleleh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:51.865724425Z",
+  "model": "glm-5.3"
+}

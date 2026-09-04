@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Patutkah manusia membuat tuhan-tuhan bagi dirinya, sedangkan mereka itu bukan tuhan?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Patutkah membuat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "sedangkan mereka itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:45.892059775Z",
+  "model": "glm-5.3"
+}

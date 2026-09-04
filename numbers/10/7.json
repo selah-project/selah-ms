@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Tetapi apabila menghimpunkan ⟨את⟩ jemaah, kamu meniup tetapi tidak menderu.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "apabila menghimpunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jemaah"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "kamu meniup"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "menderu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:28.876566790Z",
+  "model": "glm-5.3"
+}

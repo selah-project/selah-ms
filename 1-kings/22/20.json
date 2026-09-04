@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan Yahweh berfirman: Siapakah akan memperdaya ⟨את⟩ Ahab, supaya ia naik dan jatuh di Ramot-Gilad? Lalu yang satu berkata begitu, dan yang lain berkata begini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "akan memperdaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "supaya ia naik"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dan jatuh"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "di Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "begitu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "dan yang lain"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "begini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:47.608193580Z",
+  "model": "glm-5.3"
+}

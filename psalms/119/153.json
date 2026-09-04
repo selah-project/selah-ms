@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Lihatlah kesengsaraanku dan lepaskanlah aku, sebab Tora-Mu tidak kulupakan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kesengsaraanku"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "dan lepaskanlah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "kulupakan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:07.690013446Z",
+  "model": "glm-5.3"
+}

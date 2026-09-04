@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Jika ia berkata demikian: Baik, ada selamat bagi hambamu; tetapi jika ia sangat murka, ketahuilah bahawa kejahatan telah ditetapkan daripadanya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "כה",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ia berkata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Baik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "selamat"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "bagi hambamu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tetapi jika"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "murka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "דע",
+      "gloss": "ketahuilah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "telah ditetapkan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "daripadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:20:30.836838301Z",
+  "model": "glm-5.3"
+}

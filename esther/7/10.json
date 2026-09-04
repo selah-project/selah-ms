@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu mereka menggantung ⟨את⟩ Haman atas kayu yang disediakannya untuk Mordekhai, dan kepanasan raja itu reda.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Lalu mereka menggantung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "disediakannya"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "untuk Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "dan kepanasan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "reda"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:56.270736393Z",
+  "model": "glm-5.3"
+}

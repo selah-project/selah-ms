@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan dia harus melepaskan ⟨את⟩ burung yang hidup ke luar kota, ke arah padang, lalu membuat penebusan bagi rumah itu, dan ia menjadi tahir.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "dan dia harus melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung yang hidup"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "burung"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "yang hidup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka\/arahan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "lalu membuat penebusan"
+    },
+    {
+      "surface": "על",
+      "gloss": "bagi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dan ia menjadi tahir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:53.115278016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "⟨Ia⟩ akan memulangkan kejahatan kepada para pemusuhku; dalam kesetiaanmu binasakanlah mereka.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "⟨Ia⟩ akan memulangkan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kepada para pemusuhku"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dalam kesetiaanmu"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "binasakanlah mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:40.557094910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Lalu anak-anak Yaakov menjawab ⟨את⟩ Syekhem dan ⟨את⟩ Hamor ayahnya dengan tipu daya, dan mereka berkata-kata — sebab ia telah menajiskan ⟨את⟩ Dina saudara perempuan mereka.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "lalu menjawab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Syekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ayahnya"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "dengan tipu daya"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "dan berkata-kata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "telah menajiskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "saudara perempuan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:04.975405157Z",
+  "model": "glm-5.3"
+}

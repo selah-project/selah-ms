@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Nyanyikanlah kepada Yahweh, pujilah ⟨את⟩ Yahweh, sebab ⟨Dia⟩ telah melepaskan ⟨את⟩ nyawa orang miskin dari tangan orang-orang jahat.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Nyanyikanlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "telah melepaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa orang miskin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "orang-orang jahat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:15:27.313441900Z",
+  "model": "glm-5.3"
+}

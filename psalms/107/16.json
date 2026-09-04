@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Sebab ⟨Ia⟩ memecahkan pintu-pintu gangsa dan memotong palang-palang besi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "⟨Ia⟩ memecahkan"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "gangsa"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "dan palang-palang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "besi"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "memotong"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:19.862052602Z",
+  "model": "glm-5.3"
+}

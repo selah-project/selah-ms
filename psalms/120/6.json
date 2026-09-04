@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 120,
+  "translation": "Terlalu lama diamnya ⟨bagi⟩ diriku bersama pembenci syalom ⟨damai⟩.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Terlalu lama"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "diamnya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨bagi⟩ diriku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "pembenci"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "syalom ⟨damai⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:09.549993180Z",
+  "model": "glm-5.3"
+}

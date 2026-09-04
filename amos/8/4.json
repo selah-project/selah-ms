@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dengarlah ini, hai kamu yang menelan si miskin, dan hendak melenyapkan si papa di bumi,",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "yang-menelan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "si-miskin"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "dan-hendak-melenyapkan"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "si-papa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:21.432537417Z",
+  "model": "glm-5.3"
+}

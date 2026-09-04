@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan Yahweh berbuat demikian, dan kawanan lalat yang berat datang ke rumah Paroh, dan ke rumah hamba-hambanya, dan ke seluruh tanah Mitsrayim; bumi itu rosak kerana kawanan lalat itu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan berbuat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kawanan lalat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yang berat"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ke rumah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "dan ke rumah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan ke seluruh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "rosak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kawanan lalat itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:05.177573749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Jalan orang bodoh lurus di matanya sendiri, tetapi orang yang mendengar nasihat ⟨ialah⟩ orang bijaksana.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "di matanya sendiri"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "tetapi mendengar"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "nasihat"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "orang bijaksana"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:03.036904826Z",
+  "model": "glm-5.3"
+}

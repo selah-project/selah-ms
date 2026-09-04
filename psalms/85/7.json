@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Bukankah Engkaulah yang berbalik — Engkau menghidupkan kami — dan umat-Mu bersukacita kerana Engkau?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "yang berbalik"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "Engkau menghidupkan kami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "dan umat-Mu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kerana Engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:43.687142643Z",
+  "model": "glm-5.3"
+}

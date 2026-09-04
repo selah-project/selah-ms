@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan lapangan-lapangan bandar itu akan dipenuhi kanak-kanak lelaki dan kanak-kanak perempuan bermain di lapangan-lapangannya.",
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "dan lapangan-lapangan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar itu"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "akan dipenuhi"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "kanak-kanak lelaki"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "dan kanak-kanak perempuan"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "bermain"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "di lapangan-lapangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:53:24.573729534Z",
+  "model": "glm-5.3"
+}

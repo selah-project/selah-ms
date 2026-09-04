@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Pada kedatangan Doeg ⟨orang⟩ Edom, lalu diberitahukannya kepada Syaul, dan berkatalah kepadanya: Telah datang David ke rumah Ahimelekh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Pada kedatangan"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "⟨orang⟩ Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lalu diberitahukannya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kepada Syaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Telah datang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:05.560254506Z",
+  "model": "glm-5.3"
+}

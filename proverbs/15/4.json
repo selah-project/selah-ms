@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lidah yang menyembuhkan ialah pokok kehidupan, tetapi kebengkangan padanya ialah patah dalam roh.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "yang menyembuhkan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lidah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kehidupan"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "tetapi kebengkangan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "patah"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "dalam roh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:11.047341847Z",
+  "model": "glm-5.3"
+}

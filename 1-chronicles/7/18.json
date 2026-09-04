@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan saudara perempuannya Hamoleket melahirkan ⟨את⟩ Isyhod, dan ⟨את⟩ Aviezer, dan ⟨את⟩ Mahla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Dan saudara perempuannya"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "melahirkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isyhod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Isyhod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Mahla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahla"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:49.022166978Z",
+  "model": "glm-5.3"
+}

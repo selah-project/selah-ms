@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab Yahweh Elohimmu membawa engkau ke tanah yang baik, tanah sungai-sungai air, mata air dan telaga dalam yang mengalir keluar di lembah dan di gunung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "membawa engkau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "sungai-sungai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "dan telaga dalam"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "yang mengalir keluar"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "di lembah"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "dan di gunung"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:35.300445300Z",
+  "model": "glm-5.3"
+}

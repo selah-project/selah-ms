@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Kami mengaku, wahai Yahweh, kejahatan kami, kesalahan bapa-bapa kami, sebab kami telah berdosa terhadap mu.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "Kami mengaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "kejahatan kami"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kami telah berdosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "terhadap mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:14:54.012712339Z",
+  "model": "glm-5.3"
+}

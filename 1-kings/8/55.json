@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu ia berdiri dan memberkati ⟨את⟩ segenap jemaah Israel dengan suara yang nyaring, katanya:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "lalu ia berdiri"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "dan memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segenap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segenap"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dengan suara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang nyaring"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:00.293145480Z",
+  "model": "glm-5.3"
+}

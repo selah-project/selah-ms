@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 5:8",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Jika aku telah mendapat kasih di mata raja, dan jika baiklah ⟨di mata⟩ raja untuk memberikan ⟨את⟩ permintaanku dan untuk melakukan ⟨את⟩ hajatku, biarlah raja dan Haman datang ke jamuan yang akan aku buat untuk mereka, dan esok aku akan melakukan seperti perkataan raja.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "aku telah mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di mata⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "permintaanku"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "permintaanku"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "dan untuk melakukan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hajatku"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "hajatku"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "datanglah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dan Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "jamuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan aku buat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuk mereka"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "dan esok"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aku akan melakukan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "seperti perkataan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:56.370826029Z",
+  "model": "glm-5.3"
+}

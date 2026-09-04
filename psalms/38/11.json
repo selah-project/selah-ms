@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Hatiku berdebar-debar, kekuatanku meninggalkan aku, dan cahaya mataku — juga itu tiada ⟨את⟩ bersama aku.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "hatiku"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "berdebar-debar"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "meninggalkan aku"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "dan cahaya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersama aku",
+      "marks": "cahaya mataku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:26.387940662Z",
+  "model": "glm-5.3"
+}

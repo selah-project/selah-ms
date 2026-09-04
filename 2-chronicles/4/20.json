@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "dan ⟨את⟩ menorot itu, dan nerotnya untuk dibakar menurut misypat, di hadapan hadebir — emas sagur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "menorot"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "menorot itu"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "dan nerotnya"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "untuk dibakar"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut misypat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "hadebir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "sagur"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:44.595426997Z",
+  "model": "glm-5.3"
+}

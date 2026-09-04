@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Sebab engkau telah menjadikan bandar menjadi timbunan batu, kota berkubu menjadi runtuhan; kubu orang asing, dari bandar — untuk selama-lamanya tidak akan dibina semula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "engkau telah menjadikan"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "menjadi timbunan batu"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kota"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "berkubu"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "menjadi runtuhan"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dari bandar"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "akan dibina semula"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:03.039288277Z",
+  "model": "glm-5.3"
+}

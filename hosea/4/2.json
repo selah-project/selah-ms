@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Sumpah laknat dan dusta dan pembunuhan dan pencurian dan zina — mereka pecah keluar, dan darah demi darah menyentuh.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Sumpah laknat"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "dan dusta"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "dan pembunuhan"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "dan pencurian"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "dan zina"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "mereka pecah keluar"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "dan darah"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "demi darah"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "menyentuh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:38.478137043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Terpujilah Yahweh Elohim, Elohim Yisrael, yang melakukan perkara ajaib seorang diri.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Terpujilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang melakukan"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "perkara ajaib"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seorang diri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:24.190088824Z",
+  "model": "glm-5.3"
+}

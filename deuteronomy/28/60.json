@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "dan Ia akan mengembalikan ke atasmu ⟨את⟩ segala penyakit Mitsrayim yang engkau takutkan sebelum mereka, dan penyakit-penyakit itu akan melekat padamu.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "dan Ia akan mengembalikan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ke atasmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala penyakit Mitsrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "penyakit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "engkau takutkan"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "sebelum mereka"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "akan melekat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:01.681079249Z",
+  "model": "glm-5.3"
+}

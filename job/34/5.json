@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Sebab Iyov telah berkata, Aku dibenarkan, dan El telah menjauhkan hukumanku",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "telah berkata"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "Aku dibenarkan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "telah menjauhkan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukumanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:13.919241566Z",
+  "model": "glm-5.3"
+}

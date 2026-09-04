@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Maka aku tidak akan berasa malu apabila aku memandang segala perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "akan berasa malu"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "apabila aku memandang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:44.615834755Z",
+  "model": "glm-5.3"
+}

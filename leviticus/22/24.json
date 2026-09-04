@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan yang direneh, dan yang ditumpul, dan yang direngkok, dan yang dipotong — jangan kamu hampirkan kepada Yahweh, dan di tanah kamu jangan kamu lakukannya.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "Dan yang direneh"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "dan yang ditumpul"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "dan yang direngkok"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "dan yang dipotong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kamu hampirkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "dan di tanah kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu lakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:45.994928267Z",
+  "model": "glm-5.3"
+}

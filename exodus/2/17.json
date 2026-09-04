@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu datanglah gembala-gembala itu dan menghalau mereka; maka bangkitlah Moshe (Musa) dan menyelamatkan mereka, lalu memberi minum ⟨את⟩ kambing domba mereka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lalu datanglah"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "gembala-gembala itu"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "dan menghalau mereka"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "maka bangkitlah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "dan menyelamatkan mereka"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "lalu memberi minum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing domba mereka"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "kambing domba mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:16:37.415104908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu kamu menjawab ⟨את⟩ aku dan berkata: Baik perkara yang engkau katakan untuk dilakukan.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "lalu kamu menjawab"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "engkau katakan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk dilakukan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:42.236593853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Tetapi Elohim akan menebus jiwaku dari tangan Syeol, sebab Ia akan mengambil aku. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tetapi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "akan menebus"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syeol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "Ia akan mengambil aku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:03.651251976Z",
+  "model": "glm-5.3"
+}

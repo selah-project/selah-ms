@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Tangan-Mu yang membuat aku dan menetapkan aku; berilah aku pengertian, maka aku akan belajar perintah-perintah-Mu.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "membuat aku"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "dan menetapkan aku"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "berilah aku pengertian"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "maka aku akan belajar"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "perintah-perintah-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:12.557072710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "maka para tuaian bandarnya akan menghantar dan mengambil ⟨את⟩ dia dari sana, dan menyerahkan ⟨את⟩ dia ke tangan penyambung darah, dan ia mati.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "maka akan menghantar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para tuaian"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bandarnya"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "dan mengambil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia dari sana"
+    },
+    {
+      "surface": "משם",
+      "gloss": "dari sana"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "dan menyerahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia ke tangan penyambung darah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke tangan"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "penyambung"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan ia mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:28.818605160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Bangsa yang berjalan dalam kegelapan telah melihat cahaya yang besar; ⟨kepada⟩ penduduk di tanah bayang-bayang maut, cahaya telah bersinar atas mereka.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Bangsa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "dalam kegelapan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "telah melihat"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "penduduk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "bayang-bayang maut"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "telah bersinar"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "atas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:59.219241037Z",
+  "model": "glm-5.3"
+}

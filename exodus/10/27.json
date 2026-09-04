@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan Yahweh menguatkan ⟨את⟩ hati Paroh, dan dia tidak mau melepaskan mereka.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Dan menguatkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mau"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "melepaskan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:25.443443578Z",
+  "model": "glm-5.3"
+}

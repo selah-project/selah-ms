@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 69,
+  "translation": "Elohim, Engkaulah yang tahu kebodohan ku, dan kesalahan ku daripada-Mu tidak tersembunyi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "kebodohan ku"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "dan kesalahan ku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripada-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "tersembunyi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:39.793802937Z",
+  "model": "glm-5.3"
+}

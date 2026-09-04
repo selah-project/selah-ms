@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Segala bangsa yang tinggal daripada orang Het, dan orang Emori, dan orang Perizi, dan orang Hiwi, dan orang Yevusi, yang bukan daripada Yisrael mereka —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "orang Het"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "dan orang Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dan orang Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "daripada Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:08:06.977749084Z",
+  "model": "glm-5.3"
+}

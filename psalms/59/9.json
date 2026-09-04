@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Tetapi Engkau, Yahweh, akan mentertawakan mereka; Engkau akan mengejek segala bangsa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Tetapi Engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "akan mentertawakan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "akan mengejek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:41.449161638Z",
+  "model": "glm-5.3"
+}

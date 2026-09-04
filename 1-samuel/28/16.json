@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lalu berkata Syemuel, \"Jadi mengapa engkau bertanya kepadaku, padahal Yahweh telah berpaling daripadamu dan telah menjadi lawanmu?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Jadi mengapa"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "engkau bertanya kepadaku"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "padahal Yahweh"
+    },
+    {
+      "surface": "סר",
+      "gloss": "telah berpaling"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan telah menjadi"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "lawanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:37.726681076Z",
+  "model": "glm-5.3"
+}

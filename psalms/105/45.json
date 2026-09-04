@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Supaya mereka memelihara ketetapan-Nya dan Tora-Nya mereka jaga. Pujilah Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Supaya"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "mereka memelihara"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ketetapan-Nya"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "dan Tora-Nya"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "mereka jaga"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:38.382442547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Tetapi katanya: Aku tidak boleh kembali bersama ⟨את⟩ engkau, dan masuk bersama ⟨את⟩ engkau; aku tidak akan makan roti dan tidak akan minum bersama ⟨את⟩ engkau air di tempat ini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Tetapi katanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "boleh (aku)"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kembali"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama ⟨את⟩ engkau",
+      "marks": "bersama ⟨את⟩ engkau"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "dan masuk"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama ⟨את⟩ engkau",
+      "marks": "bersama ⟨את⟩ engkau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "akan makan (aku)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "akan minum (aku)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "bersama ⟨את⟩ engkau",
+      "marks": "bersama ⟨את⟩ engkau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:39:10.168209635Z",
+  "model": "glm-5.3"
+}

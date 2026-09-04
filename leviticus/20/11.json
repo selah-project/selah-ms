@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan seorang yang bertidur ⟨dengan⟩ ⟨את⟩ isteri bapanya — ketelanjangan bapanya telah didedahkannya — mati pastilah dibunuh kedua-duanya; darah mereka ke atas mereka.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "dan seorang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bertidur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteri bapanya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ketelanjangan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "telah didedahkannya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-duanya"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "darah mereka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ke atas mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:57.750011191Z",
+  "model": "glm-5.3"
+}

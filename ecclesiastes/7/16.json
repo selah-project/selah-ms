@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Janganlah berbuat benar berlebihan, dan janganlah berhikmat terlalu; mengapakah engkau membinasakan dirimu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "berbuat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "benar"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "berlebihan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "berhikmat"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "terlalu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "membinasakan dirimu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:28.639289281Z",
+  "model": "glm-5.3"
+}

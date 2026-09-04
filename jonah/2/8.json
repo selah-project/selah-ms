@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Apabila nyawa aku lengang mengatasi aku, aku mengingat ⟨את⟩ Yahweh, dan doa aku datang kepada-Mu, ke istana kesucian-Mu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "apabila lengang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mengatasi aku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "aku mengingat"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "dan datang"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doa aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "istana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kesucian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:41.882267593Z",
+  "model": "glm-5.3"
+}

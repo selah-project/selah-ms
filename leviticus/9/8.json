@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu menghampirilah Aharon kepada mezbah, dan menyembelih ⟨את⟩ anak lembu korban dosa itu yang baginya.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "lalu menghampirilah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak lembu korban dosa itu"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "anak lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:51.127056575Z",
+  "model": "glm-5.3"
+}

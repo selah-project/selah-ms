@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Seekor lembu betina yang indah parasnya ⟨ialah⟩ Mitsrayim; dari utara pemusnahan telah datang, ya telah datang.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "lembu betina"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "indah"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "parasnya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "pemusnahan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "dari utara"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah datang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya telah datang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:23:54.719202374Z",
+  "model": "glm-5.3"
+}

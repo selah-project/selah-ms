@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Ikatlah kesaksian itu, meteraikanlah Tora di kalangan murid-muridku.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ikatlah"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "meteraikanlah"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "di kalangan murid-muridku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:05.290570530Z",
+  "model": "glm-5.3"
+}

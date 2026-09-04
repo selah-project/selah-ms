@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Adil Yahweh dalam segala jalan-Nya, dan hesed dalam segala perbuatan-Nya.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Adil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalan-Nya"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "dan hesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "perbuatan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:31.313144386Z",
+  "model": "glm-5.3"
+}

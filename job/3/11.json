@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Mengapa tidak dari rahim aku mati? Dari perut keluarku, dan ⟨terus⟩ menghembus nafas.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dari rahim"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aku mati"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dari perut"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "keluarku"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "dan menghembus nafas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:55.361177503Z",
+  "model": "glm-5.3"
+}

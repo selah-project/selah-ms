@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan engkau akan membuat ⟨את⟩ mazbah itu daripada kayu sitim; lima hasta panjangnya dan lima hasta lebarnya; empat segi ⟨ialah⟩ mazbah itu, dan tiga hasta tingginya.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah itu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "empat segi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ialah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "dan tiga"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tingginya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:11.834600985Z",
+  "model": "glm-5.3"
+}

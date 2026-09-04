@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Elohim, dengan telinga kami kami telah mendengar; bapa-bapa kami telah menceritakan kepada kami ⟨את⟩ perbuatan yang Kaukakukan pada hari mereka, pada hari-hari purba.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "dengan telinga kami"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami telah mendengar"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapa-bapa kami"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "telah menceritakan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "perbuatan"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "yang Kaukakukan"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "pada hari mereka"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pada hari-hari"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "purba"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:04.477510479Z",
+  "model": "glm-5.3"
+}

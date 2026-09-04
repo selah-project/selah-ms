@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "\"Perintahkanlah ⟨את⟩ para imam, pembawa-pembaba Peti Persembahan, supaya mereka naik dari sungai Yordan.\"",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "perintahkanlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "pembawa-pembawa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Persembahan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "supaya mereka naik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sungai Yordan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:59.504985374Z",
+  "model": "glm-5.3"
+}

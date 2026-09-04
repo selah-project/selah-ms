@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dua perkara aku telah minta dari ⟨את⟩-Mu; jangan Engkau halang daripadaku sebelum aku mati.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "aku telah minta"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "dari ⟨את⟩-Mu",
+      "marks": "Mu (Engkau)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Engkau halang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sebelum"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aku mati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:10.573257837Z",
+  "model": "glm-5.3"
+}

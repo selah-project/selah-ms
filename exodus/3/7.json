@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Yahweh berkata: Melihat, Aku telah melihat ⟨את⟩ penderitaan umat-Ku yang di Mitsrayim, dan ⟨את⟩ jeritan mereka telah Aku dengar kerana penindas-penindasnya, sebab Aku tahu ⟨את⟩ kesakitan mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Melihat"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku telah melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penderitaan umat-Ku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "penderitaan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "jeritan mereka"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "jeritan mereka"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Aku dengar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "penindas-penindasnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesakitan mereka"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "kesakitan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:24.761730132Z",
+  "model": "glm-5.3"
+}

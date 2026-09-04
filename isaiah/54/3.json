@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "kerana engkau akan memancar ke kanan dan ke kiri, dan zuriatmu akan mewarisi bangsa-bangsa, dan kota-kota yang tandas akan diduduki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ke kanan"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "dan ke kiri"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "engkau akan memancar"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "dan zuriatmu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "akan mewarisi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "dan kota-kota"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "yang tandas"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "akan diduduki"
+    }
+  ],
+  "timestamp": "2026-09-04T13:06:45.950249421Z",
+  "model": "glm-5.3"
+}

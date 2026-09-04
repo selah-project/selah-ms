@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Dalam pakaian bersulam ia dibawa kepada raja; anak-anak dara di belakangnya, sahabat-sahabatnya, dibawa masuk kepadamu.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "dalam pakaian bersulam"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "ia dibawa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "anak-anak dara"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "di belakangnya"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "sahabat-sahabatnya"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "dibawa masuk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:46.688315612Z",
+  "model": "glm-5.3"
+}

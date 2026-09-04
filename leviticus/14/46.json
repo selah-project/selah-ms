@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan orang yang masuk ke rumah itu pada segala hari penyekatannya ⟨את⟩nya menjadi najis sampai petang itu.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "dan orang yang masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "penyekatannya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "rumah itu (akhiran -o)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "menjadi najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "petang itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:29:26.016263349Z",
+  "model": "glm-5.3"
+}

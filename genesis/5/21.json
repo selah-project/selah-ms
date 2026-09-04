@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Henokh hidup lima puluh enam tahun, lalu memperanakkan ⟨את⟩ Metusyelah.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Henokh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "enam puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metusyelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metusyelah"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:49.910409690Z",
+  "model": "glm-5.3"
+}

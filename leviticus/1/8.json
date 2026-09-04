@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan anak-anak Aharon, para imam, akan menyusun ⟨את⟩ potongan-potongan itu, ⟨את⟩ kepala dan ⟨את⟩ lemaknya, di atas kayu api yang di atas api yang di atas mazbah itu.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "dan mereka akan menyusun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potongan-potongan"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "potongan-potongan itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kepala"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "lemaknya"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "lemaknya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu api itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:25.198622990Z",
+  "model": "glm-5.3"
+}

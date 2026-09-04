@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kitab-kitab peraturan-Mu telah menjadi nyanyian bagiku di rumah kediaman asinganku.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "nyanyian"
+    },
+    {
+      "surface": "היו",
+      "gloss": "telah menjadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kitab peraturan-Mu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "kediaman asinganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:54.515036667Z",
+  "model": "glm-5.3"
+}

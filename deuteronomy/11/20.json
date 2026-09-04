@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "dan kamu akan menuliskannya pada tiang pintu rumah kamu dan pada pintu gerbang kamu",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "dan kamu akan menuliskan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "rumah kamu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "dan pada pintu gerbang kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:20.322060689Z",
+  "model": "glm-5.3"
+}

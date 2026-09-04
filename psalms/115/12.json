@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Yahweh mengingati kami; dia memberkati, dia memberkati ⟨את⟩ keluarga Yisrael, dia memberkati ⟨את⟩ keluarga Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "mengingati kami"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "memberkati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:24.622370285Z",
+  "model": "glm-5.3"
+}

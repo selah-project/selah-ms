@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu Moshe memberitahu Aharon ⟨את⟩ segala perkataan Yahweh yang telah mengutusnya, dan ⟨את⟩ segala tanda yang telah diperintahkan kepadanya.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lalu memberitahu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kepada Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkataan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "telah mengutusnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "segala tanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "telah diperintahkan kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:53.149500855Z",
+  "model": "glm-5.3"
+}

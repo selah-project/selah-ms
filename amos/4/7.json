@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan juga Aku menahan dari kamu ⟨את⟩ hujan, tatkala masih ada tiga bulan hingga menuai; dan Aku menurunkan hujan atas satu bandar, dan atas satu bandar yang lain Aku tidak menurunkan hujan; satu bidang tanah dituruni hujan, dan bidang yang tidak dituruni hujan atasnya mengering.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dari kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hujan"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "tatkala masih ada"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "hingga menuai"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "dan Aku menurunkan hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "satu bandar"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "satu bandar"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "Aku menurunkan hujan"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "bidang tanah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "dituruni hujan"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "dan bidang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "dituruni hujan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "atasnya"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "mengering"
+    }
+  ],
+  "timestamp": "2026-09-04T13:46:58.224460519Z",
+  "model": "glm-5.3"
+}

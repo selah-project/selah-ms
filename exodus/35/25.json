@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Dan setiap perempuan yang bijak hati memintal dengan tangannya, dan mereka membawa benang pintalan ⟨את⟩ kain biru-ungu dan ⟨את⟩ kain ungu-merah, ⟨את⟩ benang merah kirmizi dan ⟨את⟩ kain linen halus.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan setiap"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "perempuan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "dengan tangannya"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "memintal"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "dan mereka membawa"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "benang pintalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kain biru-ungu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "kain biru-ungu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kain ungu-merah"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "kain ungu-merah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "benang merah kirmizi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat (kirmizi)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "merah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kain linen halus"
+    },
+    {
+      "surface": "השש",
+      "gloss": "kain linen halus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:09.407204688Z",
+  "model": "glm-5.3"
+}

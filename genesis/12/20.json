@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Paroh memerintahkan lelaki-lelaki mengenainya, dan mereka menghalaunya pergi — ⟨את⟩ dia, dan ⟨את⟩ isterinya, dan ⟨את⟩ segala yang ada padanya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Lalu memerintahkan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mengenainya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lelaki-lelaki"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "dan mereka menghalaunya pergi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "isterinya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala yang ada padanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:21.809166853Z",
+  "model": "glm-5.3"
+}

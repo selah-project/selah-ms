@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu disembelihnya, dan Moshe menyimbak ⟨את⟩ darah itu ke atas mezbah keliling.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Lalu disembelihnya"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "menyimbak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darah itu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "darah itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "keliling"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:38.559817656Z",
+  "model": "glm-5.3"
+}

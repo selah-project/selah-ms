@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lalu raja Israel berkata kepada hamba-hambanya, Tahukah kamu bahawa Ramot-Gilad itu milik kita, sedang kita berdiam diri daripada merebut ⟨את⟩nya dari tangan raja Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hamba-hambanya"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Tahukah kamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "milik kita"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "sedang kita"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "daripada merebut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia (Ramot-Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "dari tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-04T12:43:43.312344388Z",
+  "model": "glm-5.3"
+}

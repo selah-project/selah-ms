@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 1:19",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan kepada Eber dilahirkan dua anak laki-laki: nama yang satu Peleg, kerana pada zamannya bumi terbahagi, dan nama adiknya Yoktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Dan kepada Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak laki-laki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "pada zamannya"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "terbahagi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "adiknya"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:30.198163519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Kami telah mendengar keangkuhan Moab — ia sangat angkuh — kesombongannya, dan keangkuhannya, dan geramnya; tetapi dustanya tidaklah demikian.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "kami telah mendengar"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "keangkuhan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "גא",
+      "gloss": "angkuh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "kesombongannya"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "dan keangkuhannya"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "dan geramnya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dustanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:26.609108943Z",
+  "model": "glm-5.3"
+}

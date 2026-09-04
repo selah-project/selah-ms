@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Kebenaran-Mu ⟨adalah⟩ kebenaran untuk selama-lamanya, dan Tora-Mu ⟨adalah⟩ kebenaran sejati.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Kebenaran-Mu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "dan Tora-Mu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran sejati"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:27.452763131Z",
+  "model": "glm-5.3"
+}

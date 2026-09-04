@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab tiada yang teguh dalam mulut mereka; batin mereka ⟨ialah⟩ kerosakan; kerongkong mereka ⟨ialah⟩ kubur yang terbuka; lidah mereka berlicin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "dalam mulut mereka"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "yang teguh"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "batin mereka"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "kerosakan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "yang terbuka"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "kerongkong mereka"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lidah mereka"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "berlicin"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:31.647224121Z",
+  "model": "glm-5.3"
+}

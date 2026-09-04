@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Bukankah engkau yang mengurung dia dan rumahnya dan segala yang ada padanya dari segala penjuru? Pekerjaan tangannya telah engkau berkati, dan ternaknya meletus di bumi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "mengurung"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "dan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ada padanya"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "dari segala penjuru"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "telah engkau berkati"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "dan ternaknya"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "meletus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:21.916651481Z",
+  "model": "glm-5.3"
+}

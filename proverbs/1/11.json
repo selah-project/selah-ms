@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Jika mereka berkata: \"Marilah bersama kami, biarlah kami mengintip untuk darah, kami menyergap ⟨את⟩ orang yang tiada bersalah, tanpa sebab.\"",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mereka berkata"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bersama kami",
+      "marks": "bersama kami"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "kami mengintip"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "untuk darah"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "kami menyergap"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "orang yang tiada bersalah"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sebab"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:38.246476643Z",
+  "model": "glm-5.3"
+}

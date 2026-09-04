@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Yisyai memperanakkan ⟨את⟩ anak sulungnya, ⟨את⟩ Eliab; dan Avinadav yang kedua, dan Sima yang ketiga.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Dan Yisyai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak sulungnya"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulungnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "dan Avinadav"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "dan Sima"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "yang ketiga"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:36.197036975Z",
+  "model": "glm-5.3"
+}

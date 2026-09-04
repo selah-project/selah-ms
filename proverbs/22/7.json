@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Orang kaya memerintah ⟨orang⟩ miskin, dan penghutang ⟨menjadi⟩ hamba kepada orang yang memberi pinjam.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "⟨orang⟩ miskin"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "dan hamba"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "penghutang"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada orang"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "yang memberi pinjam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:19.174317099Z",
+  "model": "glm-5.3"
+}

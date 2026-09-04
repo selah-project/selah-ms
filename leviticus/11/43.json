@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Jangan kamu menjijikkan ⟨את⟩ diri kamu dengan segala yang merayap yang merayap, dan jangan kamu mencemarkan diri kamu dengannya, supaya kamu tidak cemar karenanya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kamu menjijikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diri kamu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "diri kamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segala"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "yang merayap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kamu mencemarkan diri"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dengannya"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "supaya kamu tidak cemar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "karenanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:37.112865001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 99,
+  "translation": "Biarlah mereka memuji namamu — besar dan menggerunkan; kuduslah dia.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "biarlah mereka memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "namamu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "dan menggerunkan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:10.230239832Z",
+  "model": "glm-5.3"
+}

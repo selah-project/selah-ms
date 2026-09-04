@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan Yahweh ⟨את⟩ bersama Yosef, dan ia menjadi seorang lelaki yang berjaya, dan ia berada di rumah tuannya, si Mitsri itu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan terjadilah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bersama Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia menjadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang lelaki"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "yang berjaya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dan ia berada"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tuannya"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "si Mitsri itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:42.509600814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Dihantar-Nya Moshe (Musa) hamba-Nya, Aharon (Harun) yang dipilih-Nya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "dihantar-Nya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hamba-Nya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih-Nya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:15.833647539Z",
+  "model": "glm-5.3"
+}

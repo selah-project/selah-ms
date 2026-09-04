@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Tubuhku tidak tersembunyi dari-Mu, ketika aku dijadikan dalam rahsia, disulam di bahagian bumi yang paling bawah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "tersembunyi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tubuhku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "dari-Mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aku dijadikan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dalam rahsia"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "aku disulam"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "di bahagian paling bawah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:28.355251825Z",
+  "model": "glm-5.3"
+}

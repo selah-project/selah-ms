@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "dan ⟨את⟩ Bosmat anak perempuan Yishmael, kakak kepada Nebayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "kakak"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayot"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:10.173824612Z",
+  "model": "glm-5.3"
+}

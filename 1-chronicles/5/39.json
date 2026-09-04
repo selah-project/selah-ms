@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "dan Syalum memperanakkan ⟨את⟩ Hilkijah, dan Hilkijah memperanakkan ⟨את⟩ Azarjah",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "dan Syalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "dan Hilkijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "memperanakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:22.147259531Z",
+  "model": "glm-5.3"
+}

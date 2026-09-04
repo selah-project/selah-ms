@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Maka jadilah, ketika Dawid dan anak buahnya sampai ke Tsiklag pada hari ketiga, orang Amalek telah menyerang ke Tanah Selatan dan ke Tsiklag, dan mereka memukul ⟨את⟩ Tsiklag dan membakarnya ⟨את⟩ dengan api.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ketika sampai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dan anak buahnya"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ke Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "dan orang Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "telah menyerang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Tanah Selatan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan ke"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "dan mereka memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "dan mereka membakar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dengan api"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:15.462493126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 18:26",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu Yahweh berfirman: Jika Aku dapati lima puluh orang benar di Sedom dalam tengah-tengah kota itu, Aku akan mengampuni seluruh tempat itu demi mereka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berfirman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Aku dapati"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "di Sedom"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "dalam tengah-tengah"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kota itu"
+    },
+    {
+      "surface": "ונשאתי",
+      "gloss": "Aku akan mengampuni"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tempat itu"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "demi mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:46.566176834Z",
+  "model": "glm-5.3"
+}

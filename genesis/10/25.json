@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan kepada Eber dilahirkan dua anak lelaki; nama yang satu Peleg, kerana pada zamannyalah bumi terbahagi, dan nama abangnya Yakhtan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Dan kepada Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dilahirkan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lelaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu",
+      "marks": "yang satu"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "pada zamannya"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "terbahagi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abangnya"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yakhtan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:54:48.609280654Z",
+  "model": "glm-5.3"
+}

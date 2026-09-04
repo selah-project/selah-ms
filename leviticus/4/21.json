@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan ia harus membawa keluar ⟨את⟩ lembu itu ke luar kem, dan membakarnya seperti ia membakar ⟨את⟩ lembu yang pertama; korban dosa bagi jemaah itulah ia.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "dan ia harus membawa keluar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "luar"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "ו שרף",
+      "gloss": "dan membakar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ia",
+      "marks": "ia (lembu itu)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ia membakar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu yang pertama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "bagi jemaah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ialah ia"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:04.862112160Z",
+  "model": "glm-5.3"
+}

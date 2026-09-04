@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Di samping pintu-pintu gerbang, di mulut kota, di pintu masuk ambang-ambang ⟨ia⟩ bersorak;",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "Di samping"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "di mulut"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "pintu masuk"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ambang-ambang"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "⟨ia⟩ bersorak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:18.148938196Z",
+  "model": "glm-5.3"
+}

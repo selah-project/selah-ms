@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Mulutku menceritakan kebenaran-Mu, segenap hari keselamatan-Mu, kerana aku tidak tahu bilangannya.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "menceritakan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaran-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segenap"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "keselamatan-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "bilangannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:59.014432698Z",
+  "model": "glm-5.3"
+}

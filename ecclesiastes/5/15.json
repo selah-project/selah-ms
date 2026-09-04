@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan ini juga ialah kejahatan yang menyakitkan: seperti kedatangannya, demikianlah dia akan pergi — dan apakah kelebihan baginya, bahwa dia berkerja payah untuk angin?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "yang menyakitkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepenuhnya"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "kedatangannya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "dia akan pergi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "dan apakah"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "bahwa dia berkerja payah"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "untuk angin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:19.107252636Z",
+  "model": "glm-5.3"
+}

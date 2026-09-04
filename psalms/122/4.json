@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 122,
+  "translation": "Ke sana suku-suku naik, suku-suku Yah, kesaksian bagi Yisrael, untuk bersyukur kepada nama Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Ke sana"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naik"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "kesaksian"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "bagi Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "untuk bersyukur"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "kepada nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:19.680942301Z",
+  "model": "glm-5.3"
+}

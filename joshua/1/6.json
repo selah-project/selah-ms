@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Kuatkanlah dirimu dan teguhkanlah hatimu, kerana engkaulah yang akan menyebabkan umat ini mewarisi ⟨את⟩ tanah itu yang Aku telah bersumpah kepada nenek moyang mereka untuk memberikannya kepada mereka.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Kuatkanlah dirimu"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "dan teguhkanlah hatimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkaulah"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "akan menyebabkan mewarisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat ini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku telah bersumpah"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "kepada nenek moyang mereka"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "untuk memberikan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:56.889240632Z",
+  "model": "glm-5.3"
+}

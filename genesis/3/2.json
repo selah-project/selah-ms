@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan perempuan itu berkata kepada ular itu: \"Dari buah pokok-pokok taman itu kami makan,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ular itu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Dari buah"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok-pokok"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman itu"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kami makan"
+    }
+  ],
+  "timestamp": "2026-09-04T10:54:14.525423693Z",
+  "model": "glm-5.3"
+}

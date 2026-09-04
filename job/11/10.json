@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Jika ia melintas dan mengurung, dan menghimpunkan ⟨majelis⟩, siapakah yang dapat memulangkan dia?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ia melintas"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "dan mengurung"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "dan menghimpunkan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "dapat memulangkan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:22.884686292Z",
+  "model": "glm-5.3"
+}

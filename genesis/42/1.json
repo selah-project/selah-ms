@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Maka Yaakov melihat bahawa ada bekalan gandum di Mitsrayim, lalu Yaakov berkata kepada anak-anaknya, \"Mengapa kamu saling memandang?\"",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Maka melihat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bekalan gandum"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kepada anak-anaknya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "kamu saling memandang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:34.358124381Z",
+  "model": "glm-5.3"
+}

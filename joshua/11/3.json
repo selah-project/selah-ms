@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "orang Kanaani di timur dan di barat, dan orang Emori, dan orang Hiti, dan orang Perizi, dan orang Yevusi di pegunungan, dan orang Hivi di bawah Hermon di negeri Mitspa,",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "orang Kanaani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "di timur"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "dan di barat"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "dan orang Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "dan orang Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "dan orang Perizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "dan orang Yevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "di pegunungan"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "dan orang Hivi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di negeri"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-04T12:01:20.491436784Z",
+  "model": "glm-5.3"
+}

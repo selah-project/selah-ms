@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Ke mulutmu — syofar! Seperti burung nasar ⟨di atas⟩ rumah Yahweh, kerana mereka melanggar perjanjian-Ku dan terhadap Tora-Ku mereka menderhaka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "mulutmu"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "syofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "seperti burung nasar"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨di atas⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mereka melanggar"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian-Ku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan terhadap"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora-Ku"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "mereka menderhaka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:32.439493804Z",
+  "model": "glm-5.3"
+}

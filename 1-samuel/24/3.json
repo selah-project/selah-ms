@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Syaul mengambil tiga ribu orang terpilih dari seluruh Yisrael, dan pergi mencari ⟨את⟩ David dan orang-orangnya di sepanjang tebing-tebing batu kambing liar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lalu mengambil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "terpilih"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan pergi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "mencari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "dan orang-orangnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di sepanjang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tebing-tebing muka"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batu"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "kambing liar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:21:12.524128117Z",
+  "model": "glm-5.3"
+}

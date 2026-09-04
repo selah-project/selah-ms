@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "dan Aku akan menulis pada loh itu ⟨את⟩ perkataan-perkataan yang ada pada loh yang pertama, yang engkau pecahkan, dan engkau akan meletakkannya dalam peti itu.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "dan Aku akan menulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "loh itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan-perkataan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ada"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "loh"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yang pertama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "engkau pecahkan"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "dan engkau akan meletakkannya"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "dalam peti itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:58.366856394Z",
+  "model": "glm-5.3"
+}

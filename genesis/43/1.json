@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Dan kelaparan itu berat di bumi itu.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Dan kelaparan itu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "berat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:39.132749364Z",
+  "model": "glm-5.3"
+}

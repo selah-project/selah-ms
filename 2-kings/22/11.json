@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan berlakulah, apabila raja mendengar ⟨את⟩ perkataan kitab Tora itu, maka dia mengoyakkan ⟨את⟩ pakaian-pakaiannya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "apabila mendengar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan kitab Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "maka dia mengoyakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaian-pakaiannya"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "pakaian-pakaiannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:51:06.434436171Z",
+  "model": "glm-5.3"
+}

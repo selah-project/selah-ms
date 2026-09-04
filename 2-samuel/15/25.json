@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Berkatalah raja kepada Tsadok: Pulangkan ⟨את⟩ peti Elohim ke bandar; jika aku mendapat kasih karunia di mata Yahweh, Ia akan mengembalikan aku dan memperlihatkan kepadaku dia ⟨את⟩ dan ⟨את⟩ kediaman-Nya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Berkatalah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "kepada Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Pulangkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "aku mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "Ia akan mengembalikan aku"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "dan memperlihatkan kepadaku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "dia ⟨את⟩",
+      "marks": "dia (peti Elohim)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kediaman-Nya"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "kediaman-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:53.168193248Z",
+  "model": "glm-5.3"
+}

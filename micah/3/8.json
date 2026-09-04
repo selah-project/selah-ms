@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Tetapi aku — aku dipenuhi kekuatan, ⟨את⟩ roh Yahweh, dan mishpat, dan kegagahan, untuk memberitahu kepada Yaakov pelanggarannya dan kepada Yisrael dosanya.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Tetapi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "aku dipenuhi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roh Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan mishpat"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "dan kegagahan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "untuk memberitahu"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kepada Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "pelanggarannya"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "dan kepada Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:17.618600765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan anak-anak lelaki Yosyahu: sulung Yohanan, kedua Yehoyakim, ketiga Tsedkiyahu, keempat Syalum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "dan anak-anak lelaki"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosyahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "sulung"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kedua"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ketiga"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsedkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "keempat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:31.361580403Z",
+  "model": "glm-5.3"
+}

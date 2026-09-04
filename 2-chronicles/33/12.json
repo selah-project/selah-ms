@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Dan apabila dia dalam kesesakan, dia melunakkan ⟨את⟩ wajah Yahweh, Elohimnya, dan dia merendahkan diri dengan sangat di hadapan Elohim bapa-bapanya.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "dan apabila dalam kesesakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "melunakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajah Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnya"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "dan merendahkan diri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sangat"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapa-bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:12:54.153089411Z",
+  "model": "glm-5.3"
+}

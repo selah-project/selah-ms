@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Dan mereka buat ⟨את⟩ anak domba itu dan ⟨את⟩ korban sajian itu dan ⟨את⟩ minyak itu, pagi demi pagi, korban bakaran berterusan.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Dan mereka buat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak domba itu"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "anak domba itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "korban sajian itu"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "korban sajian itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "minyak itu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "minyak itu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada pagi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "berterusan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:06.584392853Z",
+  "model": "glm-5.3"
+}

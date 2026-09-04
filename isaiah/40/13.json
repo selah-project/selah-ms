@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Siapa yang telah mengukur ⟨את⟩ Roh Yahweh, dan siapakah orang yang memberitahukan kepadanya ⟨rancangan⟩-Nya?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "telah mengukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Roh Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Roh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan orang"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "rancangan-Nya"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "memberitahukan kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:09.438536534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Bertenagalah, dan biarlah hatimu berteguh, hai semua yang menanti-nantikan Yahweh.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Bertenagalah"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "dan biarlah ... berteguh"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "yang menanti-nantikan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:53.609196101Z",
+  "model": "glm-5.3"
+}

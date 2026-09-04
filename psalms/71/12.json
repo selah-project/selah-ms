@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Elohim, janganlah jauh dari padaku; Elohim saya, segeralah kepada pertolonganku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim saya"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "kepada pertolonganku"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "segeralah"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:56.798634237Z",
+  "model": "glm-5.3"
+}

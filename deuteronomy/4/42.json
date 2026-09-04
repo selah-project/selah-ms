@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "supaya pelaku pembunuhan yang membunuh ⟨את⟩ sesamanya tanpa sengaja — dan yang tidak membencinya sejak semalam atau sehari sebelumnya — dapat melarikan diri ke sana, lalu melarikan diri ke satu daripada bandar-bandar ini dan hidup.",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "supaya ... melarikan diri"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "pelaku pembunuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesamanya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sesamanya"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sengaja ⟨tanpa pengetahuan⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "membencinya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "sejak semalam"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "atau sehari sebelumnya"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "lalu melarikan diri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ini"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dan hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:27.206761607Z",
+  "model": "glm-5.3"
+}

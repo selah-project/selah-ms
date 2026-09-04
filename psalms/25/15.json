@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Mataku sentiasa ke arah Yahweh, sebab Dialah yang mengeluarkan kakiku dari jaring.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mataku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dialah yang"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "mengeluarkan"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "dari jaring"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kakiku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:01.556233140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "kepada mereka yang memelihara perjanjiannya, dan kepada mereka yang mengingati ketetapan-ketetapannya untuk melakukannya.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kepada mereka yang memelihara"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "perjanjiannya"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "dan kepada mereka yang mengingati"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ketetapan-ketetapannya"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "untuk melakukannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.089131742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Kulit dan daging Engkau memakaikan kepadaku, dan dengan tulang serta urat Engkau melindungi aku.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Kulit"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "dan daging"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "Engkau memakaikan kepadaku"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "dan dengan tulang"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "serta urat"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "Engkau melindungi aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:11.822310468Z",
+  "model": "glm-5.3"
+}

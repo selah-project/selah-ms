@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Engkau memberi mereka makan roti air mata, dan memberi mereka minum air mata ⟨dalam⟩ ukuran penuh.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Engkau memberi mereka makan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "air mata"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "dan memberi mereka minum"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "air mata"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "ukuran penuh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:37.327556538Z",
+  "model": "glm-5.3"
+}

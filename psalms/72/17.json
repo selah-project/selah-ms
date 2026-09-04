@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 72,
+  "translation": "Semoga namanya ⟨kekal⟩ selama-lamanya; di hadapan matahari tunas namanya kekal; dan mereka memberkati diri di dalam dia; segala bangsa menganggapnya berbahagia.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Semoga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "tunas ... kekal"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "dan mereka memberkati diri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "di dalam dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "menganggapnya berbahagia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:24.189866222Z",
+  "model": "glm-5.3"
+}

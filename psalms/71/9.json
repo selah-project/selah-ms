@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Jangan buang aku pada masa tua, apabila kekuatanku habis, jangan tinggalkan aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "buang aku"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pada masa"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "tua"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "apabila habis"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kekuatanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tinggalkan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:21.103730801Z",
+  "model": "glm-5.3"
+}

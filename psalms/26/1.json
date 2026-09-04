@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Untuk Dawid. Adilah aku, wahai Yahweh, sebab aku berjalan dalam ketulusanku, dan pada Yahweh aku berserah — aku tidak akan goyah.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk Dawid"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Adilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dalam ketulusanku"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "aku berjalan"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "dan pada Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku berserah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "akan goyah"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:24.097587530Z",
+  "model": "glm-5.3"
+}

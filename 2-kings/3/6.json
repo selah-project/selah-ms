@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu keluarlah raja Yehoram pada hari itu dari Syomron, dan ia memeriksa ⟨את⟩ seluruh Israel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Lalu keluarlah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "dari Syomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "dan ia memeriksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:07.975159596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Tangan mereka, tetapi tidak meraba; kaki mereka, tetapi tidak berjalan; tiada bersuara melalui tekak mereka.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "meraba"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "berjalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "bersuara"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "melalui tekak mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:11.908252755Z",
+  "model": "glm-5.3"
+}

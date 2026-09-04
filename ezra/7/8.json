@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu sampailah ia ke Yerusalem pada bulan kelima; itulah tahun ketujuh bagi raja itu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu sampailah ia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ke Yerusalem"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pada bulan"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "kelima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "itulah"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ketujuh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bagi raja itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:49:52.486026964Z",
+  "model": "glm-5.3"
+}

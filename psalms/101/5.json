@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 101,
+  "translation": "Siapa memfitnah secara sembunyi rakannya, dia akan aku melenyapkan ⟨את⟩; yang angkuh ⟨pada⟩ mata dan sombong hatinya — dia tidak dapat aku tahan.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "siapa memfitnah"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "secara sembunyi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "rakannya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "aku akan melenyapkan"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "angkuh"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "וורחב",
+      "gloss": "dan sombong",
+      "note": ""
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "dan sombong"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "⟨את⟩ hati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapat aku tahan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:32.207677183Z",
+  "model": "glm-5.3"
+}

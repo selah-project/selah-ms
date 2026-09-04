@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Sebab dalam Dia bersukacita hati kami, sebab dalam nama kudus-Nya kami berpengharapan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dalam Dia"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "hati kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kudus-Nya"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "kami berpengharapan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:57.080170597Z",
+  "model": "glm-5.3"
+}

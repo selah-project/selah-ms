@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu Yahweh menampakkan diri kepada Avram dan berfirman: \"Kepada zuriatmu Aku akan memberi ⟨את⟩ tanah ini.\" Lalu ia membina di sana sebuah mazbah bagi Yahweh yang menampakkan diri kepadanya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lalu menampakkan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kepada zuriatmu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku akan memberi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "lalu membina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sebuah mazbah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "yang menampakkan diri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:50.605257862Z",
+  "model": "glm-5.3"
+}

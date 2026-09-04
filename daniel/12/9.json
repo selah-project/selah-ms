@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan katanya: Pergilah, Daniel, kerana tertutup dan tersegel perkataan-perkataan itu sampai waktu akhir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pergilah"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "tertutup"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "dan tersegel"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan itu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "akhir"
+    }
+  ],
+  "timestamp": "2026-09-04T14:48:27.272576892Z",
+  "model": "glm-5.3"
+}

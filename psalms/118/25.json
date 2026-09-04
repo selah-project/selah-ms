@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Kami memohon, wahai Yahweh, selamatkanlah kami; kami memohon, wahai Yahweh, berilah kami berjaya.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "kami memohon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "selamatkanlah kami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kami memohon"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "kami memohon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "berilah kami berjaya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kami memohon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:39.562928326Z",
+  "model": "glm-5.3"
+}

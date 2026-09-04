@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Pergilah, makanlah rotimu dengan sukacita, dan minumlah winemu dengan hati yang baik, sekan dahulu pun Elohim telah berkenan kepada ⟨את⟩ segala pekerjaanmu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makanlah"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "dengan sukacita"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotimu"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dan minumlah"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dengan hati"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "winemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sekan dahulu pun"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "telah berkenan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala pekerjaanmu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "segala pekerjaanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:41:04.524302153Z",
+  "model": "glm-5.3"
+}

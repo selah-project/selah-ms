@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Di belakang dan di hadapan Engkau mengurung aku, dan Engkau meletakkan telapak tangan-Mu atasku.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "di belakang"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "dan di hadapan"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Engkau mengurung aku"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "dan Engkau meletakkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "telapak tangan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:11.200996284Z",
+  "model": "glm-5.3"
+}

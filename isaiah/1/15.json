@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ketika kamu menghulurkan telapak tangan kamu, Aku menyembunyikan mata-Ku daripada kamu; juga apabila kamu memperbanyak doa, aku tidak mendengar; tangan kamu penuh darah.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "dan ketika kamu menghulurkan"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "telapak tangan kamu"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "Aku menyembunyikan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata-Ku"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daripada kamu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "kamu memperbanyak"
+    },
+    {
+      "surface": "תפלha",
+      "gloss": "doa"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "aku tidak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tangan kamu"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "darah"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "penuh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:53:13.567303823Z",
+  "model": "glm-5.3"
+}

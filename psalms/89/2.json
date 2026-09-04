@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Hesed Yahweh selama-lamanya aku akan nyanyikan; kepada keturunan demi keturunan aku akan maklumkan kesetiaan-Mu dengan mulutku.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku akan nyanyikan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kepada keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "demi keturunan"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "aku akan maklumkan"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dengan mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:05.773231714Z",
+  "model": "glm-5.3"
+}

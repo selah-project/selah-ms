@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Orang miskin dibenci juga oleh sahabatnya sendiri, tetapi pencinta-pencinta orang kaya banyak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "oleh sahabatnya"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dibenci"
+    },
+    {
+      "surface": "רש",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "dan pencinta-pencinta"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "orang kaya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:32.417687972Z",
+  "model": "glm-5.3"
+}

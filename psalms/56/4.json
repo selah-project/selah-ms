@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Pada hari aku takut, aku — kepada-Mu aku bertumpu.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Pada hari"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "aku bertumpu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:51.617736067Z",
+  "model": "glm-5.3"
+}

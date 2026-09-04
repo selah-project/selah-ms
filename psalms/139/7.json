@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Ke mana aku akan pergi dari roh-Mu, dan ke mana aku akan lari dari hadapan-Mu?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ke mana"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku akan pergi"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "dari roh-Mu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "dan ke mana"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dari hadapan-Mu"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "aku akan lari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:11.201403772Z",
+  "model": "glm-5.3"
+}

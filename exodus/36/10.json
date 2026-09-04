@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Lalu ia menyambungkan ⟨את⟩ lima tirai, yang satu kepada yang satu, dan lima tirai disambungkannya, yang satu kepada yang satu.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "lalu ia menyambungkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima tirai"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tirai"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "disambungkannya"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yang satu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:46.564181998Z",
+  "model": "glm-5.3"
+}

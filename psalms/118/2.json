@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "Biarlah Israel berkata: bahawa sampai selama-lamanya ⟨adalah⟩ hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "biarlah berkata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:21.439097696Z",
+  "model": "glm-5.3"
+}

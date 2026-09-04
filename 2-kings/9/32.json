@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ia mengangkat mukanya ke arah jendela lalu berkata: \"Siapa ⟨את⟩ bersamaku? Siapa?\" Dan dua tiga orang saris menjenguk ke arahnya.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Dan ia mengangkat"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "jendela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bersamaku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "Dan menjenguk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ke arahnya"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dua"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "orang saris (orang istana)"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:54.688772163Z",
+  "model": "glm-5.3"
+}

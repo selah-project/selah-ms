@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "janganlah sampai ⟨ia⟩ menerkam jiwaku seperti singa, mengoyak ⟨ia⟩ sedang tiada penyelamat.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "janganlah sampai"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "menerkam"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "seperti singa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "mengoyak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sedang tiada"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "penyelamat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:11.816042513Z",
+  "model": "glm-5.3"
+}

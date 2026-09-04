@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan Moshe memberikan ⟨את⟩ ha-Gilead kepada Makir bin Menasye, dan ia duduk di sana.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan memberikan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ha-Gilead"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "kepada Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dan ia duduk"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T11:44:56.609339074Z",
+  "model": "glm-5.3"
+}

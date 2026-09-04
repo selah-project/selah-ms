@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 136,
+  "translation": "Pujilah Elohim segala tuhan, sebab sampai selamanya hesed-Nya.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "segala tuhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai selamanya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:15.259918039Z",
+  "model": "glm-5.3"
+}

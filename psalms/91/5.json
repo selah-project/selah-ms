@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 91,
+  "translation": "Engkau tidak akan takut kerana kegerunan malam, mahupan anak panah yang terbang siang hari,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "engkau akan takut"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kerana kegerunan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mahupan anak panah"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "yang terbang"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "siang hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:55.263495333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Sebab dilihatnya: orang-orang bijak mati, bersama-sama binasa si bodoh dan si bebal, dan mereka meninggalkan harta mereka kepada orang lain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "dilihatnya"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "orang-orang bijak"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "si bodoh"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "dan si bebal"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "dan meninggalkan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "kepada orang lain"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "harta mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:31.109552234Z",
+  "model": "glm-5.3"
+}

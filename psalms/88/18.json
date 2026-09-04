@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Mereka mengelilingi aku seperti air sepanjang hari; mengepung atasku serentak.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Mereka mengelilingi aku"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "seperti air"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "mengepung"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atasku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "serentak"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:31.940816082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan berkatalah Elisa kepadanya: Apakah akan kubuat untukmu? Beritahulah kepadaku apa yang ada padamu di rumah. Lalu katanya: Tiada apa-apa pada hambamu di rumah, hanya satu bekas minyak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akan kubuat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "untukmu"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "beritahulah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yang ada"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "pada hambamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "di rumah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kecuali"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "satu bekas"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:09.690363604Z",
+  "model": "glm-5.3"
+}

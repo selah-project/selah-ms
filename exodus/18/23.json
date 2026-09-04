@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Jika ⟨את⟩ perkara ini engkau buat, dan Elohim memerintahkan engkau ⟨demikian⟩, maka engkau dapat berdiri, dan juga segala umat ini pergi ke tempatnya masing-masing dalam sejahtera.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "engkau buat"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "dan memerintahkan engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "maka engkau dapat"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "tempatnya"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "dalam sejahtera"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:37.102268472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu orang Mitsrayim memperhambakan ⟨את⟩ bani Yisrael dengan kekejaman.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Lalu memperhambakan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "orang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "dengan kekejaman"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:17.435633201Z",
+  "model": "glm-5.3"
+}

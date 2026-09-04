@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan katanya, \"Siapakah engkau?\" Dan katanya, \"Aku Rut, hamba perempuanmu; maka bentangkanlah sayap jubahmu atas hamba perempuanmu, kerana engkau goel.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Siapakah"
+    },
+    {
+      "surface": "את",
+      "gloss": "engkau",
+      "marks": "siapakah engkau"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Dan katanya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hamba perempuanmu"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "maka bentangkanlah"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "sayap jubahmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hamba perempuanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:36:49.104566545Z",
+  "model": "glm-5.3"
+}

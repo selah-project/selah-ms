@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Jangan jauh dari padaku, sebab kesesakan sudah dekat, sebab tiada penolong.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "jauh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "dari padaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesesakan"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "sudah dekat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "penolong"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:19.291194304Z",
+  "model": "glm-5.3"
+}

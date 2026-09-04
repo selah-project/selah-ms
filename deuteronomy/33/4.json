@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Tora telah diperintahkan kepada kita oleh Moshe — pusaka jemaah Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "telah diperintahkan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "oleh Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "pusaka"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:43.217078527Z",
+  "model": "glm-5.3"
+}

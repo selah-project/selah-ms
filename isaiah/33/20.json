@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 33:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Pandanglah Tsiyon, kota perayaan-perayaan kita; mata-matamu akan melihat Yerushalayim, tempat kediaman yang tenteram, khemah yang tidak akan dibongkar muatnya; tidak akan berpindah pasak-pasaknya selama-lamanya, dan segala tali-talinya tidak akan terputus.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "Pandanglah"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kota"
+    },
+    {
+      "surface": "מועדנו",
+      "gloss": "perayaan-perayaan kita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mata-matamu"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "akan melihat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "yang tenteram"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יצען",
+      "gloss": "akan dibongkar muatnya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יסע",
+      "gloss": "akan berpindah"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "pasak-pasaknya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan segala"
+    },
+    {
+      "surface": "חבליו",
+      "gloss": "tali-talinya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינתקו",
+      "gloss": "akan terputus"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:30.271565661Z",
+  "model": "glm-5.3"
+}

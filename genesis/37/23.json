@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan berlakulah, apabila Yosef sampai kepada saudara-saudaranya, mereka menanggalkan pakaian Yosef — kuttonya, kuttona berjalur itu yang ada padanya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan berlakulah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "mereka menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuttonya"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "kuttonya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuttona berjalur"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kuttona"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "berjalur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ada padanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:07:53.395691532Z",
+  "model": "glm-5.3"
+}

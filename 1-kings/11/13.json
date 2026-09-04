@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Hanya seluruh kerajaan itu tidak akan kukoyakkan; satu suku akan kuberikan kepada anakmu, demi Dawid hamba-Ku, dan demi Yerusalaim yang telah Kupilih.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh kerajaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "akan kukoyakkan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akan kuberikan"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "kepada anakmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-Ku"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dan demi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "telah Kupilih"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:50.014184080Z",
+  "model": "glm-5.3"
+}

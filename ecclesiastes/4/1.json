@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lalu aku berpaling, aku melihat ⟨את⟩ segala orang yang dianiaya yang dianiayakan di bawah matahari, dan sesungguhnya air mata orang-orang yang dianiaya, dan tiada bagi mereka penghibur; dan dari tangan penindas-penindas mereka ⟨ada⟩ kekuatan, tetapi tiada bagi mereka penghibur.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Lalu aku berpaling"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala orang yang dianiaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "orang yang dianiaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "dianiayakan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "air mata"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "orang-orang yang dianiaya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "penghibur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "dan dari tangan"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "penindas-penindas mereka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kekuatan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tetapi tiada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "penghibur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:55.306067771Z",
+  "model": "glm-5.3"
+}

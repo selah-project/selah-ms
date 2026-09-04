@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Berdiri bulu romaku ⟨dari⟩ gentarmu ⟨terhadap⟩ dagingku, dan ⟨daripada⟩ hukum-hukummu aku berasa takut.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "berdiri bulu roma"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "dari gentarmu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "dan daripada hukum-hukummu"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "aku berasa takut"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:23.229428389Z",
+  "model": "glm-5.3"
+}

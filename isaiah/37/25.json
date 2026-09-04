@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Aku menggali telaga dan meminum air, dan dengan tapak kakiku aku mengeringkan segala anak sungai Matsor.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "menggali telaga"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "dan meminum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "dan aku mengeringkan"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "dengan tapak"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "kakiku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "anak-anak sungai"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:25.559113877Z",
+  "model": "glm-5.3"
+}

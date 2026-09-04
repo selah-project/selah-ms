@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan Ia menanggalkan ⟨את⟩ roda kereta-kereta mereka, dan mereka membawanya dengan berat; lalu berkata Mitsrayim: \"Aku hendak lari dari hadapan Yisrael, kerana Yahweh berperang untuk mereka terhadap Mitsrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Dan Ia menanggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roda"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "roda"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "kereta-kereta mereka"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "dan mereka membawanya"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "dengan berat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "aku hendak lari"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dari hadapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "berperang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "untuk mereka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "terhadap Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:02.231573166Z",
+  "model": "glm-5.3"
+}

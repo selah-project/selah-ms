@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Balak membuat seperti yang dikatakan Bilam, dan Balak serta Bilam mengorbankan seekor lembu dan seekor biri-biri jantan pada setiap mazbah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lalu membuat"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikatakan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan mengorbankan"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "dan Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "seekor lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "dan seekor biri-biri jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "pada mazbah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:42:49.225397086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu Avraham berdoa kepada Elohim, dan Elohim menyembuhkan ⟨את⟩ Avimelekh dan ⟨את⟩ isterinya dan hamba-hamba perempuannya, dan mereka melahirkan anak.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "berdoa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dan menyembuhkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "isterinya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "isterinya"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "dan hamba-hamba perempuannya"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "dan mereka melahirkan anak"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:36.898205436Z",
+  "model": "glm-5.3"
+}

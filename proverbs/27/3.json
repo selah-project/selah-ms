@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Berat batu dan himpunan pasir, tetapi kemarahan orang bodoh lebih berat daripada kedua-duanya.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Berat"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "dan himpunan"
+    },
+    {
+      "surface": "החול",
+      "gloss": "pasir"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "tetapi kemarahan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lebih berat"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "daripada kedua-duanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:18.746419083Z",
+  "model": "glm-5.3"
+}

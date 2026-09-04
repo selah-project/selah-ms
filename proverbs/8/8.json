@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dalam keadilan ⟨adalah⟩ segala ucapan mulutku; tiada padanya yang bengkok dan yang berliku.",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "Dalam keadilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ucapan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "padanya"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "dan yang berliku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:08.917361066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 94,
+  "translation": "Dan Yahweh menjadi bagiku kubah pertahanan, dan Elohim-ku batu tempat perlindunganku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan menjadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagiku"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kubah pertahanan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohim-ku"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "batu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "tempat perlindunganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:31.473929968Z",
+  "model": "glm-5.3"
+}

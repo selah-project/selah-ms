@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 47,
+  "translation": "Sebab raja seluruh bumi ⟨ialah⟩ Elohim — mazmurkanlah dengan kefahaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mazmurkanlah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "dengan kefahaman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:43.215538919Z",
+  "model": "glm-5.3"
+}

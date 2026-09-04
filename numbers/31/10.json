@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan ⟨את⟩ segala kota mereka menurut tempat kediaman mereka, dan ⟨את⟩ segala tembok benteng mereka, mereka bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kota mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kota mereka"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "menurut tempat kediaman mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala tembok benteng mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "tembok benteng mereka"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "mereka bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:19.612389936Z",
+  "model": "glm-5.3"
+}

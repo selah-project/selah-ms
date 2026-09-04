@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan Daud mengetahui bahawa Yahweh telah menegakkannya sebagai raja atas Israel, dan bahawa Ia telah mengangkat kerajaannya demi umat-Nya Israel.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Dan mengetahui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "telah menegakkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sebagai raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "dan bahawa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "Ia telah mengangkat"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "kerajaannya"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "demi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:40.874915433Z",
+  "model": "glm-5.3"
+}

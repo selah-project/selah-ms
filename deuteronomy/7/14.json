@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Diberkati ⟨engkau akan menjadi⟩ melebihi segala bangsa; tiada akan ada padamu lelaki mandul mahupun perempuan mandul, dan tiada pada binatang ternakmu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "diberkati"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "engkau akan menjadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi segala"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan ada"
+    },
+    {
+      "surface": "בך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lelaki mandul"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "dan perempuan mandul"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "dan pada binatang ternakmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:24.200521041Z",
+  "model": "glm-5.3"
+}

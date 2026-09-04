@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Biarkanlah dia bersemayam untuk selama-lamanya di hadapan Elohim; hesed dan kesetiaan — suruhlah ia mengekalkannya.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "bersemayam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "dan kesetiaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "suruhlah"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "mengekalkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.697991176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Engkau telah menaruh aku di dalam lobang yang paling bawah, di tempat-tempat gelap, di tempat-tempat yang dalam.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Engkau telah menaruh aku"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "di dalam lobang"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "yang paling bawah"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "di tempat-tempat gelap"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "di tempat-tempat yang dalam"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.553590349Z",
+  "model": "glm-5.3"
+}

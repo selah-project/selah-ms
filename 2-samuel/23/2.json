@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Roh Yahweh berbicara melalui aku, dan firman-Nya di atas lidahku.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Roh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "melalui aku"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "dan firman-Nya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lidahku"
+    }
+  ],
+  "timestamp": "2026-09-04T15:48:32.027913736Z",
+  "model": "glm-5.3"
+}

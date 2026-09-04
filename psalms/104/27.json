@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Semuanya kepada-Mu menanti-nanti, ⟨supaya⟩ Kau-beri makanan mereka pada waktunya.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Semuanya"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "menanti-nanti"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨supaya⟩ Kau-beri"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "makanan mereka"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "pada waktunya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:25.530705172Z",
+  "model": "glm-5.3"
+}

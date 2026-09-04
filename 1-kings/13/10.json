@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu ia pergi di jalan yang lain, dan tidak berpulang di jalan yang ia datang masuk ke Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu ia pergi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yang lain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "berpulang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ia datang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:54.390210696Z",
+  "model": "glm-5.3"
+}

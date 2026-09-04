@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Kemalasan menjatuhkan ⟨seseorang ke dalam⟩ tidur lena, dan jiwa yang lalai akan lapar.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "kemalasan"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "menjatuhkan"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "tidur lena"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "dan jiwa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "yang lalai"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "akan lapar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:02.704234611Z",
+  "model": "glm-5.3"
+}

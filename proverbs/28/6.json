@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Lebih baik si miskin yang berjalan dalam ketulusannya, daripada yang bengkok jalannya walaupun dia kaya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "רש",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "dalam ketulusannya"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "walaupun dia"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "kaya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:06.402731539Z",
+  "model": "glm-5.3"
+}

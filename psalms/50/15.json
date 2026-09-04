@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "dan serulah Aku pada hari kesusahan; Aku akan melepaskan engkau, dan engkau akan memuliakan Aku.\"",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "dan serulah Aku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kesusahan"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Aku akan melepaskan engkau"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "dan engkau akan memuliakan Aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:54.619496626Z",
+  "model": "glm-5.3"
+}

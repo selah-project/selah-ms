@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu Avsyalom mendesaknya, dan ia menghantar ⟨את⟩ bersamanya ⟨את⟩ Amnon dan ⟨את⟩ semua anak raja.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Lalu mendesak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lalu ia menghantar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya",
+      "marks": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "semua anak raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:04.413036305Z",
+  "model": "glm-5.3"
+}

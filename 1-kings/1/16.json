@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu Bat-Syeba mengangkuk dan sujud kepada raja; dan raja itu berkata: \"Apakah hajatmu?\"",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Lalu mengangkuk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "dan sujud"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kepada raja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apakah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hajat-mu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:33:28.266996810Z",
+  "model": "glm-5.3"
+}

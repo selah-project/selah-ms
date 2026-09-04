@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Dan bukan ⟨את⟩ kepadaku engkau memanggil, hai Yaakov, kerana engkau telah letih akan aku, hai Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kepadaku"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "engkau memanggil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "engkau telah letih"
+    },
+    {
+      "surface": "בי",
+      "gloss": "akan aku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:21.973389561Z",
+  "model": "glm-5.3"
+}

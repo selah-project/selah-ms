@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Lembu jantan yang ramai telah mengepung aku; yang perkasa dari Basyan telah mengurung aku.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "telah mengepung aku"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "lembu jantan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "yang perkasa"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basyan"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "telah mengurung aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:15.743043461Z",
+  "model": "glm-5.3"
+}

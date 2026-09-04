@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Engkau mengumpulkan seluruh geram-Mu, Engkau berpaling dari kepanasan hidung-Mu.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Engkau mengumpulkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "geram-Mu"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "Engkau berpaling"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kepanasan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hidung-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:52.152258886Z",
+  "model": "glm-5.3"
+}

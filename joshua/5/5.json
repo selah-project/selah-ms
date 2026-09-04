@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Sebab semua orang yang keluar itu telah disunat, tetapi semua orang yang lahir di padang gurun, di jalan, ketika keluar mereka dari Mitsrayim, tidak disunat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "telah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "yang keluar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tetapi semua"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yang lahir"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ketika keluar mereka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "disunat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:58:53.961752938Z",
+  "model": "glm-5.3"
+}

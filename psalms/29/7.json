@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Suara Yahweh memahat lahabot api.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "memahat"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "lahabot"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:09.046985782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan sekarang engkau berkata: Pergilah, katakan kepada tuanmu: Lihat, Eliyahu — dan ia akan membunuh aku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katakan"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "kepada tuanmu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "dan ia membunuh aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:44.418249052Z",
+  "model": "glm-5.3"
+}

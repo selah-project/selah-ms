@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 146,
+  "translation": "Janganlah bersandar kepada para pembesar, kepada anak manusia, yang tiada baginya pertolongan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "bersandar"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "kepada para pembesar"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "kepada anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "yang tiada"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pertolongan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:41.683578704Z",
+  "model": "glm-5.3"
+}

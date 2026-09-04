@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Sekalipun mereka membesarkan ⟨את⟩ anak-anak mereka, Aku akan menggugurkan mereka daripada manusia — bahkan, sungguh, celakalah bagi mereka apabila Aku berpaling daripada mereka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sekalipun"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "mereka membesarkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak mereka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "dan Aku akan menggugurkan mereka"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "daripada manusia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahkan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "celaka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "apabila Aku berpaling"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "daripada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:20.754299360Z",
+  "model": "glm-5.3"
+}

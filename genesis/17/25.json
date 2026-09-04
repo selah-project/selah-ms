@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan Yishmael (Ismael) anaknya berumur tiga belas tahun, apabila disunatnya ⟨את⟩ daging kulupnya.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Dan Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tiga"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "belas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "apabila disunatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kulupnya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:14.616539256Z",
+  "model": "glm-5.3"
+}

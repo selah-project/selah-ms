@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 103,
+  "translation": "Seperti bapa menyayangi anak-anak, demikianlah Yahweh menyayangi mereka yang takut akan Dia.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Seperti menyayangi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "menyayangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mereka yang takut akan Dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:57.162595572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Melihat banyak perkara tetapi tidak engkau perhatikan; telinga dibuka tetapi tidak ia dengar.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "engkau melihat"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "banyak perkara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "engkau perhatikan"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "dibuka"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ia dengar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:37.596848647Z",
+  "model": "glm-5.3"
+}

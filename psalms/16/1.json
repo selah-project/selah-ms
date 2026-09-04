@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 16,
+  "translation": "Miktam bagi Daud. Lindungilah aku, El, sebab kepada-Mu aku berlindung.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi Daud"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "lindungilah aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kepada-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:27.046289097Z",
+  "model": "glm-5.3"
+}

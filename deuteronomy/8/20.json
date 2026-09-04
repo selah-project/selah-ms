@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "seperti bangsa-bangsa yang Yahweh binasakan dari hadapanmu, demikianlah kamu akan binasa, kerana kamu tidak mendengar suara Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "seperti bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "binasakan"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kamu akan binasa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kamu mendengar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:08.028599111Z",
+  "model": "glm-5.3"
+}

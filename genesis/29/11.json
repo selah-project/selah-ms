@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu Yaakov mencium Rahel, dan mengangkat ⟨את⟩ suaranya, lalu menangis.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "mencium"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mengangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suaranya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suaranya"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "menangis"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:52.089053032Z",
+  "model": "glm-5.3"
+}

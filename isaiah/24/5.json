@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan bumi telah dicemari di bawah penduduknya, sebab mereka melanggar Tora-tora, mengubah ketetapan, membatalkan perjanjian kekal.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Dan bumi"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "telah dicemari"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "penduduknya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mereka melanggar"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora-tora"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "mengubah"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "membatalkan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kekal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:58:43.881487510Z",
+  "model": "glm-5.3"
+}

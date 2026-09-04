@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Bukankah sesaat lagi, sedikit, sesuatu yang teramat kecil, dan Lebanon akan berbalik menjadi kebun, dan kebun itu akan dianggap sebagai hutan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Bukankah"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "teramat kecil"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "dan akan berbalik"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "menjadi kebun"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "dan kebun itu"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "sebagai hutan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "akan dianggap"
+    }
+  ],
+  "timestamp": "2026-09-04T13:00:08.769106095Z",
+  "model": "glm-5.3"
+}

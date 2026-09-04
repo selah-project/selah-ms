@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Engkau menjadikan kami bahan pergaduhan bagi jiran-jiran kami, dan musuh kami mentertawakan kami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Engkau menjadikan kami"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "bahan pergaduhan"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "bagi jiran-jiran kami"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "dan musuh kami"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "mentertawakan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:37.327697349Z",
+  "model": "glm-5.3"
+}

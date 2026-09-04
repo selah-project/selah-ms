@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dari tanah itu keluarlah Asyur, dan dibinanya ⟨את⟩ Ninewe dan ⟨את⟩ Rehovot-Ir dan ⟨את⟩ Kalah.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluarlah"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "dan dibinanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninewe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Rehovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (kota)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Kalah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:43.423603034Z",
+  "model": "glm-5.3"
+}

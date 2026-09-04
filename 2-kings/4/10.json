@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Kita buatlah kiranya bilik atas kecil berdinding, dan kita letakkan baginya di sana katil, dan meja, dan kerusi, dan pelita; maka jadilah, apabila ia datang kepada kami, ia singgah ke sana.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "kita buatlah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "bilik atas"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "berdinding"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kecil"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "dan kita letakkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "katil"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "dan meja"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "dan kerusi"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "dan pelita"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "maka jadilah"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "apabila ia datang"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ia singgah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    }
+  ],
+  "timestamp": "2026-09-04T12:44:28.913186923Z",
+  "model": "glm-5.3"
+}

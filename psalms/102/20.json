@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 102,
+  "translation": "Bahawasanya Ia telah menjenguk dari ketinggian kesucian-Nya, Yahweh dari langit ke bumi telah memandang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bahawasanya"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "Ia telah menjenguk"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "dari ketinggian"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesucian-Nya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "dari langit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "telah memandang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:02.164744681Z",
+  "model": "glm-5.3"
+}

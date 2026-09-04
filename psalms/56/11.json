@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Dalam Elohim aku memuji firman; dalam Yahweh aku memuji firman.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "dalam Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "aku memuji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dalam Yahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "aku memuji"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:37.168096604Z",
+  "model": "glm-5.3"
+}

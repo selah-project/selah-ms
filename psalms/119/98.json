@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Atas musuh-musuhku perintah-Mu membuat aku lebih bijak, sebab ia ⟨ milik ⟩ku untuk selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "atas musuh-musuhku"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "membuat aku lebih bijak"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "perintah-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "untuk selama-lamanya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ milik ⟩ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:10.534402023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Kami menyamun di Negeb orang Kereti, dan atas wilayah Yehuda, dan atas Negeb Kalev; dan ⟨את⟩ Tsiklag kami bakar dengan api.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "Kami"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "menyamun"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "orang Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wilayah"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan atas"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negeb"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "kami bakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dengan api"
+    }
+  ],
+  "timestamp": "2026-09-04T12:23:06.708572839Z",
+  "model": "glm-5.3"
+}

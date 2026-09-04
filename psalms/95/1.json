@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "Marilah, kita bersorak-sorai bagi Yahweh, kita memekik bagi Batu keselamatan kita.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "kita bersorak-sorai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "kita memekik"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "bagi Batu"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "keselamatan kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:59.671862677Z",
+  "model": "glm-5.3"
+}

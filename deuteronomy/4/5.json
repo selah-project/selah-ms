@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Lihat, aku telah mengajar kamu ⟨את⟩ hukum-hukum dan peraturan-peraturan, seperti yang diperintahkan kepadaku oleh Yahweh Elohim-ku, untuk berbuat demikian di tengah-tengah bumi yang kamu masuk ke sana untuk mendudukinya.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "aku telah mengajar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "hukum-hukum"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "hukum-hukum"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "dan peraturan-peraturan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "diperintahkan kepadaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "untuk berbuat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "di tengah-tengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "באים",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "untuk mendudukinya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:50.672080068Z",
+  "model": "glm-5.3"
+}

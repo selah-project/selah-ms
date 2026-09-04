@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Yahweh akan memerintahkan ⟨את⟩ berkat bersamamu dalam lumbungmu dan dalam segala usaha tanganmu, dan Ia akan memberkatimu di bumi yang Yahweh Elohimmu berikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "akan memerintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bersamamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkat"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "dalam lumbungmu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan dalam segala"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "usaha"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "dan Ia akan memberkatimu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berikan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:54:58.135038562Z",
+  "model": "glm-5.3"
+}

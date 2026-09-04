@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan apabila seorang ger bermastautin ⟨את⟩ kamu di tanah kamu, janganlah kamu menindas ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Dan apabila"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bermastautin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kamu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "seorang ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "di tanah kamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "kamu menindas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:46.897867579Z",
+  "model": "glm-5.3"
+}

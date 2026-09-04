@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan perkara itu baik di mata Adonai, kerana Shelomoh telah meminta ⟨את⟩ perkara ini.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Dan menjadi baik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara itu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "telah meminta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara ini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    }
+  ],
+  "timestamp": "2026-09-04T12:34:27.843004487Z",
+  "model": "glm-5.3"
+}

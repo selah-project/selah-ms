@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Lalu mereka membawa ⟨את⟩ mishkan itu kepada Moshe: ⟨את⟩ khemah itu dan ⟨את⟩ segala kelengkapannya, pengaitnya, papan-papannya, palangnya, tiang-tiangnya dan tapak-tiapannya.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Lalu mereka membawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan itu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan itu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah itu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala kelengkapannya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kelengkapannya"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "pengaitnya"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "papan-papannya"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "palangnya"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "tiang-tiangnya"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "tapak-tiapannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:49.835343092Z",
+  "model": "glm-5.3"
+}

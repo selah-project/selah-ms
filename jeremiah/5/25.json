@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Kesalahan-kesalahan kamu telah memalingkan hal-hal ini, dan dosa-dosa kamu telah menahan kebaikan daripada kamu.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "kesalahan-kesalahan kamu"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "telah memalingkan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hal-hal ini"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "dan dosa-dosa kamu"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "telah menahan"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "daripada kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:11:11.889005154Z",
+  "model": "glm-5.3"
+}

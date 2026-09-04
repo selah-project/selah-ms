@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Bagi Dawid. Kepada-Mu, Yahweh, jiwaku kuangkat.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Bagi Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kuangkat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:08.389181519Z",
+  "model": "glm-5.3"
+}

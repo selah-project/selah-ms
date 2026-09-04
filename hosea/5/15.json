@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Aku akan pergi, Aku akan kembali kepada tempat-Ku, sehingga mereka bersalah dan mencari hadirat-Ku; dalam kesesakan mereka mereka akan mencari Aku dengan bersungguh-sungguh.",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "Aku akan pergi"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "Aku akan kembali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "tempat-Ku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⌜apabila⌝"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "mereka bersalah"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "dan mencari"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hadirat-Ku"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dalam kesesakan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "mereka akan mencari Aku dengan bersungguh-sungguh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:50.354256706Z",
+  "model": "glm-5.3"
+}

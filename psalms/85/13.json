@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Ya, Yahweh pun akan memberi ⟨את⟩ kebaikan, dan tanah kami akan memberikan hasilnya.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akan memberi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "dan tanah kami"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "akan memberikan"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hasilnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:28.141923451Z",
+  "model": "glm-5.3"
+}

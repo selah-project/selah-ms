@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "dan dari suku Gad: ⟨את⟩ Raamot di Gilead dan ⟨את⟩ padang rumputnya, dan ⟨את⟩ Mahanaim dan ⟨את⟩ padang rumputnya",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "dan dari suku"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "di Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang rumputnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang rumputnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Mahanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "padang rumputnya"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padang rumputnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:58:17.022698245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan bersukacita segala umat negeri itu, dan kota itu berkeadaan tenang, dan ⟨את⟩ Atalya mereka bunuh dengan pedang.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Dan bersukacita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri itu"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "dan kota itu"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "berkeadaan tenang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "mereka bunuh"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    }
+  ],
+  "timestamp": "2026-09-04T15:09:30.685074513Z",
+  "model": "glm-5.3"
+}

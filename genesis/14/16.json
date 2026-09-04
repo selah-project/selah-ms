@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Dan dibawanya pulang ⟨את⟩ segala harta itu, dan juga ⟨את⟩ Lot saudaranya bersama kehartaannya dibawanya pulang, dan juga ⟨את⟩ perempuan-perempuan itu dan ⟨את⟩ orang ramai itu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dan dibawanya pulang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala harta itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "harta itu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot saudaranya"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudaranya"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "bersama kehartaannya"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "dibawanya pulang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan-perempuan itu"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "perempuan-perempuan itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang ramai itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang ramai itu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:37.979334116Z",
+  "model": "glm-5.3"
+}

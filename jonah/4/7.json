@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Tetapi Elohim menyediakan seekor ulat pada waktu naik fajar keesokan harinya, dan ulat itu menyambar ⟨את⟩ kikayon itu, lalu ia kering.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "tetapi menyediakan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "seekor ulat"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "pada waktu naik"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "keesokan harinya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "dan ulat itu menyambar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon itu"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayon itu"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "lalu ia kering"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:10.955175489Z",
+  "model": "glm-5.3"
+}

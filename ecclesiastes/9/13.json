@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Juga ini telah kulihat: hikmah ⟨di bawah⟩ matahari, dan ⟨ia⟩ besar kepadaku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Juga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "telah kulihat"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨di bawah⟩"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "dan besar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:27.974226949Z",
+  "model": "glm-5.3"
+}

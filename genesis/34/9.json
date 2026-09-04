@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "dan berikahwin-kahwinanlah ⟨את⟩ kami — anak-anak perempuan kamu berikanlah kepada kami, dan ⟨את⟩ anak-anak perempuan kami kamu ambil untuk kamu.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "berikahwin-kahwinanlah"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anak-anak perempuan kamu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "berikanlah"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak perempuan kami"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "anak-anak perempuan kami"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kamu ambil"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "untuk kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:42.113249876Z",
+  "model": "glm-5.3"
+}

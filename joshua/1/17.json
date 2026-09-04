@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 1:17",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Sesuai dengan segala yang kami dengar kepada Moshe, demikianlah kami akan mendengar kepadamu; hanya, biarlah Yahweh, Elohimmu, menyertai engkau, seperti Ia menyertai Moshe.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sesuai dengan segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami dengar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kami akan mendengar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "biarlah ⟨adalah⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "menyertaimu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "Ia ⟨menyertai⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:59.709499351Z",
+  "model": "glm-5.3"
+}

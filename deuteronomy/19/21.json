@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan jangan matamu merasa belas kasihan: nyawa ganti nyawa, mata ganti mata, gigi ganti gigi, tangan ganti tangan, kaki ganti kaki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "merasa belas kasihan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ganti nyawa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ganti mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gigi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ganti gigi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ganti tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "kaki"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ganti kaki"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:13.924466397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Bani Efrajim, para pemanah yang melontar anak panah ⟨dari⟩ busur — mereka berpaling pada hari peperangan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "para pemanah"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "yang melontar anak panah"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "mereka berpaling"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "peperangan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:09.890013432Z",
+  "model": "glm-5.3"
+}

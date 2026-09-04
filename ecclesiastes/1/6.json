@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Berjalan ke selatan dan berpusing ke utara; berpusing, berpusing berjalanlah angin, dan mengikut litar-litarnya angin itu berpatah balik.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Berjalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "selatan"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "dan berpusing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "berpusing"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "berpusing"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "berjalanlah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan mengikut"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "litar-litarnya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "berpatah balik"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:54.374951439Z",
+  "model": "glm-5.3"
+}

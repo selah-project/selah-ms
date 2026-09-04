@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Selepas perkara-perkara ini raja Ahasyweros membesarkan ⟨את⟩ Haman bin Hamdata orang Agagi, dan meninggikannya, dan meletakkan ⟨את⟩ kerusinya di atas segala pembesar yang bersamanya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Selepas"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "membesarkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasyweros"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "orang Agagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "dan meninggikannya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dan meletakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerusinya"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kerusinya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "pembesar-pembesar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bersama ⟨את⟩ dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:29.520518557Z",
+  "model": "glm-5.3"
+}

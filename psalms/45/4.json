@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Ikatlah pedangmu pada paha, hai yang perkasa — keagunganmu dan keluhuranmu.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Ikatlah"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedangmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "paha"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hai yang perkasa"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "keagunganmu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "dan keluhuranmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:56.347304075Z",
+  "model": "glm-5.3"
+}

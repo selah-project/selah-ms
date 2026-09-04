@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Jika aku membalas kejahatan kepada yang damai denganku, dan aku melucutkan penindasku tanpa sebab —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "aku membalas"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "yang damai denganku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "dan aku melucutkan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "penindasku"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tanpa sebab"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:10.635577526Z",
+  "model": "glm-5.3"
+}

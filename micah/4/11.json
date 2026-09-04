@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 4:11",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan sekarang banyak bangsa telah berkumpul terhadapmu, yang berkata: 'Biarlah ia dicemari, dan biarlah mata kami memandang Tsiyon.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "telah berkumpul"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "terhadapmu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "תחנף",
+      "gloss": "Biarlah ia dicemari"
+    },
+    {
+      "surface": "ותחז",
+      "gloss": "dan biarlah ... memandang"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mata kami"
+    }
+  ],
+  "timestamp": "2026-09-04T13:48:56.022915682Z",
+  "model": "glm-5.3"
+}

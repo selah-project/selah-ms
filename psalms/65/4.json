@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Perkara-perkara kesalahan mengatasi aku; pelanggaran kami — Engkaulah yang akan menutupnya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "mengatasi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "pelanggaran kami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "akan menutupnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:17.835069945Z",
+  "model": "glm-5.3"
+}

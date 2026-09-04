@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dudukmu dan keluarmu dan masukmu Aku tahu, dan ⟨את⟩ geramamu terhadap Aku.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Dudukmu"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "dan keluarmu"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "dan masukmu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku tahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "geramamu"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "geramamu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "terhadap Aku"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:54.851578084Z",
+  "model": "glm-5.3"
+}

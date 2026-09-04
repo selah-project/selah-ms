@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yahweh membina Yerusalem, terbuang-terbuang orang Israel dikumpulkan-Nya.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "membina"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "terbuang-terbuang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "orang Israel"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "dikumpulkan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:34.104840896Z",
+  "model": "glm-5.3"
+}

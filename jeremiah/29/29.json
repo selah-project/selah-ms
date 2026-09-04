@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan Tsefanyah sang imam membaca ⟨את⟩ surat ini di telinga Yirmeyahu sang nabi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "dan membaca"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surat ini"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "di telinga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:19:44.303115440Z",
+  "model": "glm-5.3"
+}

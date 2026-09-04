@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Ramai anak-anak perempuan telah berbuat keperkasaan, tetapi engkau — engkau naik mengatasi kesemuanya.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Ramai"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak-anak perempuan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "telah berbuat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "keperkasaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "tetapi engkau",
+      "marks": "bukan penanda objek — ganti nama עתּ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "engkau naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengatasi"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "kesemuanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:41.478187277Z",
+  "model": "glm-5.3"
+}

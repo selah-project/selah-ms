@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan ia membuat ⟨את⟩ segala perkakas mezbah itu: ⟨את⟩ periuk-belanga, dan ⟨את⟩ penyodok, dan ⟨את⟩ bekas percikan, ⟨את⟩ garpu daging, dan ⟨את⟩ pedupaan; segala perkakasnya dibuat daripada tembaga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala perkakas mezbah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "perkakas"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "periuk-belanga"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "periuk-belanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penyodok"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "penyodok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bekas percikan"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "bekas percikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garpu daging"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "garpu daging"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pedupaan"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "pedupaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:49.528126501Z",
+  "model": "glm-5.3"
+}

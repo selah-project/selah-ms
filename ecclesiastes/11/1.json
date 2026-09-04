@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Hantarkan rotimu atas muka air, sebab pada kelapangan hari-hari engkau akan menemuinya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hantarkan"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "air"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "pada kelapangan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "engkau akan menemuinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:57.741487161Z",
+  "model": "glm-5.3"
+}

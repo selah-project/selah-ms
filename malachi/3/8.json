@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Adakah manusia merampas Elohim? Sebab kamu merampas ⟨את⟩ Aku. Tetapi kamu berkata, \"Dengan apa kami merampas Engkau?\" Dalam persepuluhan dan dalam persembahan.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "adakah merampas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamu"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "merampas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku — objek perampasan"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "dan kamu berkata"
+    },
+    {
+      "surface": "במה",
+      "gloss": "dengan apa"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "kami merampas Engkau"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "persepuluhan"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "dan persembahan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:51.807060564Z",
+  "model": "glm-5.3"
+}

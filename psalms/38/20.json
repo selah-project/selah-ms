@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan musuhku hidup dan bertenaga; dan mereka yang membenci aku dengan sia-sia semakin banyak.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Dan musuhku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "dan bertenaga"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "dan semakin banyak"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mereka yang membenci aku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dengan sia-sia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:28.161168359Z",
+  "model": "glm-5.3"
+}

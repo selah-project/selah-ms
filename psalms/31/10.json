@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Kasihanilah aku, Yahweh, sebab sesak bagi aku; mata aku, nafsu hidup aku, dan perut aku ⟨bersama-sama⟩ susut oleh kepedihan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kasihanilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sesak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi aku"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "susut"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "oleh kepedihan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata aku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsu hidup aku"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "dan perut aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:05.890554375Z",
+  "model": "glm-5.3"
+}

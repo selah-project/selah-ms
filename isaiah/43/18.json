@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Janganlah kamu mengingat perkara-perkara yang terdahulu, dan hal-hal yang purba janganlah kamu perhatikan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Janganlah"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "kamu mengingat"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "perkara-perkara yang terdahulu"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "dan hal-hal yang purba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "kamu perhatikan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:22.270298292Z",
+  "model": "glm-5.3"
+}

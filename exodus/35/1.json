@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Lalu Moshe menghimpunkan ⟨את⟩ segenap jemaah bani Israel, dan berkata kepada mereka: Inilah perkataan-perkataan yang diperintahkan Yahweh untuk melakukan ⟨את⟩-nya.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Lalu ... menghimpunkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segenap jemaah bani Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segenap"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "untuk melakukan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "perkataan-perkataan itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:06.770348587Z",
+  "model": "glm-5.3"
+}

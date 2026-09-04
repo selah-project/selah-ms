@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu melarikan diri Yaakov ke padang Aram, dan Israel berkhidmat bagi seorang isteri, dan bagi seorang isteri ia menjaga kambing domba.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "lalu melarikan diri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "padang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "dan berkhidmat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "bagi seorang isteri"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "dan bagi seorang isteri"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "menjaga kambing domba"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:17.195131015Z",
+  "model": "glm-5.3"
+}

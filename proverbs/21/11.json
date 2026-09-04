@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Apabila penghina dihukum, orang bodoh menjadi bijak; apabila orang bijak diberi pengajaran, ia menerima pengetahuan.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "apabila dihukum"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "penghina"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "menjadi bijak"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "apabila diberi pengajaran"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "orang bijak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "menerima"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:21:47.346732396Z",
+  "model": "glm-5.3"
+}

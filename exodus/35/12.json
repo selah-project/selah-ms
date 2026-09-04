@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "⟨את⟩ aron itu dan ⟨את⟩ kayu-kayu pengusungnya, ⟨את⟩ tutup pendamaian, dan ⟨את⟩ kelambu penyekat tirai itu",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron itu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kayu-kayu pengusungnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "kayu-kayu pengusungnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup pendamaian"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kelambu penyekat"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kelambu penyekat"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "tirai itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:00.174032450Z",
+  "model": "glm-5.3"
+}

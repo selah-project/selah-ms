@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 31:27",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "\"Sebab aku tahu ⟨את⟩ kedegilan kamu dan ⟨את⟩ tengkuk kamu yang keras; sesungguhnya, selagi aku masih hidup bersama kamu hari ini, kamu sudah memberontak terhadap Yahweh — dan apalagi setelah kematianku!\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedegilan kamu"
+    },
+    {
+      "surface": "מריך",
+      "gloss": "kedegilan kamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tengkuk kamu yang keras"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "tengkuk kamu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "yang keras"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "בעודני",
+      "gloss": "selagi aku masih"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hidup"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bersama kamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "memberontak"
+    },
+    {
+      "surface": "היתם",
+      "gloss": "kamu sudah ⟨menjadi⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "terhadap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan apalagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨setelah⟩ — kalikan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "setelah"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kematianku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:22.235997122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "Sebab aku tahu bahawa Yahweh ⟨itu⟩ besar, dan Adonai kami melebihi segala tuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "dan Adonai kami"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi segala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:44.087090560Z",
+  "model": "glm-5.3"
+}

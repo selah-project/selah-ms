@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Atas ini aku akan meratap dan melolong, aku akan berjalan tanpa kasut dan telanjang, aku akan membuat ratapan seperti serigala, dan perkabungan seperti anak-anak burung unta.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "aku akan meratap"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "dan melolong"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "aku akan berjalan"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "tanpa kasut"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "dan telanjang"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aku akan membuat"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "ratapan"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "seperti serigala"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "dan perkabungan"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "seperti anak-anak"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "burung unta"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:28.050055608Z",
+  "model": "glm-5.3"
+}

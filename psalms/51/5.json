@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 51,
+  "translation": "Sebab pelanggaran-pelanggaranku aku kenal, dan dosaku ⟨adalah⟩ di hadapanku sentiasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pelanggaran-pelanggaranku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "kenal"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "dan dosaku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:25.524393814Z",
+  "model": "glm-5.3"
+}

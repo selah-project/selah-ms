@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sampai bila, hai pemalas, engkau berbaring? Bila engkau bangun daripada tidurmu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "hai pemalas"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "engkau berbaring"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bila"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "engkau bangun"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "daripada tidurmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:18:46.667023386Z",
+  "model": "glm-5.3"
+}

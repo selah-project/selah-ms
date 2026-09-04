@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Aku Yahweh penjaganya; setiap saat aku menyiramnya; jangan sampai ⟨ia⟩ dilawati ⟨terhadapnya⟩; malam dan siang aku menjaganya.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "penjaganya"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "setiap saat"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "aku menyiramnya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan sampai"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "dilawati"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "terhadapnya"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "dan siang"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "aku menjaganya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:23:45.474878126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan pada keesokan harinya ia mengambil selimut dan mencelupkannya dalam air lalu membentangkannya ke atas mukanya, maka ia mati; dan Hazael memerintah menggantikannya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dan terjadilah"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "pada keesokan harinya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ia mengambil"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "selimut"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "dan mencelupkannya"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dalam air"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "dan membentangkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maka ia mati"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan memerintah"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "menggantikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:31.197183803Z",
+  "model": "glm-5.3"
+}

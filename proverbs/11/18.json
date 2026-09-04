@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Orang fasik mendapat upah yang palsu, tetapi orang yang menabur kebenaran ⟨mendapat⟩ upah yang sejati.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mendapat"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "upah"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yang palsu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "tetapi menabur"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yang sejati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:10.372125619Z",
+  "model": "glm-5.3"
+}

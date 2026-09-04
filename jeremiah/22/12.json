@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Sebab di tempat yang mereka telah mengasingkan ⟨את⟩ dia, ke sana ia akan mati, dan ⟨את⟩ negeri ini ia tidak akan melihat lagi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "mereka telah mengasingkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ke sana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ia akan mati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "negeri ini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ia akan melihat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T13:16:18.829145310Z",
+  "model": "glm-5.3"
+}

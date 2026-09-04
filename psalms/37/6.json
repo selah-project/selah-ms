@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Dan Ia akan mengeluarkan seperti terang kebenaranmu, dan hakmu seperti tengah hari.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "dan akan mengeluarkan"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "seperti terang"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kebenaranmu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "dan hakmu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "seperti tengah hari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:55.913027209Z",
+  "model": "glm-5.3"
+}

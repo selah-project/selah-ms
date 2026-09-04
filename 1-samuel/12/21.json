@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan janganlah kamu berpaling, sebab ⟨itulah⟩ mengikut ⟨arah⟩ kesia-siaan yang tidak berfaedah dan tidak menyelamatkan, sebab kesia-siaanlah mereka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "kamu berpaling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mengikut ⟨arah⟩"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "berfaedah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "menyelamatkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kesia-siaanlah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T12:15:59.065573936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Sebab bahagian Yahweh ialah umat-Nya; Yaakov ialah tali ukur pusaka-Nya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahagian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tali ukur"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pusaka-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:56:47.474443374Z",
+  "model": "glm-5.3"
+}

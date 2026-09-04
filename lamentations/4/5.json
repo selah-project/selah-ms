@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Mereka yang makan makanan lazat menjadi sunyi di jalanan; mereka yang dibesarkan dalam ⟨pakaian⟩ kirmizi memeluk timbunan sampah.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "mereka yang makan"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "makanan lazat"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "menjadi sunyi"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "di jalanan"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "mereka yang dibesarkan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dalam"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "kirmizi"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "memeluk"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "timbunan sampah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:38:16.261423033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 68,
+  "translation": "Sungguh, Elohim akan meremukkan kepala musuh-musuh-Nya, puncak kepala yang berambut milik siapa yang berjalan senantiasa dalam kesalahannya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "akan meremukkan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "musuh-musuh-Nya"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "puncak kepala"
+    },
+    {
+      "surface": "שער",
+      "gloss": "berambut"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "yang berjalan senantiasa"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "dalam kesalahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:29.693923645Z",
+  "model": "glm-5.3"
+}

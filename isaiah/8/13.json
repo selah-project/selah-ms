@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Yahweh Tsebaot — ⟨את⟩-Nya kamu kuduskan, dan Dialah ketakutan kamu, dan Dialah kegerunan kamu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-Nya",
+      "marks": "kuduskan (objek: Yahweh Tsebaot)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "kamu kuduskan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dialah"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "ketakutan kamu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dan Dialah"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "kegerunan kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:05.290091030Z",
+  "model": "glm-5.3"
+}

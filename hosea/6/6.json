@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sebab hesed yang Kukehendaki, bukan korban, dan pengetahuan tentang Elohim melebihi korban bakaran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "yang Kukehendaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "dan pengetahuan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "melebihi korban bakaran"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:00.477948443Z",
+  "model": "glm-5.3"
+}

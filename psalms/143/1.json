@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 143,
+  "translation": "Mizmor bagi David: Yahweh, dengarlah doaku, pasang telinga kepada permohonanku; dalam kesetiaanmu jawablah aku, dalam kebenaranmu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "bagi David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "dengarlah"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "doaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasang telinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "permohonanku"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "dalam kesetiaanmu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jawablah aku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dalam kebenaranmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:36.543778675Z",
+  "model": "glm-5.3"
+}

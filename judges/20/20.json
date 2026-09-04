@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan keluarlah orang Israel ke medan perang melawan Binyamin, maka orang Israel menyusun ⟨את⟩ mereka dalam barisan perang hingga ke Givah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Dan keluarlah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ke medan perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "maka menyusunlah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka (Binyamin)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hingga ke"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Givah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:12:45.801604311Z",
+  "model": "glm-5.3"
+}

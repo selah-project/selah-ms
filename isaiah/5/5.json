@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan sekarang biarlah aku memberitahu ⟨את⟩ kamu ⟨את⟩ apa yang aku lakukan kepada kebunku: aku akan menyingkirkan pagarnya, dan ia akan menjadi habis dimakan; aku akan merobohkan temboknya, dan ia akan menjadi tempat dipijak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "aku memberitahu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "biarlah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa yang aku lakukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa yang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakukan"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kepada kebunku"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "menyingkirkan"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "pagarnya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "habis dimakan"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "merobohkan"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "temboknya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ia akan menjadi"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "tempat dipijak"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:45.252502630Z",
+  "model": "glm-5.3"
+}

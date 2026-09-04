@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Lalu ia berlari kepada Eli dan berkata, \"Inilah aku, sebab tuanku memanggil aku.\" Tetapi Eli berkata, \"Aku tidak memanggil; pulanglah, berbaringlah.\" Lalu ia pergi dan berbaring.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "lalu ia berlari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Inilah aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tuanku memanggil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku memanggil"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pulanglah"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "berbaringlah"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu ia pergi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dan berbaring"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:02.017316892Z",
+  "model": "glm-5.3"
+}

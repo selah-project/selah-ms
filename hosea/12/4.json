@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dalam kandungan ia memegang tumit ⟨את⟩ abangnya, dan dalam kekuatannya ia bergusti ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "dalam kandungan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "memegang tumit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abangnya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abangnya"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "dan dalam kekuatannya"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ia bergusti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:05.315471476Z",
+  "model": "glm-5.3"
+}

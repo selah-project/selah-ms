@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Walau bagaimanapun, umat itu masih mempersembahkan korban di tempat-tempat tinggi, hanya kepada Yahweh Elohim mereka.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "walau bagaimanapun"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "masih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat itu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mempersembahkan korban"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "di tempat-tempat tinggi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:13:38.041836938Z",
+  "model": "glm-5.3"
+}

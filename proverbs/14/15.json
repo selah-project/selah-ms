@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Orang yang mudah tertipu percaya kepada setiap perkataan, tetapi orang yang licin akal memahami langkahnya.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "orang yang mudah tertipu"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada setiap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "tetapi orang yang licin akal"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "memahami"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "langkahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:30.455715412Z",
+  "model": "glm-5.3"
+}

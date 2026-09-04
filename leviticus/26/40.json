@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan mereka akan mengaku ⟨את⟩ kesalahan mereka dan ⟨את⟩ kesalahan bapa-bapa mereka, dalam pengkhianatan mereka yang mereka lakukan terhadap-Ku, dan juga bahawa mereka berjalan bersama-Ku secara berlawanan.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "dan mereka akan mengaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kesalahan mereka"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kesalahan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kesalahan (bapa-bapa mereka)"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kesalahan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa-bapa mereka"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "dalam pengkhianatan mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "mereka berkhianat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "terhadap-Ku"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bersama-Ku"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "secara berlawanan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:33:56.567296707Z",
+  "model": "glm-5.3"
+}

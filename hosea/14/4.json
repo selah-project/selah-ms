@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Asyur tidak akan menyelamatkan kami; atas kuda kami tidak akan menunggang; dan kami tidak akan berkata lagi \"Elohim kami\" kepada hasil kerja tangan kami, kerana pada-Mu anak yatim mendapat belas kasihan.",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "akan menyelamatkan kami"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "kuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "kami akan menunggang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "kami akan berkata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kami"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "kepada hasil kerja"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tangan kami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בך",
+      "gloss": "pada-Mu"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "mendapat belas kasihan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "anak yatim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:58.981845395Z",
+  "model": "glm-5.3"
+}

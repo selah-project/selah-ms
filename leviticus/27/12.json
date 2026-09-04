@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Maka imam menaksir ⟨את⟩-nya, sama ada baik atau jahat; seperti taksiranmu, hai imam, demikianlah ia akan menjadi.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Maka menaksir"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ia (binatang itu)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sama ada"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "seperti taksiranmu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "hai imam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikianlah"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akan menjadi"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:15.447407438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Maka menyebalah marah Yaakov terhadap Rahel, dan katanya: \"Adakah aku menggantikan Elohim, yang menahan daripadamu buah kandungan?\"",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "maka menyebalah ⟨marah⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hidung ⟨marah⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "terhadap Rahel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan katanya"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "adakah menggantikan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "daripadamu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kandungan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:05:09.814465800Z",
+  "model": "glm-5.3"
+}

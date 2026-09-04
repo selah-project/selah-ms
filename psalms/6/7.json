@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Aku letih dengan keluhanku; sepanjang malam aku mengarami ranjangku; dengan air mataku aku melarutkan dipanku.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Aku letih"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "dengan keluhanku"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "aku mengarami"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ranjangku"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "dengan air mataku"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "dipanku"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "aku melarutkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.472062510Z",
+  "model": "glm-5.3"
+}

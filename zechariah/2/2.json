@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu aku berkata kepada malaikat yang berbicara di dalamku: apakah ini? Dan ia berkata kepadaku: inilah tanduk-tanduk yang menyuraikan ⟨את⟩ Yehudah, ⟨את⟩ Yisrael, dan Yerusalaim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu aku berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di dalamku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "tanduk-tanduk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "menyuraikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerusalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:53:22.992740277Z",
+  "model": "glm-5.3"
+}

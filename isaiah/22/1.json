@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Beban Lembah Penglihatan. Apa ⟨yang⟩ berlaku padamu sekarang, bahawa kamu telah naik seluruhnya ke bumbung-bumbung rumah?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Beban"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Lembah"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Penglihatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "sekarang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "kamu telah naik"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "seluruhnya"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ke bumbung-bumbung rumah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:54.904799615Z",
+  "model": "glm-5.3"
+}

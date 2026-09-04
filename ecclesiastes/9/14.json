@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Kota yang kecil, dan orang-orang di dalamnya sedikit; lalu datang kepadanya seorang raja yang besar, dan di kelilinginya ⟨את⟩ dia, dan dibinanya ke atasnya kubu-kubu pengepungan yang besar-besar.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "Kota"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "yang kecil"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "dan orang-orang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sedikit"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lalu datang"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "seorang raja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "dan di kelilinginya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (kota itu)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "dan dibinanya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "kubu-kubu pengepungan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "yang besar-besar"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:27.974575415Z",
+  "model": "glm-5.3"
+}

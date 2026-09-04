@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 81,
+  "translation": "Maka Kulepaskan mereka menurut kekerasan hati mereka; mereka berjalan mengikut rancangan mereka sendiri.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Maka Kulepaskan mereka"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "menurut kekerasan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hati mereka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mereka berjalan"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "mengikut rancangan mereka sendiri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:46.806266397Z",
+  "model": "glm-5.3"
+}

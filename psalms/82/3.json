@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 82,
+  "translation": "Hakimilah yang lemah dan anak yatim; benarkanlah yang tertindas dan miskin.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "hakimilah"
+    },
+    {
+      "surface": "דל",
+      "gloss": "yang lemah"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "dan anak yatim"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yang tertindas"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "dan miskin"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "benarkanlah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:12.904028910Z",
+  "model": "glm-5.3"
+}

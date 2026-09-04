@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan ia melakukan yang jahat di mata Yahweh, seperti yang dilakukan Menasye bapanya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "melakukan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:50:47.873731172Z",
+  "model": "glm-5.3"
+}

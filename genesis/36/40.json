@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Dan inilah nama ketua-ketua Esav mengikut keluarga mereka, mengikut tempat mereka, dengan nama mereka: ketua Timna, ketua Alva, ketua Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "dan inilah"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ketua-ketua"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mengikut keluarga mereka"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "mengikut tempat mereka"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "dengan nama mereka"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-04T11:06:37.949143349Z",
+  "model": "glm-5.3"
+}

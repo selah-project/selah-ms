@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "\"Naiklah kepadaku dan tolonglah aku, supaya kita memukul ⟨את⟩ Givon, kerana ia telah berdamai dengan Yehosyua dan dengan ⟨את⟩ bani Israel.\"",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Naiklah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "dan tolonglah aku"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "supaya kita memukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "ia telah berdamai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bani Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:00:33.081419442Z",
+  "model": "glm-5.3"
+}

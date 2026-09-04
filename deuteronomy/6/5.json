@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan engkau akan mengasihi ⟨את⟩ Yahweh Elohim engkau dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap kekuatanmu.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Dan engkau akan mengasihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim engkau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dengan segenap"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan dengan segenap"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jiwamu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan dengan segenap"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "kekuatanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:09.870159631Z",
+  "model": "glm-5.3"
+}

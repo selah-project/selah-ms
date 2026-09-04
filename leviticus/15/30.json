@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Dan imam akan membuat ⟨את⟩ yang satu sebagai korban dosa dan ⟨את⟩ yang satu sebagai korban bakaran, dan imam akan mengadakan pendamaian baginya di hadapan Yahweh kerana keluaran ketajisannya.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ia akan membuat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yang satu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "yang satu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan ia mengadakan pendamaian"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "keluaran"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ketajisannya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:05.782085020Z",
+  "model": "glm-5.3"
+}

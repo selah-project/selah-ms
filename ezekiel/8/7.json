@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu dibawa-Nya ⟨את⟩ saya ke pintu pelataran itu, dan saya melihat, dan lihatlah, satu lubang di dalam dinding.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lalu dibawa-Nya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "saya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pelataran itu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan saya melihat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "חר",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "di dalam dinding"
+    }
+  ],
+  "timestamp": "2026-09-04T13:28:55.278227147Z",
+  "model": "glm-5.3"
+}

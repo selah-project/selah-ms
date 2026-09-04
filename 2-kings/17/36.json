@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "tetapi hanya ⟨את⟩ Yahweh, yang menaikkan ⟨את⟩ kamu keluar dari tanah Mitsrayim dengan kuat yang besar dan dengan lengan terentang — Dialah yang kamu takuti, dan kepada-Nya kamu sujud, dan kepada-Nya kamu berkorban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tetapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "menaikkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "keluar dari tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "dengan kuat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "dan dengan lengan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "terentang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Dia",
+      "marks": "Dialah"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamu takuti"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "dan kepada-Nya"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "kamu sujud"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "dan kepada-Nya"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "kamu berkorban"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:21.690383339Z",
+  "model": "glm-5.3"
+}

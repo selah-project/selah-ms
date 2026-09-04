@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Sebab aku sedia untuk tersandung, dan kesakitanku sentiasa di hadapanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "untuk tersandung"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sedia"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "dan kesakitanku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "di hadapanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:28.160871439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Nazarku kepada Yahweh aku akan bayar, di hadapan, olah, bagi seluruh umat-Nya.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nazarku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "aku akan bayar"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "olah"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bagi seluruh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:26.595647997Z",
+  "model": "glm-5.3"
+}

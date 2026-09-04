@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Ujilah aku, Yahweh, dan periksalah aku; bakarlah ⟨seperti logam⟩ ginjalku dan hatiku.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ujilah aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וונסני",
+      "gloss": "dan periksalah aku",
+      "marks": ""
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "bakarlah ⟨seperti logam⟩"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjalku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "dan hatiku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:24.097797211Z",
+  "model": "glm-5.3"
+}

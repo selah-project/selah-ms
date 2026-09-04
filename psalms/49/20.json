@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Ia akan sampai kepada angkatan nenek moyangnya; sampai selama-lamanya mereka tidak akan melihat cahaya.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Ia akan sampai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "nenek moyangnya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mereka akan melihat"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahaya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:42.125897218Z",
+  "model": "glm-5.3"
+}

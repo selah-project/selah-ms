@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Yang mengumpul pada musim panas ialah anak yang bijak; yang tidur nyenyak pada musim menuai ialah anak yang mendatangkan malu.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "mengumpul"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "pada musim panas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yang bijak"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tidur nyenyak"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "pada musim menuai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yang mendatangkan malu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:33.086029261Z",
+  "model": "glm-5.3"
+}

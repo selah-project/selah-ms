@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan ia membuat ⟨את⟩ jubah efod, pekerjaan tenunan, sepenuhnya biru tua.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dan ia membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pekerjaan"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tenunan"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "sepenuhnya"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru tua"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:55.819484794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan ia melakukan yang jahat di mata Yahweh; ia tidak berpaling daripada segala dosa Yarobam anak Nevat yang menyebabkan Israel berdosa — ⟨את⟩ Israel; di dalamnya ia berjalan.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Dan ia melakukan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yang jahat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "סר",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daripada segala"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "menyebabkan berdosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ia berjalan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:47:36.906934260Z",
+  "model": "glm-5.3"
+}

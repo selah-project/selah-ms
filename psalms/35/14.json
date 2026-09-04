@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Seperti ⟨terhadap⟩ sahabat, seperti saudaraku, aku berjalan murung; seperti perindu ibu, gelap aku menundukkan diri.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "seperti sahabat"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "seperti saudaraku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨terhadap⟩ku"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "aku berjalan murung"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "seperti perindu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "gelap"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "aku menundukkan diri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:20.211258559Z",
+  "model": "glm-5.3"
+}

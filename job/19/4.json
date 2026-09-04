@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan juga, sungguh, aku telah tersesat — ⟨את⟩ kesesatanku tinggal bersamaku.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Dan juga"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sungguh"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "aku telah tersesat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kesesatanku"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "tinggal"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "kesesatanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:29:19.193717840Z",
+  "model": "glm-5.3"
+}

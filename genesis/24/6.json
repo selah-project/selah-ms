@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Lalu Avraham berkata kepadanya: waspadalah dirimu, jangan engkau mengembalikan ⟨את⟩ anakku ke sana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "waspadalah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dirimu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "engkau mengembalikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ke sana"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:34.195952629Z",
+  "model": "glm-5.3"
+}

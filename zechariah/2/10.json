@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Hoi, hoi! Larilah dari tanah utara — neum Yahweh — kerana seperti empat angin langit Aku telah menyebarkan ⟨את⟩ kamu, neum Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoi"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "hoi"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "Larilah"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari tanah"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "utara"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "seperti empat"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "angin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "Aku telah menyebarkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:52:53.955596823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Orang jahat melarikan diri padahal tiada pengejar, tetapi orang-orang benar percaya diri seperti singa muda.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "melarikan diri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "padahal tiada"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "pengejar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "orang jahat"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "tetapi orang-orang benar"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "seperti singa muda"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "percaya diri"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:09.042291342Z",
+  "model": "glm-5.3"
+}

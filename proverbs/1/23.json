@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Berbaliklah kepada teguranku; lihatlah, aku akan mencurahkan rohku kepada kamu, aku akan memberitahukan perkataanku ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Berbaliklah"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "kepada teguranku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihatlah"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "aku akan mencurahkan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "aku akan memberitahukan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkataanku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:57.169400655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ pintu ruang mahakudus itu dibuatnya daripada pintu-pintu kayu syemen; turap dan tiang pintu: satu perlima.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pintu ruang mahakudus itu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ruang mahakudus itu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dibuatnya"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "pintu-pintu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "syemen (zaitun)"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "turap"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiang pintu"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "satu perlima"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:53.712321831Z",
+  "model": "glm-5.3"
+}

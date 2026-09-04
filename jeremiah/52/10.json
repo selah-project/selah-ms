@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 52,
+  "translation": "Dan raja Babel menyembelih ⟨את⟩ anak-anak Tsidkiyahu di depan matanya; juga ⟨את⟩ segala pembesar Yehuda disembelihnya di Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "dan menyembelih"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "di depan matanya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala pembesar Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pembesar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "disembelihnya"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "di Rivla"
+    }
+  ],
+  "timestamp": "2026-09-04T15:25:15.738075913Z",
+  "model": "glm-5.3"
+}

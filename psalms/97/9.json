@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 97,
+  "translation": "Sebab Engkaulah, Yahweh, Elyon di atas seluruh bumi; tinggi sangat Engkau telah naik mengatasi segala tuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkaulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "Engkau telah naik"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengatasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:45.048540270Z",
+  "model": "glm-5.3"
+}

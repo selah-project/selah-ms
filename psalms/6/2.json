@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Yahweh, jangan tegur aku dalam kekemarahan-Mu, dan jangan didik aku dalam kepanasan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dalam kekemarahan-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "tegur aku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "dalam kepanasan-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "didik aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:04.791410769Z",
+  "model": "glm-5.3"
+}

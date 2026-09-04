@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Bermegahlah dalam nama kesucian-Nya; bersukacitalah hati ⟨orang-orang⟩ yang mencari Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Bermegahlah"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dalam nama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kesucian-Nya"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacitalah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "⟨orang-orang⟩ yang mencari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:13.634845467Z",
+  "model": "glm-5.3"
+}

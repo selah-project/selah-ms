@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Aku menjadikan manusia lebih mahal daripada emas tulen, dan manusia biasa daripada emas Opir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Aku menjadikan mahal"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia (fana)"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "daripada emas tulen"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "dan manusia biasa"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "daripada emas"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Opir"
+    }
+  ],
+  "timestamp": "2026-09-04T12:55:29.356240638Z",
+  "model": "glm-5.3"
+}

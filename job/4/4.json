@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Perkataan-perkataanmu telah mengangkat orang yang tersandung, dan lutut yang bengkok engkau telah meneguhkan.",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "orang yang tersandung"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "telah mengangkat"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "perkataan-perkataanmu"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "dan lutut"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "yang bengkok"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "engkau telah meneguhkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:25:08.135205826Z",
+  "model": "glm-5.3"
+}

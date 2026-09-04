@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Sujudlah kepada Yahweh dalam keindahan kesucian; gemetarlah di hadapan-Nya, seluruh bumi.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Sujudlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "dalam keindahan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kesucian"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "gemetarlah"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "di hadapan-Nya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:41.902328091Z",
+  "model": "glm-5.3"
+}

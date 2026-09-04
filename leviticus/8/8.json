@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu diletakkannya ke atasnya ⟨את⟩ hosyen itu, dan ditaruhnya pada hosyen itu ⟨את⟩ Urim dan ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "lalu diletakkannya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosyen itu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosyen itu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan ditaruhnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pada"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosyen itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:37.747138086Z",
+  "model": "glm-5.3"
+}

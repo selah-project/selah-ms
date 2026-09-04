@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lalu aku berkata kepada malaikat yang berbicara kepadaku: Ke mana mereka membawa ⟨את⟩ eifah itu?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lalu aku berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ke mana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "membawa (sedang berjalan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eifah itu"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eifah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:24.201859529Z",
+  "model": "glm-5.3"
+}

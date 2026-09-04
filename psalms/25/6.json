@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Ingatlah akan rahim-belaskasihan-Mu, Yahweh, dan hesed-Mu, sebab dari selama-lamanya adanya ⟨itu⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ingatlah"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahim-belaskasihan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "dan hesed-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "dari selama-lamanya"
+    },
+    {
+      "surface": "המה",
+      "gloss": "adanya ⟨itu⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:00.234445304Z",
+  "model": "glm-5.3"
+}

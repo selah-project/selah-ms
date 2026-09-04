@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan berfirmanlah Yahweh kepada Aharon, kata-Nya:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berfirmanlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kata-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:07.675094388Z",
+  "model": "glm-5.3"
+}

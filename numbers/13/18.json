@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "dan lihatlah ⟨את⟩ tanah itu, apa keadaannya, dan ⟨את⟩ orang yang diam di atasnya: adakah kuat, atau lemah? adakah sedikit, atau banyak?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "dan kamu akan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah itu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "keadaannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "orang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "orang"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "di atasnya"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "adakah kuat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "atau lemah"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "adakah sedikit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "atau"
+    },
+    {
+      "surface": "רב",
+      "gloss": "banyak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:59.958957924Z",
+  "model": "glm-5.3"
+}

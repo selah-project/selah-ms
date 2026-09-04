@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Hampir sahaja mereka membinasakan aku di bumi, tetapi aku — aku tidak meninggalkan titah mu.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "hampir sahaja"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "mereka membinasakan aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tetapi aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "meninggalkan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "titah mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:40.647362340Z",
+  "model": "glm-5.3"
+}

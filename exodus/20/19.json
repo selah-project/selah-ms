@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan mereka berkata kepada Moshe: \"Bercakaplah engkau dengan kami dan kami akan mendengar; dan janganlah Elohim bercakap dengan kami, supaya kami jangan mati.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Dan mereka berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Bercakaplah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "dengan kami"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "dan kami akan mendengar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dan janganlah"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bercakap"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "dengan kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya... jangan"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kami mati"
+    }
+  ],
+  "timestamp": "2026-09-04T11:17:29.825394866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu kata seorang daripada mereka: \"Berkatilah kiranya tuanku pergi bersama hamba-hambamu ini.\" Lalu katanya: \"Aku akan pergi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu kata"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "seorang daripada mereka"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Berkatilah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "pergi bersama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamba-hambamu ini"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hamba-hambamu ini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu katanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "akan pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T12:45:21.670988374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Tetapi aku sentiasa mengharapkan, dan aku akan menambah atas segala pujian-Mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "mengharapkan"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "dan aku akan menambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pujian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:59.014266601Z",
+  "model": "glm-5.3"
+}

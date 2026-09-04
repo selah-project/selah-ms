@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 46,
+  "translation": "Dengarlah kepada-Ku, wahai keturunan Yaakov, dan seluruh baki keturunan Israel, yang dibebani sejak dari kandungan, yang dijinjing sejak dari rahim.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Dengarlah"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "baki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "yang dibebani"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sejak dari"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kandungan"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "yang dijinjing"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sejak dari"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "rahim"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:41.794619671Z",
+  "model": "glm-5.3"
+}

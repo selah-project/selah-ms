@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "Demi Dawid, hamba-Mu, jangan Kaupalingkan wajah Mashih-Mu.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "hamba-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "Kau-palingkan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wajah"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashih-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:06.414983955Z",
+  "model": "glm-5.3"
+}

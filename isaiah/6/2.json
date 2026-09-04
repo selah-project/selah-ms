@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Serapim berdiri di atasnya; enam sayap, enam sayap bagi satu; dengan dua ia menutup mukanya, dan dengan dua ia menutup kakinya, dan dengan dua ia terbang.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serapim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "berdiri"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enam"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sayap"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "bagi satu"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "dengan dua"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ia menutup"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mukanya"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "dan dengan dua"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ia menutup"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kakinya"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "dan dengan dua"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "ia terbang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:54:53.060120071Z",
+  "model": "glm-5.3"
+}

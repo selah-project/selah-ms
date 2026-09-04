@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Tetapi Noah mendapat kasih karunia di mata Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Tetapi Noah"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "mendapat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kasih karunia"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:10.686194638Z",
+  "model": "glm-5.3"
+}

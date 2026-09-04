@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan Aku akan bertunangkan engkau kepada-Ku dalam kesetiaan; dan engkau akan mengenal ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "Dan Aku akan bertunangkan engkau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "dalam kesetiaan"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "dan engkau akan mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:43:21.242446751Z",
+  "model": "glm-5.3"
+}

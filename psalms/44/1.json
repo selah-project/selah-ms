@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Untuk pemimpin puji-pujian; bagi bani Korah; satu mazmur pengajaran.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin puji-pujian"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bagi bani"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "satu mazmur pengajaran"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:04.477256654Z",
+  "model": "glm-5.3"
+}

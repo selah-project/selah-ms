@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 44,
+  "translation": "Sebab Engkau telah meremukkan kami di tempat serigala, dan menutupi kami dengan bayang maut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "Engkau telah meremukkan kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "serigala"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "dan menutupi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "atas kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "dengan bayang maut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:20.889104866Z",
+  "model": "glm-5.3"
+}

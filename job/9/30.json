@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Jika aku membasuh diriku dengan salju, dan membersihkan telapak tanganku dengan bór,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "aku membasuh diriku"
+    },
+    {
+      "surface": "במו",
+      "gloss": "dengan"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "dan aku membersihkan"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "dengan bór"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:27:22.010285571Z",
+  "model": "glm-5.3"
+}

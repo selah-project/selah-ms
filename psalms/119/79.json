@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 119,
+  "translation": "Biarkan mereka yang takut akan Engkau berpaling kepadaku, dan mereka yang mengenal kesaksian-kesaksian-Mu.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "berpaling"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "mereka yang takut akan Engkau"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "dan yang mengenal"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kesaksian-kesaksian-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:14:36.073476626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 129,
+  "translation": "Banyak kali mereka menindas aku sejak kemudaanku, namun mereka tidak dapat ⟨mengatasi⟩ aku.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Banyak kali"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "mereka menindas aku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sejak kemudaanku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "namun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mereka dapat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mengatasi⟩ aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:34.179705357Z",
+  "model": "glm-5.3"
+}

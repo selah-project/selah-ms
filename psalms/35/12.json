@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Mereka membalasku dengan kejahatan menggantikan kebaikan, kehilangan bagi jiwaku.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Mereka membalasku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dengan kejahatan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "menggantikan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kebaikan"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "kehilangan"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bagi jiwaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:18.080120859Z",
+  "model": "glm-5.3"
+}

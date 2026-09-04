@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Engkau mengasihi keadilan dan membenci kejahatan; sebab itu Elohim, Elohimmu, mengurap engkau dengan minyak kesukarelaan melebihi rakan-rakanmu.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "engkau mengasihi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "dan membenci"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kejahatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "mengurap engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kesukarelaan"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "melebihi rakan-rakanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:06.381631959Z",
+  "model": "glm-5.3"
+}

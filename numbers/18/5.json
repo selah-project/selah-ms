@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan kamu akan memelihara ⟨את⟩ penjagaan tempat yang kudus dan ⟨את⟩ penjagaan mezbah, supaya tidak ada lagi kemurkaan atas bani Israel.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "dan kamu akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penjagaan tempat yang kudus"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "penjagaan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tempat yang kudus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "penjagaan mezbah"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "penjagaan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya tidak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kemurkaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:40:49.687518378Z",
+  "model": "glm-5.3"
+}

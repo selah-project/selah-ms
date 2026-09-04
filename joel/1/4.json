@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Baki ulat gazam dimakan belalang, dan baki belalang dimakan ulat yelek, dan baki ulat yelek dimakan ulat hasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Baki"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "ulat gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dan baki"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "ulat yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "dan baki"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "ulat yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dimakan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ulat hasil"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:12.902088655Z",
+  "model": "glm-5.3"
+}

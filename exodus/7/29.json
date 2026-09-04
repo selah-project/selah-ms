@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan katak-katak akan naik ke atasmu, dan ke atas kaummu, dan ke atas segala hambamu.",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "dan ke atasmu"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "dan ke atas kaummu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "dan ke atas segala"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "hambamu"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "akan naik"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "katak-katak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:41.084592895Z",
+  "model": "glm-5.3"
+}

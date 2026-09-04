@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Lalu mereka mengumpulkannya berlonggok-longgok, berlonggok-longgok, maka busanlah bumi itu.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Lalu mereka mengumpulkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka (katak-katak itu)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "berlonggok-longgok"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "berlonggok-longgok"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "maka busanlah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:00.907861032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu raja itu mengutus, dan mereka mengumpulkan kepadanya semua tua-tua Yehuda dan Yerusalem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu mengutus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja itu"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dan mereka mengumpulkan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerusalem"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:17.028172632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan musuh mereka menindas mereka, dan mereka ditundukkan di bawah tangan mereka.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "Dan menindas mereka"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "musuh mereka"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "dan ditundukkan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:08.914606631Z",
+  "model": "glm-5.3"
+}

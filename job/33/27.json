@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Ia menyanyi di hadapan manusia lalu berkata: Aku telah berdosa dan aku telah memutarbalikkan yang lurus, dan hal itu tidak memberi faedah kepadaku.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "menyanyi (memandang)"
+    },
+    {
+      "surface": "על",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku telah berdosa"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "dan yang lurus"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "aku telah memutarbalikkan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "memberi faedah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kepadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:32:32.718093504Z",
+  "model": "glm-5.3"
+}

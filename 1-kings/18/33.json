@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu disusunnya ⟨את⟩ kayu itu, dan dipotong-potongnya ⟨את⟩ lembu itu, dan diletakkannya di atas kayu itu.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "disusunnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu itu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu itu"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "dipotong-potongnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lembu itu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lembu itu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "diletakkannya"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu itu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:52.939640627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu ia berbaring dan tidur di bawah satu pohon rotem, dan lihatlah, seorang malaikat menyentuhnya dan berkata kepadanya, \"Bangun, makan.\"",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Lalu ia berbaring"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "dan tidur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "pohon rotem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan lihatlah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "seorang malaikat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "menyentuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Bangun"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "makan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:54.371476954Z",
+  "model": "glm-5.3"
+}

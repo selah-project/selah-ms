@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 145,
+  "translation": "Keagungan kemuliaan hod-Mu, dan perkataan-perkataan tentang keajaiban-keajaiban-Mu, akan kukenangkan.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "keagungan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "hod-Mu"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "dan perkataan-perkataan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-keajaiban-Mu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "akan kukenangkan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:16.658009684Z",
+  "model": "glm-5.3"
+}

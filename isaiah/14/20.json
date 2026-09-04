@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Tidaklah engkau menyatu ⟨את⟩ mereka dalam pekuburan, kerana tanahmu kaubinasakan, umatmu kaubunuh; tidak akan disebut selama-lamanya keturunan pembuat kejahatan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "menyatu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "dalam pekuburan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "kaubinasakan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "kaubunuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akan disebut"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pembuat kejahatan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:49:32.136699352Z",
+  "model": "glm-5.3"
+}

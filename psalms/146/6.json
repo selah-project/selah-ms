@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 146,
+  "translation": "Yang membuat langit dan bumi, ⟨את⟩ laut dan ⟨את⟩ segala yang ada di dalamnya; yang memelihara kebenaran ⟨sampai kekal⟩;",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yang membuat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "dan bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laut"
+    },
+    {
+      "surface": "הים",
+      "gloss": "laut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "yang memelihara"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sampai kekal"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:24.463698628Z",
+  "model": "glm-5.3"
+}

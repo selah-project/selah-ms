@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 80,
+  "translation": "Pokok anggur dari Mitsrayim (Mesir) Engkau mencabut; Engkau menghalau bangsa-bangsa, dan Engkau menanamnya.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "pokok anggur"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "Engkau mencabut"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "Engkau menghalau"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "dan Engkau menanamnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.960165793Z",
+  "model": "glm-5.3"
+}

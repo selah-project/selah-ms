@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Janganlah engkau membajak dengan lembu dan dengan keldai bersama-sama.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "engkau membajak"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "dengan lembu"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "dan dengan keldai"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T11:52:30.758561817Z",
+  "model": "glm-5.3"
+}

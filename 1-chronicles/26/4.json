@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan bagi Oved-Edom ada anak-anak lelaki: Semaia si sulung, Yehozavad ⟨si kedua⟩, Yoakh ⟨si ketiga⟩, dan Sokhar ⟨si keempat⟩, dan Netanel ⟨si kelima⟩.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "Dan bagi Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak lelaki"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Semaia"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "si sulung"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozavad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨si kedua⟩"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Yoakh"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "⟨si ketiga⟩"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "dan Sokhar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "⟨si keempat⟩"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "dan Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "⟨si kelima⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:44.610022717Z",
+  "model": "glm-5.3"
+}

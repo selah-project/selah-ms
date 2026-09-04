@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan berlakulah, ketika hamba Avraham mendengar ⟨את⟩ perkataan mereka, bahawa ia sujud ke bumi kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dan berlakulah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ketika"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkataan mereka"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "perkataan mereka"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "bahawa ia sujud"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:51.119008108Z",
+  "model": "glm-5.3"
+}

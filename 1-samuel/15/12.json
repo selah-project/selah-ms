@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 15:12",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu bangunlah Samuel pagi-pagi untuk menemui Syaul pada waktu pagi, dan diberitahukanlah kepada Samuel, katanya: \"Syaul telah sampai di Karmel, dan sesungguhnya dia mendirikan bagi dirinya tanda peringatan, lalu berpaling, dan meneruskan perjalanannya, dan turun ke Gilgal.\"",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Lalu bangunlah pagi-pagi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "untuk menemui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "dan diberitahukanlah"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "kepada Samuel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "telah sampai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "di Karmel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "dan sesungguhnya"
+    },
+    {
+      "surface": "מציב",
+      "gloss": "dia mendirikan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi dirinya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanda peringatan"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "lalu berpaling"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "dan meneruskan perjalanannya"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dan turun"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ke Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-04T12:17:17.847182971Z",
+  "model": "glm-5.3"
+}

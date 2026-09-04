@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan juga kumpulan campuran yang besar turut naik bersama ⟨את⟩ mereka, serta kambing biri-biri dan lembu — ternakan yang sangat banyak.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kumpulan campuran"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "turut naik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bersama ⟨את⟩ mereka",
+      "marks": "mereka (bani Yisrael)"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "serta kambing biri-biri"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "dan lembu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ternakan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yang sangat banyak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:31.114404862Z",
+  "model": "glm-5.3"
+}

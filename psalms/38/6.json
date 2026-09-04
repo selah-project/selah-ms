@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Berbau busuk ⟨dan⟩ reputlah luka-luka bendungku, oleh sebab kebodohanku.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Berbau busuk"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "reputlah"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "luka-luka bendungku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "oleh sebab"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "kebodohanku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:23.343942548Z",
+  "model": "glm-5.3"
+}

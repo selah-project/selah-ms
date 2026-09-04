@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Ketika David mendengarnya, diutusnya ⟨את⟩ Yoab dan ⟨את⟩ seluruh tentera, yakni para pahlawan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ketika mendengar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "diutusnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "seluruh tentera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para pahlawan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:26:26.973304024Z",
+  "model": "glm-5.3"
+}

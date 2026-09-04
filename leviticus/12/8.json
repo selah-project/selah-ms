@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 12:8",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Dan jika tangannya tidak mendapat cukup seekor kambing, maka ia mengambil dua ekor tekukur atau dua anak burung merpati, satu bagi korban bakaran dan satu bagi korban dosa, dan imam mengadakan pendamaian baginya, maka ia tahir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Dan jika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "mendapat"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "די",
+      "gloss": "cukup"
+    },
+    {
+      "surface": "שה",
+      "gloss": "seekor kambing"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "maka ia mengambil"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dua ekor"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "tekukur"
+    },
+    {
+      "surface": "או",
+      "gloss": "atau"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "burung merpati"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bagi korban bakaran"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "dan satu"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bagi korban dosa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "dan mengadakan pendamaian"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "maka ia tahir"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:27.062030106Z",
+  "model": "glm-5.3"
+}

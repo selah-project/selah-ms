@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 61,
+  "translation": "Biarlah aku menumpang di kemah-Mu sampai selama-lamanya, aku berlindung di tempat tersembunyi di bawah sayap-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "biarlah aku menumpang"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "di kemah-Mu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "sampai selama-lamanya"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aku berlindung"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "di tempat tersembunyi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "di bawah sayap-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:09.697401248Z",
+  "model": "glm-5.3"
+}

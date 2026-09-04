@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Engkau menghanyutkan mereka; seperti tidur mereka menjadi; pada waktu pagi seperti rumput ia berlalu.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Engkau menghanyutkan mereka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "seperti tidur"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mereka menjadi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "pada waktu pagi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "seperti rumput"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ia berlalu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.497697406Z",
+  "model": "glm-5.3"
+}

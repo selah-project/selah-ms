@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "dan Aku akan memperbanyak ⟨את⟩ zaramu seperti bintang-bintang langit, dan Aku akan memberikan kepada zaramu ⟨את⟩ segala tanah ini, dan segala bangsa bumi akan memberkati diri dalam zaramu.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "dan Aku akan memperbanyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaramu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zaramu"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "seperti bintang-bintang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kepada zaramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala tanah ini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "dan akan memberkati diri"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "dalam zaramu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:56.796700929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Kata mereka: Jika kamu menghantar ⟨את⟩ aron Elohim Israel, jangan hantarkan ⟨את⟩nya dengan kosong, sebab pastilah kamu memulangkan kepadanya satu asyam; maka kamu akan sembuh, dan akan diketahui kepadamu mengapa tangannya tidak undur dari kamu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Kata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "kamu menghantar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "hantarkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩nya",
+      "marks": "ia (aron itu)"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "dengan kosong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pastilah memulangkan"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "kamu memulangkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asyam"
+    },
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "kamu akan sembuh"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "dan akan diketahui"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "undur"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangannya"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "dari kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:56.784119954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan seorang lelaki yang memberikan persetubuhannya kepada seekor binatang — pastilah mati dibunuh dia, dan ⟨את⟩ binatang itu kamu bunuh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Dan seorang lelaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "persetubuhannya"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kepada seekor binatang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dibunuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "binatang itu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binatang itu"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "kamu bunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:14.183575754Z",
+  "model": "glm-5.3"
+}

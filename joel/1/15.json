@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Aduh bagi hari itu! kerana hampirlah hari Yahweh, dan seperti kebinasaan dari Syadai ia akan datang.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "aduh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bagi hari itu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "hampirlah"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "dan seperti kebinasaan"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "dari Syadai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ia akan datang"
+    }
+  ],
+  "timestamp": "2026-09-04T13:45:46.428975442Z",
+  "model": "glm-5.3"
+}

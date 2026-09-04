@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Kerana aku menyelamatkan si miskin yang berseru, dan anak yatim, yang tiada penolong baginya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "aku menyelamatkan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "si miskin"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "yang berseru"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "dan anak yatim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "penolong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:31:09.033670560Z",
+  "model": "glm-5.3"
+}

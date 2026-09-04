@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 133,
+  "translation": "Seperti minyak yang baik di atas kepala, yang mengalir turun ke atas janggut, janggut Aharon, yang mengalir turun ke atas mulut jubahannya;",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Seperti minyak"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kepala"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yang mengalir turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "janggut"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "janggut"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yang mengalir turun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "jubahannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:32.916545645Z",
+  "model": "glm-5.3"
+}

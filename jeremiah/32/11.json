@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Lalu aku mengambil ⟨את⟩ surat pembelian itu — ⟨את⟩ salinan termeterai, perintah dan ketetapan itu — dan ⟨את⟩ salinan yang terbuka.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Lalu aku mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surat pembelian itu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "pembelian itu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salinan termeterai"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "yang termeterai"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "perintah itu"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "dan ketetapan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "salinan yang terbuka"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "yang terbuka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:20:22.350610469Z",
+  "model": "glm-5.3"
+}

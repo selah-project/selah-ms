@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Lalu pergilah Amasa untuk menghimpunkan ⟨את⟩ Yehuda, tetapi ia terlambat melebihi waktu yang ditetapkan yang dijanjikan baginya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lalu pergilah"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "untuk menghimpunkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "terlambat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "waktu yang ditetapkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "dijanjikan baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:31:47.061432457Z",
+  "model": "glm-5.3"
+}

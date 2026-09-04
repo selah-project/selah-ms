@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lihat, engkau sendiri telah mendengar ⟨את⟩ apa yang dilakukan raja-raja Asyur kepada segala negeri untuk menumpasnya — dan engkau, akankah engkau diluputkan?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lihat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau sendiri"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "telah mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kepada segala"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "negeri"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "untuk menumpasnya"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dan engkau"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "akankah engkau diluputkan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:49:39.213014200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan membasuh dari padanya Moshe dan Aharon serta anak-anaknya ⟨את⟩ tangan mereka dan ⟨את⟩ kaki mereka.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "dan membasuh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "dari padanya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "dan Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "serta anak-anaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan mereka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kaki mereka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kaki mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:04.387739092Z",
+  "model": "glm-5.3"
+}

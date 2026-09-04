@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan permulaan kerajaannya ⟨ialah⟩ Babel, dan Erekh, dan Akad, dan Kalneh, di tanah Syinear.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Dan menjadi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "permulaan"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "kerajaannya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "dan Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "dan Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "dan Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Syinear"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:43.423028335Z",
+  "model": "glm-5.3"
+}

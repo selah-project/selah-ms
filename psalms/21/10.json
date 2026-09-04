@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Engkau akan menaruh mereka seperti tanur api pada waktu hadirat-Mu; Yahweh dalam murka-Nya akan menelan mereka, dan api akan memakan mereka.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Engkau akan menaruh mereka"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "seperti tanur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadirat-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam murka-Nya"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "akan menelan mereka"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "dan akan memakan mereka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:00.316600685Z",
+  "model": "glm-5.3"
+}

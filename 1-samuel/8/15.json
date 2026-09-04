@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Dan benih kamu, dan kebun-kebun anggur kamu, ia akan mengambil sepersepuluh, dan memberikannya kepada pegawai-pegawainya dan kepada hamba-hambanya.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "dan benih kamu"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "dan kebun-kebun anggur kamu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ia akan mengambil sepersepuluh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "kepada pegawai-pegawainya"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "dan kepada hamba-hambanya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:13:52.825460533Z",
+  "model": "glm-5.3"
+}

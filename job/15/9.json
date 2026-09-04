@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Apa yang engkau ketahui, dan kami tidak mengetahui? Apa yang engkau fahami, yang tidak bersama kami?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "engkau ketahui"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kami mengetahui"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "engkau fahami"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bersama kami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:48.087653651Z",
+  "model": "glm-5.3"
+}

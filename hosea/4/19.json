@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Angin mengikatnya ⟨את⟩ dalam sayap-sayapnya, dan mereka akan mendapat malu kerana korban-korban mereka.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "mengikat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Angin"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Efrayim, yang diikat)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "dalam sayap-sayapnya"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dan mereka akan mendapat malu"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "kerana korban-korban mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:42:47.099760146Z",
+  "model": "glm-5.3"
+}

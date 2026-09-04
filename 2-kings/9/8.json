@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan binasalah segala keluarga Ahab, dan Aku akan melenyapkan bagi Ahab setiap yang kencing pada dinding, baik yang terkurung mahupun yang ditinggalkan, di Israel.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Dan binasalah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "dan Aku akan melenyapkan"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "bagi Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "yang kencing"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "pada dinding"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "yang terkurung"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "yang ditinggalkan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:46:01.360637994Z",
+  "model": "glm-5.3"
+}

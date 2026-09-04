@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan berkatalah Yahweh kepada Gideon: dengan tiga ratus orang yang menjilat itu Aku akan menyelamatkan ⟨את⟩ kamu, dan Aku akan memberikan ⟨את⟩ Midian ke dalam tanganmu; dan seluruh bangsa itu pergilah setiap orang ke tempatnya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkatalah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "dengan tiga"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "yang menjilat"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "Aku akan menyelamatkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "kamu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan memberikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ke dalam tanganmu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "dan seluruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ke tempatnya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:07.957629466Z",
+  "model": "glm-5.3"
+}

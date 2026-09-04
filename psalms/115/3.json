@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 115,
+  "translation": "Tetapi Elohim kami ⟨di⟩ ⟨langit⟩; segala yang dikehendaki-Nya telah dilakukan-Nya.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Tetapi Elohim kami"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dikehendaki-Nya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dilakukan-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:21.614462280Z",
+  "model": "glm-5.3"
+}

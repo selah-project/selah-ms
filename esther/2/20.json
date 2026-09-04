@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Ester tidak memberitahu kelahirannya dan ⟨את⟩ kaumnya, seperti yang diperintahkan Mordehai ke atasnya; dan ⟨את⟩ titah Mordehai Ester lakukan, seperti ketika Ester dibesarkan dalam pemeliharaannya ⟨bersamanya⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "memberitahu"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "kelahirannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kaumnya"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kaumnya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ke atasnya"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "titah Mordehai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "titah"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakukan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti ketika"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ia berada"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "dalam pemeliharaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bersamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:42:05.183986967Z",
+  "model": "glm-5.3"
+}

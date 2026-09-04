@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 24,
+  "translation": "Dan pemukul nefesy binatang hendaklah menggantikannya: nefesy ganti nefesy.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Dan pemukul"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "binatang"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "hendaklah menggantikannya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesy"
+    }
+  ],
+  "timestamp": "2026-09-04T11:32:39.669461616Z",
+  "model": "glm-5.3"
+}

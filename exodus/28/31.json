@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Dan engkau akan membuat ⟨את⟩ jubah efod itu semuanya daripada kain biru tua.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "dan engkau akan membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod itu"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kain biru tua"
+    }
+  ],
+  "timestamp": "2026-09-04T11:21:11.073174350Z",
+  "model": "glm-5.3"
+}

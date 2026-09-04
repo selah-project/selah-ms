@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 56,
+  "translation": "Maka pada hari aku berseru, musuh-musuhku akan berpaling ke belakang — ini aku tahu: Elohim untukku.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "maka"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "akan berpaling"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuh-musuhku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ke belakang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku tahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "untukku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:37.167985268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Engkau telah membawa kami ke dalam jerat; Engkau menaruh tekanan di atas pinggang kami",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Engkau telah membawa kami"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ke dalam jerat"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "Engkau menaruh"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "tekanan"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "di atas pinggang kami"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:35.770580544Z",
+  "model": "glm-5.3"
+}

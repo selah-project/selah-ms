@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Maka pergilah Eliyahu untuk memperlihatkan dirinya kepada Ahab; dan kelaparan itu hebat di Syomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Maka pergilah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "untuk memperlihatkan dirinya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "dan kelaparan itu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hebat"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "di Syomron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:07.932134543Z",
+  "model": "glm-5.3"
+}

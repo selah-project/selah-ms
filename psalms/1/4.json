@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Tidak demikian orang-orang fasik, melainkan seperti sekam yang dihalau oleh angin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "orang-orang fasik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "seperti sekam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "dihalau"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "oleh angin"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:26.174296949Z",
+  "model": "glm-5.3"
+}

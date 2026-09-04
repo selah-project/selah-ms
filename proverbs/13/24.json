@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Yang menahan rotannya membenci anaknya, tetapi yang mengasihinya mencarinya disiplin awal-awal.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "menahan"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "rotannya"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "membenci"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "tetapi yang mengasihinya"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "mencarinya awal-awal"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplin"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:03.423921503Z",
+  "model": "glm-5.3"
+}

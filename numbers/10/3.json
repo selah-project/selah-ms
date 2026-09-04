@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Dan apabila ditiup keduanya, maka berkumpullah kepadamu seluruh jemaah di pintu kemah pertemuan.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "dan ditiup"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "keduanya"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "maka berkumpullah"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "di"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pintu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:36.794280491Z",
+  "model": "glm-5.3"
+}

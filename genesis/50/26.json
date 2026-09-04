@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 50,
+  "translation": "Dan Yosef mati berumur seratus sepuluh tahun, dan mereka membalsem ⟨את⟩ dia, dan diletakkannya di dalam peti mayat di Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dan mati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berumur (anak kepada)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "seratus"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dan sepuluh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "dan mereka membalsem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "dia"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "dan diletakkannya"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "di dalam peti mayat"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "di Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:11:11.526732042Z",
+  "model": "glm-5.3"
+}

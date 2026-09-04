@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan ia menyerahkan ⟨את⟩ mereka ke dalam tahanan rumah sar pembantai-pembantai, ke rumah penjara, tempat Yosef terikat di sana.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dan ia menyerahkan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ke dalam tahanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "pembantai-pembantai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "penjara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tempat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "terikat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    }
+  ],
+  "timestamp": "2026-09-04T11:08:40.964509817Z",
+  "model": "glm-5.3"
+}

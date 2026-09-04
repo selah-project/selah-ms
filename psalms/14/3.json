@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Semuanya telah berpaling, bersama-sama mereka telah menjadi busuk; tiada yang berbuat baik, tiada juga satu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "סר",
+      "gloss": "telah berpaling"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "mereka telah menjadi busuk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:28.324019928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Lalu matilah juga kedua-duanya, Mahlon dan Kiljon, maka tinggallah perempuan itu ⟨daripada⟩ kedua-dua anaknya dan daripada suaminya.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "lalu matilah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kedua-duanya"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "dan Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "maka tinggallah"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "perempuan itu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "⟨daripada⟩ kedua-dua"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "dan daripada suaminya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:04.669363650Z",
+  "model": "glm-5.3"
+}

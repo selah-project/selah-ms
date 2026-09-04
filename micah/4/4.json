@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan mereka akan duduk, setiap orang di bawah pokok anggurnya dan di bawah pokok tintanya, dan tiada yang menakutkan; kerana mulut Yahweh Tsebaot telah berfirman.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "dan mereka akan duduk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "pokok anggurnya"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "dan di bawah"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "pokok tintanya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "yang menakutkan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "telah berfirman"
+    }
+  ],
+  "timestamp": "2026-09-04T13:49:51.325137553Z",
+  "model": "glm-5.3"
+}

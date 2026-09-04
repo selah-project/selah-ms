@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan mata orang-orang yang melihat tidak akan kabur, dan telinga orang-orang yang mendengar akan teliti mendengar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "akan kabur"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "orang-orang yang melihat"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "dan telinga"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "orang-orang yang mendengar"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "akan teliti mendengar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:39.856664142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu Elohim membawa ⟨את⟩ bangsa itu berputar melalui jalan padang gurun, menuju Laut Suf; dan dalam kesusunan lima baris berangkatlah bani Yisrael dari negeri Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Lalu membawa berputar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa itu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa itu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "melalui jalan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "dalam kesusunan lima baris"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "berangkat naik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "dari negeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:16:18.335449713Z",
+  "model": "glm-5.3"
+}

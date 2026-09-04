@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Lalu berkata Ester: seorang laki-laki, penindas dan musuh — Haman si jahat ini. Dan Haman diliputi ketakutan di hadapan raja dan permaisuri.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang laki-laki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "penindas"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "dan musuh"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "si jahat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dan Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "diliputi ketakutan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "dan permaisuri"
+    }
+  ],
+  "timestamp": "2026-09-04T14:44:11.581609074Z",
+  "model": "glm-5.3"
+}

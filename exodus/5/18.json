@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Dan sekarang pergilah, bekerjalah; dan jerami tidak akan diberikan kepada kamu, tetapi takaran bata kamu harus menyerahkan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dan sekarang"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pergilah"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bekerjalah"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "dan jerami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "akan diberikan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kepada kamu"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "dan takaran"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bata"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kamu harus menyerahkan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:13:27.714651906Z",
+  "model": "glm-5.3"
+}

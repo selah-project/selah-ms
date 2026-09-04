@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan Yahweh menjawab ⟨את⟩ malaikat yang berbicara di dalam diriku — perkataan-perkataan yang baik, perkataan-perkataan penghiburan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "dan menjawab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malaikat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yang berbicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "di dalam diriku"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "penghiburan"
+    }
+  ],
+  "timestamp": "2026-09-04T15:50:32.451151981Z",
+  "model": "glm-5.3"
+}

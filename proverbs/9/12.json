@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Jika engkau bijak, engkau bijak bagi dirimu sendiri; dan jika engkau mengejek, engkau seorang diri sahaja yang menanggungnya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "engkau bijak"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "engkau bijak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagi dirimu sendiri"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "jika engkau mengejek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "seorang diri sahaja"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "yang menanggungnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:17.402639653Z",
+  "model": "glm-5.3"
+}

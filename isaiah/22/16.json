@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 22:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Apa padamu di sini, dan siapakah padamu di sini, bahwa engkau mengukir bagimu di sini kubur — si pengukir di tempat tinggi kuburnya, si pahat di gunung batu kediaman baginya?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan siapakah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "padamu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "engkau mengukir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bagimu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "di sini"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "si pengukir"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "di tempat tinggi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kuburnya"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "si pahat"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "di gunung batu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "kediaman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:44.648432100Z",
+  "model": "glm-5.3"
+}

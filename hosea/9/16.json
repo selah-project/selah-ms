@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Efrayim telah dipukul, akar mereka menjadi kering, buah tiada akan mereka hasilkan; sungguhpun mereka melahirkan, Aku akan mematikan buah kasih rahim mereka.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "telah dipukul"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "akar mereka"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "menjadi kering"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "buah"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "akan mereka hasilkan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sungguhpun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "mereka melahirkan"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "Aku akan mematikan"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "buah kasih"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "rahim mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:44:28.610471134Z",
+  "model": "glm-5.3"
+}

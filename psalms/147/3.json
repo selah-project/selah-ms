@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 147,
+  "translation": "Yang menyembuhkan patah hati, dan membebat kesedihan mereka.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Yang menyembuhkan"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "patah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "dan membebat"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "kesedihan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:34.105062730Z",
+  "model": "glm-5.3"
+}

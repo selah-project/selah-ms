@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dari langit Dia membuatmu mendengar ⟨את⟩ suara-Nya untuk mendidikmu, dan di atas bumi Dia memperlihatkan kepadamu ⟨את⟩ api-Nya yang besar, dan perkataan-Nya engkau dengar dari tengah-tengah api.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "Dia membuatmu mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suara-Nya"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "suara-Nya"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "untuk mendidikmu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan di atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "Dia memperlihatkan kepadamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "api-Nya yang besar"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "api-Nya"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "dan perkataan-Nya"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "engkau dengar"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "dari tengah-tengah"
+    },
+    {
+      "surface": "האש",
+      "gloss": "api"
+    }
+  ],
+  "timestamp": "2026-09-04T11:48:58.030124132Z",
+  "model": "glm-5.3"
+}

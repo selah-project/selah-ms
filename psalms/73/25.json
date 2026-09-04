@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 73,
+  "translation": "Siapakah bagi-Ku di langit? dan bersama Engkau tiada yang Ku-ingini di bumi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi-Ku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "di langit"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "dan bersama Engkau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "yang Ku-ingini"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:39.229703129Z",
+  "model": "glm-5.3"
+}

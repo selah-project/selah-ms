@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 84,
+  "translation": "Yang melintasi lembah Bakha menjadikannya mata air; juga hujan awal membalutnya dengan berkat.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Yang melintasi"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Bakha"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mata air"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "menjadikannya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dengan berkat"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "membalut"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "hujan awal"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:58.758109809Z",
+  "model": "glm-5.3"
+}

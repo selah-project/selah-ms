@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan ia melahirkan Syaaf bapa Madmanna, ⟨את⟩ Syewa bapa Makbena, dan bapa Gibea; dan anak perempuan Kalev ialah Aksah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "dan ia melahirkan"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Syaaf"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syewa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Syewa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makbena"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "dan bapa"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "dan anak perempuan"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:27.776538295Z",
+  "model": "glm-5.3"
+}

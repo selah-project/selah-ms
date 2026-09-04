@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Tajamkan telinga, hai langit, dan aku akan berkata-kata; dan biarlah bumi mendengar perkataan mulutku.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Tajamkan telinga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hai langit"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dan aku akan berkata-kata"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "dan biarlah mendengar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:04.608824330Z",
+  "model": "glm-5.3"
+}

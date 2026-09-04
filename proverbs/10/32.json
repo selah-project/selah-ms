@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Bibir orang benar mengetahui kerelaan, tetapi mulut orang fasik ⟨ialah⟩ kepalsuan.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "bibir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "orang benar"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "mengetahui"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kerelaan"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "tetapi mulut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "orang fasik"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "kepalsuan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:44.179567821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan orang muda akan letih dan lesu, dan pemuda-pemuda akan tersandung tersungkur.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "akan letih"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "orang muda"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "dan lesu"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "dan pemuda-pemuda"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "tersandung"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "tersungkur"
+    }
+  ],
+  "timestamp": "2026-09-04T13:03:34.553232670Z",
+  "model": "glm-5.3"
+}

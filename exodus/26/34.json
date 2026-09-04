@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan engkau letakkan ⟨את⟩ tutup pendamaian itu di atas peti pengesahan, di kudus para yang maha kudus.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "letakkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutup pendamaian itu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tutup pendamaian"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pengesahan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "di kudus"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "para yang maha kudus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:20:06.750804583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Biarlah aku menyeberang, aku memohon, dan melihat ⟨את⟩ tanah yang baik yang di seberang Yarden, gunung yang baik ini dan Levanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Biarlah aku menyeberang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "aku memohon"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah yang baik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "di seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "dan Levanon"
+    }
+  ],
+  "timestamp": "2026-09-04T15:19:17.337666520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Kayu palangnya dimasukkan ⟨את⟩ ke dalam gelang-gelang itu, dan kayu palang itu pada kedua-dua rusuk mazbah, apabila mengangkatnya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "dimasukkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu palangnya"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "kayu palangnya"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ke dalam gelang-gelang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan jadilah"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "kayu palang itu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kedua-dua"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "rusuk"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "apabila mengangkat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mazbah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:47.996225779Z",
+  "model": "glm-5.3"
+}

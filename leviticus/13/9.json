@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Apabila ada penyakit tsaraat pada seseorang, maka orang itu dibawa kepada ⟨⟩ sang kohen;",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "plag"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "apabila"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ada"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pada seseorang"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "maka dibawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang kohen"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:55.853803760Z",
+  "model": "glm-5.3"
+}

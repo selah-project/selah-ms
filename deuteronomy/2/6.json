@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Makanan kamu beli dari ⟨את⟩ mereka dengan wang perak, lalu kamu makan; juga air kamu beli dari ⟨את⟩ mereka dengan wang perak, lalu kamu minum.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Makanan"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "kamu beli"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari ⟨את⟩ mereka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan wang perak"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "dan kamu makan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "kamu beli"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "dari ⟨את⟩ mereka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "dengan wang perak"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "dan kamu minum"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:47.134321501Z",
+  "model": "glm-5.3"
+}

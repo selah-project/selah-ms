@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 67,
+  "translation": "Untuk pemimpin muizik, dengan alat gesek. Mizmor, nyanyian.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Untuk pemimpin muizik"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "dengan alat gesek"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyanyian"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:07.687683099Z",
+  "model": "glm-5.3"
+}

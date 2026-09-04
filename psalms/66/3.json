@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 66,
+  "translation": "Katakanlah kepada Elohim: \"Betapa dahsyat perbuatan-Mu! Dengan kelimpahan kuasa-Mu, musuh-Mu akan berpura-pura tunduk kepada-Mu.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Katakanlah"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kepada Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Betapa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dahsyat"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-Mu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Dengan kelimpahan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kuasa-Mu"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "akan berpura-pura tunduk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "musuh-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:54.121389564Z",
+  "model": "glm-5.3"
+}

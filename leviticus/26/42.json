@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Maka Aku akan mengingati ⟨את⟩ perjanjianKu dengan Yaakov, dan juga ⟨את⟩ perjanjianKu dengan Yitshak, dan juga ⟨את⟩ perjanjianKu dengan Avraham akan Kuingingat; dan bumi itu akan Kuingingat.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "maka Aku akan mengingati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjianKu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjianKu"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjianKu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjianKu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "dan juga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perjanjianKu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjianKu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "akan Kuingingat"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "dan bumi itu"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "akan Kuingingat"
+    }
+  ],
+  "timestamp": "2026-09-04T15:18:13.735858140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Sebab kami semalam ada dan tidak mengetahui apa-apa, sebab hari-hari kami ⟨ialah⟩ bayang-bayang di atas bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "semalam"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami ada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "mengetahui apa-apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צל",
+      "gloss": "bayang-bayang"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hari-hari kami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:26:01.093265407Z",
+  "model": "glm-5.3"
+}

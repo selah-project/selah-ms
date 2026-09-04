@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Aku akan mengurniakan kepadamu kebijaksanaan dan akan menuntunmu di jalan yang akan kaujalani; aku akan memberi nasihat kepadamu, mataku atasmu.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Aku akan mengurniakan kepadamu kebijaksanaan"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "dan akan menuntunmu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "yang"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "akan kaujalani"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "aku akan memberi nasihat"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mataku atasmu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:35.039363773Z",
+  "model": "glm-5.3"
+}

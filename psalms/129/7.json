@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 129,
+  "translation": "yang tidak memenuhi tapak tangan penenai, dan tidak memenuhi pelukan pengikat berkas.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "yang tidak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "memenuhi"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "tapak tangannya"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "penenai"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "dan pelukannya"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "pengikat berkas"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:30.175942099Z",
+  "model": "glm-5.3"
+}

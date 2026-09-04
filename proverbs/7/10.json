@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan lihat, seorang perempuan datang menemui ⟨dia⟩, berpakaian seperti perempuan sundal, dan berhati licik.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "dan lihat"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "seorang perempuan"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "datang menemui dia"
+    },
+    {
+      "surface": "שית",
+      "gloss": "berpakaian"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "perempuan sundal"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "dan berhati licik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:02.818396238Z",
+  "model": "glm-5.3"
+}

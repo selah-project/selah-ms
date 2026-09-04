@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Pada waktu itu Ia berfirman kepada mereka dalam kemurkaan-Nya, dan dalam kepanasan murka-Nya Ia menggemparkan mereka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Pada waktu itu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Ia berfirman"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dalam kemurkaan-Nya"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "dan dalam kepanasan murka-Nya"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "Ia menggemparkan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:03.271596729Z",
+  "model": "glm-5.3"
+}

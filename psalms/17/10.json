@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lemak mereka menutup ⟨mereka⟩, mulut mereka berbicara dalam keangkuhan.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "lemak mereka"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "menutup"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "mulut mereka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "berbicara"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "dalam keangkuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:55.045966831Z",
+  "model": "glm-5.3"
+}

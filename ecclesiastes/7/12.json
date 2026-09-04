@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Kerana dalam naungan hikmah, dalam naungan perak; dan kelebihan pengetahuan ialah hikmah menghidupkan pemiliknya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dalam naungan"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "dalam naungan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "dan kelebihan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pengetahuan"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "menghidupkan"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "pemiliknya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:13.546940889Z",
+  "model": "glm-5.3"
+}

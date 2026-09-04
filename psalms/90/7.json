@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 90,
+  "translation": "Sebab kami telah dibinasakan dalam kemurkaan-Mu, dan dalam kepanasan amarah-Mu kami telah tercengang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "kami telah dibinasakan"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dalam kemurkaan-Mu"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "dan dalam kepanasan amarah-Mu"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "kami telah tercengang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:48.498043080Z",
+  "model": "glm-5.3"
+}

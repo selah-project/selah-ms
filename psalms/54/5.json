@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 54,
+  "translation": "Sebab orang asing telah bangkit terhadap aku, dan orang-orang kejam telah mencari jiwaku; mereka tidak meletakkan Elohim di hadapan mereka. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "orang asing"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "telah bangkit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "dan orang-orang kejam"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "telah mencari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mereka meletakkan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "di hadapan mereka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:40.556625608Z",
+  "model": "glm-5.3"
+}

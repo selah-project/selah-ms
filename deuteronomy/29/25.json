@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu mereka pergi dan memperhambakan tuhan-tuhan lain serta sujud menyembah kepada mereka — tuhan-tuhan yang tidak mereka kenal, dan yang tidak diagihkan kepada mereka;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Lalu mereka pergi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "dan memperhambakan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "serta sujud menyembah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan-tuhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "mereka kenal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan yang tidak"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "diagihkan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:58.382571975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 83,
+  "translation": "Mereka berkata: \"Marilah, dan biarlah kita memusnahkan mereka dari menjadi bangsa, dan jangan nama Yisrael diingat lagi.\"",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mereka berkata"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Marilah"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "dan biarlah kita memusnahkan mereka"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "dari menjadi bangsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan jangan"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "diingat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:38.860026241Z",
+  "model": "glm-5.3"
+}

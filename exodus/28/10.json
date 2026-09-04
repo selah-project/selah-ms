@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "enam daripada nama mereka pada batu yang satu, dan ⟨את⟩ nama-nama enam yang tinggal pada batu yang kedua, menurut kelahiran mereka.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "enam"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "daripada nama mereka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yang satu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "nama-nama enam yang tinggal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "enam"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "על",
+      "gloss": "pada"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "batu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yang kedua"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "menurut kelahiran mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T15:17:11.625992420Z",
+  "model": "glm-5.3"
+}

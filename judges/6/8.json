@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "maka Yahweh mengutus seorang nabi kepada anak-anak Israel, dan ia berkata kepada mereka: Beginilah kata Yahweh, Elohim Israel: Akulah yang menaikkan ⟨את⟩ kamu keluar dari Mitsrayim, dan mengeluarkan ⟨את⟩ kamu dari rumah perhambaan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dan mengutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "seorang"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan ia berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "yang menaikkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "keluar dari Mitsrayim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "dari Mitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "dan mengeluarkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "dari rumah perhambaan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dari rumah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "perhambaan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:06:28.484911606Z",
+  "model": "glm-5.3"
+}

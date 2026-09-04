@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Sebab seperti penilik harga dalam dirinya, begitulah dia; 'Makanlah dan minumlah,' katanya kepadamu, tetapi hatinya tidak bersamamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "penilik harga"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "dalam dirinya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "begitulah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "'Makanlah"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "dan minumlah,'"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "tetapi hatinya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:31.248677069Z",
+  "model": "glm-5.3"
+}

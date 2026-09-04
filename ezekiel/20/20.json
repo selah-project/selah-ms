@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 20,
+  "translation": "Dan ⟨את⟩ Sabat-Sabat-Ku kuduskanlah, dan jadilah ia tanda antara Aku dan antara kamu, untuk mengetahui bahawa Akulah Yahweh Elohim kamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Dan ⟨את⟩",
+      "marks": "Sabat-Sabat-Ku"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Sabat-Sabat-Ku"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kuduskanlah"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "dan jadilah ia"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara Aku"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "dan antara kamu"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Akulah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:33:23.798293229Z",
+  "model": "glm-5.3"
+}

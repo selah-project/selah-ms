@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Yang memelihara perintah memelihara dirinya; yang menghina jalannya akan mati.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yang memelihara"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "perintah"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "memelihara"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "dirinya"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "yang menghina"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jalannya"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akan mati"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:02.704342035Z",
+  "model": "glm-5.3"
+}

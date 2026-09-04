@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan setiap minhah imam seluruhnya ⟨haruslah dibakar⟩; tidak boleh dimakan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Dan setiap"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minhah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "seluruhnya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨haruslah dibakar⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "boleh dimakan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:39.367218140Z",
+  "model": "glm-5.3"
+}

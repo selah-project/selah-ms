@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Maka ia bercukur, tetapi kudis itu tidak dicukurnya, dan imam mengasingkan ⟨את⟩ kudis itu tujuh hari kali kedua.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ia bercukur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "tetapi ⟨את⟩",
+      "marks": "kudis itu"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kudis itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "dicukur"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "mengasingkan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kudis itu"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kudis itu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kali kedua"
+    }
+  ],
+  "timestamp": "2026-09-04T11:28:45.588616889Z",
+  "model": "glm-5.3"
+}

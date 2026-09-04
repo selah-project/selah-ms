@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Puisi pengajaran oleh Asaf. Pasanglah telinga, umatku, kepada Toraku; condongkan telingamu kepada perkataan mulutku.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "puisi pengajaran"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "oleh Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasanglah telinga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "kepada Toraku"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "condongkan"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "telingamu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kepada perkataan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mulutku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:23.421744200Z",
+  "model": "glm-5.3"
+}

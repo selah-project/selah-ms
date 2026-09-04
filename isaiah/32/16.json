@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 32,
+  "translation": "Dan keadilan akan diam di padang gurun, dan kebenaran di kebun subur akan tinggal tetap.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Dan ... akan diam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "dan kebenaran"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "di kebun subur"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "akan tinggal tetap"
+    }
+  ],
+  "timestamp": "2026-09-04T12:59:44.547040420Z",
+  "model": "glm-5.3"
+}

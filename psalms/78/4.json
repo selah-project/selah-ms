@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "tidak akan kami sembunyikan dari anak-anak mereka; kepada angkatan kemudian kami menceritakan puji-pujian Yahweh, dan kekuatan-Nya, dan perbuatan-perbuatan ajaib-Nya yang telah dibuat-Nya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "akan kami sembunyikan"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "dari anak-anak mereka"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kepada angkatan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kemudian"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "kami menceritakan"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "dan kekuatan-Nya"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "dan perbuatan-perbuatan ajaib-Nya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "telah dibuat-Nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:23.422522087Z",
+  "model": "glm-5.3"
+}

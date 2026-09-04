@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Lalu pergilah Natan ke rumahnya, dan Yahweh memukul ⟨את⟩ anak yang dilahirkan oleh isteri Uriya kepada David, dan anak itu menjadi tenat.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lalu pergilah"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "rumahnya"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "dan memukul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak yang dilahirkan oleh isteri Uriya"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahirkan oleh"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "isteri"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kepada David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "dan menjadi tenat"
+    }
+  ],
+  "timestamp": "2026-09-04T12:27:15.567301345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 28,
+  "translation": "Orang yang mengusahakan tanahnya akan dikenyangkan dengan roti, tetapi orang yang mengejar perkara sia-sia akan dikenyangkan dengan kepapaan.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "orang yang mengusahakan"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tanahnya"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "akan dikenyangkan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "dengan roti"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "tetapi orang yang mengejar"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "perkara sia-sia"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "akan dikenyangkan"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "dengan kepapaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:14.937399037Z",
+  "model": "glm-5.3"
+}

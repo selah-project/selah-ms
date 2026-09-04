@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Biarlah bapamu bersukacita dan ibumu, dan biarlah ⟨dia⟩ yang melahirkanmu bersuka ria.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bersukacita"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapamu"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "dan ibumu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "dan biarlah bersuka ria"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "⟨dia⟩ yang melahirkanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:22:30.540834188Z",
+  "model": "glm-5.3"
+}

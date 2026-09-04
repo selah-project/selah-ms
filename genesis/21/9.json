@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan Sarah melihat ⟨את⟩ anak Hagar orang Mitsrayim yang dilahirkannya bagi Avraham, sedang bermain-main.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dan melihat"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak Hagar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "orang Mitsrayit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilahirkannya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "bagi Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "bermain-main"
+    }
+  ],
+  "timestamp": "2026-09-04T10:58:43.356251339Z",
+  "model": "glm-5.3"
+}

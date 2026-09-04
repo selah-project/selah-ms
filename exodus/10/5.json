@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "dan ia akan menutupi ⟨את⟩ mata bumi, dan tidak dapat dilihat ⟨את⟩ bumi; dan ia akan memakan ⟨את⟩ baki yang terlepas itu, yang tinggal bagi kamu daripada air batu, dan ia akan memakan ⟨את⟩ segala pokok yang tumbuh bagi kamu daripada padang.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "dan ia akan menutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mata bumi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dapat dilihat"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "(melihat)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan ia akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baki yang terlepas"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "yang terlepas"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "yang tinggal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "air batu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "dan ia akan memakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala pokok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "yang tumbuh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "daripada"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:46.765004195Z",
+  "model": "glm-5.3"
+}

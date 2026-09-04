@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Lalu selesai Ia berfirman ⟨את⟩ dengannya, dan Elohim naik dari atas Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "lalu selesai"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "berfirman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya",
+      "marks": "dengannya"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dan naik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dari atas"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-04T10:57:35.669996140Z",
+  "model": "glm-5.3"
+}

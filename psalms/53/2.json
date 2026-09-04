@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 53,
+  "translation": "Orang bebal berkata dalam hatinya, \"Tiada Elohim.\" Mereka telah rosak dan telah menjadi keji dalam kejahatan; tiada yang berbuat baik.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "orang bebal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "mereka telah rosak"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "dan telah menjadi keji"
+    },
+    {
+      "surface": "עול",
+      "gloss": "dalam kejahatan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yang berbuat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "baik"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:53.526294462Z",
+  "model": "glm-5.3"
+}

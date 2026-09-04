@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan Aku akan menggalakkan Mitsrayim melawan Mitsrayim, dan mereka akan berperang, setiap orang melawan saudaranya, dan setiap orang melawan kawannya; bandar melawan bandar, kerajaan melawan kerajaan.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "dan Aku akan menggalakkan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "melawan Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "dan mereka akan berperang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "melawan saudaranya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan setiap orang"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "melawan kawannya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "melawan bandar"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "kerajaan"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "melawan kerajaan"
+    }
+  ],
+  "timestamp": "2026-09-04T12:57:39.937738630Z",
+  "model": "glm-5.3"
+}

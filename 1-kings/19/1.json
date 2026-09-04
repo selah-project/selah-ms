@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Ahav memberitahu Izevel ⟨את⟩ segala yang dilakukan Eliyahu, dan ⟨את⟩ segala yang dibunuhnya — ⟨את⟩ semua nabi itu — dengan pedang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lalu memberitahu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kepada Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakukan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dibunuhnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua nabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nabi itu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dengan pedang"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:46.785002911Z",
+  "model": "glm-5.3"
+}

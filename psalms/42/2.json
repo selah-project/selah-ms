@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Seperti rusa yang merindui aliran air, demikian jiwaku merindui Engkau, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Seperti rusa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "yang merindui"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kepada⟩"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "aliran"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "כן",
+      "gloss": "demikian"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "merindui"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:49.949603393Z",
+  "model": "glm-5.3"
+}

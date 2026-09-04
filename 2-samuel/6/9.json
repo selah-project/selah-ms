@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Lalu takutlah Daud kepada ⟨את⟩ Yahweh pada hari itu, dan ia berkata: Bagaimanakah tabut Yahweh akan masuk kepadaku?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "takutlah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "pada hari"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "איך",
+      "gloss": "bagaimanakah"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akan masuk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:25:56.668129935Z",
+  "model": "glm-5.3"
+}

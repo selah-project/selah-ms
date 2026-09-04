@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Tetapi gandum dan spelt tidak dipukul, kerana lambat ⟨matang⟩ kedua-duanya.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "tetapi gandum itu"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "dan spelt itu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "dipukul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "lambat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kedua-duanya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:14:00.577037473Z",
+  "model": "glm-5.3"
+}

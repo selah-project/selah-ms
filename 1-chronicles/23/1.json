@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Lalu Dawid menjadi tua dan kenyang dengan hari, dan ia menjadikan ⟨את⟩ Shelomo anaknya raja atas Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Lalu Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "menjadi tua"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "dan kenyang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengan hari"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dan ia menjadikan raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaknya"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-04T15:03:19.399627092Z",
+  "model": "glm-5.3"
+}

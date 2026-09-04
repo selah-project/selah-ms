@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Lalu bergoncang dan bergempita bumi, dan dasar-dasar gunung bergoyang; bergoncanglah semuanya, karena Ia menyala murka.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "lalu bergoncang"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "dan bergempita"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "dan dasar-dasar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bergoyang"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "bergoncanglah semuanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karena"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "menyala murka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ia"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:10.383159075Z",
+  "model": "glm-5.3"
+}

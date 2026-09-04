@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Lihatlah, aku ini memberikan ke hadapan kamu pada hari ini berkat dan laknat.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lihatlah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberikan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ke hadapan kamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "pada hari ini"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "dan laknat"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:47.071048257Z",
+  "model": "glm-5.3"
+}

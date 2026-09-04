@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Berbahagialah engkau, hai bumi, apabila rajamu ⟨ialah⟩ anak orang-orang bangsawan, dan pembesar-pembesarmu pada waktunya makan, untuk kekuatan dan bukan untuk kemabukan!",
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "Berbahagialah engkau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "apabila rajamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "orang-orang bangsawan"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "dan pembesar-pembesarmu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktunya"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "makan"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "untuk kekuatan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "untuk kemabukan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:28.970148486Z",
+  "model": "glm-5.3"
+}

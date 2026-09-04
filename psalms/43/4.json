@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Maka aku akan masuk ke mazbah Elohim, kepada El, kegembiraan sorak-sorai aku, dan aku akan bersyukur kepada-Mu dengan kecapi, Elohim, Elohim aku.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Maka aku akan masuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "kegembiraan"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "sorak-sorai aku"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "dan aku akan bersyukur kepada-Mu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dengan kecapi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim aku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:59.515408698Z",
+  "model": "glm-5.3"
+}

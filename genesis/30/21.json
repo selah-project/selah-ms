@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 30,
+  "translation": "Dan kemudian ia melahirkan seorang anak perempuan, dan ia memanggil ⟨את⟩ namanya Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "dan kemudian"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ia melahirkan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak perempuan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dan ia memanggil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "namanya"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:03:03.945899451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 49,
+  "translation": "Dan mahal ⟨adalah⟩ tebusan nyawa mereka, dan ia berhenti selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "dan mahal"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "tebusan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa mereka"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "dan berhenti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:02:31.109185955Z",
+  "model": "glm-5.3"
+}

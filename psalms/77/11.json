@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 77,
+  "translation": "Dan aku berkata: inilah kelemahanku — perubahan tangan kanan Elyon.",
+  "tokens": [
+    {
+      "surface": "ויאמר או ואמר",
+      "gloss": "dan aku berkata"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "kelemahanku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "inilah"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "perubahan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan kanan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:06:49.398604935Z",
+  "model": "glm-5.3"
+}

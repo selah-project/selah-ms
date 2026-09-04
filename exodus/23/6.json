@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Jangan engkau condongkan keadilan orang miskinmu dalam perkaranya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "engkau condongkan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "orang miskinmu"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dalam perkaranya"
+    }
+  ],
+  "timestamp": "2026-09-04T11:18:14.783333087Z",
+  "model": "glm-5.3"
+}

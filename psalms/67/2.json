@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 67,
+  "translation": "Elohim, kasihanilah kami dan berkati kami, buatlah wajah-Mu bersinar ⟨את⟩-terhadap kami. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kasihanilah kami"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "dan berkati kami"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "buatlah bersinar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajah-Mu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:07.688006561Z",
+  "model": "glm-5.3"
+}

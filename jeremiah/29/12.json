@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Dan kamu akan memanggil ⟨את⟩ aku, dan kamu akan pergi, dan kamu akan berdoa kepada-Ku, dan Aku akan mendengar kamu.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "dan kamu akan memanggil"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "dan kamu akan pergi"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "dan kamu akan berdoa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada-Ku"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "dan Aku akan mendengar"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:18:56.606426905Z",
+  "model": "glm-5.3"
+}

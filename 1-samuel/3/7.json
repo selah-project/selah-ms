@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan Shemuel belum mengenal ⟨את⟩ Yahweh, dan belum lagi firman Yahweh dinyatakan kepadanya.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "dan Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "belum"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mengenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "dan belum"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "dinyatakan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "firman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:14:02.017726055Z",
+  "model": "glm-5.3"
+}

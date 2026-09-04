@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Carilah ⟨את⟩ Yahweh supaya kamu hidup, supaya jangan Ia meledak seperti api terhadap rumah Yosef, dan ia memakan ⟨את⟩ rumah itu, dan tiada pemadam bagi Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Carilah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "supaya kamu hidup"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya jangan"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "Ia meledak"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "seperti api"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "dan ia memakan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "pemadam"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bagi Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T13:47:17.342288076Z",
+  "model": "glm-5.3"
+}

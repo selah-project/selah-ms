@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan mereka membangkitkan kemurkaan di perairan Meribah, dan keburukan menimpa Moshe oleh sebab mereka.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Dan mereka membangkitkan kemurkaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "מי",
+      "gloss": "perairan"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "dan keburukan menimpa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "oleh sebab mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:18.997825839Z",
+  "model": "glm-5.3"
+}

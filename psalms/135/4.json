@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 135,
+  "translation": "sebab Yakub telah dipilih oleh Yah bagi Diri-Nya, Israel sebagai milik-Nya yang khusus;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "telah dipilih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bagi Diri-Nya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "sebagai milik-Nya yang khusus"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:41.425174776Z",
+  "model": "glm-5.3"
+}

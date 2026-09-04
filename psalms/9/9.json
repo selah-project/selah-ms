@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan ⟨dialah⟩ yang menghakimi dunia dalam keadilan, menghukum bagi bangsa-bangsa dalam kelurusan.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Dan ⟨dialah⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "menghakimi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunia"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dalam keadilan"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "menghukum"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bagi bangsa-bangsa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dalam kelurusan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:56:53.786387965Z",
+  "model": "glm-5.3"
+}

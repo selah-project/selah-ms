@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 107,
+  "translation": "Dan biarlah mereka meninggikan Dia dalam himpunan bangsa, dan dalam majlis orang-orang tua memuji Dia.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Dan biarlah mereka meninggikan Dia"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dalam himpunan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "dan dalam majlis"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "orang-orang tua"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "memuji Dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:31.006538837Z",
+  "model": "glm-5.3"
+}

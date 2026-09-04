@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Maka jadilah seluruh bumi itu satu bahasa, dan perkataan-perkataan yang satu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka jadilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "bahasa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "satu"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "dan perkataan-perkataan"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "yang satu"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:37.736406303Z",
+  "model": "glm-5.3"
+}

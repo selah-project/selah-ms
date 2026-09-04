@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Tetapi jika engkau tidak mengirimnya, kami tidak akan turun, kerana orang itu berkata kepada kami: Kamu tidak akan melihat muka saya melainkan saudara kamu ⟨את⟩ kamu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Tetapi jika"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "engkau tidak"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mengirim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "kami turun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "orang itu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kepada kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kamu melihat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka saya"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "melainkan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "saudara kamu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamu",
+      "marks": "saudara kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:10:09.587567728Z",
+  "model": "glm-5.3"
+}

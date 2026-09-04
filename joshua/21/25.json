@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ms",
+  "chapter": 21,
+  "translation": "Dan daripada setengah suku Menasye: ⟨את⟩ Taanakh dan ⟨את⟩ tanah lapangnya, dan ⟨את⟩ Gat-Rimon dan ⟨את⟩ tanah lapangnya; dua bandar.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "dan daripada setengah"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakh"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah lapangnya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tanah lapangnya"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tanah lapangnya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bandar"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dua"
+    }
+  ],
+  "timestamp": "2026-09-04T12:03:34.016428913Z",
+  "model": "glm-5.3"
+}

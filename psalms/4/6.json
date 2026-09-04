@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Persembahkanlah korban kebenaran, dan percayalah kepada Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Persembahkanlah korban"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kebenaran"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "dan percayalah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:56.651825879Z",
+  "model": "glm-5.3"
+}

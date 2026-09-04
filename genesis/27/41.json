@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 27:41",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Dan Esav membenci ⟨את⟩ Yaakov kerana berkat yang dengannya bapanya memberkatinya; dan Esav berkata dalam hatinya, 'Mendekatlah hari-hari perkabungan bapaku, lalu aku akan membunuh ⟨את⟩ Yaakov saudaraku.'",
+  "tokens": [
+    {
+      "surface": "וישטם",
+      "gloss": "dan membenci"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "על",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "memberkatinya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapanya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dan berkata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dalam hatinya"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "mendekatlah"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "hari-hari"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "perkabungan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapaku"
+    },
+    {
+      "surface": "ואהרגה",
+      "gloss": "lalu aku akan membunuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    }
+  ],
+  "timestamp": "2026-09-04T11:02:55.638536648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Dan seruan itu berlalu melalui kem ketika matahari terbenam, katanya: Setiap orang ke kotanya, dan setiap orang ke tanahnya.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "dan berlalu melalui"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "seruan itu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ketika terbenam"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "setiap orang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kotanya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dan setiap orang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tanahnya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:22:37.005045194Z",
+  "model": "glm-5.3"
+}

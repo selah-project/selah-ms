@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Sebab musuhku berkata terhadap aku, dan para pengintai diriku bermusyawarah bersama-sama,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "musuhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "terhadap aku"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "dan para pengintai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "diriku"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bermusyawarah"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bersama-sama"
+    }
+  ],
+  "timestamp": "2026-09-04T15:27:21.103948374Z",
+  "model": "glm-5.3"
+}

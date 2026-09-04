@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 60,
+  "translation": "Gilad milik-Ku, dan Menashshe milik-Ku; Efrayim ⟨ialah⟩ kubu kepala-Ku; Yehudah ⟨ialah⟩ pemerbuat undang-undang-Ku —",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "milik-Ku"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "dan milik-Ku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "dan Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "kepala-Ku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "pemerbuat undang-undang-Ku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:39.978344121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Miskin dan sekarat aku sejak muda; aku menanggung kegerunan-Mu, aku linglung.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "dan sekarat"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "sejak muda"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "aku menanggung"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "kegerunan-Mu"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "aku linglung"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:07.141282334Z",
+  "model": "glm-5.3"
+}

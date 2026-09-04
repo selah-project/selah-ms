@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 37:19",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 37,
+  "translation": "Beri tahu kami apa yang kami katakan kepada ⟨dia⟩; kami tidak dapat menyusun ⟨kata-kata kami⟩ kerana kegelapan.",
+  "tokens": [
+    {
+      "surface": "הודיענו",
+      "gloss": "beri tahu kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "kami katakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepada ⟨dia⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "dapat menyusun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:33:20.894328723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 96,
+  "translation": "Sebab Yahweh besar dan sangat terpuji; Ia dahsyat melebihi segala tuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "besar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "dan terpuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dahsyat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ia"
+    },
+    {
+      "surface": "על",
+      "gloss": "melebihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "tuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:10:17.784610446Z",
+  "model": "glm-5.3"
+}

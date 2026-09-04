@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu raja berkata kepada mereka: Aku bermimpi sebuah mimpi, dan rohku terganggu untuk mengetahui ⟨את⟩ mimpi itu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sebuah mimpi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "aku bermimpi"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "dan terganggu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "untuk mengetahui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mimpi itu"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mimpi itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:44:13.777882205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 142,
+  "translation": "Aku telah berserak kepada-Mu, Yahweh; aku berkata: Engkau perlindunganku, bahagiaku di bumi ⟨orang⟩ hidup.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Aku telah berserak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku berkata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "perlindunganku"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bahagiaku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "di bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "orang hidup"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:01.980013596Z",
+  "model": "glm-5.3"
+}

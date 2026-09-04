@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "yang memberi engkau makan man di padang belantara, yang tidak dikenal oleh bapa-bapamu, dengan maksud merendahkan engkau dan dengan maksud mencuba engkau, untuk berbuat baik kepadamu pada kesudahanmu kelak",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "yang memberi engkau makan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang belantara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "dikenal"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oleh bapa-bapamu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dengan maksud merendahkan"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "dan dengan maksud mencuba"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "untuk berbuat baik kepadamu"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "pada kesudahanmu kelak"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:44.880180211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 27,
+  "translation": "Untuk David. Yahweh ⟨ialah⟩ cahaya ku dan keselamatan ku — daripada siapa aku takut? Yahweh ⟨ialah⟩ kubu hidup ku — daripada siapa aku gentar?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Untuk David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "cahaya ku"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "dan keselamatan ku"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "daripada siapa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku takut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hidup ku"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "daripada siapa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "aku gentar"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:46.629621219Z",
+  "model": "glm-5.3"
+}

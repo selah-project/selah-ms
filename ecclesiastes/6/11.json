@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Sebab ada perkataan-perkataan banyak yang memperbanyak kesia-siaan — apa kelebihan bagi manusia?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ada"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "perkataan-perkataan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banyak"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "memperbanyak"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesia-siaan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kelebihan"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "bagi manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:47.125551278Z",
+  "model": "glm-5.3"
+}

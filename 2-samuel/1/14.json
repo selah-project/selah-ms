@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan berkatalah Dawid kepadanya: \"Bagaimana engkau tidak takut menghulurkan tanganmu untuk membinasakan ⟨את⟩ Mashiah Yahweh?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dan berkatalah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Bagaimana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "engkau takut"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk menghulurkan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "untuk membinasakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiah"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:24:25.275086604Z",
+  "model": "glm-5.3"
+}

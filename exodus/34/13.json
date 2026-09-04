@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Sebab mezbah mereka akan kamu robohkan, dan tiang berhala mereka akan kamu hancurkan, dan pokok Asyeranya akan kamu tebang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah mereka"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mezbah mereka"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "kamu robohkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tiang berhala mereka"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tiang berhala mereka"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "kamu hancurkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "pokok Asyeranya"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "pokok Asyeranya"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "kamu tebang"
+    }
+  ],
+  "timestamp": "2026-09-04T11:22:21.562525903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 87,
+  "translation": "Yahweh mengasihi pintu-pintu gerbang Tsiyon, lebih daripada segala tempat kediaman Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mengasihi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "pintu-pintu gerbang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lebih daripada segala"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "tempat kediaman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T14:09:18.798951268Z",
+  "model": "glm-5.3"
+}

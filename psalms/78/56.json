@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 78,
+  "translation": "Tetapi mereka mencuba dan memberontak terhadap ⟨את⟩ Elohim Elyon, dan tidak mengikut peraturan-peraturan kesaksian-Nya.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Tetapi mereka mencuba"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "dan memberontak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "dan peraturan-peraturan kesaksian-Nya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "mengikut"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:12.906678769Z",
+  "model": "glm-5.3"
+}

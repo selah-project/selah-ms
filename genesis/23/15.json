@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Tuan saya, dengarkan saya: tanah itu empat ratus syekel perak — antara saya dan antara engkau, apakah itu? Maka kuburkanlah ⟨את⟩ matimu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "tuan saya"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "dengarkan saya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah itu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antara saya"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "dan antara engkau"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "matimu"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "matimu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuburkanlah"
+    }
+  ],
+  "timestamp": "2026-09-04T10:59:09.575038439Z",
+  "model": "glm-5.3"
+}

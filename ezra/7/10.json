@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Sebab Ezra telah menetapkan hatinya untuk menanyakan ⟨את⟩ Tora Yahweh (Taurat) dan untuk melakukannya serta untuk mengajar di Israel ketetapan dan hukum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "telah menetapkan"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "untuk menanyakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "dan untuk melakukannya"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "serta untuk mengajar"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "di Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "dan hukum"
+    }
+  ],
+  "timestamp": "2026-09-04T14:50:05.388630689Z",
+  "model": "glm-5.3"
+}

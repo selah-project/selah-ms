@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Lalu mereka duduk ⟨את⟩ dengannya di tanah tujuh hari dan tujuh malam, dan tiada siapa berkata kepadanya sepatah kata, kerana mereka melihat bahawa kesakitan itu terlalu besar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Lalu mereka duduk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dengannya",
+      "marks": "dengannya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "di tanah"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "dan tujuh"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sepatah kata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mereka melihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "terlalu besar"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "kesakitan itu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    }
+  ],
+  "timestamp": "2026-09-04T14:24:43.470952377Z",
+  "model": "glm-5.3"
+}

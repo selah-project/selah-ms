@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Empat segi ⟨adalah⟩ ia; berganda mereka membuat ⟨את⟩ hosen (dada imam); satu jengkal panjangnya dan satu jengkal lebarnya, berganda.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "empat segi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨adalah⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "berganda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "jengkal"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "panjangnya"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "dan jengkal"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "lebarnya"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "berganda"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:13.797166462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Maka Moshe mengulurkan tongkatnya ke arah langit, dan Yahweh memberi bunyi guruh dan batu es, dan api berjalan ke bumi; lalu Yahweh menurunkan batu es ke atas bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Maka mengulurkan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatnya"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkatnya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke arah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "memberi"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "bunyi guruh"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "dan batu es"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "dan berjalan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "api"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ke bumi"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "lalu menurunkan seperti hujan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "batu es"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:15:00.922641181Z",
+  "model": "glm-5.3"
+}

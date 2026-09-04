@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "bahwa Yahweh menampakkan diri kepada Syelomoh kali kedua, seperti Ia menampakkan diri kepadanya di Givon",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "menampakkan diri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kali kedua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "Ia menampakkan diri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "di Givon"
+    }
+  ],
+  "timestamp": "2026-09-04T12:37:42.702474870Z",
+  "model": "glm-5.3"
+}

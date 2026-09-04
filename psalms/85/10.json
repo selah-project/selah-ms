@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 85,
+  "translation": "Sungguh, dekat kepada orang-orang yang takut akan Dia keselamatan-Nya, supaya kemuliaan diam di bumi kita.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sungguh"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kepada orang-orang yang takut akan Dia"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "keselamatan-Nya"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "supaya diam"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "di bumi kita"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:46.081367372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 41:5",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 41,
+  "translation": "Siapa dapat menyingkap muka pakaiannya? Dengan rangkap tali kekangnya, siapa dapat masuk?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Siapa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "menyingkap"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "לבושו",
+      "gloss": "pakaiannya"
+    },
+    {
+      "surface": "בכפל",
+      "gloss": "Dengan rangkap"
+    },
+    {
+      "surface": "רסנו",
+      "gloss": "tali kekangnya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dapat masuk"
+    }
+  ],
+  "timestamp": "2026-09-04T14:34:35.814807881Z",
+  "model": "glm-5.3"
+}

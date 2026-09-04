@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 112,
+  "translation": "Baiklah ⟨seorang⟩ lelaki yang berbakat kasih dan yang meminjamkan; ia menyokong perkara-perkaranya dalam keadilan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lelaki"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "berbakat kasih"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "dan meminjamkan"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "menyokong"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "perkara-perkaranya"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dalam keadilan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:05.977811582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan isi perutnya dan kakinya dibasuh dengan air, dan imam mengasap ⟨את⟩ semuanya di atas mazbah — korban bakaran, persembahan api, bau yang menyenangkan bagi Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "Dan isi perutnya"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "dan kakinya"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "dibasuh"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dengan air"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "dan mengasap"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semuanya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "semuanya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "di atas mazbah"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "korban bakaran"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "persembahan api"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bau"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "yang menyenangkan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bagi Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:25:31.357704848Z",
+  "model": "glm-5.3"
+}

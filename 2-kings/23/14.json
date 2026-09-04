@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 23,
+  "translation": "Dan dipecahkannya ⟨את⟩ tiang-tiang berhala, dan ditebaskannya ⟨את⟩ tiang-tiang Asyera, dan dipenuhinya ⟨את⟩ tempat mereka dengan tulang manusia.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "dan dipecahkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang berhala"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tiang-tiang berhala"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "dan ditebaskannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "tiang-tiang Asyera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dan dipenuhinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempat mereka"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "tempat mereka"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tulang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:12.402720255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Maka berlakulah, apabila mereka mendengar ⟨את⟩ Tora itu, mereka memisahkan segala orang campuran itu daripada Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Maka berlakulah"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "apabila mereka mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora itu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora itu"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "mereka memisahkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "orang campuran"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "daripada Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:56:00.657076924Z",
+  "model": "glm-5.3"
+}

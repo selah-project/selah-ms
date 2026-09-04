@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Supaya mereka percaya bahawa telah menampakkan diri kepadamu Yahweh, Elohim bagi bapa mereka, Elohim bagi Avraham, Elohim bagi Yitshak, dan Elohim bagi Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "mereka percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "telah menampakkan diri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kepadamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bagi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapa mereka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bagi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim bagi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "dan Elohim bagi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T11:12:47.103753726Z",
+  "model": "glm-5.3"
+}

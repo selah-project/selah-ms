@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 43,
+  "translation": "Oleh sebab engkau berharga di mata-Ku dan engkau mulia, dan Aku mengasihi engkau, maka Aku memberi manusia gantimu dan bangsa-bangsa ganti nyawamu.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Oleh sebab"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "engkau berharga"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "di mata-Ku"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "engkau mulia"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dan Aku"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "mengasihi engkau"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "maka Aku memberi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "gantimu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "dan bangsa-bangsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:04.506058045Z",
+  "model": "glm-5.3"
+}

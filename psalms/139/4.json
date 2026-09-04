@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 139,
+  "translation": "Kerana tiada perkataan pada lidahku — sesungguhnya, Yahweh, Engkau telah mengenal seluruhnya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kerana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "pada lidahku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Engkau telah mengenal"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "seluruhnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:16:23.839578954Z",
+  "model": "glm-5.3"
+}

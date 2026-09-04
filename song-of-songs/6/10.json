@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Siapakah ⟨dia⟩ ini yang menjenguk seperti fajar, cantik seperti bulan, murni seperti matahari, dahsyat seperti bala tentera berpanji-panji?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "siapakah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "yang menjenguk"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "cantik"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "seperti bulan"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "murni"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "seperti matahari"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "dahsyat"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "seperti bala tentera berpanji-panji"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:54.822278620Z",
+  "model": "glm-5.3"
+}

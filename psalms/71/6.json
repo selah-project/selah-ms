@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 71,
+  "translation": "Atas engkaulah aku bersandar sejak dari kandungan, dari perut ibukulah engkau memotong aku keluar; pujianku ⟨ialah⟩ tentang engkau sentiasa.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Atas engkau"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "aku bersandar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "sejak dari kandungan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "dari perut"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "memotong keluar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tentang engkau"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pujianku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sentiasa"
+    }
+  ],
+  "timestamp": "2026-09-04T14:05:33.860716862Z",
+  "model": "glm-5.3"
+}

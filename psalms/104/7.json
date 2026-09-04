@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 104,
+  "translation": "Dari hardikan-Mu mereka lari; dari bunyi guruh-Mu mereka tergesa-gesa pergi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Dari"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "hardikan-Mu"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "mereka lari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "guruh-Mu"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "mereka tergesa-gesa pergi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:01.545525184Z",
+  "model": "glm-5.3"
+}

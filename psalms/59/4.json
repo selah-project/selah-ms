@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 59,
+  "translation": "Sebab sesungguhnya mereka mengintai terhadap nyawaku; orang-orang garang berkerumun terhadapku — bukan pemberontakanku ⟨itu⟩, dan bukan dosaku, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sesungguhnya"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "mereka mengintai"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "terhadap nyawaku"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "berkerumun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "terhadapku"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "orang-orang garang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bukan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pemberontakanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:04:16.441809359Z",
+  "model": "glm-5.3"
+}

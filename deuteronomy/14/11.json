@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Segala burung yang suci, kamu boleh makan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "burung"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "yang suci"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamu boleh makan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:50:50.260516437Z",
+  "model": "glm-5.3"
+}

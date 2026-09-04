@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Pencinta perak tidak akan kenyang dengan perak, dan yang cinta kekayaan — tidak ⟨ada⟩ pendapatan; juga ini habel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "pencinta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "kenyang"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dan yang"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "cinta"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "pendapatan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "juga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:41.530594334Z",
+  "model": "glm-5.3"
+}

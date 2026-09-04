@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Lalu berkata pokok ara kepada mereka: Patutkah aku meninggalkan ⟨את⟩ kemanisanku dan ⟨את⟩ hasil-buahku yang baik, dan aku pergi untuk bergoyah di atas pokok-pokok?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "pokok ara"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "patutkah aku meninggalkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemanisanku"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "kemanisanku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "hasil-buahku"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "hasil-buahku"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yang baik"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "dan aku pergi"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "untuk bergoyah"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "pokok-pokok"
+    }
+  ],
+  "timestamp": "2026-09-04T12:07:24.952568581Z",
+  "model": "glm-5.3"
+}

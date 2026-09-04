@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 88,
+  "translation": "Adakah hesed-Mu diceritakan di dalam kubur, kesetiaan-Mu di Abadon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Adakah diceritakan"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "di dalam kubur"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-Mu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kesetiaan-Mu"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "di Abadon"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:38.792940022Z",
+  "model": "glm-5.3"
+}

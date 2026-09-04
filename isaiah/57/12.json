@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Aku akan menyatakan kebenaranmu, dan ⟨את⟩ perbuatan-perbuatanmu — dan semuanya itu tidak akan memberi manfaat kepadamu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "akan menyatakan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kebenaranmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perbuatan-perbuatanmu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "perbuatan-perbuatanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "akan memberi manfaat kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:07:14.426591908Z",
+  "model": "glm-5.3"
+}

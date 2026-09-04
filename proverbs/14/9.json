@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "Orang bodoh mengolok-olokkan ⟨את⟩ kesalahan, tetapi di antara orang lurus ⟨ada⟩ kerelaan.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "mengolok-olokkan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kesalahan",
+      "marks": "kesalahan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "tetapi di antara"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "orang lurus"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kerelaan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.404557818Z",
+  "model": "glm-5.3"
+}

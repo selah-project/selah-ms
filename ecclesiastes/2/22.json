@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Sebab apakah yang jadi bagi manusia dalam segala usahanya, dan dalam kegelisahan hatinya, yang ia berusaha di bawah matahari?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apakah"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "yang jadi"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "bagi manusia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "usahanya"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "dan dalam kegelisahan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hatinya"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "yang ia"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "berusaha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "di bawah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    }
+  ],
+  "timestamp": "2026-09-04T14:39:43.136751654Z",
+  "model": "glm-5.3"
+}

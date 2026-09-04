@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 118,
+  "translation": "El-ku ⟨engkau⟩, dan aku bersyukur kepada-Mu; Elohim-ku, aku meninggikan-Mu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨engkau⟩"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "dan aku bersyukur kepada-Mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "aku meninggikan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:39.563802252Z",
+  "model": "glm-5.3"
+}

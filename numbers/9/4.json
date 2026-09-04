@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Moshe berfirman kepada bani Israel supaya membuat ⟨את⟩ Paskah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dan berfirman"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "supaya membuat"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    }
+  ],
+  "timestamp": "2026-09-04T11:37:56.284065633Z",
+  "model": "glm-5.3"
+}

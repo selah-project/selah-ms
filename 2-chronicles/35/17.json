@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Maka bani Israel yang terdapati membuat ⟨את⟩ Paskah pada waktu itu, dan ⟨את⟩ perayaan roti tidak beragi selama tujuh hari.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "maka ... membuat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "yang terdapati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pada waktu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "itu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "perayaan roti tidak beragi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "perayaan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tidak beragi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "selama tujuh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-04T15:14:27.225693357Z",
+  "model": "glm-5.3"
+}

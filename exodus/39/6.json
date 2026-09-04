@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 39,
+  "translation": "Dan mereka membuat ⟨את⟩ batu-batu syoham, disusun pada bingkai emas bertatah, diukir dengan ukiran mohor, atas nama-nama bani Israel.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dan mereka membuat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batu-batu syoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "batu-batu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "disusun"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "pada bingkai bertatah"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "diukir"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "dengan ukiran"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "mohor"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nama-nama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:19.194276299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Yahweh, betapa ramainya ⟨⟨yang menekan⟩⟩ aku! Ramai yang bangkit melawan aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "betapa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bertambah ramai"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "penekan-penekanku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ramai"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "yang bangkit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "melawan aku"
+    }
+  ],
+  "timestamp": "2026-09-04T13:55:54.209296769Z",
+  "model": "glm-5.3"
+}

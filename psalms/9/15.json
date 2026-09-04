@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Supaya aku menceritakan segala puji-pujianmu di pintu-pintu gerbang puteri Tsion; aku akan bersukaria dalam keselamatanmu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Supaya"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "aku menceritakan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "puji-pujianmu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "di pintu-pintu gerbang"
+    },
+    {
+      "surface": "בת",
+      "gloss": "puteri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "aku akan bersukaria"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dalam keselamatanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:05.876337107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ms",
+  "chapter": 3,
+  "translation": "Dan mereka merayakan ⟨את⟩ perayaan Pondok sebagaimana tertulis, dan korban bakaran hari demi hari, dalam bilangan menurut peraturan, perkara setiap hari pada harinya.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "dan mereka merayakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perayaan Pondok"
+    },
+    {
+      "surface": "חג",
+      "gloss": "perayaan"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Pondok"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sebagaimana tertulis"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "dan korban bakaran"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "demi hari"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "dalam bilangan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "menurut peraturan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "setiap hari"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "pada harinya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:49:56.265573102Z",
+  "model": "glm-5.3"
+}

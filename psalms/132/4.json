@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 132,
+  "translation": "jika aku beri tidur kepada mataku, kelopak-kelopakku mendengkur —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jika"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "aku beri"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tidur"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "kepada mataku"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "kepada kelopak-kelopakku"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "mendengkur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:34.567228598Z",
+  "model": "glm-5.3"
+}

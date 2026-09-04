@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Yahweh, tiada yang seperti-Mu, dan tiada Elohim selain-Mu, dalam segala yang kami dengar dengan telinga kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yang seperti-Mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dan tiada"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "selain-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dalam segala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kami dengar"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "dengan telinga kami"
+    }
+  ],
+  "timestamp": "2026-09-04T15:30:15.124643354Z",
+  "model": "glm-5.3"
+}

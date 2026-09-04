@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 22,
+  "translation": "Tetapi aku ⟨ialah⟩ ulat, dan bukan manusia; cercaan manusia dan dihina oleh umat.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Tetapi aku"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan bukan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cercaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusia"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "dan dihina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "oleh umat"
+    }
+  ],
+  "timestamp": "2026-09-04T13:58:01.424674961Z",
+  "model": "glm-5.3"
+}

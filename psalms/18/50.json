@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Sebab itu aku bersyukur kepada-Mu di antara bangsa-bangsa, Yahweh, dan kepada nama-Mu aku bermazmur.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "itu"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aku bersyukur kepada-Mu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "di antara bangsa-bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "dan kepada nama-Mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku bermazmur"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:51.109253849Z",
+  "model": "glm-5.3"
+}

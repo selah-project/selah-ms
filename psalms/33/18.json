@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 33,
+  "translation": "Lihat, mata Yahweh ⟨tertuju⟩ kepada mereka yang takut akan dia, kepada mereka yang menanti-nanti hesed-nya,",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mereka yang takut akan dia"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kepada mereka yang menanti-nanti"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesed-nya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:17.392321282Z",
+  "model": "glm-5.3"
+}

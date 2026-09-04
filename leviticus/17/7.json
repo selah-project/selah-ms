@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Dan mereka tidak akan menyembelih lagi ⟨את⟩ korban mereka kepada sya'ir mereka, yang mereka berzina mengikutnya; ketetapan untuk selamanya ini akan menjadi bagi mereka untuk keturunan mereka.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Dan tidak"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "akan menyembelih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban mereka"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "korban mereka"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "kepada sya'ir mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "הם",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "berzina"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "mengikutnya"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ketetapan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "untuk selamanya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akan menjadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bagi mereka"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "untuk keturunan mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T11:30:39.002141712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Dan yang masuk, jantan dan betina dari segala daging, masuk, sebagaimana diperintahkan Elohim ⟨את⟩ dia; dan Yahweh menutupnya baginya.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "dan yang masuk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "jantan"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "dan betina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dari segala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sebagaimana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diperintahkan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dia (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "dan menutup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "baginya"
+    }
+  ],
+  "timestamp": "2026-09-04T10:55:21.445846469Z",
+  "model": "glm-5.3"
+}

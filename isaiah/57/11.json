@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 57,
+  "translation": "Dan ⟨את⟩ siapa yang engkau risaukan dan engkau takuti, sehingga engkau berdusta, dan aku tidak engkau ingat, tidak engkau letakkan atas hatimu? Bukankah aku berdiam diri dan dari sejak lama, dan aku tidak engkau takuti?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "siapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "siapa"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "engkau risaukan"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "dan engkau takuti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sehingga"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "engkau berdusta"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "dan ⟨את⟩ aku",
+      "marks": "aku (objek)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "engkau ingat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "engkau letakkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hatimu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "bukankah"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "berdiam diri"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "dan dari sejak lama"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "dan ⟨את⟩ aku",
+      "marks": "aku (objek)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "engkau takuti"
+    }
+  ],
+  "timestamp": "2026-09-04T15:49:38.533485279Z",
+  "model": "glm-5.3"
+}

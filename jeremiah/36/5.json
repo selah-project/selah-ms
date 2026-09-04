@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 36,
+  "translation": "Lalu Yirmeiahu memberi perintah kepada Barukh, katanya: Aku ditahan, aku tidak dapat masuk ke rumah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "Lalu memberi perintah"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ditahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dapat"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "masuk ke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "rumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:21:27.681451358Z",
+  "model": "glm-5.3"
+}

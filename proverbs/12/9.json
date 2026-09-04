@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "Baiklah ⟨seorang⟩ yang diremehkan tetapi ada hamba baginya, daripada yang bermegah-megah tetapi kekurangan roti.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "baiklah"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yang diremehkan"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "tetapi ada hamba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "daripada yang bermegah-megah"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "tetapi kekurangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-09-04T14:20:00.492844380Z",
+  "model": "glm-5.3"
+}

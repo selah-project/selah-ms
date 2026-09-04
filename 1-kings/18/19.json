@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 18,
+  "translation": "Dan sekarang, hantarlah, kumpulkan kepadaku ⟨את⟩ seluruh Yisrael ke Gunung Karmel, dan ⟨את⟩ para nabi Baal empat ratus lima puluh, dan para nabi Asyera empat ratus, pemakan hidangan meja Izebel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dan sekarang"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hantarlah"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kumpulkan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepadaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seluruh Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Gunung"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "para nabi Baal"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "lima puluh"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "dan para nabi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asyera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pemakan"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "hidangan meja"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    }
+  ],
+  "timestamp": "2026-09-04T12:41:49.778203848Z",
+  "model": "glm-5.3"
+}

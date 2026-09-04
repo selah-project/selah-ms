@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 142,
+  "translation": "Pasanglah telinga kepada jeritan ku, sebab aku sudah sangat lemah; lepaskanlah aku dari pengejar-pengejar ku, sebab mereka lebih kuat daripada ku.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Pasanglah telinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "jeritanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "aku sudah lemah"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangat"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "lepaskanlah aku"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "dari pengejar-pengejarku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "mereka kuat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "daripadaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:01.980179692Z",
+  "model": "glm-5.3"
+}

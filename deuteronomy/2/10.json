@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "⟨Orang⟩ Emim dahulu tinggal di sana, umat yang besar dan ramai dan tinggi sepertimana orang Anakim,",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "⟨Orang⟩ Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dahulu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tinggal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yang besar"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "dan ramai"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "dan tinggi"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "sepertimana orang Anakim"
+    }
+  ],
+  "timestamp": "2026-09-04T11:47:01.210505131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 105,
+  "translation": "Diperbanyaknya ⟨את⟩ umatnya dengan sangat, dan dijadikannya mereka lebih kukuh daripada para penindasnya.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Diperbanyaknya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umatnya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umatnya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dengan sangat"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "dan dijadikannya mereka lebih kukuh"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "daripada para penindasnya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:48.583280236Z",
+  "model": "glm-5.3"
+}

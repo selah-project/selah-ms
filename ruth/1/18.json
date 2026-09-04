@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Dan ⟨ia⟩ melihat bahawa ⟨ia⟨ bersungguh-sungguh hendak pergi bersamanya, maka ⟨ia⟩ berhenti bercakap dengannya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "dan ⟨ia⟩ melihat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bahawa"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "bersungguh-sungguh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hendak pergi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bersama",
+      "marks": "bersamanya"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "maka ⟨ia⟩ berhenti"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "bercakap"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "dengannya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:37:09.710837152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Untuk mengenal hakhmah (hikmat) dan musar (didikan), untuk memahami perkataan binah (kefahaman);",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Untuk mengenal"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakhmah (hikmat)"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "dan musar (didikan)"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "untuk memahami"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "perkataan"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "binah (kefahaman)"
+    }
+  ],
+  "timestamp": "2026-09-04T14:17:51.074695347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 15,
+  "translation": "Lalu Absyalom menghantar pengintip ke segala suku Israel, berkata: apabila kamu mendengar ⟨את⟩ bunyi sangkakala, maka katakanlah: Absyalom memerintah di Hevron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "maka menghantar"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absyalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "pengintip"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ke segala"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "berkata"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "apabila kamu mendengar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bunyi sangkakala"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bunyi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sangkakala"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "maka katakanlah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "memerintah"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absyalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "di Hevron"
+    }
+  ],
+  "timestamp": "2026-09-04T12:29:02.570856250Z",
+  "model": "glm-5.3"
+}

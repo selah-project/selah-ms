@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 129,
+  "translation": "Di atas belakangku membajak para pembajak, mereka memanjangkan alur-alur mereka.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Di atas"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "belakangku"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "membajak"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "para pembajak"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "mereka memanjangkan"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "alur-alur mereka"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:34.179831989Z",
+  "model": "glm-5.3"
+}

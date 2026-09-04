@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Bangkitlah, Yahweh; jangan biarkan manusia fana bercita-cita; biarlah bangsa-bangsa dihakimi di hadapan-Mu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangkitlah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "bercita-cita kuat"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusia fana"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "dihakimi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "di"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hadapan-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:57:00.947642320Z",
+  "model": "glm-5.3"
+}

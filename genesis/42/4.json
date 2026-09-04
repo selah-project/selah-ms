@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Tetapi Binyamin, saudara Yosef, tidak disuruh Yaakov pergi bersama saudara-saudaranya, sebab katanya, \"Jangan-jangan kemalangan menimpanya.\"",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudara"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "disuruh pergi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saudara-saudaranya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saudara-saudaranya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "jangan-jangan"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "menimpanya"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "kemalangan"
+    }
+  ],
+  "timestamp": "2026-09-04T11:09:34.358787858Z",
+  "model": "glm-5.3"
+}

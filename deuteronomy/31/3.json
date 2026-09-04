@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Yahweh Elohim-mu, Dia yang berjalan di depanmu; Dia akan memusnahkan ⟨את⟩ bangsa-bangsa ini dari hadapanmu, dan engkau akan mewarisi mereka; Yehosua, dia yang berjalan di depanmu, seperti yang difirmankan Yahweh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "berjalan melintasi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di depanmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "akan memusnahkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "dari hadapanmu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "dan engkau akan mewarisi mereka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "berjalan melintasi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "di depanmu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seperti yang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "difirmankan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T11:57:11.193236481Z",
+  "model": "glm-5.3"
+}

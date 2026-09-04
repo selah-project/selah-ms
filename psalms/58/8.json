@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 58,
+  "translation": "Biarlah mereka lenyap seperti air, biarlah mereka mengalir pergi; biarlah panah-Nya dihentak seperti yang patah-hancur",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Biarlah mereka lenyap"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "air"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "biarlah mereka mengalir pergi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mereka"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "dihentak"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "panah-Nya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "yang patah-hancur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:03:55.542107318Z",
+  "model": "glm-5.3"
+}

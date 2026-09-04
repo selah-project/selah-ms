@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Dan dengan nama Yahweh aku berseru: wahai Yahweh, lepaskanlah nyawaku!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Dan dengan nama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku berseru"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "wahai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "lepaskanlah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-09-04T14:13:43.342355331Z",
+  "model": "glm-5.3"
+}

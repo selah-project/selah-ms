@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan Nevuzaradan, ketua tukang sembelih, mengambil ⟨את⟩ mereka dan membawa ⟨את⟩ mereka kepada raja Babel di Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dan mengambil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "Nevuzaradan mengambil mereka"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ketua"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tukang sembelih"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dan membawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ mereka",
+      "marks": "mereka kepada raja Babel"
+    },
+    {
+      "surface": "על",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "di Rivlah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:56.672927123Z",
+  "model": "glm-5.3"
+}

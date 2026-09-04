@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "\"Kerana Yahweh tidak berkemampuan untuk membawa masuk ⟨את⟩ umat ini ke tanah yang telah Dia bersumpah kepada mereka, maka Dia menyembelih mereka di padang gurun.\"",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "kerana tidak"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "berkemampuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "untuk membawa masuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat ini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Dia telah bersumpah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kepada mereka"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "maka Dia menyembelih mereka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T11:38:58.611250053Z",
+  "model": "glm-5.3"
+}

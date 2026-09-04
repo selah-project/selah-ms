@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Berilah kepada Yahweh kemuliaan nama-Nya; sujudlah kepada Yahweh dalam perhiasan kedudukan.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Berilah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kemuliaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nama-Nya"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujudlah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kepada Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "dalam perhiasan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedudukan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:23.502967658Z",
+  "model": "glm-5.3"
+}

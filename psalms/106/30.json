@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Lalu berdiri Pinehas dan dia berdoa memohon, maka terhentilah wabah itu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Lalu berdiri"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "dan dia berdoa memohon"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "maka terhentilah"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "wabah itu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:18.997428270Z",
+  "model": "glm-5.3"
+}

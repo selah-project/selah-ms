@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 7,
+  "translation": "Sebab lelaki itu tiada di rumahnya; ia telah pergi di jalan yang jauh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tiada"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lelaki itu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "di rumahnya"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ia telah pergi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di jalan"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "yang jauh"
+    }
+  ],
+  "timestamp": "2026-09-04T14:19:24.819000008Z",
+  "model": "glm-5.3"
+}

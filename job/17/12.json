@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ms",
+  "chapter": 17,
+  "translation": "Mereka menjadikan malam sebagai siang; terang itu dekat di hadapan kegelapan.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "malam"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sebagai siang"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "mereka menjadikan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "terang"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "dekat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kegelapan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:28:39.807646972Z",
+  "model": "glm-5.3"
+}

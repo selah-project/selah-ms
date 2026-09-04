@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Anak-anak singa menderita kekurangan dan kelaparan, dan orang-orang yang mencari Yahweh tidak akan kekurangan sebarang kebaikan.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Anak-anak singa"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "menderita kekurangan"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "dan kelaparan"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "dan orang-orang yang mencari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "akan kekurangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sebarang"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kebaikan"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:05.118648151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Segala makhluk merayap yang terbang, yang berjalan atas empat ⟨kaki⟩ — kekejian ia bagi kamu",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "makhluk merayap"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "yang terbang"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yang berjalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "empat"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kekejian"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bagi kamu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:27:57.932569875Z",
+  "model": "glm-5.3"
+}

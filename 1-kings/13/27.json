@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Dan ia berkata kepada anak-anaknya, katanya: Pelanakan ⟨את⟩ bagi aku keldai itu; maka mereka memanakkannya.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Dan berkata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kepada"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaknya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katanya"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Pelanakan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bagi aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keldai itu"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "keldai itu"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "maka mereka memanakkannya"
+    }
+  ],
+  "timestamp": "2026-09-04T12:38:42.572067323Z",
+  "model": "glm-5.3"
+}

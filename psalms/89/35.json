@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 89,
+  "translation": "Tidak akan aku menajiskan perjanjian aku, dan apa yang keluar dari bibir aku tidak akan aku ubah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "akan aku menajiskan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "perjanjian aku"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "dan yang keluar"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "akan aku ubah"
+    }
+  ],
+  "timestamp": "2026-09-04T14:08:57.063329072Z",
+  "model": "glm-5.3"
+}

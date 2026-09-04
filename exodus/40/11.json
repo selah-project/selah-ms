@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan engkau mengurap ⟨את⟩ besen dan ⟨את⟩ tapaknya, dan menguduskan ⟨את⟩ dia.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dan engkau mengurap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besen"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "besen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tapaknya"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tapaknya"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "dan menguduskan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dia",
+      "marks": "besen dan tapaknya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:46:13.779598215Z",
+  "model": "glm-5.3"
+}

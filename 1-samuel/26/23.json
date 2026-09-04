@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 26:23",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan Yahweh akan membalaskan kepada ⟨setiap⟩ orang ⟨את⟩ kebenarannya dan ⟨את⟩ kesetiaannya, karena Yahweh telah menyerahkan engkau hari ini ke dalam tanganku, tetapi aku tidak mahu menghulurkan tanganku terhadap Mashiah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Dan Yahweh"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "akan membalaskan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kepada ⟨setiap⟩ orang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebenarannya"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kebenarannya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "kesetiaannya"
+    },
+    {
+      "surface": "אמנתו",
+      "gloss": "kesetiaannya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "karena"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "telah menyerahkan engkau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari ini"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ke dalam tangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tetapi tidak"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "aku mahu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "untuk menghulurkan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "terhadap Mashiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:22:50.773433532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 42,
+  "translation": "Seperti pembunuhan dalam tulang aku, musuh-musuh aku mempersenda aku, pada kata mereka kepada aku sepanjang hari: di mana Elohim engkau?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "seperti pembunuhan"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "dalam tulang aku"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mempersenda aku"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "musuh-musuh aku"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "pada kata mereka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kepada aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepanjang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hari"
+    },
+    {
+      "surface": "איה",
+      "gloss": "di mana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim engkau"
+    }
+  ],
+  "timestamp": "2026-09-04T14:01:39.708015721Z",
+  "model": "glm-5.3"
+}

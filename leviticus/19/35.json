@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Jangan kamu melakukan kecurangan dalam penghakiman, dalam ukuran panjang, dalam timbangan, dan dalam takaran cecair.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "jangan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamu melakukan"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kecurangan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dalam penghakiman"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "dalam ukuran panjang"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "dalam timbangan"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "dan dalam takaran cecair"
+    }
+  ],
+  "timestamp": "2026-09-04T11:31:21.855204266Z",
+  "model": "glm-5.3"
+}

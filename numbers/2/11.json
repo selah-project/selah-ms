@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 2,
+  "translation": "Dan tenteranya, dan yang dibilang daripada mereka: enam dan empat puluh ribu dan lima ratus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Dan tenteranya"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "dan yang dibilang daripada mereka"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "enam"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "dan empat puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ribu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "dan lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ratus"
+    }
+  ],
+  "timestamp": "2026-09-04T11:34:48.416138104Z",
+  "model": "glm-5.3"
+}

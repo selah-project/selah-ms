@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 29,
+  "translation": "Lalu kita mengambil ⟨את⟩ tanah mereka dan memberikannya sebagai warisan kepada bani Reuven, kepada bani Gad, dan kepada setengah suku Menasye.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "lalu kita mengambil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah mereka"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "tanah mereka"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dan memberikannya"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "sebagai warisan"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kepada bani Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "kepada bani Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "dan kepada setengah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menasye"
+    }
+  ],
+  "timestamp": "2026-09-04T11:55:35.463724950Z",
+  "model": "glm-5.3"
+}

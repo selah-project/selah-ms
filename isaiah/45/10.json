@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 45,
+  "translation": "Celaka orang yang berkata kepada bapanya, 'Apa yang engkau peranakkan?' dan kepada perempuan, 'Apa yang engkau lahirkan?'",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Celaka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yang berkata"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "kepada bapanya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "yang engkau peranakkan"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "dan kepada perempuan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "yang engkau lahirkan"
+    }
+  ],
+  "timestamp": "2026-09-04T13:04:53.817007791Z",
+  "model": "glm-5.3"
+}

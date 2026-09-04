@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "ms",
+  "chapter": 13,
+  "translation": "Lalu berkatalah Avsyalom: Jika tidak, biarlah kiranya saudaraku Amnon pergi ⟨את⟩ bersama kami. Lalu berkatalah raja kepadanya: Mengapakah dia pergi bersamamu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lalu berkata"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsyalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Jika tidak"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "pergi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kiranya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bersama kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "saudaraku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu berkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kepadanya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mengapakah"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "dia pergi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bersamamu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:28:04.412896332Z",
+  "model": "glm-5.3"
+}

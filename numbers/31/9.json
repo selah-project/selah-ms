@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 31,
+  "translation": "Dan bani Israel menawan ⟨את⟩ perempuan-perempuan Midian dan ⟨את⟩ anak-anak mereka, dan ⟨את⟩ segala binatang mereka, dan ⟨את⟩ segala ternakan mereka, dan ⟨את⟩ segala harta mereka mereka rampas.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "menawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perempuan-perempuan Midian"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "perempuan-perempuan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "anak-anak mereka"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "anak-anak mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala binatang mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "binatang mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala ternakan mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "ternakan mereka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala harta mereka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "harta mereka"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "mereka rampas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:45:19.612140442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 106,
+  "translation": "Dan itu dikira baginya sebagai kebenaran, dari keturunan ke keturunan, sampai selama-lamanya.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "Dan itu dikira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "baginya"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "sebagai kebenaran"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dari keturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ke keturunan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sampai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "selama-lamanya"
+    }
+  ],
+  "timestamp": "2026-09-04T14:12:18.997613364Z",
+  "model": "glm-5.3"
+}

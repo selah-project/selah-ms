@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan aku menaruh di sana ⟨את⟩ tabut itu, ⟨di dalamnya⟩ berada perjanjian Yahweh, yang telah diikat-Nya bersama bani Israel.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "dan aku menaruh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut itu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "tabut itu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di dalamnya"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "diikat-Nya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bersama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T15:05:57.353604652Z",
+  "model": "glm-5.3"
+}

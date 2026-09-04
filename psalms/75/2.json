@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 75,
+  "translation": "Kami mengaku syukur kepada-Mu, ya Elohim, kami mengaku syukur, dan dekat nama-Mu; mereka menceritakan keajaiban-keajaiban-Mu.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Kami mengaku syukur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kepada-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "kami mengaku syukur"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "dan dekat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nama-Mu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "mereka menceritakan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "keajaiban-keajaiban-Mu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:07:06.288321311Z",
+  "model": "glm-5.3"
+}

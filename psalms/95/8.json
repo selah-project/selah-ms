@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 95,
+  "translation": "Jangan mengeraskan hati kamu, seperti di Meriva, seperti pada hari Massa, di padang gurun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Jangan"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "mengeraskan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hati kamu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "seperti di Meriva"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "seperti pada hari"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "di padang gurun"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:15.918902712Z",
+  "model": "glm-5.3"
+}

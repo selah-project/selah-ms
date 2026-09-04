@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "Dan inilah bapa Etam: Yizreel, Yisma, dan Yidbas; dan nama saudara perempuan mereka ialah Hatslelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Dan inilah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "dan Yisma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "dan Yidbas"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "dan nama"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "saudara perempuan mereka"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatslelponi"
+    }
+  ],
+  "timestamp": "2026-09-04T14:57:59.228813726Z",
+  "model": "glm-5.3"
+}

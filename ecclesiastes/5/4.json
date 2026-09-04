@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 5,
+  "translation": "Lebih baik ⟨daripada⟩ bahawa engkau tidak bernazar, daripada bahawa engkau bernazar dan tidak menunaikannya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lebih baik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tidak"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "engkau bernazar"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "daripada bernazar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dan tidak"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "engkau menunaikannya"
+    }
+  ],
+  "timestamp": "2026-09-04T15:29:32.910345522Z",
+  "model": "glm-5.3"
+}

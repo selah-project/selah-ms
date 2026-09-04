@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ms",
+  "chapter": 8,
+  "translation": "Maka engkau akan memelihara ⟨את⟩ perintah-perintah Yahweh Elohimmu, untuk berjalan di jalan-Nya dan untuk bertaqwa kepada-Nya.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "maka engkau akan memelihara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintah-perintah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "perintah-perintah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "untuk berjalan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "di jalan-Nya"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "dan untuk bertaqwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-Nya",
+      "marks": "Yahweh Elohimmu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:49:35.300252732Z",
+  "model": "glm-5.3"
+}

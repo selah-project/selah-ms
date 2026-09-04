@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 10,
+  "translation": "Lalu raja Syelomo menjadi besar melebihi segala raja bumi, bagi kekayaan dan bagi hikmah.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Lalu menjadi besar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "melebihi segala"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "bagi kekayaan"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "dan bagi hikmah"
+    }
+  ],
+  "timestamp": "2026-09-04T12:36:55.118148894Z",
+  "model": "glm-5.3"
+}

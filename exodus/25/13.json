@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan engkau akan membuat batang-batang dari kayu akasia, dan engkau akan menyadur ⟨את⟩ mereka dengan emas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Dan engkau akan membuat"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "batang-batang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "dan engkau akan menyadur"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mereka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dengan emas"
+    }
+  ],
+  "timestamp": "2026-09-04T11:19:37.689066513Z",
+  "model": "glm-5.3"
+}

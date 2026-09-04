@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Dan Elohim menolongnya melawan orang Pelisyt, dan melawan orang Arab yang diam di Gur-Ba'al, dan melawan orang Maun.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "dan menolongnya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "melawan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "orang Pelisyt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "dan melawan"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "orang Arab"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yang diam"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "di Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Ba'al"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "dan orang Maun"
+    }
+  ],
+  "timestamp": "2026-09-04T15:43:28.262322740Z",
+  "model": "glm-5.3"
+}

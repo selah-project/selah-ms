@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 116,
+  "translation": "Kembalilah, hai jiwaku, kepada perhentianmu, sebab Yahweh telah membalas kebaikan kepadamu.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Kembalilah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "kepada perhentianmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "telah membalas kebaikan"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kepadamu"
+    }
+  ],
+  "timestamp": "2026-09-04T15:28:05.898577843Z",
+  "model": "glm-5.3"
+}

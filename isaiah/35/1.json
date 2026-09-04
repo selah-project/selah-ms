@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 35,
+  "translation": "Padang gurun dan tanah kering akan bersuka, dan Araba akan bersukaria, dan berbunga seperti bunga safran.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "akan bersuka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padang gurun"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "dan tanah kering"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "dan akan bersukaria"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba (lembah gurun)"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "dan berbunga"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "seperti bunga safran"
+    }
+  ],
+  "timestamp": "2026-09-04T13:01:30.351078912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 137,
+  "translation": "Berbahagialah dia yang menangkap dan menghempaskan ⟨את⟩ anak-anakmu yang menyusu ke atas batu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Berbahagialah"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "yang menangkap"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "dan menghempaskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu yang menyusu"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "anak-anakmu yang menyusu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke atas"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "batu"
+    }
+  ],
+  "timestamp": "2026-09-04T14:15:53.096617367Z",
+  "model": "glm-5.3"
+}

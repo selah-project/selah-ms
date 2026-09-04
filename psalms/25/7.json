@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dosa-dosa masa mudaku dan pemberontakanku janganlah diingat; sesuai dengan hesed-Mu, ingatlah akan aku, Engkau, demi kebaikan-Mu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Dosa-dosa"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "masa mudaku"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "dan pemberontakanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "janganlah"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "diingat"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sesuai dengan hesed-Mu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ingatlah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akan aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kebaikan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-04T13:59:00.234568584Z",
+  "model": "glm-5.3"
+}

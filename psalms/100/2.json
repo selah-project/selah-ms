@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 100,
+  "translation": "Berkhidmatlah kepada ⟨את⟩ Yahweh dengan kesukaan; masuklah ke hadapan-Nya dengan nyanyian riang.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Berkhidmatlah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "dengan kesukaan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "masuklah"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ke hadapan-Nya"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "dengan nyanyian riang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:11:10.795252897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 6,
+  "translation": "Dan ⟨את⟩ segala dinding rumah itu sekeliling diukir ukiran timbul: kerubim dan pokok tamar, dan bunga yang menghembas, di bahagian dalam dan di bahagian luar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala dinding rumah itu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dinding-dinding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rumah itu"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "sekeliling"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "diukir"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukiran timbul"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "dan pokok tamar"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "dan kelopak"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "bunga yang menghembas"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "di bahagian dalam"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "dan di bahagian luar"
+    }
+  ],
+  "timestamp": "2026-09-04T12:35:53.711794975Z",
+  "model": "glm-5.3"
+}

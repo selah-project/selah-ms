@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Orang miskin ini berseru, dan Yahweh mendengar, dan dari segala kesesakannya menyelamatkan dia.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "orang miskin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "berseru"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dan Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mendengar"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "dan dari segala"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "kesesakannya"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "menyelamatkan dia"
+    }
+  ],
+  "timestamp": "2026-09-04T14:00:14.886807127Z",
+  "model": "glm-5.3"
+}

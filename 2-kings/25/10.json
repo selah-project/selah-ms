@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ms",
+  "chapter": 25,
+  "translation": "Dan ⟨את⟩ tembok Yerusalem sekelilingnya dirobohkan oleh seluruh tentera Kasdim yang bersama rab tabahim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "tembok Yerusalem"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sekelilingnya"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "dirobohkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "seluruh"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tentera"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabahim"
+    }
+  ],
+  "timestamp": "2026-09-04T12:52:30.679768507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "ms",
+  "chapter": 26,
+  "translation": "Rab ⟨yang⟩ memuntahkan segala-galanya — seperti mempekerjakan orang bodoh, seperti mempekerjakan orang-orang yang lalu-lalang.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "memuntahkan (menggulung)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala-galanya"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "dan menyewa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "orang bodoh"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "dan menyewa"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "orang-orang yang lalu-lalang"
+    }
+  ],
+  "timestamp": "2026-09-04T14:23:10.991759776Z",
+  "model": "glm-5.3"
+}

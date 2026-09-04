@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 38,
+  "translation": "Dan dibuatnya ⟨את⟩ galang-galang itu daripada kayu syitim, dan disalutnya ⟨את⟩-nya dengan gangsa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dan dibuatnya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galang-galang itu"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galang-galang itu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "syitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dan disalutnya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-nya",
+      "marks": "galang-galang"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "dengan gangsa"
+    }
+  ],
+  "timestamp": "2026-09-04T11:23:32.008493385Z",
+  "model": "glm-5.3"
+}

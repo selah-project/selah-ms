@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Dan ⟨את⟩ Yehu anak Nimsyi engkau mengurapi menjadi raja atas Israel; dan ⟨את⟩ Elisya anak Syafat, dari Abel-Mehola, engkau mengurapi menjadi nabi menggantikanmu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsyi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "engkau mengurapi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "menjadi raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "Elisya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Syafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "dari Abel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "engkau mengurapi"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "menjadi nabi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "menggantikanmu"
+    }
+  ],
+  "timestamp": "2026-09-04T12:42:29.316021005Z",
+  "model": "glm-5.3"
+}

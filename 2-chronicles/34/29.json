@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ms",
+  "chapter": 34,
+  "translation": "Lalu raja menghantar orang dan mengumpulkan ⟨את⟩ semua tua-tua Yehuda dan Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lalu raja menghantar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "dan mengumpulkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semua tua-tua Yehuda dan Yerushalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semua"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tua-tua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "dan Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-04T15:15:02.036029602Z",
+  "model": "glm-5.3"
+}

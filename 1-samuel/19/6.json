@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ms",
+  "chapter": 19,
+  "translation": "Lalu Saul mendengarkan suara Yonatan, dan Saul bersumpah: \"Demi hidupnya Yahweh, ia tidak akan dibunuh.\"",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lalu mendengarkan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "suara"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "dan bersumpah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Demi hidupnya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bahwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ia tidak akan dibunuh"
+    }
+  ],
+  "timestamp": "2026-09-04T12:19:39.573879062Z",
+  "model": "glm-5.3"
+}

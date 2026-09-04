@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "dan mereka akan meletakkan ⟨את⟩-nya dan ⟨את⟩ segala perkakasnya ke dalam sarung kulit takhasy, lalu meletakkannya di atas galang pengangkut.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dan mereka akan meletakkan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nya",
+      "marks": "-nya (kandil itu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "segala perkakasnya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perkakasnya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke dalam"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "sarung"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhasy"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "lalu meletakkan"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "galang pengangkut"
+    }
+  ],
+  "timestamp": "2026-09-04T11:35:37.704546529Z",
+  "model": "glm-5.3"
+}

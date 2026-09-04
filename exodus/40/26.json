@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ms",
+  "chapter": 40,
+  "translation": "Dan diletakkannya ⟨את⟩ mezbah emas itu dalam kemah pertemuan, di hadapan tabir itu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "dan diletakkannya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah emas itu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dalam kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pertemuan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "di hadapan"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "tabir itu"
+    }
+  ],
+  "timestamp": "2026-09-04T11:24:41.436902231Z",
+  "model": "glm-5.3"
+}

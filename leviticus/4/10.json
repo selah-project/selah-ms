@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ms",
+  "chapter": 4,
+  "translation": "seperti yang diangkat dari lembu korban syelamim; dan imam akan membakarnya di atas mezbah korban bakaran.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "seperti"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "diangkat"
+    },
+    {
+      "surface": "משור",
+      "gloss": "dari lembu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "syelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "dan akan membakarnya (sebagai dupa)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "di atas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "korban bakaran"
+    }
+  ],
+  "timestamp": "2026-09-04T11:26:05.657396805Z",
+  "model": "glm-5.3"
+}

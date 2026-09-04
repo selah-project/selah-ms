@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 65:13",
+  "book": "isaiah",
+  "lang": "ms",
+  "chapter": 65,
+  "translation": "Sebab itu beginilah kata Adonai Yahweh: Lihat, hamba-hamba-Ku akan makan, tetapi kamu akan lapar; lihat, hamba-hamba-Ku akan minum, tetapi kamu akan dahaga; lihat, hamba-hamba-Ku akan bersukaria, tetapi kamu akan mendapat malu:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sebab itu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "beginilah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba-Ku"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "akan makan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tetapi kamu"
+    },
+    {
+      "surface": "תרעבו",
+      "gloss": "akan lapar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba-Ku"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "akan minum"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tetapi kamu"
+    },
+    {
+      "surface": "תצמאו",
+      "gloss": "akan dahaga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lihat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "hamba-hamba-Ku"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "akan bersukaria"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tetapi kamu"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "akan mendapat malu"
+    }
+  ],
+  "timestamp": "2026-09-04T13:09:20.469901121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ms",
+  "chapter": 9,
+  "translation": "Dan Aku akan menjadikan ⟨את⟩ Yerusalem timbunan runtuhan, sarang anjing hutan, dan ⟨את⟩ bandar-bandar Yehuda Aku akan menjadikan kebinasaan, tanpa penduduk.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dan Aku akan menjadikan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerusalem"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "timbunan runtuhan"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sarang"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "anjing hutan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "dan ⟨את⟩",
+      "marks": "bandar-bandar Yehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bandar-bandar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku akan menjadikan"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kebinasaan"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "penduduk"
+    }
+  ],
+  "timestamp": "2026-09-04T13:12:48.514753073Z",
+  "model": "glm-5.3"
+}

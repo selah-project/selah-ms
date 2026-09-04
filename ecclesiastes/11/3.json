@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ms",
+  "chapter": 11,
+  "translation": "Jika awan-awan dipenuhi, mereka akan mencurahkan hujan atas bumi; dan jika pokok tumbang di selatan, atau jika di utara — di tempat pokok itu tumbang, di sanalah ia ⟨akan berada⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jika"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "dipenuhi"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "awan-awan"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "hujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "atas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "mereka akan mencurahkan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "dan jika"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tumbang"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "pokok"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "di selatan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "atau jika"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "di utara"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "di tempat"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "pokok itu tumbang"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "pokok itu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "di sanalah"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨akan berada⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T14:40:57.742045867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ms",
+  "chapter": 12,
+  "translation": "dan Aku akan memberkati mereka yang memberkatimu, dan yang mengutukmu akan Aku kutuk; dan olehmu akan diberkati segala kaum keluarga bumi.\"",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "dan Aku akan memberkati"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "mereka yang memberkatimu"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "dan yang mengutukmu"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "akan Aku kutuk"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "dan akan diberkati"
+    },
+    {
+      "surface": "בך",
+      "gloss": "olehmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "segala"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kaum keluarga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-09-04T10:56:47.767474105Z",
+  "model": "glm-5.3"
+}

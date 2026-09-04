@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ms",
+  "chapter": 14,
+  "translation": "supaya Aku menangkap ⟨את⟩ keluarga Israel dalam hati mereka, yang telah menjauh dari antara-Ku dengan berhala mereka — mereka semua.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "menangkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keluarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "keluarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dalam hati mereka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yang"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "telah menjauh"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "dari antara-Ku"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "dengan berhala mereka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mereka semua"
+    }
+  ],
+  "timestamp": "2026-09-04T13:32:27.737504903Z",
+  "model": "glm-5.3"
+}

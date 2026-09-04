@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ms",
+  "chapter": 1,
+  "translation": "Biarlah dia mencium aku dengan ucupan ⟨daripada⟩ mulutnya, kerana kasih-kasihmu lebih baik daripada anggur.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Biarlah dia mencium aku"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "dengan ucupan"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mulutnya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kerana"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "lebih baik"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "kasih-kasihmu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "daripada anggur"
+    }
+  ],
+  "timestamp": "2026-09-04T14:35:01.725245440Z",
+  "model": "glm-5.3"
+}
