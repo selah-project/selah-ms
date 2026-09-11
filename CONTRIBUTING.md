@@ -29,3 +29,8 @@ Pembaca, pelajar bahasa Ibrani, penterjemah, dan sesiapa sahaja yang berbahasa M
 ## In English
 
 Corrections are welcome via issue or pull request. One file = one verse; unit count must equal gloss count; ⟨את⟩ is never removed or added; supplied words stay in ⟨brackets⟩; the divine names stay transliterated (Yahweh, Elohim — never TUHAN, Allah or Yehuwa in their seat); Syeol not neraka; standard Bahasa Malaysia orthography throughout. See the rails at `docs/methodology/translation-discipline/ms.md` in the main Selah repository for the full discipline.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
