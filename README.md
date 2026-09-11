@@ -77,3 +77,9 @@ Sebelum melaporkan kesilapan atau menghantar pembetulan, baca dahulu [CONTRIBUTI
 ## In English, briefly
 
 A word-by-word rendering of the Hebrew Bible (the Tanakh) into Malay — the fifty-eighth chair of the Selah project, the first Malay chair, standing beside the Indonesian chair on the same Malayic base but rendered fresh in standard Bahasa Malaysia. Where the four-letter Name stands, we write **Yahweh** — never the title *TUHAN*, never the hybrid *Yehuwa*. **Elohim** is transliterated; *Allah* stands in the witness column, not ours. Every direct-object את surfaces as ⟨את⟩. Supplied words sit in ⟨brackets⟩. Accuracy outranks readability; the Hebrew is the truth, the Malay column is a window. Errors remain — come and check: issues and pull requests are welcome, and CONTRIBUTING.md explains the rules. Licensed CC BY-SA 4.0.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
